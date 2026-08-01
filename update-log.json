@@ -1015,6 +1015,10 @@
     {
       "timestamp": "2026-08-01T00:01:02Z",
       "rates_count": 30
+    },
+    {
+      "timestamp": "2026-08-01T04:20:11Z",
+      "rates_count": 30
     }
   ]
 }
