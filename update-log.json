@@ -1187,6 +1187,10 @@
     {
       "timestamp": "2026-08-05T00:01:26Z",
       "rates_count": 30
+    },
+    {
+      "timestamp": "2026-08-05T04:08:11Z",
+      "rates_count": 30
     }
   ]
 }
