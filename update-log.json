@@ -5785,6 +5785,11 @@
       "timestamp": "2026-09-28T13:00:14Z",
       "source": "openexchangerates",
       "rates_count": 161
+    },
+    {
+      "timestamp": "2026-09-28T14:00:13Z",
+      "source": "openexchangerates",
+      "rates_count": 161
     }
   ]
 }
