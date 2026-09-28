@@ -1,7 +1,7 @@
 # Rate history
 
 Daily exchange rates kept for QuickFX's extended charts and date lookups.
-The app does not download anything in this folder yet.
+QuickFX Pro's long charts download `charts/` (below); the rest is the raw archive.
 
 ## `frankfurter/`
 
@@ -27,3 +27,14 @@ join would look like a sudden move.
 Our own permanent record: the last OpenExchangeRates fetch of every UTC day,
 appended automatically by the QuickRate rates workflow and never trimmed.
 `rates.json` only keeps 90 days because the app downloads it on every launch.
+
+## `charts/`
+
+One file per currency for QuickFX Pro's 1-year, 5-year and all-time charts,
+built by `scripts/build_chart_history.py` from `frankfurter/` (up to its last
+day) and `../history-archive.json` (after it). Base USD,
+`{"code", "base", "updated", "points": [["YYYY-MM-DD", rate], ...]}`: daily
+for the last 5 years, weekly (dated Fridays) back to 20 years, monthly (dated
+the 1st) before that. `index.json` lists the currencies and the build day.
+The rates workflow rebuilds them once a day. SSP, SYP, KPW, BOB, CUP, SCR,
+AFN and BWP are left out (see above).
