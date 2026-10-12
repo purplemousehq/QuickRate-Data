@@ -1,10 +1,6 @@
 {
   "updates": [
     {
-      "timestamp": "2026-08-07T21:37:50Z",
-      "rates_count": 30
-    },
-    {
       "timestamp": "2026-08-07T22:33:41Z",
       "rates_count": 30
     },
@@ -6145,6 +6141,11 @@
     },
     {
       "timestamp": "2026-10-12T19:00:18Z",
+      "source": "openexchangerates",
+      "rates_count": 161
+    },
+    {
+      "timestamp": "2026-10-12T20:00:11Z",
       "source": "openexchangerates",
       "rates_count": 161
     }
