@@ -14,6 +14,10 @@ This is the brief for the weekly cloud routine. The routine checks `real-price-r
    - A difference counts only when the source states a new value **and** an effective date, or clearly replaces the old one. Wording changes don't count.
 3. If a source is unreachable on both the live site and Wayback, list it in the report. Don't change the rule.
 
+## Conditional taxes
+
+A tax that applies only sometimes (alcohol only, one city, hotel restaurants, resort towns) goes in `conditionalTaxes`, never in `restaurantExtra`. App versions up to 3.5 add every `restaurantExtra` rate to every price. Keep `restaurantExtra` as `[]` unless a tax applies to every restaurant meal in that place.
+
 ## If anything changed
 
 - Create a branch `rules/<yyyy-mm-dd>`.

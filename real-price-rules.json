@@ -918,13 +918,7 @@
      "restaurantOnly": false
     }
    ],
-   "restaurantExtra": [
-    {
-     "name": "Chicago restaurant tax",
-     "rate": 0.005,
-     "where": "City of Chicago only"
-    }
-   ],
+   "restaurantExtra": [],
    "serviceCharge": {
     "kind": "none",
     "rate": null,
@@ -983,7 +977,14 @@
      "checked": "2026-10"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "conditionalTaxes": [
+    {
+     "name": "Chicago restaurant tax",
+     "rate": 0.005,
+     "where": "City of Chicago only"
+    }
+   ]
   },
   {
    "code": "US-IN",
@@ -1252,13 +1253,7 @@
      "restaurantOnly": true
     }
    ],
-   "restaurantExtra": [
-    {
-     "name": "Local option meals tax",
-     "rate": 0.0075,
-     "where": "Cities and towns that adopted it (optional for each municipality)"
-    }
-   ],
+   "restaurantExtra": [],
    "serviceCharge": {
     "kind": "none",
     "rate": null,
@@ -1311,7 +1306,14 @@
      "checked": "2026-10"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "conditionalTaxes": [
+    {
+     "name": "Local option meals tax",
+     "rate": 0.0075,
+     "where": "Cities and towns that adopted it (optional for each municipality)"
+    }
+   ]
   },
   {
    "code": "US-MD",
@@ -1518,18 +1520,7 @@
      "restaurantOnly": false
     }
    ],
-   "restaurantExtra": [
-    {
-     "name": "Minneapolis downtown restaurant tax",
-     "rate": 0.03,
-     "where": "Downtown Minneapolis only"
-    },
-    {
-     "name": "Minneapolis downtown liquor tax",
-     "rate": 0.03,
-     "where": "Downtown Minneapolis only, on alcohol"
-    }
-   ],
+   "restaurantExtra": [],
    "serviceCharge": {
     "kind": "none",
     "rate": null,
@@ -1582,7 +1573,19 @@
      "checked": "2026-10"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "conditionalTaxes": [
+    {
+     "name": "Minneapolis downtown restaurant tax",
+     "rate": 0.03,
+     "where": "Downtown Minneapolis only"
+    },
+    {
+     "name": "Minneapolis downtown liquor tax",
+     "rate": 0.03,
+     "where": "Downtown Minneapolis only, on alcohol"
+    }
+   ]
   },
   {
    "code": "US-MO",
@@ -1714,13 +1717,7 @@
    "currency": "USD",
    "pricesIncludeTax": false,
    "taxes": [],
-   "restaurantExtra": [
-    {
-     "name": "Local resort tax",
-     "rate": 0.03,
-     "where": "Resort areas: Virginia City, West Yellowstone, Whitefish, Big Sky, Cooke City, Craig, Gardiner, St Regis, Wolf Creek, Red Lodge"
-    }
-   ],
+   "restaurantExtra": [],
    "serviceCharge": {
     "kind": "none",
     "rate": null,
@@ -1773,7 +1770,14 @@
      "checked": "2026-10"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "conditionalTaxes": [
+    {
+     "name": "Local resort tax",
+     "rate": 0.03,
+     "where": "Resort areas: Virginia City, West Yellowstone, Whitefish, Big Sky, Cooke City, Craig, Gardiner, St Regis, Wolf Creek, Red Lodge"
+    }
+   ]
   },
   {
    "code": "US-NC",
@@ -2901,13 +2905,7 @@
      "restaurantOnly": false
     }
    ],
-   "restaurantExtra": [
-    {
-     "name": "Local restaurant tax",
-     "rate": 0.01,
-     "where": "Salt Lake City (counties may add up to 1% on restaurant sales elsewhere in Utah)"
-    }
-   ],
+   "restaurantExtra": [],
    "serviceCharge": {
     "kind": "none",
     "rate": null,
@@ -2960,7 +2958,14 @@
      "checked": "2026-10"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "conditionalTaxes": [
+    {
+     "name": "Local restaurant tax",
+     "rate": 0.01,
+     "where": "Salt Lake City (counties may add up to 1% on restaurant sales elsewhere in Utah)"
+    }
+   ]
   },
   {
    "code": "US-VA",
@@ -3061,13 +3066,7 @@
      "restaurantOnly": true
     }
    ],
-   "restaurantExtra": [
-    {
-     "name": "Local option tax",
-     "rate": 0.01,
-     "where": "Towns that adopted it"
-    }
-   ],
+   "restaurantExtra": [],
    "serviceCharge": {
     "kind": "none",
     "rate": null,
@@ -3126,7 +3125,14 @@
      "checked": "2026-10"
     }
    ],
-   "confidence": "high"
+   "confidence": "high",
+   "conditionalTaxes": [
+    {
+     "name": "Local option tax",
+     "rate": 0.01,
+     "where": "Towns that adopted it"
+    }
+   ]
   },
   {
    "code": "US-WA",
@@ -3445,18 +3451,7 @@
      "restaurantOnly": false
     }
    ],
-   "restaurantExtra": [
-    {
-     "name": "PST on liquor",
-     "rate": 0.1,
-     "where": "Alcoholic drinks only (beer, wine, spirits, cocktails, anything over 1% alcohol)."
-    },
-    {
-     "name": "PST on soda beverages",
-     "rate": 0.07,
-     "where": "Soda (soft drinks) only; meals and coffee or tea are exempt from PST."
-    }
-   ],
+   "restaurantExtra": [],
    "serviceCharge": {
     "kind": "none",
     "rate": 0.0,
@@ -3497,7 +3492,19 @@
      "checked": "2026-10"
     }
    ],
-   "confidence": "high"
+   "confidence": "high",
+   "conditionalTaxes": [
+    {
+     "name": "PST on liquor",
+     "rate": 0.1,
+     "where": "Alcoholic drinks only (beer, wine, spirits, cocktails, anything over 1% alcohol)."
+    },
+    {
+     "name": "PST on soda beverages",
+     "rate": 0.07,
+     "where": "Soda (soft drinks) only; meals and coffee or tea are exempt from PST."
+    }
+   ]
   },
   {
    "code": "CA-SK",
@@ -3518,13 +3525,7 @@
      "restaurantOnly": false
     }
    ],
-   "restaurantExtra": [
-    {
-     "name": "Liquor Consumption Tax (replaces PST)",
-     "rate": 0.1,
-     "where": "Alcoholic drinks only: 10% LCT plus GST, no 6% PST on those."
-    }
-   ],
+   "restaurantExtra": [],
    "serviceCharge": {
     "kind": "none",
     "rate": 0.0,
@@ -3565,7 +3566,14 @@
      "checked": "2026-10"
     }
    ],
-   "confidence": "high"
+   "confidence": "high",
+   "conditionalTaxes": [
+    {
+     "name": "Liquor Consumption Tax (replaces PST)",
+     "rate": 0.1,
+     "where": "Alcoholic drinks only: 10% LCT plus GST, no 6% PST on those."
+    }
+   ]
   },
   {
    "code": "CA-MB",
@@ -4476,13 +4484,7 @@
      "restaurantOnly": true
     }
    ],
-   "restaurantExtra": [
-    {
-     "name": "GST at hotel restaurants (replaces 5%)",
-     "rate": 0.18,
-     "where": "Restaurants inside hotels where any room cost more than 7,500 rupees a night in the previous financial year."
-    }
-   ],
+   "restaurantExtra": [],
    "serviceCharge": {
     "kind": "common",
     "rate": 0.1,
@@ -4523,7 +4525,14 @@
      "checked": "2026-10"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "conditionalTaxes": [
+    {
+     "name": "GST at hotel restaurants (replaces 5%)",
+     "rate": 0.18,
+     "where": "Restaurants inside hotels where any room cost more than 7,500 rupees a night in the previous financial year."
+    }
+   ]
   },
   {
    "code": "AT",
