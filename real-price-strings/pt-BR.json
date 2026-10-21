@@ -1,0 +1,1253 @@
+{
+ "US-AK": {
+  "name": "Alasca",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "O Alasca não tem imposto estadual sobre vendas, e cada cidade define o seu: Anchorage e Fairbanks, as duas maiores cidades, não cobram nenhum, enquanto Juneau cobra 5%, Seward 4% e Kodiak 7% (ano-base 2024), e algumas cidades somam um imposto do distrito (borough) e um da cidade. O 1.82% é uma média que não corresponde a nenhuma cidade específica.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto local sobre vendas"
+  ],
+  "extraNames": []
+ },
+ "US-AL": {
+  "name": "Alabama",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "O imposto sobre vendas é acrescentado no caixa; confira a conta por uma gorjeta ou taxa de serviço incluída antes de dar gorjeta.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas"
+  ],
+  "extraNames": []
+ },
+ "US-AR": {
+  "name": "Arkansas",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "O imposto sobre vendas é acrescentado no caixa; confira a conta por uma gorjeta ou taxa de serviço incluída antes de dar gorjeta.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas"
+  ],
+  "extraNames": []
+ },
+ "US-AZ": {
+  "name": "Arizona",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "O imposto sobre vendas é acrescentado no caixa; confira a conta por uma gorjeta ou taxa de serviço incluída antes de dar gorjeta.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas"
+  ],
+  "extraNames": []
+ },
+ "US-CA": {
+  "name": "Califórnia",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "Na Califórnia, procure uma linha de sobretaxa (surcharge) no cardápio ou na conta antes de dar gorjeta.",
+  "serviceNote": "Alguns restaurantes da Califórnia cobram uma taxa de serviço ou sobretaxa obrigatória; a lei estadual permite isso se ela estiver indicada no cardápio, com a sua finalidade.",
+  "taxNames": [
+   "Imposto sobre vendas"
+  ],
+  "extraNames": []
+ },
+ "US-CO": {
+  "name": "Colorado",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "O imposto estadual do Colorado é de apenas 2.9%, e os impostos municipais, do condado e de distritos formam a maior parte da média de 7.89%.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas"
+  ],
+  "extraNames": []
+ },
+ "US-CT": {
+  "name": "Connecticut",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "Connecticut cobra 7.35% sobre refeições em restaurantes e certas bebidas, um ponto a mais que os 6.35% sobre a maioria dos produtos.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas em refeições"
+  ],
+  "extraNames": []
+ },
+ "US-DC": {
+  "name": "Distrito de Columbia",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "Washington DC cobra 10% sobre refeições e bebidas em restaurantes, bem acima da alíquota geral de 6%.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas em refeições em restaurantes"
+  ],
+  "extraNames": []
+ },
+ "US-DE": {
+  "name": "Delaware",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "O Delaware não tem imposto sobre vendas, então o preço do cardápio é o que vai na conta antes de qualquer gorjeta.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "US-FL": {
+  "name": "Flórida",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "O imposto sobre vendas é acrescentado no caixa; confira a conta por uma gorjeta ou taxa de serviço incluída antes de dar gorjeta.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas"
+  ],
+  "extraNames": []
+ },
+ "US-GA": {
+  "name": "Geórgia",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "O imposto sobre vendas é acrescentado no caixa; confira a conta por uma gorjeta ou taxa de serviço incluída antes de dar gorjeta.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas"
+  ],
+  "extraNames": []
+ },
+ "US-HI": {
+  "name": "Havaí",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "Restaurantes no Havaí podem acrescentar à conta até 4.712% de imposto geral sobre a atividade (general excise tax).",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto geral sobre a atividade (repassado)"
+  ],
+  "extraNames": []
+ },
+ "US-IA": {
+  "name": "Iowa",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "O imposto sobre vendas é acrescentado no caixa; confira a conta por uma gorjeta ou taxa de serviço incluída antes de dar gorjeta.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas"
+  ],
+  "extraNames": []
+ },
+ "US-ID": {
+  "name": "Idaho",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "O imposto sobre vendas é acrescentado no caixa; confira a conta por uma gorjeta ou taxa de serviço incluída antes de dar gorjeta.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas"
+  ],
+  "extraNames": []
+ },
+ "US-IL": {
+  "name": "Illinois",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "Chicago acrescenta um imposto de 0.5% sobre restaurantes além do seu imposto sobre vendas.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas"
+  ],
+  "extraNames": [
+   "Imposto de restaurantes de Chicago"
+  ]
+ },
+ "US-IN": {
+  "name": "Indiana",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "O imposto sobre vendas é acrescentado no caixa; confira a conta por uma gorjeta ou taxa de serviço incluída antes de dar gorjeta.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas"
+  ],
+  "extraNames": []
+ },
+ "US-KS": {
+  "name": "Kansas",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "O imposto sobre vendas é acrescentado no caixa; confira a conta por uma gorjeta ou taxa de serviço incluída antes de dar gorjeta.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas"
+  ],
+  "extraNames": []
+ },
+ "US-KY": {
+  "name": "Kentucky",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "O imposto sobre vendas é acrescentado no caixa; confira a conta por uma gorjeta ou taxa de serviço incluída antes de dar gorjeta.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas"
+  ],
+  "extraNames": []
+ },
+ "US-LA": {
+  "name": "Luisiana",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "A Luisiana tem a maior alíquota combinada média do país, com impostos locais que somam quase o mesmo que os 5% do imposto estadual.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas"
+  ],
+  "extraNames": []
+ },
+ "US-MA": {
+  "name": "Massachusetts",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "Restaurantes em Massachusetts cobram 6.25%, e as cidades e municípios que aderiram acrescentam 0.75%, totalizando 7%.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas em refeições"
+  ],
+  "extraNames": [
+   "Imposto municipal opcional sobre refeições"
+  ]
+ },
+ "US-MD": {
+  "name": "Maryland",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "O imposto sobre vendas é acrescentado no caixa; confira a conta por uma gorjeta ou taxa de serviço incluída antes de dar gorjeta.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas"
+  ],
+  "extraNames": []
+ },
+ "US-ME": {
+  "name": "Maine",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "O Maine cobra 8% sobre refeições em restaurantes, e não a alíquota geral de 5.5%.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre alimentos preparados"
+  ],
+  "extraNames": []
+ },
+ "US-MI": {
+  "name": "Michigan",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "O imposto sobre vendas é acrescentado no caixa; confira a conta por uma gorjeta ou taxa de serviço incluída antes de dar gorjeta.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas"
+  ],
+  "extraNames": []
+ },
+ "US-MN": {
+  "name": "Minnesota",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "No centro de Minneapolis, há um acréscimo de 3% sobre refeições em restaurantes (e de 3% sobre bebidas alcoólicas), além do imposto sobre vendas comum.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas"
+  ],
+  "extraNames": [
+   "Imposto do centro de Minneapolis sobre restaurantes",
+   "Imposto do centro de Minneapolis sobre bebidas alcoólicas"
+  ]
+ },
+ "US-MO": {
+  "name": "Missouri",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "O imposto sobre vendas é acrescentado no caixa; confira a conta por uma gorjeta ou taxa de serviço incluída antes de dar gorjeta.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas"
+  ],
+  "extraNames": []
+ },
+ "US-MS": {
+  "name": "Mississippi",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "O imposto sobre vendas é acrescentado no caixa; confira a conta por uma gorjeta ou taxa de serviço incluída antes de dar gorjeta.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas"
+  ],
+  "extraNames": []
+ },
+ "US-MT": {
+  "name": "Montana",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "O Montana não tem imposto sobre vendas, mas restaurantes nas cidades de acesso a estações de esqui e parques acrescentam uma taxa turística (resort tax) de 3%.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [],
+  "extraNames": [
+   "Taxa turística local (resort tax)"
+  ]
+ },
+ "US-NC": {
+  "name": "Carolina do Norte",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "O imposto sobre vendas é acrescentado no caixa; confira a conta por uma gorjeta ou taxa de serviço incluída antes de dar gorjeta.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas"
+  ],
+  "extraNames": []
+ },
+ "US-ND": {
+  "name": "Dakota do Norte",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "O imposto sobre vendas é acrescentado no caixa; confira a conta por uma gorjeta ou taxa de serviço incluída antes de dar gorjeta.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas"
+  ],
+  "extraNames": []
+ },
+ "US-NE": {
+  "name": "Nebraska",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "O imposto sobre vendas é acrescentado no caixa; confira a conta por uma gorjeta ou taxa de serviço incluída antes de dar gorjeta.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas"
+  ],
+  "extraNames": []
+ },
+ "US-NH": {
+  "name": "New Hampshire",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "O New Hampshire não tem imposto sobre vendas, mas cobra 8.5% sobre refeições e bebidas em restaurantes.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre refeições e aluguéis"
+  ],
+  "extraNames": []
+ },
+ "US-NJ": {
+  "name": "Nova Jersey",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "Nova Jersey cobra 6.625% quase em todo o estado, com alíquota menor no condado de Salem.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas"
+  ],
+  "extraNames": []
+ },
+ "US-NM": {
+  "name": "Novo México",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "O imposto sobre receita bruta do Novo México varia de cidade para cidade, e os restaurantes costumam mostrá-lo como uma linha separada.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas"
+  ],
+  "extraNames": []
+ },
+ "US-NV": {
+  "name": "Nevada",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "O imposto sobre vendas é acrescentado no caixa; confira a conta por uma gorjeta ou taxa de serviço incluída antes de dar gorjeta.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas"
+  ],
+  "extraNames": []
+ },
+ "US-NY": {
+  "name": "Nova York",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "Restaurantes da cidade de Nova York cobram 8.875%, acima da média estadual de 8.54%.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas"
+  ],
+  "extraNames": []
+ },
+ "US-OH": {
+  "name": "Ohio",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "O imposto sobre vendas é acrescentado no caixa; confira a conta por uma gorjeta ou taxa de serviço incluída antes de dar gorjeta.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas"
+  ],
+  "extraNames": []
+ },
+ "US-OK": {
+  "name": "Oklahoma",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "O imposto sobre vendas é acrescentado no caixa; confira a conta por uma gorjeta ou taxa de serviço incluída antes de dar gorjeta.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas"
+  ],
+  "extraNames": []
+ },
+ "US-OR": {
+  "name": "Oregon",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "O Oregon não tem imposto sobre vendas, então o preço do cardápio é o que vai na conta antes de qualquer gorjeta.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "US-PA": {
+  "name": "Pensilvânia",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "O imposto sobre vendas é acrescentado no caixa; confira a conta por uma gorjeta ou taxa de serviço incluída antes de dar gorjeta.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas"
+  ],
+  "extraNames": []
+ },
+ "US-RI": {
+  "name": "Rhode Island",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "Todos os restaurantes e bares de Rhode Island cobram 7% de imposto sobre vendas mais 1% de imposto local sobre refeições e bebidas, 8% no total, acrescentados no caixa.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto local sobre refeições e bebidas",
+   "Imposto sobre vendas"
+  ],
+  "extraNames": []
+ },
+ "US-SC": {
+  "name": "Carolina do Sul",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "O imposto sobre vendas é acrescentado no caixa; confira a conta por uma gorjeta ou taxa de serviço incluída antes de dar gorjeta.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas"
+  ],
+  "extraNames": []
+ },
+ "US-SD": {
+  "name": "Dakota do Sul",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "A alíquota estadual de Dakota do Sul é de 4.2%, com impostos de cidades somados por cima.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas"
+  ],
+  "extraNames": []
+ },
+ "US-TN": {
+  "name": "Tennessee",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "O imposto sobre vendas é acrescentado no caixa; confira a conta por uma gorjeta ou taxa de serviço incluída antes de dar gorjeta.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas"
+  ],
+  "extraNames": []
+ },
+ "US-TX": {
+  "name": "Texas",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "Bebidas alcoólicas servidas em bares e restaurantes do Texas têm um imposto sobre vendas de 8.25% sobre bebidas mistas.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas"
+  ],
+  "extraNames": []
+ },
+ "US-UT": {
+  "name": "Utah",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "Salt Lake City acrescenta 1% de imposto sobre restaurantes além dos seus 8.45% de imposto sobre vendas.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas"
+  ],
+  "extraNames": [
+   "Imposto local sobre restaurantes"
+  ]
+ },
+ "US-VA": {
+  "name": "Virgínia",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "Cidades da Virgínia e muitos condados acrescentam seu próprio imposto sobre refeições, de alguns por cento, além do imposto sobre vendas, então a conta de um restaurante pode ficar bem acima da alíquota estadual.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas"
+  ],
+  "extraNames": [
+   "Imposto local sobre refeições"
+  ]
+ },
+ "US-VT": {
+  "name": "Vermont",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "O Vermont cobra 9% sobre refeições em restaurantes (10% sobre bebidas alcoólicas), e algumas cidades acrescentam 1%.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre refeições"
+  ],
+  "extraNames": [
+   "Imposto local opcional"
+  ]
+ },
+ "US-WA": {
+  "name": "Washington",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "O imposto sobre vendas é acrescentado no caixa; confira a conta por uma gorjeta ou taxa de serviço incluída antes de dar gorjeta.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas"
+  ],
+  "extraNames": []
+ },
+ "US-WI": {
+  "name": "Wisconsin",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "O imposto sobre vendas é acrescentado no caixa; confira a conta por uma gorjeta ou taxa de serviço incluída antes de dar gorjeta.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas"
+  ],
+  "extraNames": []
+ },
+ "US-WV": {
+  "name": "Virgínia Ocidental",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "O imposto sobre vendas é acrescentado no caixa; confira a conta por uma gorjeta ou taxa de serviço incluída antes de dar gorjeta.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas"
+  ],
+  "extraNames": []
+ },
+ "US-WY": {
+  "name": "Wyoming",
+  "tipNote": "Gorjeta de 15-20% do valor antes dos impostos em restaurantes com serviço à mesa: 15% é o mínimo que não soa mal, 18-20% é o normal, e em balcão de autoatendimento não é preciso dar gorjeta.",
+  "note": "O imposto sobre vendas é acrescentado no caixa; confira a conta por uma gorjeta ou taxa de serviço incluída antes de dar gorjeta.",
+  "serviceNote": "Não há taxa de serviço incluída; confira a conta por uma taxa ou gorjeta extra antes de dar gorjeta por cima.",
+  "taxNames": [
+   "Imposto sobre vendas"
+  ],
+  "extraNames": []
+ },
+ "CA-AB": {
+  "name": "Alberta",
+  "tipNote": "Gorjeta de 15% a 20% sobre o valor antes dos impostos; 15% é o mínimo seguro.",
+  "note": "A Alberta não tem imposto provincial sobre vendas, então só são acrescentados 5% de GST no caixa.",
+  "serviceNote": "Normalmente não há taxa de serviço; alguns restaurantes acrescentam automaticamente de 15% a 18% para grupos grandes (geralmente seis pessoas ou mais), então confira a conta.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "CA-BC": {
+  "name": "Colúmbia Britânica",
+  "tipNote": "Gorjeta de 15% a 20% sobre o valor antes dos impostos; 15% é o mínimo seguro.",
+  "note": "Refeições em restaurantes são isentas do PST de 7% na Colúmbia Britânica, então uma conta só de comida tem apenas 5% de GST; bebidas alcoólicas acrescentam 10% de PST.",
+  "serviceNote": "Normalmente não há taxa de serviço; alguns restaurantes acrescentam automaticamente de 15% a 18% para grupos grandes (geralmente seis pessoas ou mais), então confira a conta.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": [
+   "PST sobre bebidas alcoólicas",
+   "PST sobre refrigerantes"
+  ]
+ },
+ "CA-SK": {
+  "name": "Saskatchewan",
+  "tipNote": "Gorjeta de 15% a 20% sobre o valor antes dos impostos; 15% é o mínimo seguro.",
+  "note": "O Saskatchewan cobra 6% de PST sobre refeições em restaurantes além de 5% de GST (11% no total); bebidas alcoólicas pagam 10% de LCT mais GST, em vez de PST.",
+  "serviceNote": "Normalmente não há taxa de serviço; alguns restaurantes acrescentam automaticamente de 15% a 18% para grupos grandes (geralmente seis pessoas ou mais), então confira a conta.",
+  "taxNames": [
+   "GST",
+   "PST"
+  ],
+  "extraNames": [
+   "Imposto sobre consumo de bebidas alcoólicas (LCT, substitui o PST)"
+  ]
+ },
+ "CA-MB": {
+  "name": "Manitoba",
+  "tipNote": "Gorjeta de 15% a 20% sobre o valor antes dos impostos; 15% é o mínimo seguro.",
+  "note": "O Manitoba mantém seu RST de 7% sobre refeições em restaurantes e bebidas alcoólicas mesmo após a isenção de alimentos de julho de 2026, então a conta sai com 12% no total.",
+  "serviceNote": "Normalmente não há taxa de serviço; alguns restaurantes acrescentam automaticamente de 15% a 18% para grupos grandes (geralmente seis pessoas ou mais), então confira a conta.",
+  "taxNames": [
+   "GST",
+   "RST (imposto provincial sobre vendas no varejo)"
+  ],
+  "extraNames": []
+ },
+ "CA-ON": {
+  "name": "Ontário",
+  "tipNote": "Gorjeta de 15% a 20% sobre o valor antes dos impostos; 15% é o mínimo seguro.",
+  "note": "Comida e bebida para viagem de até $4 antes dos impostos recebem de volta a parte provincial de 8% no caixa (só 5% é cobrado); bebidas alcoólicas não se qualificam.",
+  "serviceNote": "Normalmente não há taxa de serviço; alguns restaurantes acrescentam automaticamente de 15% a 18% para grupos grandes (geralmente seis pessoas ou mais), então confira a conta.",
+  "taxNames": [
+   "HST"
+  ],
+  "extraNames": []
+ },
+ "CA-QC": {
+  "name": "Quebec",
+  "tipNote": "De 15% a 20% sobre o valor da conta antes dos impostos; as maquininhas de cartão de Quebec agora sugerem a gorjeta sobre o valor sem impostos",
+  "note": "As contas trazem TPS e TVQ separadas, e a gorjeta voluntária não é tributada; uma “taxa de serviço” impressa na conta é tributável.",
+  "serviceNote": "Normalmente não há taxa de serviço; alguns restaurantes acrescentam automaticamente de 15% a 18% para grupos grandes (geralmente seis pessoas ou mais), então confira a conta.",
+  "taxNames": [
+   "GST",
+   "QST"
+  ],
+  "extraNames": []
+ },
+ "CA-NB": {
+  "name": "Novo Brunswick",
+  "tipNote": "Gorjeta de 15% a 20% sobre o valor antes dos impostos; 15% é o mínimo seguro.",
+  "note": "O HST se aplica a toda a conta do restaurante; nenhum alívio para restaurantes foi encontrado nas fontes consultadas.",
+  "serviceNote": "Normalmente não há taxa de serviço; alguns restaurantes acrescentam automaticamente de 15% a 18% para grupos grandes (geralmente seis pessoas ou mais), então confira a conta.",
+  "taxNames": [
+   "HST"
+  ],
+  "extraNames": []
+ },
+ "CA-NL": {
+  "name": "Terra Nova e Labrador",
+  "tipNote": "Gorjeta de 15% a 20% sobre o valor antes dos impostos; 15% é o mínimo seguro.",
+  "note": "O HST se aplica a toda a conta do restaurante; nenhum alívio para restaurantes foi encontrado nas fontes consultadas.",
+  "serviceNote": "Normalmente não há taxa de serviço; alguns restaurantes acrescentam automaticamente de 15% a 18% para grupos grandes (geralmente seis pessoas ou mais), então confira a conta.",
+  "taxNames": [
+   "HST"
+  ],
+  "extraNames": []
+ },
+ "CA-PE": {
+  "name": "Ilha do Príncipe Eduardo",
+  "tipNote": "Gorjeta de 15% a 20% sobre o valor antes dos impostos; 15% é o mínimo seguro.",
+  "note": "O HST se aplica a toda a conta do restaurante; nenhum alívio para restaurantes foi encontrado nas fontes consultadas.",
+  "serviceNote": "Normalmente não há taxa de serviço; alguns restaurantes acrescentam automaticamente de 15% a 18% para grupos grandes (geralmente seis pessoas ou mais), então confira a conta.",
+  "taxNames": [
+   "HST"
+  ],
+  "extraNames": []
+ },
+ "CA-NS": {
+  "name": "Nova Escócia",
+  "tipNote": "Gorjeta de 15% a 20% sobre o valor antes dos impostos; 15% é o mínimo seguro.",
+  "note": "O HST da Nova Escócia caiu para 14% em abril de 2025, então guias mais antigos que mostram 15% estão desatualizados.",
+  "serviceNote": "Normalmente não há taxa de serviço; alguns restaurantes acrescentam automaticamente de 15% a 18% para grupos grandes (geralmente seis pessoas ou mais), então confira a conta.",
+  "taxNames": [
+   "HST"
+  ],
+  "extraNames": []
+ },
+ "CA-YT": {
+  "name": "Yukon",
+  "tipNote": "Gorjeta de 15% a 20% sobre o valor antes dos impostos; 15% é o mínimo seguro.",
+  "note": "Só são acrescentados 5% de GST; o território não tem imposto sobre vendas. O costume de gorjeta é o do Canadá inteiro; nenhuma fonte específica do território foi encontrada.",
+  "serviceNote": "Normalmente não há taxa de serviço; alguns restaurantes acrescentam automaticamente de 15% a 18% para grupos grandes (geralmente seis pessoas ou mais), então confira a conta.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "CA-NT": {
+  "name": "Territórios do Noroeste",
+  "tipNote": "Gorjeta de 15% a 20% sobre o valor antes dos impostos; 15% é o mínimo seguro.",
+  "note": "Só são acrescentados 5% de GST; o território não tem imposto sobre vendas. O costume de gorjeta é o do Canadá inteiro; nenhuma fonte específica do território foi encontrada.",
+  "serviceNote": "Normalmente não há taxa de serviço; alguns restaurantes acrescentam automaticamente de 15% a 18% para grupos grandes (geralmente seis pessoas ou mais), então confira a conta.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "CA-NU": {
+  "name": "Nunavut",
+  "tipNote": "Gorjeta de 15% a 20% sobre o valor antes dos impostos; 15% é o mínimo seguro.",
+  "note": "Só são acrescentados 5% de GST; o território não tem imposto sobre vendas. O costume de gorjeta é o do Canadá inteiro; nenhuma fonte específica do território foi encontrada.",
+  "serviceNote": "Normalmente não há taxa de serviço; alguns restaurantes acrescentam automaticamente de 15% a 18% para grupos grandes (geralmente seis pessoas ou mais), então confira a conta.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "SG": {
+  "name": "Singapura",
+  "tipNote": "Não é preciso dar gorjeta; os 10% de taxa de serviço já são a gorjeta, e alguns lugares têm um pote de gorjetas se você quiser deixar um pouco mais.",
+  "note": "Uma conta de S$100 no cardápio vira S$119.90 em um restaurante com “++” (10% de serviço, depois 9% de GST sobre S$110).",
+  "serviceNote": "A maioria dos restaurantes com serviço à mesa acrescenta 10% de taxa de serviço, e o GST é cobrado sobre o preço mais a taxa de serviço (os cardápios mostram “++”); hawker centres e food courts normalmente não acrescentam nada.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "MY": {
+  "name": "Malásia",
+  "tipNote": "Não é preciso dar gorjeta; uma pequena quantia entregue à equipe é bem-vinda, mas nunca é esperada.",
+  "note": "Restaurantes menores, abaixo do limite de RM1.5 milhão, não cobram os 6% de imposto de serviço, então a conta pode mostrar apenas a taxa de serviço, ou nada a mais.",
+  "serviceNote": "Muitos restaurantes com serviço à mesa e hotéis acrescentam 10% de taxa de serviço, indicada como “++”; pequenas barracas e muitos cafés não acrescentam nada.",
+  "taxNames": [
+   "Imposto de serviço (SST)"
+  ],
+  "extraNames": []
+ },
+ "ID": {
+  "name": "Indonésia",
+  "tipNote": "Gorjeta não é necessária; se não houver taxa de serviço na conta, 10% ou arredondar para cima é bem-vindo.",
+  "note": "Refeições em restaurantes pagam o imposto regional PB1, e não o IVA nacional, então um 11% impresso estaria errado.",
+  "serviceNote": "Restaurantes de áreas turísticas e sofisticados (Bali, Jacarta) costumam acrescentar de 5% a 10% de taxa de serviço, indicada como “++”; warungs e cafés locais não acrescentam nada.",
+  "taxNames": [
+   "Imposto regional sobre restaurantes (PB1 / PBJT)"
+  ],
+  "extraNames": []
+ },
+ "TH": {
+  "name": "Tailândia",
+  "tipNote": "Com 10% de taxa de serviço na conta, não é preciso mais nada; caso contrário, deixe um trocado, cerca de 20 baht.",
+  "note": "Em lugares com “++”, a conta final fica cerca de 17% acima do preço do cardápio; barracas de rua e restaurantes locais normalmente cobram o preço do cardápio.",
+  "serviceNote": "Restaurantes de hotéis e muitos locais sofisticados acrescentam 10% de taxa de serviço (e VAT por cima); o conselho do consumidor diz que é opcional, mas deve ser exibido.",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": []
+ },
+ "AE": {
+  "name": "Emirados Árabes Unidos",
+  "tipNote": "Se houver 10% de taxa de serviço na conta, não é preciso gorjeta; caso contrário, 10% a 15% do total é bem-vindo (o guia de Dubai do Lonely Planet diz que 5-10% basta).",
+  "note": "O VAT de 5% já está incluído no preço do cardápio; as linhas extras na conta são a taxa de serviço e qualquer taxa municipal ou de turismo. A taxa municipal de 7% de Dubai está suspensa por enquanto.",
+  "serviceNote": "Restaurantes de hotéis costumam acrescentar 10%, e alguns estabelecimentos independentes também (a maioria não). O Visit Dubai diz que ela muitas vezes vai para a empresa, não para o garçom. O cardápio ou a conta informa.",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": [
+   "Taxa municipal de Dubai",
+   "Taxa de turismo de Abu Dhabi"
+  ]
+ },
+ "IN": {
+  "name": "Índia",
+  "tipNote": "A gorjeta é costumeira, mas modesta: de 5% a 10% em dinheiro, ou arredondar para cima, mesmo que já haja taxa de serviço na conta.",
+  "note": "Muitos cardápios de faixa média e sofisticados listam preços antes dos impostos (“plus taxes”), então a conta fica pelo menos 5% mais alta; barracas de rua e lugares pequenos costumam informar preços finais.",
+  "serviceNote": "Alguns restaurantes ainda acrescentam de 5% a 10% de taxa de serviço, mas ela deve ser voluntária; você pode pedir para removê-la.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": [
+   "GST em restaurantes de hotéis (substitui os 5%)"
+  ]
+ },
+ "AT": {
+  "name": "Áustria",
+  "tipNote": "Arredonde ou acrescente de 5-10% por um bom serviço, e diga ao garçom o total que você quer pagar.",
+  "note": "Os preços do cardápio já incluem o IVA (regra da UE).",
+  "serviceNote": "Confira a conta: se a gorjeta já estiver incluída, não a pague duas vezes.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "BE": {
+  "name": "Bélgica",
+  "tipNote": "O serviço já está no preço; arredondar ou deixar 5-10% é um gesto gentil, mas não é obrigatório.",
+  "note": "Os preços do cardápio já incluem o IVA (regra da UE).",
+  "serviceNote": "O serviço já está incluído no preço.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "BG": {
+  "name": "Bulgária",
+  "tipNote": "Deixe cerca de 10% em dinheiro por um bom serviço, mais se você tiver gostado muito.",
+  "note": "A Bulgária trocou o lev pelo euro em 1º de janeiro de 2026, então guias antigos podem citar preços em levs.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "HR": {
+  "name": "Croácia",
+  "tipNote": "Arredonde nos cafés e deixe cerca de 10% por uma boa refeição em restaurante.",
+  "note": "As fontes divergem: a página da Croácia no Lonely Planet diz pelo menos 10%, e o guia da Europa do mesmo editor diz 5-10%.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "CY": {
+  "name": "Chipre",
+  "tipNote": "A gorjeta é opcional; arredondar para cima ou deixar 5-10% por um bom serviço é um agradecimento gentil.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [
+   "VAT (restaurantes)"
+  ],
+  "extraNames": []
+ },
+ "EE": {
+  "name": "Estônia",
+  "tipNote": "Arredonde a conta, ou deixe cerca de 10% quando a comida ou o serviço forem excepcionais.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "FI": {
+  "name": "Finlândia",
+  "tipNote": "O serviço está sempre incluído, então não acrescente gorjeta; arredondar é bem-vindo, mas nunca é esperado.",
+  "note": "O IVA já está no preço.",
+  "serviceNote": "O serviço está sempre incluído na conta.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "FR": {
+  "name": "França",
+  "tipNote": "O serviço já está incluído, então a gorjeta é opcional: alguns euros, ou até cerca de 10% por um excelente serviço.",
+  "note": "O preço do cardápio é o que você paga: impostos e serviço estão incluídos.",
+  "serviceNote": "O serviço está incluído por lei nos preços do cardápio (“service compris”).",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "DE": {
+  "name": "Alemanha",
+  "tipNote": "Arredonde para cerca de 5-10% e diga ao garçom o total que você quer pagar, em vez de deixar só o troco na mesa.",
+  "note": "As fontes divergem sobre o valor: o visitBerlin diz 10-15%, o Lonely Planet diz 5-10%.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "GR": {
+  "name": "Grécia",
+  "tipNote": "Não há gorjeta obrigatória; arredondar para cima ou deixar 5-10% por um bom serviço é apreciado.",
+  "note": "As fontes divergem sobre o serviço: o órgão de turismo de Atenas diz que os restaurantes não acrescentam nenhum, e o Lonely Planet diz que ele normalmente já está incluído, então confira a conta.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "IE": {
+  "name": "Irlanda",
+  "tipNote": "Não é esperada, mas 10% por um bom serviço é costume; dispense se já houver taxa de serviço na conta.",
+  "note": "",
+  "serviceNote": "Grupos grandes (seis pessoas ou mais) costumam receber taxa de serviço; a lista de preços deve informar se ela se aplica.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "IT": {
+  "name": "Itália",
+  "tipNote": "A gorjeta não é esperada aqui, então arredonde ou deixe alguns euros apenas por um excelente serviço.",
+  "note": "Uma lei regional proíbe o coperto no Lácio (incluindo Roma).",
+  "serviceNote": "O coperto (uma taxa fixa por mesa, cerca de EUR 2 por pessoa) é comum e legal se estiver indicado no cardápio; não é uma gorjeta.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "LV": {
+  "name": "Letônia",
+  "tipNote": "Arredonde a conta, ou deixe cerca de 10% se você gostou do serviço.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "LT": {
+  "name": "Lituânia",
+  "tipNote": "Deixe de 5-15%, conforme o serviço, a menos que a conta já mostre uma taxa de serviço.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "LU": {
+  "name": "Luxemburgo",
+  "tipNote": "O serviço já está no preço; arredonde ou deixe 5-10% se quiser agradecer.",
+  "note": "Os preços do cardápio devem incluir o IVA e todos os outros impostos, por lei.",
+  "serviceNote": "Os restaurantes devem mostrar os preços com o serviço incluído.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "MT": {
+  "name": "Malta",
+  "tipNote": "Primeiro confira a conta por uma taxa de serviço; se não houver, 5-10% por um bom serviço é razoável, e arredondar é aceitável em um café.",
+  "note": "O órgão de turismo de Malta chama 5-10% de gorjeta costumeira por um bom serviço, mas não necessária quando há taxa de serviço na conta.",
+  "serviceNote": "Alguns restaurantes acrescentam taxa de serviço; se ela estiver na conta, não é preciso dar gorjeta.",
+  "taxNames": [
+   "VAT (restaurantes)"
+  ],
+  "extraNames": []
+ },
+ "NL": {
+  "name": "Países Baixos",
+  "tipNote": "Os locais costumam apenas arredondar; cerca de 10% já basta para uma ótima refeição.",
+  "note": "O Holland.com diz que cerca de 10% é bem aceitável, mas não é fixo.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "PT": {
+  "name": "Portugal",
+  "tipNote": "Não há grande cultura de gorjeta: deixe um trocado ou arredonde, e cerca de 10% só em restaurantes finos.",
+  "note": "Entradas trazidas sem pedido (couvert) são cobradas se você as comer; você pode devolvê-las.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "SK": {
+  "name": "Eslováquia",
+  "tipNote": "Arredonde a conta, geralmente em cerca de 5-10%; não é obrigatório.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "SI": {
+  "name": "Eslovênia",
+  "tipNote": "A gorjeta não é obrigatória; arredondar é educado, e 5-10% é um agradecimento caloroso por um bom serviço.",
+  "note": "Os guias divergem sobre o valor: o Rough Guides diz para arredondar, o Ljubljana.info diz que 10% ou até 20% é um gesto bonito.",
+  "serviceNote": "",
+  "taxNames": [
+   "VAT (restaurantes)"
+  ],
+  "extraNames": []
+ },
+ "ES": {
+  "name": "Espanha",
+  "tipNote": "A gorjeta não é costumeira; arredondar ou deixar 5-10% por um bom serviço é bem-vindo.",
+  "note": "Uma placa com “IVA NO INCLUIDO” significa que 10% será acrescentado à conta.",
+  "serviceNote": "",
+  "taxNames": [
+   "IVA (restaurantes)"
+  ],
+  "extraNames": []
+ },
+ "GB": {
+  "name": "Reino Unido",
+  "tipNote": "Se houver taxa de serviço de 12.5% na conta, não acrescente mais; caso contrário, deixe 10-15%.",
+  "note": "Em pubs, não se costuma dar gorjeta ao pessoal do bar.",
+  "serviceNote": "Normalmente 12.5%, indicada na conta; é opcional, e você pode pedir para removê-la.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "CH": {
+  "name": "Suíça",
+  "tipNote": "O serviço está incluído; arredondar ou deixar cerca de 10% é costumeiro, mas você não é obrigado.",
+  "note": "Os preços do cardápio são preços finais em francos, incluindo o IVA.",
+  "serviceNote": "O serviço está incluído no preço.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "NO": {
+  "name": "Noruega",
+  "tipNote": "Não é esperada; os locais arredondam ou deixam 5-10% quando estão satisfeitos.",
+  "note": "O Visit Norway diz que as gorjetas tendem a ficar entre 5-15%; o Lonely Planet diz que gorjeta em restaurantes não é esperada de jeito nenhum.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "SE": {
+  "name": "Suécia",
+  "tipNote": "Arredonde a conta (por exemplo, de 280 para 300 SEK); cerca de 10% é uma boa gorjeta em uma refeição maior.",
+  "note": "",
+  "serviceNote": "Às vezes uma taxa de serviço está incluída, mas ela é claramente indicada na conta.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "DK": {
+  "name": "Dinamarca",
+  "tipNote": "O serviço está incluído na conta; dê gorjeta somente se o serviço foi ótimo, não há valor fixo.",
+  "note": "",
+  "serviceNote": "O serviço está incluído nas contas de restaurantes.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "IS": {
+  "name": "Islândia",
+  "tipNote": "O serviço está incluído, então gorjeta não é esperada; uma pequena gorjeta em dinheiro por um ótimo serviço é bem-vinda.",
+  "note": "O preço anunciado deve incluir o IVA, por lei.",
+  "serviceNote": "O serviço já está incluído na conta na maioria dos restaurantes e cafés.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "PL": {
+  "name": "Polônia",
+  "tipNote": "Deixe cerca de 10% por um bom serviço em restaurante; para um café, uma moeda no pote já basta.",
+  "note": "O guia de Varsóvia do Lonely Planet diz 10-15%.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "CZ": {
+  "name": "Tchéquia",
+  "tipNote": "Deixe cerca de 10% pelo serviço à mesa.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "HU": {
+  "name": "Hungria",
+  "tipNote": "Se o “szerviz” estiver na conta, não acrescente mais; caso contrário, deixe cerca de 10% e diga o total que você quer pagar.",
+  "note": "O número de 12.5% vem de um artigo de 2015, então confira a conta.",
+  "serviceNote": "Muitos restaurantes acrescentam uma taxa de serviço de cerca de 12.5%, indicada como “szerviz”; se ela estiver lá, não acrescente gorjeta.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "TR": {
+  "name": "Turquia",
+  "tipNote": "Deixe cerca de 10% (15% por um serviço muito bom), de preferência em dinheiro: desde a proibição, alguns estabelecimentos oferecem 8, 10 ou 15% na máquina de cartão, mas muitos não aceitam gorjetas no cartão.",
+  "note": "Os cardápios agora precisam mostrar o preço completo: não é permitido acrescentar taxa de serviço, de mesa ou de couvert, e as gorjetas são voluntárias.",
+  "serviceNote": "Desde 30 de janeiro de 2026, os restaurantes não podem acrescentar taxa de serviço, de mesa ou de couvert, qualquer que seja o nome (Diário Oficial 33153).",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "MX": {
+  "name": "México",
+  "tipNote": "Gorjeta de cerca de 10%, até 15% por um serviço excelente; é voluntária, então ninguém pode exigi-la.",
+  "note": "A gorjeta habitual é de 10% (15% por um serviço excelente). O guia das Américas do Lonely Planet diz 15-20% e que uma taxa de serviço é comum, mas a Profeco, o turismo da Cidade do México e o artigo do Lonely Planet sobre o México de 2026 apontam 10%.",
+  "serviceNote": "Pela lei, nenhum prestador pode exigir gorjeta nem definir o seu valor.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "BR": {
+  "name": "Brasil",
+  "tipNote": "Se a taxa de serviço de 10% estiver na conta, pague-a como sua gorjeta e não acrescente outra.",
+  "note": "A inclusão de impostos nos preços do cardápio não foi verificada separadamente.",
+  "serviceNote": "Uma “taxa de serviço” de 10% costuma vir impressa na conta; pela lei ela é opcional e deve constar como tal.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "AR": {
+  "name": "Argentina",
+  "tipNote": "Deixe cerca de 10% em dinheiro; não é obrigação legal, mas é um costume firme.",
+  "note": "A inclusão de impostos nos preços do cardápio não pôde ser confirmada (o PDF nacional de exibição de preços estava ilegível); o Lonely Planet diz que uma taxa de serviço é mais comumente acrescentada.",
+  "serviceNote": "Alguns restaurantes cobram um “cubierto” por pessoa; ele não pode ser cobrado de crianças com menos de 12 anos.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "CL": {
+  "name": "Chile",
+  "tipNote": "A conta sugere 10%; diga “con propina” para incluí-la, ou recuse, já que é voluntária.",
+  "note": "Os preços do cardápio devem incluir o IVA, por lei.",
+  "serviceNote": "A conta sugere uma gorjeta de pelo menos 10%, mas ela é voluntária.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "PE": {
+  "name": "Peru",
+  "tipNote": "A gorjeta não é padrão, e muitos locais não a dão. Se não houver linha de “servicio” ou “recargo” na conta, cerca de 10% é um gesto gentil; se houver, você já deu a gorjeta.",
+  "note": "As regras de imposto e de exibição de preços são oficiais; o valor da gorjeta é uma avaliação, porque os dois artigos do Lonely Planet sobre o Peru divergem e nenhum número de órgão de turismo foi encontrado.",
+  "serviceNote": "Muitos restaurantes de faixa média e de luxo acrescentam um “servicio” ou “recargo al consumo” de até 13% (Decreto Ley 25988); o Indecopi diz que os preços listados devem incluí-lo. Confira o cardápio e a conta.",
+  "taxNames": [
+   "IGV"
+  ],
+  "extraNames": []
+ },
+ "CO": {
+  "name": "Colômbia",
+  "tipNote": "A conta pode sugerir 10%; é voluntária, então você pode aceitar, mudar o valor ou recusar.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [
+   "Imposto nacional de consumo (restaurantes)"
+  ],
+  "extraNames": []
+ },
+ "CR": {
+  "name": "Costa Rica",
+  "tipNote": "Os 10% de serviço já estão no preço, então uma gorjeta extra é opcional; cerca de 5% é apreciado por um bom serviço.",
+  "note": "Pela lei, o preço do cardápio deve ser o preço final, incluindo 13% de IVA e 10% de serviço. Se um cardápio disser “+ impuestos” ou “10% servicio no incluido”, ele descumpre a regra e a conta ficaria cerca de 23% mais alta.",
+  "serviceNote": "O serviço de mesa de 10%, calculado antes do imposto, também deve estar no preço final do cardápio; não é cobrado em pedidos para viagem.",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": []
+ },
+ "DO": {
+  "name": "República Dominicana",
+  "tipNote": "A gorjeta legal de 10% já está na conta; o órgão de turismo diz que mais 10% é costumeiro.",
+  "note": "Não foi verificado se os cardápios mostram preços antes do imposto e do serviço.",
+  "serviceNote": "Uma gorjeta legal de 10% é acrescentada às contas de consumo no local (não em pedidos para viagem ou delivery).",
+  "taxNames": [
+   "ITBIS"
+  ],
+  "extraNames": []
+ },
+ "CU": {
+  "name": "Cuba",
+  "tipNote": "Verifique se há taxa de serviço de 10-12% na conta; se não houver, deixe uma gorjeta pequena para o garçom (um operador de turismo sugere cerca de 10% ou um pequeno trocado).",
+  "note": "Baixa confiança: não foi possível ler nenhuma fonte oficial sobre impostos, preços de cardápio ou taxas de serviço. Restaurantes privados cobram em pesos a câmbio informal, e muitos aceitam euros; pergunte em qual moeda o cardápio está.",
+  "serviceNote": "Taxas de serviço de 10-12% são bastante comuns em restaurantes estatais e nos paladares mais sofisticados; alguns cobram um valor fixo de 10%.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "JM": {
+  "name": "Jamaica",
+  "tipNote": "Confira primeiro se a conta já tem gorjeta (gratuity); se não tiver, deixe 15-20% em restaurante. Máquinas de cartão podem oferecer gorjetas de até 25%.",
+  "note": "A GCT e uma taxa de serviço costumam ser acrescentadas à conta em vez de ao preço do cardápio, pelo menos em hotéis. As únicas fontes sobre gorjeta são um jornal e as recomendações do Lonely Planet para o Caribe; nenhuma página do Jamaica Tourist Board pôde ser lida.",
+  "serviceNote": "Alguns restaurantes acrescentam uma taxa de serviço ou gorjeta obrigatória de 10-20%; confira a conta antes de dar gorjeta.",
+  "taxNames": [
+   "GCT"
+  ],
+  "extraNames": []
+ },
+ "JP": {
+  "name": "Japão",
+  "tipNote": "Gorjeta não é costume e pode confundir a equipe.",
+  "note": "Os cardápios devem mostrar preços com imposto incluído desde abril de 2021.",
+  "serviceNote": "Normalmente, uma taxa de serviço é acrescentada à conta final nos restaurantes.",
+  "taxNames": [
+   "Imposto de consumo"
+  ],
+  "extraNames": []
+ },
+ "KR": {
+  "name": "Coreia do Sul",
+  "tipNote": "Gorjeta não é costume, e alguns funcionários vão recusá-la.",
+  "note": "As fontes divergem sobre o VAT estar incluído nos preços do cardápio: uma regra de 2012 diz que deve estar, e o Visit Seoul diz que ele é “acrescentado”.",
+  "serviceNote": "Muitos hotéis e restaurantes sofisticados acrescentam 10% de taxa de serviço além do VAT.",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": []
+ },
+ "CN": {
+  "name": "China",
+  "tipNote": "Gorjeta não é esperada; confira primeiro se há taxa de serviço na conta.",
+  "note": "A inclusão de impostos nos preços do cardápio não foi verificada separadamente.",
+  "serviceNote": "Restaurantes de qualidade e de alto padrão podem acrescentar uma taxa de serviço de 5-15%.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "HK": {
+  "name": "Hong Kong",
+  "tipNote": "A maioria dos restaurantes acrescenta 10% de serviço, então você não precisa dar gorjeta por cima.",
+  "note": "Hong Kong não tem imposto sobre vendas nem VAT.",
+  "serviceNote": "A maioria dos restaurantes acrescenta uma taxa de serviço de 10%; alguns cafés e lanchonetes não.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "TW": {
+  "name": "Taiwan",
+  "tipNote": "Gorjeta não é esperada; uma taxa de serviço de 10% costuma ser acrescentada à conta.",
+  "note": "A inclusão de impostos nos preços do cardápio não foi verificada separadamente.",
+  "serviceNote": "Uma taxa de serviço de 10% é costumeira em hotéis e restaurantes.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "VN": {
+  "name": "Vietnã",
+  "tipNote": "Não se espera gorjeta em restaurantes; arredondar ou deixar 5-10% por um bom serviço é bem-vindo, e nada a mais se houver taxa de serviço na conta.",
+  "note": "A Lei de Preços diz que os preços listados incluem impostos e taxas, mas lugares mais sofisticados podem informar preços antes do VAT e do serviço, então confira a nota de rodapé do cardápio. Nenhuma fonte oficial sobre taxas de serviço foi encontrada.",
+  "serviceNote": "Confira a conta por uma linha de taxa de serviço ou de VAT.",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": []
+ },
+ "PH": {
+  "name": "Filipinas",
+  "tipNote": "Se houver taxa de serviço na conta, não é preciso gorjeta; caso contrário, arredondar ou deixar 5-10% por um bom serviço é apreciado.",
+  "note": "O VAT é de 12%; alguns restaurantes já o incluem nos preços do cardápio e outros o acrescentam na conta, e o cardápio informa qual. Não foi possível ler nenhuma página do Departamento de Turismo sobre gorjetas.",
+  "serviceNote": "Muitos restaurantes acrescentam uma taxa de serviço de 5-10%; a lei não define percentual, mas todo o valor deve ir para funcionários não gerenciais.",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": []
+ },
+ "KH": {
+  "name": "Camboja",
+  "tipNote": "Gorjeta não é costume; arredondar ou deixar um ou dois dólares por um bom serviço é mais que suficiente, e nada se houver taxa de serviço na conta.",
+  "note": "Os preços costumam ser em dólares americanos. Não foi possível confirmar se os preços do cardápio incluem o VAT de 10%, então confira a nota de rodapé do cardápio.",
+  "serviceNote": "Hotéis e restaurantes costumam acrescentar 10% de taxa de serviço (FAQ do Ministério do Turismo); o Rough Guides diz 5-10% em lugares mais caros.",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": []
+ },
+ "AU": {
+  "name": "Austrália",
+  "tipNote": "Não é esperada; para serviço à mesa em restaurante de cidade, 10% é apreciado, e nada no balcão.",
+  "note": "O Tourism Australia diz que os restaurantes não acrescentam taxa de serviço; a sobretaxa de feriados é separada.",
+  "serviceNote": "Alguns estabelecimentos acrescentam sobretaxa de fins de semana ou feriados de até 15% (Lonely Planet); confira o cardápio.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "NZ": {
+  "name": "Nova Zelândia",
+  "tipNote": "Não é esperada, embora 10% por um serviço de mesa realmente bom seja bem-vindo.",
+  "note": "O Lonely Planet diz que alguns estabelecimentos acrescentam sobretaxa de feriados de até 15%.",
+  "serviceNote": "Restaurantes não acrescentam taxa de serviço.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "ZA": {
+  "name": "África do Sul",
+  "tipNote": "Deixe 10-15% por um bom serviço; dispense se houver taxa de serviço de grupo na conta.",
+  "note": "A página do South African Tourism é de 2018, e não foi possível confirmar se o VAT está incluído nos preços do cardápio.",
+  "serviceNote": "Uma taxa de serviço de 10% é acrescentada automaticamente para mesas com mais de seis pessoas.",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": []
+ },
+ "MA": {
+  "name": "Marrocos",
+  "tipNote": "Confira primeiro se há taxa de serviço na conta; se não houver, deixe 5-10%, ou até 15% em lugares sofisticados.",
+  "note": "Os preços do cardápio devem incluir o VAT (Lei 31-08). O escritório de turismo marroquino não tem página sobre gorjetas; as fontes são uma editora, um site de notícias e um guia local, e a primeira fala em 10-15%, enquanto as outras dizem 5-10%.",
+  "serviceNote": "Restaurantes turísticos populares costumam acrescentar 10% (Lonely Planet, Le360); não foi encontrada taxa legal.",
+  "taxNames": [
+   "VAT (restaurantes)"
+  ],
+  "extraNames": []
+ },
+ "EG": {
+  "name": "Egito",
+  "tipNote": "Uma taxa de serviço costuma ser acrescentada, então deixe um pouco a mais em dinheiro para o garçom; cerca de 10% se não houver.",
+  "note": "Um comunicado de câmara de 2020 diz que os cardápios de estabelecimentos turísticos devem mostrar preços tudo incluído, mas um relatório de 2023 diz que os clientes pagam 26% a mais (12% de serviço, 14% de VAT). Presuma que imposto e serviço serão acrescentados até que o cardápio diga o contrário.",
+  "serviceNote": "Cerca de 12% de serviço são acrescentados em estabelecimentos turísticos (o Lonely Planet diz 10%).",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": []
+ },
+ "IL": {
+  "name": "Israel",
+  "tipNote": "Deixe 10-12% por um bom serviço e 15% por um excelente (15% é o padrão em Tel Aviv), de preferência em dinheiro.",
+  "note": "Não foi possível ler nenhuma página do Ministério do Turismo sobre gorjetas; as três fontes sobre gorjeta (um blog de rede hoteleira, uma revista de notícias e um wiki comunitário de viagens) concordam em 10-15%.",
+  "serviceNote": "Restaurantes quase nunca acrescentam taxa de serviço, exceto para grupos grandes.",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": []
+ },
+ "JO": {
+  "name": "Jordânia",
+  "tipNote": "Deixe cerca de 10% a mais sobre a conta, a menos que já haja taxa de serviço nela.",
+  "note": "Os preços do cardápio normalmente não incluem o imposto sobre vendas de 16% nem a linha de serviço de 10%, então a conta pode chegar a cerca de um quarto acima do total do cardápio.",
+  "serviceNote": "Muitos restaurantes acrescentam uma linha de “service” de 10%; é um costume, não uma exigência legal.",
+  "taxNames": [
+   "Imposto geral sobre vendas"
+  ],
+  "extraNames": []
+ },
+ "QA": {
+  "name": "Catar",
+  "tipNote": "Uma taxa de serviço costuma estar na conta; uma gorjeta extra de 10-15% em dinheiro é bem recebida.",
+  "note": "Não foi confirmado se os preços do cardápio incluem impostos.",
+  "serviceNote": "A maioria dos estabelecimentos do setor de hospitalidade inclui taxa de serviço na conta.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "SA": {
+  "name": "Arábia Saudita",
+  "tipNote": "Os garçons geralmente esperam uma gorjeta de 10-15% no final da refeição.",
+  "note": "A gorjeta não é obrigatória e nenhuma taxa de serviço é acrescentada, então uma gorjeta de 10-15% não é cobrada em dobro.",
+  "serviceNote": "Restaurantes não podem acrescentar taxa de serviço (decisão do Ministério do Comércio, reconfirmada em 2017).",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": []
+ },
+ "KE": {
+  "name": "Quênia",
+  "tipNote": "A gorjeta não é obrigatória, mas cerca de 10% da conta por uma boa refeição é apreciado.",
+  "note": "O VAT é de 16%, e os negócios turísticos licenciados também pagam uma taxa de 2% sobre vendas de comida e bebida. Não foi encontrada lei sobre preços em cardápios, então confira se o cardápio diz “inclusive of VAT”.",
+  "serviceNote": "",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": []
+ },
+ "TZ": {
+  "name": "Tanzânia",
+  "tipNote": "Cerca de 10% é costumeiro em restaurantes, até 15% por um serviço muito bom; sempre em dinheiro.",
+  "note": "Preços anunciados por empresas registradas para VAT devem incluir 18% de VAT. Não foi possível ler nenhuma página do Conselho de Turismo da Tanzânia sobre gorjetas; as fontes são operadores de safári e o guia Lonely Planet da África.",
+  "serviceNote": "",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": []
+ }
+}

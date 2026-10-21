@@ -1,0 +1,1253 @@
+{
+ "US-AK": {
+  "name": "Alaska",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "L'Alaska n'a pas de taxe de vente d'État, et chaque ville fixe la sienne : Anchorage et Fairbanks, les deux plus grandes villes, n'en prévoient aucune, tandis que Juneau applique 5%, Seward 4% et Kodiak 7% (année fiscale 2024), et certaines villes cumulent une taxe de district (borough) et une taxe municipale. Le taux moyen de 1.82% ne correspond à aucune ville en particulier.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente locale"
+  ],
+  "extraNames": []
+ },
+ "US-AL": {
+  "name": "Alabama",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "La taxe de vente est ajoutée à la caisse ; vérifiez l'addition pour un pourboire ou des frais de service déjà inclus avant d'en laisser un.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente"
+  ],
+  "extraNames": []
+ },
+ "US-AR": {
+  "name": "Arkansas",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "La taxe de vente est ajoutée à la caisse ; vérifiez l'addition pour un pourboire ou des frais de service déjà inclus avant d'en laisser un.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente"
+  ],
+  "extraNames": []
+ },
+ "US-AZ": {
+  "name": "Arizona",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "La taxe de vente est ajoutée à la caisse ; vérifiez l'addition pour un pourboire ou des frais de service déjà inclus avant d'en laisser un.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente"
+  ],
+  "extraNames": []
+ },
+ "US-CA": {
+  "name": "Californie",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "En Californie, cherchez une ligne de supplément sur le menu ou l'addition avant d'ajouter un pourboire.",
+  "serviceNote": "Certains restaurants californiens ajoutent des frais de service ou un supplément obligatoire ; la loi de l'État le permet si ces frais figurent sur le menu avec leur objet.",
+  "taxNames": [
+   "Taxe de vente"
+  ],
+  "extraNames": []
+ },
+ "US-CO": {
+  "name": "Colorado",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "La taxe d'État du Colorado n'est que de 2.9%, et les taxes municipales, de comté et de district représentent l'essentiel du taux moyen de 7.89%.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente"
+  ],
+  "extraNames": []
+ },
+ "US-CT": {
+  "name": "Connecticut",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "Le Connecticut applique 7.35% sur les repas au restaurant et certaines boissons, soit un point de plus que les 6.35% sur la plupart des biens.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente sur les repas"
+  ],
+  "extraNames": []
+ },
+ "US-DC": {
+  "name": "District de Columbia",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "Washington DC applique 10% sur les repas et boissons au restaurant, bien au-dessus du taux général de 6%.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente sur les repas au restaurant"
+  ],
+  "extraNames": []
+ },
+ "US-DE": {
+  "name": "Delaware",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "Le Delaware n'a pas de taxe de vente : le prix du menu est celui qui figure sur l'addition avant le pourboire.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "US-FL": {
+  "name": "Floride",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "La taxe de vente est ajoutée à la caisse ; vérifiez l'addition pour un pourboire ou des frais de service déjà inclus avant d'en laisser un.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente"
+  ],
+  "extraNames": []
+ },
+ "US-GA": {
+  "name": "Géorgie",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "La taxe de vente est ajoutée à la caisse ; vérifiez l'addition pour un pourboire ou des frais de service déjà inclus avant d'en laisser un.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente"
+  ],
+  "extraNames": []
+ },
+ "US-HI": {
+  "name": "Hawaï",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "Les restaurants d'Hawaï peuvent ajouter jusqu'à 4.712% de taxe générale d'accise à l'addition.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe générale d'accise (répercutée)"
+  ],
+  "extraNames": []
+ },
+ "US-IA": {
+  "name": "Iowa",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "La taxe de vente est ajoutée à la caisse ; vérifiez l'addition pour un pourboire ou des frais de service déjà inclus avant d'en laisser un.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente"
+  ],
+  "extraNames": []
+ },
+ "US-ID": {
+  "name": "Idaho",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "La taxe de vente est ajoutée à la caisse ; vérifiez l'addition pour un pourboire ou des frais de service déjà inclus avant d'en laisser un.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente"
+  ],
+  "extraNames": []
+ },
+ "US-IL": {
+  "name": "Illinois",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "Chicago ajoute une taxe restaurant de 0.5% à sa taxe de vente.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente"
+  ],
+  "extraNames": [
+   "Taxe sur les restaurants de Chicago"
+  ]
+ },
+ "US-IN": {
+  "name": "Indiana",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "La taxe de vente est ajoutée à la caisse ; vérifiez l'addition pour un pourboire ou des frais de service déjà inclus avant d'en laisser un.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente"
+  ],
+  "extraNames": []
+ },
+ "US-KS": {
+  "name": "Kansas",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "La taxe de vente est ajoutée à la caisse ; vérifiez l'addition pour un pourboire ou des frais de service déjà inclus avant d'en laisser un.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente"
+  ],
+  "extraNames": []
+ },
+ "US-KY": {
+  "name": "Kentucky",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "La taxe de vente est ajoutée à la caisse ; vérifiez l'addition pour un pourboire ou des frais de service déjà inclus avant d'en laisser un.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente"
+  ],
+  "extraNames": []
+ },
+ "US-LA": {
+  "name": "Louisiane",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "La Louisiane a le taux combiné moyen le plus élevé du pays, les taxes locales ajoutant à peu près autant que la taxe d'État de 5%.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente"
+  ],
+  "extraNames": []
+ },
+ "US-MA": {
+  "name": "Massachusetts",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "Les restaurants du Massachusetts facturent 6.25%, et les villes qui ont choisi d'y participer ajoutent 0.75%, soit 7% au total.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente sur les repas"
+  ],
+  "extraNames": [
+   "Taxe locale facultative sur les repas"
+  ]
+ },
+ "US-MD": {
+  "name": "Maryland",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "La taxe de vente est ajoutée à la caisse ; vérifiez l'addition pour un pourboire ou des frais de service déjà inclus avant d'en laisser un.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente"
+  ],
+  "extraNames": []
+ },
+ "US-ME": {
+  "name": "Maine",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "Le Maine applique 8% sur les repas au restaurant, et non le taux général de 5.5%.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe sur les plats préparés"
+  ],
+  "extraNames": []
+ },
+ "US-MI": {
+  "name": "Michigan",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "La taxe de vente est ajoutée à la caisse ; vérifiez l'addition pour un pourboire ou des frais de service déjà inclus avant d'en laisser un.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente"
+  ],
+  "extraNames": []
+ },
+ "US-MN": {
+  "name": "Minnesota",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "Le centre-ville de Minneapolis ajoute 3% aux repas au restaurant (et 3% aux alcools) en plus de la taxe de vente habituelle.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente"
+  ],
+  "extraNames": [
+   "Taxe restaurant du centre-ville de Minneapolis",
+   "Taxe sur les alcools du centre-ville de Minneapolis"
+  ]
+ },
+ "US-MO": {
+  "name": "Missouri",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "La taxe de vente est ajoutée à la caisse ; vérifiez l'addition pour un pourboire ou des frais de service déjà inclus avant d'en laisser un.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente"
+  ],
+  "extraNames": []
+ },
+ "US-MS": {
+  "name": "Mississippi",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "La taxe de vente est ajoutée à la caisse ; vérifiez l'addition pour un pourboire ou des frais de service déjà inclus avant d'en laisser un.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente"
+  ],
+  "extraNames": []
+ },
+ "US-MT": {
+  "name": "Montana",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "Le Montana n'a pas de taxe de vente, mais les restaurants de ses villes d'accès aux stations de ski et aux parcs ajoutent une taxe de villégiature de 3%.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [],
+  "extraNames": [
+   "Taxe locale de villégiature"
+  ]
+ },
+ "US-NC": {
+  "name": "Caroline du Nord",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "La taxe de vente est ajoutée à la caisse ; vérifiez l'addition pour un pourboire ou des frais de service déjà inclus avant d'en laisser un.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente"
+  ],
+  "extraNames": []
+ },
+ "US-ND": {
+  "name": "Dakota du Nord",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "La taxe de vente est ajoutée à la caisse ; vérifiez l'addition pour un pourboire ou des frais de service déjà inclus avant d'en laisser un.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente"
+  ],
+  "extraNames": []
+ },
+ "US-NE": {
+  "name": "Nebraska",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "La taxe de vente est ajoutée à la caisse ; vérifiez l'addition pour un pourboire ou des frais de service déjà inclus avant d'en laisser un.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente"
+  ],
+  "extraNames": []
+ },
+ "US-NH": {
+  "name": "New Hampshire",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "Le New Hampshire n'a pas de taxe de vente, mais applique 8.5% sur les repas et boissons au restaurant.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe sur les repas et locations"
+  ],
+  "extraNames": []
+ },
+ "US-NJ": {
+  "name": "New Jersey",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "Le New Jersey applique 6.625% presque partout, avec un taux plus bas dans le comté de Salem.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente"
+  ],
+  "extraNames": []
+ },
+ "US-NM": {
+  "name": "Nouveau-Mexique",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "La taxe sur le chiffre d'affaires brut du Nouveau-Mexique varie selon la ville, et les restaurants l'indiquent souvent sur une ligne séparée.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente"
+  ],
+  "extraNames": []
+ },
+ "US-NV": {
+  "name": "Nevada",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "La taxe de vente est ajoutée à la caisse ; vérifiez l'addition pour un pourboire ou des frais de service déjà inclus avant d'en laisser un.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente"
+  ],
+  "extraNames": []
+ },
+ "US-NY": {
+  "name": "État de New York",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "Les restaurants de New York City appliquent 8.875%, au-dessus de la moyenne de 8.54% pour l'ensemble de l'État.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente"
+  ],
+  "extraNames": []
+ },
+ "US-OH": {
+  "name": "Ohio",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "La taxe de vente est ajoutée à la caisse ; vérifiez l'addition pour un pourboire ou des frais de service déjà inclus avant d'en laisser un.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente"
+  ],
+  "extraNames": []
+ },
+ "US-OK": {
+  "name": "Oklahoma",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "La taxe de vente est ajoutée à la caisse ; vérifiez l'addition pour un pourboire ou des frais de service déjà inclus avant d'en laisser un.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente"
+  ],
+  "extraNames": []
+ },
+ "US-OR": {
+  "name": "Oregon",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "L'Oregon n'a pas de taxe de vente : le prix du menu est celui qui figure sur l'addition avant le pourboire.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "US-PA": {
+  "name": "Pennsylvanie",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "La taxe de vente est ajoutée à la caisse ; vérifiez l'addition pour un pourboire ou des frais de service déjà inclus avant d'en laisser un.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente"
+  ],
+  "extraNames": []
+ },
+ "US-RI": {
+  "name": "Rhode Island",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "Tous les restaurants et bars de Rhode Island appliquent une taxe de vente de 7% et une taxe locale de 1% sur les repas et boissons, soit 8% au total, ajoutés à la caisse.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe locale sur les repas et boissons",
+   "Taxe de vente"
+  ],
+  "extraNames": []
+ },
+ "US-SC": {
+  "name": "Caroline du Sud",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "La taxe de vente est ajoutée à la caisse ; vérifiez l'addition pour un pourboire ou des frais de service déjà inclus avant d'en laisser un.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente"
+  ],
+  "extraNames": []
+ },
+ "US-SD": {
+  "name": "Dakota du Sud",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "Le taux d'État du Dakota du Sud est de 4.2%, auquel s'ajoutent les taxes municipales.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente"
+  ],
+  "extraNames": []
+ },
+ "US-TN": {
+  "name": "Tennessee",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "La taxe de vente est ajoutée à la caisse ; vérifiez l'addition pour un pourboire ou des frais de service déjà inclus avant d'en laisser un.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente"
+  ],
+  "extraNames": []
+ },
+ "US-TX": {
+  "name": "Texas",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "Les alcools servis dans les bars et restaurants du Texas sont soumis à une taxe de vente sur les boissons mixtes de 8.25%.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente"
+  ],
+  "extraNames": []
+ },
+ "US-UT": {
+  "name": "Utah",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "Salt Lake City ajoute une taxe restaurant de 1% à sa taxe de vente de 8.45%.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente"
+  ],
+  "extraNames": [
+   "Taxe locale sur les restaurants"
+  ]
+ },
+ "US-VA": {
+  "name": "Virginie",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "Les villes et de nombreux comtés de Virginie ajoutent leur propre taxe sur les repas, de quelques pourcents, à la taxe de vente ; l'addition peut donc dépasser largement le taux de l'État.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente"
+  ],
+  "extraNames": [
+   "Taxe locale sur les repas"
+  ]
+ },
+ "US-VT": {
+  "name": "Vermont",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "Le Vermont applique 9% sur les repas au restaurant (10% sur l'alcool), et certaines villes ajoutent 1%.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe sur les repas"
+  ],
+  "extraNames": [
+   "Taxe locale facultative"
+  ]
+ },
+ "US-WA": {
+  "name": "État de Washington",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "La taxe de vente est ajoutée à la caisse ; vérifiez l'addition pour un pourboire ou des frais de service déjà inclus avant d'en laisser un.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente"
+  ],
+  "extraNames": []
+ },
+ "US-WI": {
+  "name": "Wisconsin",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "La taxe de vente est ajoutée à la caisse ; vérifiez l'addition pour un pourboire ou des frais de service déjà inclus avant d'en laisser un.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente"
+  ],
+  "extraNames": []
+ },
+ "US-WV": {
+  "name": "Virginie-Occidentale",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "La taxe de vente est ajoutée à la caisse ; vérifiez l'addition pour un pourboire ou des frais de service déjà inclus avant d'en laisser un.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente"
+  ],
+  "extraNames": []
+ },
+ "US-WY": {
+  "name": "Wyoming",
+  "tipNote": "Pourboire de 15-20% du montant avant taxes dans les restaurants avec service à table : 15% est le minimum qui ne vexe personne, 18-20% est la norme, et le service au comptoir ne demande pas de pourboire.",
+  "note": "La taxe de vente est ajoutée à la caisse ; vérifiez l'addition pour un pourboire ou des frais de service déjà inclus avant d'en laisser un.",
+  "serviceNote": "Aucun service n'est inclus d'office ; vérifiez l'addition pour voir si des frais ou un pourboire ont déjà été ajoutés avant d'en laisser un en plus.",
+  "taxNames": [
+   "Taxe de vente"
+  ],
+  "extraNames": []
+ },
+ "CA-AB": {
+  "name": "Alberta",
+  "tipNote": "Pourboire de 15% à 20% sur le montant avant taxes ; 15% est le minimum sûr.",
+  "note": "L'Alberta n'a pas de taxe de vente provinciale : seule la GST de 5% est ajoutée à la caisse.",
+  "serviceNote": "Pas de frais de service en général ; certains restaurants ajoutent automatiquement 15% à 18% pour les grands groupes (généralement six personnes ou plus), vérifiez donc l'addition.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "CA-BC": {
+  "name": "Colombie-Britannique",
+  "tipNote": "Pourboire de 15% à 20% sur le montant avant taxes ; 15% est le minimum sûr.",
+  "note": "Les repas au restaurant sont exemptés de la PST de 7% en Colombie-Britannique : une addition pour la nourriture ne comporte que la GST de 5% ; l'alcool ajoute une PST de 10%.",
+  "serviceNote": "Pas de frais de service en général ; certains restaurants ajoutent automatiquement 15% à 18% pour les grands groupes (généralement six personnes ou plus), vérifiez donc l'addition.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": [
+   "PST sur les alcools",
+   "PST sur les boissons gazeuses"
+  ]
+ },
+ "CA-SK": {
+  "name": "Saskatchewan",
+  "tipNote": "Pourboire de 15% à 20% sur le montant avant taxes ; 15% est le minimum sûr.",
+  "note": "La Saskatchewan applique une PST de 6% sur les repas au restaurant en plus de la GST de 5% (11% au total) ; l'alcool est soumis à une taxe de consommation d'alcool (LCT) de 10% plus la GST, au lieu de la PST.",
+  "serviceNote": "Pas de frais de service en général ; certains restaurants ajoutent automatiquement 15% à 18% pour les grands groupes (généralement six personnes ou plus), vérifiez donc l'addition.",
+  "taxNames": [
+   "GST",
+   "PST"
+  ],
+  "extraNames": [
+   "Taxe de consommation d'alcool (remplace la PST)"
+  ]
+ },
+ "CA-MB": {
+  "name": "Manitoba",
+  "tipNote": "Pourboire de 15% à 20% sur le montant avant taxes ; 15% est le minimum sûr.",
+  "note": "Le Manitoba maintient sa RST de 7% sur les repas au restaurant et sur l'alcool, même après l'exemption alimentaire de juillet 2026 ; l'addition comporte donc 12% au total.",
+  "serviceNote": "Pas de frais de service en général ; certains restaurants ajoutent automatiquement 15% à 18% pour les grands groupes (généralement six personnes ou plus), vérifiez donc l'addition.",
+  "taxNames": [
+   "GST",
+   "RST (taxe provinciale de vente au détail)"
+  ],
+  "extraNames": []
+ },
+ "CA-ON": {
+  "name": "Ontario",
+  "tipNote": "Pourboire de 15% à 20% sur le montant avant taxes ; 15% est le minimum sûr.",
+  "note": "Les plats et boissons à emporter de $4 ou moins avant taxes bénéficient de la remise de la part provinciale de 8% à la caisse (seuls 5% sont facturés) ; l'alcool n'est pas admissible.",
+  "serviceNote": "Pas de frais de service en général ; certains restaurants ajoutent automatiquement 15% à 18% pour les grands groupes (généralement six personnes ou plus), vérifiez donc l'addition.",
+  "taxNames": [
+   "HST"
+  ],
+  "extraNames": []
+ },
+ "CA-QC": {
+  "name": "Québec",
+  "tipNote": "15 % à 20 % de l'addition avant taxes ; les terminaux de paiement du Québec suggèrent désormais les pourboires sur le montant avant taxes",
+  "note": "Les additions indiquent séparément la TPS et la TVQ, et un pourboire volontaire n'est pas taxé ; des « frais de service » imprimés sur l'addition, eux, sont taxables.",
+  "serviceNote": "Pas de frais de service en général ; certains restaurants ajoutent automatiquement 15% à 18% pour les grands groupes (généralement six personnes ou plus), vérifiez donc l'addition.",
+  "taxNames": [
+   "TPS",
+   "TVQ"
+  ],
+  "extraNames": []
+ },
+ "CA-NB": {
+  "name": "Nouveau-Brunswick",
+  "tipNote": "Pourboire de 15% à 20% sur le montant avant taxes ; 15% est le minimum sûr.",
+  "note": "La HST s'applique à l'ensemble de l'addition du restaurant ; aucune exemption pour les restaurants n'a été trouvée dans les sources vérifiées.",
+  "serviceNote": "Pas de frais de service en général ; certains restaurants ajoutent automatiquement 15% à 18% pour les grands groupes (généralement six personnes ou plus), vérifiez donc l'addition.",
+  "taxNames": [
+   "HST"
+  ],
+  "extraNames": []
+ },
+ "CA-NL": {
+  "name": "Terre-Neuve-et-Labrador",
+  "tipNote": "Pourboire de 15% à 20% sur le montant avant taxes ; 15% est le minimum sûr.",
+  "note": "La HST s'applique à l'ensemble de l'addition du restaurant ; aucune exemption pour les restaurants n'a été trouvée dans les sources vérifiées.",
+  "serviceNote": "Pas de frais de service en général ; certains restaurants ajoutent automatiquement 15% à 18% pour les grands groupes (généralement six personnes ou plus), vérifiez donc l'addition.",
+  "taxNames": [
+   "HST"
+  ],
+  "extraNames": []
+ },
+ "CA-PE": {
+  "name": "Île-du-Prince-Édouard",
+  "tipNote": "Pourboire de 15% à 20% sur le montant avant taxes ; 15% est le minimum sûr.",
+  "note": "La HST s'applique à l'ensemble de l'addition du restaurant ; aucune exemption pour les restaurants n'a été trouvée dans les sources vérifiées.",
+  "serviceNote": "Pas de frais de service en général ; certains restaurants ajoutent automatiquement 15% à 18% pour les grands groupes (généralement six personnes ou plus), vérifiez donc l'addition.",
+  "taxNames": [
+   "HST"
+  ],
+  "extraNames": []
+ },
+ "CA-NS": {
+  "name": "Nouvelle-Écosse",
+  "tipNote": "Pourboire de 15% à 20% sur le montant avant taxes ; 15% est le minimum sûr.",
+  "note": "La HST de la Nouvelle-Écosse est passée à 14% en avril 2025 ; les anciens guides qui indiquent 15% sont donc périmés.",
+  "serviceNote": "Pas de frais de service en général ; certains restaurants ajoutent automatiquement 15% à 18% pour les grands groupes (généralement six personnes ou plus), vérifiez donc l'addition.",
+  "taxNames": [
+   "HST"
+  ],
+  "extraNames": []
+ },
+ "CA-YT": {
+  "name": "Yukon",
+  "tipNote": "Pourboire de 15% à 20% sur le montant avant taxes ; 15% est le minimum sûr.",
+  "note": "Seule la GST de 5% est ajoutée ; le territoire n'a pas de taxe de vente. Les usages en matière de pourboire sont ceux de l'ensemble du Canada ; aucune source propre au territoire n'a été trouvée.",
+  "serviceNote": "Pas de frais de service en général ; certains restaurants ajoutent automatiquement 15% à 18% pour les grands groupes (généralement six personnes ou plus), vérifiez donc l'addition.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "CA-NT": {
+  "name": "Territoires du Nord-Ouest",
+  "tipNote": "Pourboire de 15% à 20% sur le montant avant taxes ; 15% est le minimum sûr.",
+  "note": "Seule la GST de 5% est ajoutée ; le territoire n'a pas de taxe de vente. Les usages en matière de pourboire sont ceux de l'ensemble du Canada ; aucune source propre au territoire n'a été trouvée.",
+  "serviceNote": "Pas de frais de service en général ; certains restaurants ajoutent automatiquement 15% à 18% pour les grands groupes (généralement six personnes ou plus), vérifiez donc l'addition.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "CA-NU": {
+  "name": "Nunavut",
+  "tipNote": "Pourboire de 15% à 20% sur le montant avant taxes ; 15% est le minimum sûr.",
+  "note": "Seule la GST de 5% est ajoutée ; le territoire n'a pas de taxe de vente. Les usages en matière de pourboire sont ceux de l'ensemble du Canada ; aucune source propre au territoire n'a été trouvée.",
+  "serviceNote": "Pas de frais de service en général ; certains restaurants ajoutent automatiquement 15% à 18% pour les grands groupes (généralement six personnes ou plus), vérifiez donc l'addition.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "SG": {
+  "name": "Singapour",
+  "tipNote": "Pas besoin de pourboire : les 10% de frais de service en tiennent lieu, et certains établissements ont une boîte à pourboires si vous souhaitez ajouter un peu.",
+  "note": "Une addition de S$100 au menu devient S$119.90 dans un restaurant « ++ » (10% de service, puis 9% de GST sur S$110).",
+  "serviceNote": "La plupart des restaurants avec service à table ajoutent 10% de frais de service, et la GST est alors calculée sur le prix plus les frais de service (les menus affichent « ++ ») ; les hawker centres et les food courts n'en ajoutent généralement pas.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "MY": {
+  "name": "Malaisie",
+  "tipNote": "Pas besoin de pourboire ; une petite somme remise au personnel est appréciée, mais jamais attendue.",
+  "note": "Les petits restaurants en dessous du seuil de RM1.5 million ne facturent pas la taxe de service de 6% ; l'addition peut donc ne faire apparaître que les frais de service, ou rien de plus.",
+  "serviceNote": "De nombreux restaurants avec service à table et hôtels ajoutent 10% de frais de service, indiqués par « ++ » ; les petits stands et beaucoup de cafés n'en ajoutent aucun.",
+  "taxNames": [
+   "Taxe de service (SST)"
+  ],
+  "extraNames": []
+ },
+ "ID": {
+  "name": "Indonésie",
+  "tipNote": "Le pourboire n'est pas nécessaire ; si l'addition ne comporte pas de frais de service, 10% ou un arrondi sont appréciés.",
+  "note": "Les repas au restaurant sont soumis à la taxe régionale PB1 et non à la TVA nationale : un taux imprimé de 11% serait donc une erreur.",
+  "serviceNote": "Les restaurants des zones touristiques et haut de gamme (Bali, Jakarta) ajoutent souvent 5% à 10% de frais de service, indiqués par « ++ » ; les warungs et les cafés locaux n'en ajoutent aucun.",
+  "taxNames": [
+   "Taxe régionale sur les restaurants (PB1 / PBJT)"
+  ],
+  "extraNames": []
+ },
+ "TH": {
+  "name": "Thaïlande",
+  "tipNote": "Si l'addition comporte déjà 10% de frais de service, rien d'autre n'est nécessaire ; sinon, laissez de la petite monnaie, environ 20 bahts.",
+  "note": "Dans les établissements « ++ », l'addition finale est environ 17% au-dessus du prix du menu ; la cuisine de rue et les restaurants locaux facturent généralement le prix affiché.",
+  "serviceNote": "Les restaurants d'hôtel et beaucoup d'établissements haut de gamme ajoutent 10% de frais de service (plus la TVA) ; le conseil de la consommation indique qu'ils sont facultatifs mais doivent être affichés.",
+  "taxNames": [
+   "TVA"
+  ],
+  "extraNames": []
+ },
+ "AE": {
+  "name": "Émirats arabes unis",
+  "tipNote": "Si l'addition comporte 10% de frais de service, aucun pourboire n'est nécessaire ; sinon, 10% à 15% du total sont appréciés (le guide de Dubaï de Lonely Planet indique que 5-10% suffisent).",
+  "note": "La TVA de 5% est incluse dans le prix du menu ; les lignes supplémentaires de l'addition correspondent aux frais de service et à d'éventuels frais municipaux ou touristiques. Les frais municipaux de Dubaï de 7% sont pour l'instant suspendus.",
+  "serviceNote": "Les restaurants d'hôtel ajoutent généralement 10%, et certains établissements indépendants aussi (la plupart non). Visit Dubai indique qu'il revient souvent à l'entreprise et non au serveur. Le menu ou l'addition le précise.",
+  "taxNames": [
+   "TVA"
+  ],
+  "extraNames": [
+   "Frais municipaux de Dubaï",
+   "Taxe touristique d'Abou Dhabi"
+  ]
+ },
+ "IN": {
+  "name": "Inde",
+  "tipNote": "Le pourboire est d'usage mais modeste : 5% à 10% en espèces, ou un arrondi, même si des frais de service figurent sur l'addition.",
+  "note": "De nombreux menus de milieu et de haut de gamme affichent les prix avant taxes (« plus taxes »), si bien que l'addition est au moins 5% plus élevée ; la cuisine de rue et les petits établissements indiquent souvent les prix finaux.",
+  "serviceNote": "Certains restaurants ajoutent encore 5% à 10% de frais de service, mais ceux-ci doivent être facultatifs ; vous pouvez demander qu'ils soient retirés.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": [
+   "GST dans les restaurants d'hôtel (remplace 5%)"
+  ]
+ },
+ "AT": {
+  "name": "Autriche",
+  "tipNote": "Arrondissez ou ajoutez 5-10% pour un bon service, et indiquez au serveur le montant total que vous souhaitez payer.",
+  "note": "Les prix du menu incluent la TVA (règle de l'UE).",
+  "serviceNote": "Vérifiez l'addition : si un pourboire est déjà inclus, ne le payez pas une seconde fois.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "BE": {
+  "name": "Belgique",
+  "tipNote": "Le service est déjà compris dans le prix ; arrondir ou laisser 5-10% est une attention agréable, mais ce n'est pas obligatoire.",
+  "note": "Les prix du menu incluent la TVA (règle de l'UE).",
+  "serviceNote": "Le service est déjà compris dans le prix.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "BG": {
+  "name": "Bulgarie",
+  "tipNote": "Laissez environ 10% en espèces pour un bon service, davantage si vous avez été ravi.",
+  "note": "La Bulgarie est passée du lev à l'euro le 1er janvier 2026 ; les anciens guides peuvent donc mentionner des levs.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "HR": {
+  "name": "Croatie",
+  "tipNote": "Arrondissez dans les cafés et laissez environ 10% pour un bon repas au restaurant.",
+  "note": "Les sources divergent : la rubrique Croatie de Lonely Planet indique au moins 10%, son guide Europe indique 5-10%.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "CY": {
+  "name": "Chypre",
+  "tipNote": "Le pourboire est à votre convenance ; arrondir ou laisser 5-10% pour un bon service est une marque de gratitude appréciée.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [
+   "VAT (restauration)"
+  ],
+  "extraNames": []
+ },
+ "EE": {
+  "name": "Estonie",
+  "tipNote": "Arrondissez, ou laissez environ 10% lorsque la cuisine ou le service étaient exceptionnels.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "FI": {
+  "name": "Finlande",
+  "tipNote": "Le service est toujours inclus, inutile donc d'ajouter un pourboire ; un arrondi est bienvenu mais jamais attendu.",
+  "note": "La TVA est déjà incluse dans le prix.",
+  "serviceNote": "Le service est toujours inclus dans l'addition.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "FR": {
+  "name": "France",
+  "tipNote": "Le service est déjà compris, le pourboire est donc facultatif : quelques euros, jusqu'à environ 10% pour un service exceptionnel.",
+  "note": "Le prix du menu est celui que vous payez : taxes et service sont compris.",
+  "serviceNote": "Le service est compris par la loi dans les prix du menu (« service compris »).",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "DE": {
+  "name": "Allemagne",
+  "tipNote": "Arrondissez à environ 5-10% et indiquez au serveur le montant total que vous souhaitez payer, plutôt que de laisser l'argent sur la table.",
+  "note": "Les sources divergent sur le montant : visitBerlin indique 10-15%, Lonely Planet indique 5-10%.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "GR": {
+  "name": "Grèce",
+  "tipNote": "Aucun pourboire n'est exigé ; arrondir ou laisser 5-10% pour un bon service est apprécié.",
+  "note": "Les sources divergent sur le service : l'office du tourisme d'Athènes indique que les restaurants n'en ajoutent aucun, Lonely Planet indique qu'il est généralement inclus ; vérifiez donc l'addition.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "IE": {
+  "name": "Irlande",
+  "tipNote": "Non attendu, mais 10% pour un bon service est d'usage ; inutile si des frais de service figurent déjà sur l'addition.",
+  "note": "",
+  "serviceNote": "Les grands groupes (six personnes ou plus) se voient souvent appliquer des frais de service ; la liste des prix doit indiquer s'ils s'appliquent.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "IT": {
+  "name": "Italie",
+  "tipNote": "Le pourboire n'est pas attendu ici : arrondissez ou laissez quelques euros seulement pour un service exceptionnel.",
+  "note": "Une loi régionale interdit le coperto dans le Latium (Rome compris).",
+  "serviceNote": "Le coperto (un forfait par table, environ EUR 2 par personne) est courant et légal s'il figure sur le menu ; ce n'est pas un pourboire.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "LV": {
+  "name": "Lettonie",
+  "tipNote": "Arrondissez l'addition, ou laissez environ 10% si le service vous a plu.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "LT": {
+  "name": "Lituanie",
+  "tipNote": "Laissez 5-15% selon le service, sauf si l'addition comporte déjà des frais de service.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "LU": {
+  "name": "Luxembourg",
+  "tipNote": "Le service est déjà compris dans le prix ; arrondissez ou laissez 5-10% si vous souhaitez remercier.",
+  "note": "La loi impose que les prix du menu incluent la TVA et toutes les autres taxes.",
+  "serviceNote": "Les restaurants doivent afficher des prix service compris.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "MT": {
+  "name": "Malte",
+  "tipNote": "Vérifiez d'abord si l'addition comporte des frais de service ; sinon, 5-10% pour un bon service est raisonnable, et arrondir est acceptable dans un café.",
+  "note": "L'office du tourisme de Malte qualifie le pourboire de 5-10% d'usuel pour un bon service, mais non nécessaire lorsque des frais de service figurent sur l'addition.",
+  "serviceNote": "Certains restaurants ajoutent des frais de service ; s'ils figurent sur l'addition, aucun pourboire n'est nécessaire.",
+  "taxNames": [
+   "VAT (restauration)"
+  ],
+  "extraNames": []
+ },
+ "NL": {
+  "name": "Pays-Bas",
+  "tipNote": "Les habitants arrondissent souvent simplement ; environ 10% suffit largement pour un excellent repas.",
+  "note": "Holland.com considère qu'environ 10% est tout à fait acceptable, sans être un montant fixe.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "PT": {
+  "name": "Portugal",
+  "tipNote": "La culture du pourboire est peu développée : laissez de la petite monnaie ou arrondissez, et environ 10% seulement dans les restaurants gastronomiques.",
+  "note": "Les entrées servies sans les avoir demandées (couvert) sont facturées si vous les consommez ; vous pouvez les renvoyer.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "SK": {
+  "name": "Slovaquie",
+  "tipNote": "Arrondissez l'addition, généralement d'environ 5-10% ; ce n'est pas obligatoire.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "SI": {
+  "name": "Slovénie",
+  "tipNote": "Le pourboire n'est pas obligatoire ; arrondir est poli, et 5-10% sont un remerciement chaleureux pour un bon service.",
+  "note": "Les guides ne s'accordent pas sur le montant : Rough Guides conseille d'arrondir, Ljubljana.info indique que 10%, voire 20%, est une belle attention.",
+  "serviceNote": "",
+  "taxNames": [
+   "VAT (restauration)"
+  ],
+  "extraNames": []
+ },
+ "ES": {
+  "name": "Espagne",
+  "tipNote": "Le pourboire n'est pas d'usage ; arrondir ou laisser 5-10% pour un bon service est bienvenu.",
+  "note": "Une affiche indiquant « IVA NO INCLUIDO » signifie que 10% seront ajoutés à l'addition.",
+  "serviceNote": "",
+  "taxNames": [
+   "IVA (restauration)"
+  ],
+  "extraNames": []
+ },
+ "GB": {
+  "name": "Royaume-Uni",
+  "tipNote": "Si l'addition comporte des frais de service de 12.5%, n'en ajoutez pas davantage ; sinon, laissez 10-15%.",
+  "note": "Pubs : on ne donne pas de pourboire au personnel du bar.",
+  "serviceNote": "Généralement 12.5%, indiqué sur l'addition ; il est facultatif et vous pouvez demander à le retirer.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "CH": {
+  "name": "Suisse",
+  "tipNote": "Le service est compris ; arrondir ou laisser environ 10% est d'usage, mais vous n'y êtes pas obligé.",
+  "note": "Les prix du menu sont des prix finaux en francs, TVA comprise.",
+  "serviceNote": "Le service est compris dans le prix.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "NO": {
+  "name": "Norvège",
+  "tipNote": "Non attendu ; les habitants arrondissent ou laissent 5-10% lorsqu'ils sont satisfaits.",
+  "note": "Visit Norway indique que les pourboires restent généralement entre 5-15%, Lonely Planet indique que le pourboire au restaurant n'est pas du tout attendu.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "SE": {
+  "name": "Suède",
+  "tipNote": "Arrondissez l'addition (par exemple de 280 à 300 SEK) ; environ 10% constituent un bon pourboire pour un repas plus copieux.",
+  "note": "",
+  "serviceNote": "Des frais de service sont parfois inclus, mais ils sont clairement indiqués sur l'addition.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "DK": {
+  "name": "Danemark",
+  "tipNote": "Le service est inclus dans l'addition ; ne laissez un pourboire que si le service était excellent, il n'existe pas de montant fixe.",
+  "note": "",
+  "serviceNote": "Le service est inclus dans les additions des restaurants.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "IS": {
+  "name": "Islande",
+  "tipNote": "Le service est inclus, le pourboire n'est donc pas attendu ; un petit pourboire en espèces pour un excellent service est bienvenu.",
+  "note": "Le prix affiché doit inclure la TVA selon la loi.",
+  "serviceNote": "Le service est déjà inclus dans l'addition de la plupart des restaurants et cafés.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "PL": {
+  "name": "Pologne",
+  "tipNote": "Laissez environ 10% pour un bon service au restaurant ; pour un café, une pièce dans la boîte suffit largement.",
+  "note": "Le guide de Varsovie de Lonely Planet indique 10-15%.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "CZ": {
+  "name": "Tchéquie",
+  "tipNote": "Pourboire d'environ 10% pour un service à table.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "HU": {
+  "name": "Hongrie",
+  "tipNote": "Si « szerviz » figure sur l'addition, n'ajoutez rien ; sinon, laissez environ 10% et indiquez le montant total que vous souhaitez payer.",
+  "note": "Le chiffre de 12.5% provient d'un article de 2015 ; vérifiez donc l'addition.",
+  "serviceNote": "De nombreux restaurants ajoutent des frais de service d'environ 12.5%, indiqués par « szerviz » ; s'ils figurent sur l'addition, ne laissez pas de pourboire.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "TR": {
+  "name": "Turquie",
+  "tipNote": "Laissez environ 10% (15% pour un service très satisfaisant), idéalement en espèces : depuis l'interdiction, certains établissements proposent 8, 10 ou 15% sur le terminal de carte, mais beaucoup ne peuvent pas recevoir de pourboires par carte.",
+  "note": "Les menus doivent désormais afficher le prix complet : aucuns frais de service, de table ou de couvert ne peuvent être ajoutés, et les pourboires sont volontaires.",
+  "serviceNote": "Depuis le 30 janvier 2026, les restaurants ne peuvent plus ajouter de frais de service, de table ou de couvert, sous quelque appellation que ce soit (Journal officiel n° 33153).",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "MX": {
+  "name": "Mexique",
+  "tipNote": "Pourboire d'environ 10%, jusqu'à 15% pour un service très satisfaisant ; il est volontaire, donc personne ne peut l'exiger.",
+  "note": "Le pourboire habituel est de 10% (15% pour un service très satisfaisant). Le guide Amériques de Lonely Planet indique 15-20% et que des frais de service sont courants, mais Profeco, l'office du tourisme de Mexico et l'article 2026 de Lonely Planet sur le Mexique indiquent 10%.",
+  "serviceNote": "Selon la loi, aucun prestataire ne peut exiger un pourboire ni en fixer le montant.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "BR": {
+  "name": "Brésil",
+  "tipNote": "Si les frais de service de 10% figurent sur l'addition, réglez-les comme pourboire et n'en ajoutez pas d'autre.",
+  "note": "L'inclusion des taxes dans les prix du menu n'a pas été vérifiée séparément.",
+  "serviceNote": "Une « taxa de serviço » de 10% figure souvent sur l'addition ; la loi la rend facultative et doit l'indiquer.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "AR": {
+  "name": "Argentine",
+  "tipNote": "Laissez environ 10% en espèces ; ce n'est pas une obligation légale, mais c'est un usage bien établi.",
+  "note": "L'inclusion des taxes dans les prix du menu n'a pas pu être vérifiée (le PDF national d'affichage des prix était illisible) ; Lonely Planet indique que des frais de service sont plus couramment ajoutés.",
+  "serviceNote": "Certains restaurants facturent un « cubierto » par personne ; il ne peut pas être facturé pour les enfants de moins de 12 ans.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "CL": {
+  "name": "Chili",
+  "tipNote": "L'addition suggère 10% ; dites « con propina » pour l'inclure, ou refusez, c'est volontaire.",
+  "note": "La loi impose que les prix du menu incluent l'IVA.",
+  "serviceNote": "L'addition suggère un pourboire d'au moins 10%, mais il est volontaire.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "PE": {
+  "name": "Pérou",
+  "tipNote": "Le pourboire n'est pas la norme et beaucoup de Péruviens n'en laissent pas. Si l'addition ne comporte pas de ligne « servicio » ou « recargo », environ 10% est une attention appréciée ; si elle en comporte une, vous avez déjà laissé un pourboire.",
+  "note": "Les règles fiscales et d'affichage des prix sont officielles ; le montant du pourboire est une estimation, car les deux articles de Lonely Planet sur le Pérou divergent et aucun chiffre de l'office du tourisme n'a été trouvé.",
+  "serviceNote": "De nombreux restaurants de milieu et haut de gamme ajoutent un « servicio » ou un « recargo al consumo » pouvant atteindre 13% (Decreto Ley 25988) ; Indecopi indique que les prix affichés doivent l'inclure. Vérifiez le menu et l'addition.",
+  "taxNames": [
+   "IGV"
+  ],
+  "extraNames": []
+ },
+ "CO": {
+  "name": "Colombie",
+  "tipNote": "L'addition peut suggérer 10% ; c'est volontaire, vous pouvez accepter, modifier ou refuser.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [
+   "Impôt national sur la consommation (restauration)"
+  ],
+  "extraNames": []
+ },
+ "CR": {
+  "name": "Costa Rica",
+  "tipNote": "Le service de 10% est déjà compris dans le prix ; un pourboire supplémentaire est facultatif, mais environ 5% sont appréciés pour un bon service.",
+  "note": "La loi impose que le prix du menu soit le prix final, incluant 13% d'IVA et 10% de service. Si un menu indique « + impuestos » ou « 10% servicio no incluido », il enfreint la règle et l'addition serait environ 23% plus élevée.",
+  "serviceNote": "Le service à table de 10%, calculé avant taxes, doit aussi figurer dans le prix final du menu ; il n'est pas facturé pour la vente à emporter.",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": []
+ },
+ "DO": {
+  "name": "République dominicaine",
+  "tipNote": "Le pourboire légal de 10% figure déjà sur l'addition ; l'office du tourisme indique qu'un supplément de 10% est d'usage.",
+  "note": "La question de savoir si les menus affichent les prix avant taxes et service n'a pas été vérifiée.",
+  "serviceNote": "Un pourboire légal de 10% est ajouté aux additions sur place (pas à emporter ni en livraison).",
+  "taxNames": [
+   "ITBIS"
+  ],
+  "extraNames": []
+ },
+ "CU": {
+  "name": "Cuba",
+  "tipNote": "Vérifiez si l'addition comporte des frais de service de 10-12% ; sinon, laissez un petit pourboire au serveur (un voyagiste suggère environ 10% ou de la petite monnaie).",
+  "note": "Fiabilité faible : aucune source officielle sur les taxes, les prix du menu ou les frais de service n'a pu être consultée. Les restaurants privés fixent leurs prix en pesos à des taux informels et beaucoup acceptent les euros ; demandez dans quelle monnaie le menu est établi.",
+  "serviceNote": "Des frais de service de 10-12% sont assez courants dans les restaurants d'État et les paladares haut de gamme ; certains ajoutent un forfait de 10%.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "JM": {
+  "name": "Jamaïque",
+  "tipNote": "Vérifiez d'abord si l'addition comporte un pourboire ; sinon, laissez 15-20% au restaurant. Les terminaux de carte peuvent proposer des pourboires allant jusqu'à 25%.",
+  "note": "La GCT et des frais de service sont souvent ajoutés à l'addition plutôt qu'au prix du menu, du moins dans les hôtels. Les seules sources sur le pourboire sont un journal et les conseils de Lonely Planet pour les Caraïbes ; aucune page de l'office du tourisme de la Jamaïque n'a pu être consultée.",
+  "serviceNote": "Certains restaurants ajoutent des frais de service ou un pourboire obligatoire de 10-20% ; vérifiez l'addition avant de laisser un pourboire.",
+  "taxNames": [
+   "GCT"
+  ],
+  "extraNames": []
+ },
+ "JP": {
+  "name": "Japon",
+  "tipNote": "Le pourboire n'est pas d'usage et peut dérouter le personnel.",
+  "note": "Depuis avril 2021, les menus doivent afficher des prix toutes taxes comprises.",
+  "serviceNote": "Des frais de service sont généralement ajoutés à l'addition finale dans les restaurants.",
+  "taxNames": [
+   "Taxe à la consommation"
+  ],
+  "extraNames": []
+ },
+ "KR": {
+  "name": "Corée du Sud",
+  "tipNote": "Le pourboire n'est pas d'usage et certains membres du personnel le refuseront.",
+  "note": "Les sources divergent sur l'inclusion de la TVA dans les prix du menu : une règle de 2012 indique qu'elle doit l'être, Visit Seoul indique qu'elle est « ajoutée ».",
+  "serviceNote": "De nombreux hôtels et restaurants haut de gamme ajoutent 10% de frais de service en plus de la TVA.",
+  "taxNames": [
+   "TVA"
+  ],
+  "extraNames": []
+ },
+ "CN": {
+  "name": "Chine",
+  "tipNote": "Le pourboire n'est pas attendu ; vérifiez d'abord si l'addition comporte des frais de service.",
+  "note": "L'inclusion des taxes dans les prix du menu n'a pas été vérifiée séparément.",
+  "serviceNote": "Les restaurants de qualité et haut de gamme peuvent ajouter des frais de service de 5-15%.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "HK": {
+  "name": "Hong Kong",
+  "tipNote": "La plupart des restaurants ajoutent 10% de service, il est donc inutile d'ajouter un pourboire.",
+  "note": "Hong Kong n'a ni taxe de vente ni TVA.",
+  "serviceNote": "La plupart des restaurants ajoutent 10% de frais de service ; certains cafés et petits restaurants n'en ajoutent pas.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "TW": {
+  "name": "Taïwan",
+  "tipNote": "Le pourboire n'est pas attendu ; des frais de service de 10% sont souvent ajoutés à l'addition.",
+  "note": "L'inclusion des taxes dans les prix du menu n'a pas été vérifiée séparément.",
+  "serviceNote": "Des frais de service de 10% sont d'usage dans les hôtels et restaurants.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "VN": {
+  "name": "Viêt Nam",
+  "tipNote": "Le pourboire n'est pas attendu dans les restaurants ; arrondir ou laisser 5-10% pour un bon service est bienvenu, et rien de plus si des frais de service figurent sur l'addition.",
+  "note": "La loi sur les prix indique que les prix affichés incluent les taxes et frais, mais les établissements haut de gamme peuvent indiquer des prix avant TVA et service ; vérifiez donc la note en bas du menu. Aucune source officielle sur les frais de service n'a été trouvée.",
+  "serviceNote": "Vérifiez sur l'addition la présence de frais de service ou d'une ligne de TVA.",
+  "taxNames": [
+   "TVA"
+  ],
+  "extraNames": []
+ },
+ "PH": {
+  "name": "Philippines",
+  "tipNote": "Si des frais de service figurent sur l'addition, aucun pourboire n'est nécessaire ; sinon, arrondir ou laisser 5-10% pour un bon service est apprécié.",
+  "note": "La TVA est de 12% ; certains restaurants l'intègrent aux prix du menu et d'autres l'ajoutent à l'addition, et le menu indique lequel. Aucune page du département du Tourisme sur le pourboire n'a pu être consultée.",
+  "serviceNote": "De nombreux restaurants ajoutent des frais de service de 5-10% ; la loi ne fixe aucun taux, mais la totalité doit revenir au personnel non encadrant.",
+  "taxNames": [
+   "TVA"
+  ],
+  "extraNames": []
+ },
+ "KH": {
+  "name": "Cambodge",
+  "tipNote": "Le pourboire n'est pas une coutume ; arrondir ou laisser un ou deux dollars pour un bon service suffit largement, et rien si des frais de service figurent sur l'addition.",
+  "note": "Les prix sont souvent exprimés en dollars américains. L'inclusion de la TVA de 10% dans les prix du menu n'a pas pu être vérifiée ; consultez donc la note en bas du menu.",
+  "serviceNote": "Les hôtels et restaurants ajoutent couramment 10% de frais de service (FAQ du ministère du Tourisme) ; Rough Guides indique 5-10% dans les établissements haut de gamme.",
+  "taxNames": [
+   "TVA"
+  ],
+  "extraNames": []
+ },
+ "AU": {
+  "name": "Australie",
+  "tipNote": "Non attendu ; pour un service à table dans un restaurant urbain, 10% sont appréciés, rien au comptoir.",
+  "note": "Tourism Australia indique que les restaurants n'ajoutent pas de frais de service ; le supplément jours fériés est distinct.",
+  "serviceNote": "Certains établissements ajoutent un supplément le week-end ou les jours fériés pouvant atteindre 15% (Lonely Planet) ; consultez le menu.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "NZ": {
+  "name": "Nouvelle-Zélande",
+  "tipNote": "Le pourboire n'est pas attendu, mais 10% pour un service à table vraiment excellent sont bienvenus.",
+  "note": "Lonely Planet indique que certains établissements ajoutent un supplément jours fériés pouvant atteindre 15%.",
+  "serviceNote": "Les restaurants n'ajoutent pas de frais de service.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "ZA": {
+  "name": "Afrique du Sud",
+  "tipNote": "Pourboire de 10-15% pour un bon service ; inutile s'il y a des frais de service de groupe sur l'addition.",
+  "note": "La page de South African Tourism date de 2018, et l'inclusion de la TVA dans les prix du menu n'a pas pu être vérifiée.",
+  "serviceNote": "Des frais de service de 10% sont ajoutés automatiquement pour les tables de plus de six convives.",
+  "taxNames": [
+   "TVA"
+  ],
+  "extraNames": []
+ },
+ "MA": {
+  "name": "Maroc",
+  "tipNote": "Vérifiez d'abord si l'addition comporte des frais de service ; sinon, laissez 5-10%, ou jusqu'à 15% dans les établissements haut de gamme.",
+  "note": "Les prix du menu doivent inclure la TVA (loi 31-08). L'office du tourisme marocain n'a pas de page sur le pourboire ; les sources sont un éditeur, un site d'actualité et un guide local, et le premier indique 10-15% là où les autres indiquent 5-10%.",
+  "serviceNote": "Les restaurants touristiques populaires ajoutent souvent 10% (Lonely Planet, Le360) ; aucun taux légal n'a été trouvé.",
+  "taxNames": [
+   "VAT (restauration)"
+  ],
+  "extraNames": []
+ },
+ "EG": {
+  "name": "Égypte",
+  "tipNote": "Des frais de service sont généralement ajoutés ; laissez donc un peu d'argent en plus en espèces pour le serveur, environ 10% s'il n'y en a pas.",
+  "note": "Une déclaration de la chambre de 2020 indique que les menus des établissements touristiques doivent afficher des prix tout compris, mais un rapport de 2023 indique que les clients paient 26% en plus (12% de service, 14% de TVA). Partez du principe que taxes et service sont ajoutés tant que le menu ne dit pas le contraire.",
+  "serviceNote": "Environ 12% de service sont ajoutés dans les établissements touristiques (Lonely Planet indique 10%).",
+  "taxNames": [
+   "TVA"
+  ],
+  "extraNames": []
+ },
+ "IL": {
+  "name": "Israël",
+  "tipNote": "Pourboire de 10-12% pour un bon service et de 15% pour un service excellent (15% est la norme à Tel-Aviv), idéalement en espèces.",
+  "note": "Aucune page du ministère du Tourisme sur le pourboire n'a pu être consultée ; les trois sources (le blog d'une chaîne hôtelière, un magazine d'actualité et un wiki de voyage communautaire) s'accordent sur 10-15%.",
+  "serviceNote": "Les restaurants n'ajoutent presque jamais de frais de service, sauf pour les grands groupes.",
+  "taxNames": [
+   "TVA"
+  ],
+  "extraNames": []
+ },
+ "JO": {
+  "name": "Jordanie",
+  "tipNote": "Pourboire d'environ 10% en plus de l'addition, sauf si des frais de service y figurent déjà.",
+  "note": "Les prix du menu excluent généralement la taxe de vente de 16% et toute ligne de service de 10%, si bien que l'addition peut dépasser d'environ un quart le total du menu.",
+  "serviceNote": "De nombreux restaurants ajoutent une ligne « service » de 10% ; c'est un usage, et non une obligation légale.",
+  "taxNames": [
+   "Taxe générale de vente"
+  ],
+  "extraNames": []
+ },
+ "QA": {
+  "name": "Qatar",
+  "tipNote": "Des frais de service figurent généralement sur l'addition ; 10-15% supplémentaires en espèces sont appréciés.",
+  "note": "L'inclusion des taxes dans les prix du menu n'a pas été vérifiée.",
+  "serviceNote": "La plupart des établissements d'accueil incluent des frais de service dans l'addition.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "SA": {
+  "name": "Arabie saoudite",
+  "tipNote": "Les serveurs attendent généralement un pourboire de 10-15% à la fin du repas.",
+  "note": "Le pourboire n'est pas obligatoire et aucun frais de service n'est ajouté, un pourboire de 10-15% ne fait donc pas double emploi.",
+  "serviceNote": "Les restaurants ne peuvent pas ajouter de frais de service (décision du ministère du Commerce, confirmée en 2017).",
+  "taxNames": [
+   "TVA"
+  ],
+  "extraNames": []
+ },
+ "KE": {
+  "name": "Kenya",
+  "tipNote": "Le pourboire n'est pas obligatoire, mais environ 10% de l'addition pour un bon repas sont appréciés.",
+  "note": "La TVA est de 16% et les entreprises touristiques agréées paient aussi une taxe de 2% sur les ventes de nourriture et de boissons. Aucune loi sur l'affichage des prix du menu n'a été trouvée ; vérifiez donc si le menu indique « TVA incluse ».",
+  "serviceNote": "",
+  "taxNames": [
+   "TVA"
+  ],
+  "extraNames": []
+ },
+ "TZ": {
+  "name": "Tanzanie",
+  "tipNote": "Environ 10% sont d'usage au restaurant, jusqu'à 15% pour un service très satisfaisant ; toujours en espèces.",
+  "note": "Les prix annoncés par les entreprises assujetties à la TVA doivent inclure la TVA de 18%. Aucune page de l'office du tourisme de Tanzanie sur le pourboire n'a pu être consultée ; les sources sont des opérateurs de safari et le guide Afrique de Lonely Planet.",
+  "serviceNote": "",
+  "taxNames": [
+   "TVA"
+  ],
+  "extraNames": []
+ }
+}

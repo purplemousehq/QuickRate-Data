@@ -1,0 +1,1253 @@
+{
+ "US-AK": {
+  "name": "Alaska",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "L'Alaska non ha un'imposta statale sulle vendite e ogni città stabilisce la propria: Anchorage e Fairbanks, le due città più grandi, non applicano nulla, mentre Juneau applica il 5%, Seward il 4% e Kodiak il 7% (anno fiscale 2024), e alcune città sommano un'imposta della contea (borough) e una comunale. Il 1.82% è una media che non corrisponde a nessuna città in particolare.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta locale sulle vendite"
+  ],
+  "extraNames": []
+ },
+ "US-AL": {
+  "name": "Alabama",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "L'imposta sulle vendite viene aggiunta alla cassa; controlla il conto per verificare se c'è già una mancia o un costo di servizio prima di lasciarne una.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite"
+  ],
+  "extraNames": []
+ },
+ "US-AR": {
+  "name": "Arkansas",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "L'imposta sulle vendite viene aggiunta alla cassa; controlla il conto per verificare se c'è già una mancia o un costo di servizio prima di lasciarne una.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite"
+  ],
+  "extraNames": []
+ },
+ "US-AZ": {
+  "name": "Arizona",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "L'imposta sulle vendite viene aggiunta alla cassa; controlla il conto per verificare se c'è già una mancia o un costo di servizio prima di lasciarne una.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite"
+  ],
+  "extraNames": []
+ },
+ "US-CA": {
+  "name": "California",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "In California controlla il menu o il conto per una voce di sovrapprezzo prima di lasciare una mancia.",
+  "serviceNote": "Alcuni ristoranti in California aggiungono un costo di servizio o un sovrapprezzo obbligatorio; la legge statale lo consente solo se è indicato sul menu con la sua finalità.",
+  "taxNames": [
+   "Imposta sulle vendite"
+  ],
+  "extraNames": []
+ },
+ "US-CO": {
+  "name": "Colorado",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "L'imposta statale del Colorado è solo del 2.9%, mentre le imposte di città, contea e distretto costituiscono gran parte della media del 7.89%.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite"
+  ],
+  "extraNames": []
+ },
+ "US-CT": {
+  "name": "Connecticut",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "Il Connecticut applica il 7.35% sui pasti al ristorante e su alcune bevande, un punto in più del 6.35% sulla maggior parte dei beni.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite sui pasti"
+  ],
+  "extraNames": []
+ },
+ "US-DC": {
+  "name": "Distretto di Columbia",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "Washington DC applica il 10% su pasti e bevande al ristorante, ben al di sopra dell'aliquota generale del 6%.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite sui pasti al ristorante"
+  ],
+  "extraNames": []
+ },
+ "US-DE": {
+  "name": "Delaware",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "Il Delaware non ha imposte sulle vendite: il prezzo del menu è quello che appare sul conto prima della mancia.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "US-FL": {
+  "name": "Florida",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "L'imposta sulle vendite viene aggiunta alla cassa; controlla il conto per verificare se c'è già una mancia o un costo di servizio prima di lasciarne una.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite"
+  ],
+  "extraNames": []
+ },
+ "US-GA": {
+  "name": "Georgia",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "L'imposta sulle vendite viene aggiunta alla cassa; controlla il conto per verificare se c'è già una mancia o un costo di servizio prima di lasciarne una.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite"
+  ],
+  "extraNames": []
+ },
+ "US-HI": {
+  "name": "Hawaii",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "I ristoranti delle Hawaii possono aggiungere al conto una general excise tax fino al 4.712%.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "General excise tax (trasferita al cliente)"
+  ],
+  "extraNames": []
+ },
+ "US-IA": {
+  "name": "Iowa",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "L'imposta sulle vendite viene aggiunta alla cassa; controlla il conto per verificare se c'è già una mancia o un costo di servizio prima di lasciarne una.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite"
+  ],
+  "extraNames": []
+ },
+ "US-ID": {
+  "name": "Idaho",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "L'imposta sulle vendite viene aggiunta alla cassa; controlla il conto per verificare se c'è già una mancia o un costo di servizio prima di lasciarne una.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite"
+  ],
+  "extraNames": []
+ },
+ "US-IL": {
+  "name": "Illinois",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "Chicago aggiunge un'imposta sui ristoranti dello 0.5% oltre all'imposta sulle vendite.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite"
+  ],
+  "extraNames": [
+   "Imposta sui ristoranti di Chicago"
+  ]
+ },
+ "US-IN": {
+  "name": "Indiana",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "L'imposta sulle vendite viene aggiunta alla cassa; controlla il conto per verificare se c'è già una mancia o un costo di servizio prima di lasciarne una.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite"
+  ],
+  "extraNames": []
+ },
+ "US-KS": {
+  "name": "Kansas",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "L'imposta sulle vendite viene aggiunta alla cassa; controlla il conto per verificare se c'è già una mancia o un costo di servizio prima di lasciarne una.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite"
+  ],
+  "extraNames": []
+ },
+ "US-KY": {
+  "name": "Kentucky",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "L'imposta sulle vendite viene aggiunta alla cassa; controlla il conto per verificare se c'è già una mancia o un costo di servizio prima di lasciarne una.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite"
+  ],
+  "extraNames": []
+ },
+ "US-LA": {
+  "name": "Louisiana",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "La Louisiana ha la media complessiva più alta del paese: le imposte locali aggiungono circa quanto l'imposta statale del 5%.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite"
+  ],
+  "extraNames": []
+ },
+ "US-MA": {
+  "name": "Massachusetts",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "I ristoranti del Massachusetts applicano il 6.25%, e le città che hanno aderito aggiungono lo 0.75%, per un totale del 7%.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite sui pasti"
+  ],
+  "extraNames": [
+   "Imposta locale facoltativa sui pasti"
+  ]
+ },
+ "US-MD": {
+  "name": "Maryland",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "L'imposta sulle vendite viene aggiunta alla cassa; controlla il conto per verificare se c'è già una mancia o un costo di servizio prima di lasciarne una.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite"
+  ],
+  "extraNames": []
+ },
+ "US-ME": {
+  "name": "Maine",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "Il Maine applica l'8% sui pasti al ristorante, non l'aliquota generale del 5.5%.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sui cibi pronti"
+  ],
+  "extraNames": []
+ },
+ "US-MI": {
+  "name": "Michigan",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "L'imposta sulle vendite viene aggiunta alla cassa; controlla il conto per verificare se c'è già una mancia o un costo di servizio prima di lasciarne una.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite"
+  ],
+  "extraNames": []
+ },
+ "US-MN": {
+  "name": "Minnesota",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "Il centro di Minneapolis aggiunge il 3% ai pasti al ristorante (e il 3% agli alcolici) oltre alla consueta imposta sulle vendite.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite"
+  ],
+  "extraNames": [
+   "Imposta sui ristoranti del centro di Minneapolis",
+   "Imposta sugli alcolici del centro di Minneapolis"
+  ]
+ },
+ "US-MO": {
+  "name": "Missouri",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "L'imposta sulle vendite viene aggiunta alla cassa; controlla il conto per verificare se c'è già una mancia o un costo di servizio prima di lasciarne una.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite"
+  ],
+  "extraNames": []
+ },
+ "US-MS": {
+  "name": "Mississippi",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "L'imposta sulle vendite viene aggiunta alla cassa; controlla il conto per verificare se c'è già una mancia o un costo di servizio prima di lasciarne una.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite"
+  ],
+  "extraNames": []
+ },
+ "US-MT": {
+  "name": "Montana",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "Il Montana non ha imposte sulle vendite, ma i ristoranti nelle località di accesso a piste da sci e parchi aggiungono una resort tax del 3%.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [],
+  "extraNames": [
+   "Imposta locale sulle località turistiche"
+  ]
+ },
+ "US-NC": {
+  "name": "Carolina del Nord",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "L'imposta sulle vendite viene aggiunta alla cassa; controlla il conto per verificare se c'è già una mancia o un costo di servizio prima di lasciarne una.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite"
+  ],
+  "extraNames": []
+ },
+ "US-ND": {
+  "name": "Dakota del Nord",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "L'imposta sulle vendite viene aggiunta alla cassa; controlla il conto per verificare se c'è già una mancia o un costo di servizio prima di lasciarne una.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite"
+  ],
+  "extraNames": []
+ },
+ "US-NE": {
+  "name": "Nebraska",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "L'imposta sulle vendite viene aggiunta alla cassa; controlla il conto per verificare se c'è già una mancia o un costo di servizio prima di lasciarne una.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite"
+  ],
+  "extraNames": []
+ },
+ "US-NH": {
+  "name": "New Hampshire",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "Il New Hampshire non ha imposte sulle vendite, ma applica l'8.5% su pasti e bevande al ristorante.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta su pasti e noleggi"
+  ],
+  "extraNames": []
+ },
+ "US-NJ": {
+  "name": "New Jersey",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "Il New Jersey applica il 6.625% quasi ovunque, con un'aliquota più bassa nella contea di Salem.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite"
+  ],
+  "extraNames": []
+ },
+ "US-NM": {
+  "name": "Nuovo Messico",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "La gross receipts tax del Nuovo Messico varia da città a città e spesso i ristoranti la indicano come voce separata.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite"
+  ],
+  "extraNames": []
+ },
+ "US-NV": {
+  "name": "Nevada",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "L'imposta sulle vendite viene aggiunta alla cassa; controlla il conto per verificare se c'è già una mancia o un costo di servizio prima di lasciarne una.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite"
+  ],
+  "extraNames": []
+ },
+ "US-NY": {
+  "name": "New York",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "I ristoranti di New York City applicano l'8.875%, al di sopra della media statale dell'8.54%.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite"
+  ],
+  "extraNames": []
+ },
+ "US-OH": {
+  "name": "Ohio",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "L'imposta sulle vendite viene aggiunta alla cassa; controlla il conto per verificare se c'è già una mancia o un costo di servizio prima di lasciarne una.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite"
+  ],
+  "extraNames": []
+ },
+ "US-OK": {
+  "name": "Oklahoma",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "L'imposta sulle vendite viene aggiunta alla cassa; controlla il conto per verificare se c'è già una mancia o un costo di servizio prima di lasciarne una.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite"
+  ],
+  "extraNames": []
+ },
+ "US-OR": {
+  "name": "Oregon",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "L'Oregon non ha imposte sulle vendite: il prezzo del menu è quello che appare sul conto prima della mancia.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "US-PA": {
+  "name": "Pennsylvania",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "L'imposta sulle vendite viene aggiunta alla cassa; controlla il conto per verificare se c'è già una mancia o un costo di servizio prima di lasciarne una.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite"
+  ],
+  "extraNames": []
+ },
+ "US-RI": {
+  "name": "Rhode Island",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "Ogni ristorante e bar del Rhode Island applica il 7% di imposta sulle vendite più l'1% di imposta locale su pasti e bevande, per un totale dell'8%, aggiunto alla cassa.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta locale su pasti e bevande",
+   "Imposta sulle vendite"
+  ],
+  "extraNames": []
+ },
+ "US-SC": {
+  "name": "Carolina del Sud",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "L'imposta sulle vendite viene aggiunta alla cassa; controlla il conto per verificare se c'è già una mancia o un costo di servizio prima di lasciarne una.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite"
+  ],
+  "extraNames": []
+ },
+ "US-SD": {
+  "name": "Dakota del Sud",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "L'aliquota statale del Dakota del Sud è del 4.2%, a cui si aggiungono le imposte comunali.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite"
+  ],
+  "extraNames": []
+ },
+ "US-TN": {
+  "name": "Tennessee",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "L'imposta sulle vendite viene aggiunta alla cassa; controlla il conto per verificare se c'è già una mancia o un costo di servizio prima di lasciarne una.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite"
+  ],
+  "extraNames": []
+ },
+ "US-TX": {
+  "name": "Texas",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "Gli alcolici serviti nei bar e nei ristoranti del Texas sono soggetti a una imposta sulle vendite di bevande miste dell'8.25%.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite"
+  ],
+  "extraNames": []
+ },
+ "US-UT": {
+  "name": "Utah",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "Salt Lake City aggiunge un'imposta sui ristoranti dell'1% oltre all'imposta sulle vendite dell'8.45%.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite"
+  ],
+  "extraNames": [
+   "Imposta locale sui ristoranti"
+  ]
+ },
+ "US-VA": {
+  "name": "Virginia",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "Le città e molte contee della Virginia aggiungono una propria imposta sui pasti di qualche punto percentuale oltre all'imposta sulle vendite, quindi il conto di un ristorante può superare di molto l'aliquota statale.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite"
+  ],
+  "extraNames": [
+   "Imposta locale sui pasti"
+  ]
+ },
+ "US-VT": {
+  "name": "Vermont",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "Il Vermont applica il 9% sui pasti al ristorante (10% sugli alcolici), e alcune città aggiungono l'1%.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sui pasti"
+  ],
+  "extraNames": [
+   "Imposta locale facoltativa"
+  ]
+ },
+ "US-WA": {
+  "name": "Washington",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "L'imposta sulle vendite viene aggiunta alla cassa; controlla il conto per verificare se c'è già una mancia o un costo di servizio prima di lasciarne una.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite"
+  ],
+  "extraNames": []
+ },
+ "US-WI": {
+  "name": "Wisconsin",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "L'imposta sulle vendite viene aggiunta alla cassa; controlla il conto per verificare se c'è già una mancia o un costo di servizio prima di lasciarne una.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite"
+  ],
+  "extraNames": []
+ },
+ "US-WV": {
+  "name": "Virginia Occidentale",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "L'imposta sulle vendite viene aggiunta alla cassa; controlla il conto per verificare se c'è già una mancia o un costo di servizio prima di lasciarne una.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite"
+  ],
+  "extraNames": []
+ },
+ "US-WY": {
+  "name": "Wyoming",
+  "tipNote": "Lascia il 15-20% dell'importo al netto delle tasse nei ristoranti con servizio al tavolo: il 15% è il minimo che non risulta scortese, il 18-20% è la norma, mentre nei locali con servizio al banco la mancia non è necessaria.",
+  "note": "L'imposta sulle vendite viene aggiunta alla cassa; controlla il conto per verificare se c'è già una mancia o un costo di servizio prima di lasciarne una.",
+  "serviceNote": "Nessun servizio è incluso di default: controlla il conto per verificare se è stata aggiunta una commissione o una mancia prima di lasciarne un'altra.",
+  "taxNames": [
+   "Imposta sulle vendite"
+  ],
+  "extraNames": []
+ },
+ "CA-AB": {
+  "name": "Alberta",
+  "tipNote": "Lascia dal 15% al 20% sul conto al netto delle tasse; il 15% è il minimo sicuro.",
+  "note": "L'Alberta non ha un'imposta provinciale sulle vendite, quindi alla cassa si aggiunge solo il 5% di GST.",
+  "serviceNote": "Di norma non c'è un costo di servizio; alcuni ristoranti aggiungono automaticamente dal 15% al 18% per i gruppi numerosi (di solito sei o più persone), quindi controlla il conto.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "CA-BC": {
+  "name": "Columbia Britannica",
+  "tipNote": "Lascia dal 15% al 20% sul conto al netto delle tasse; il 15% è il minimo sicuro.",
+  "note": "In Columbia Britannica i pasti al ristorante sono esenti dalla PST del 7%, quindi un conto solo per il cibo include solo il 5% di GST; gli alcolici aggiungono il 10% di PST.",
+  "serviceNote": "Di norma non c'è un costo di servizio; alcuni ristoranti aggiungono automaticamente dal 15% al 18% per i gruppi numerosi (di solito sei o più persone), quindi controlla il conto.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": [
+   "PST sugli alcolici",
+   "PST sulle bevande gassate"
+  ]
+ },
+ "CA-SK": {
+  "name": "Saskatchewan",
+  "tipNote": "Lascia dal 15% al 20% sul conto al netto delle tasse; il 15% è il minimo sicuro.",
+  "note": "Il Saskatchewan applica il 6% di PST sui pasti al ristorante oltre al 5% di GST (11% in tutto); gli alcolici sono soggetti al 10% di LCT più GST invece della PST.",
+  "serviceNote": "Di norma non c'è un costo di servizio; alcuni ristoranti aggiungono automaticamente dal 15% al 18% per i gruppi numerosi (di solito sei o più persone), quindi controlla il conto.",
+  "taxNames": [
+   "GST",
+   "PST"
+  ],
+  "extraNames": [
+   "Liquor Consumption Tax (sostituisce la PST)"
+  ]
+ },
+ "CA-MB": {
+  "name": "Manitoba",
+  "tipNote": "Lascia dal 15% al 20% sul conto al netto delle tasse; il 15% è il minimo sicuro.",
+  "note": "Il Manitoba mantiene il 7% di RST su pasti al ristorante e alcolici anche dopo l'esenzione sui generi alimentari di luglio 2026, quindi il conto include il 12% in totale.",
+  "serviceNote": "Di norma non c'è un costo di servizio; alcuni ristoranti aggiungono automaticamente dal 15% al 18% per i gruppi numerosi (di solito sei o più persone), quindi controlla il conto.",
+  "taxNames": [
+   "GST",
+   "RST (imposta provinciale sulle vendite al dettaglio)"
+  ],
+  "extraNames": []
+ },
+ "CA-ON": {
+  "name": "Ontario",
+  "tipNote": "Lascia dal 15% al 20% sul conto al netto delle tasse; il 15% è il minimo sicuro.",
+  "note": "Il cibo e le bevande da asporto fino a $4 al netto delle tasse ricevono alla cassa la parte provinciale dell'8% restituita (si applica solo il 5%); gli alcolici non rientrano nell'agevolazione.",
+  "serviceNote": "Di norma non c'è un costo di servizio; alcuni ristoranti aggiungono automaticamente dal 15% al 18% per i gruppi numerosi (di solito sei o più persone), quindi controlla il conto.",
+  "taxNames": [
+   "HST"
+  ],
+  "extraNames": []
+ },
+ "CA-QC": {
+  "name": "Québec",
+  "tipNote": "Dal 15% al 20% del conto prima delle tasse; i terminali di pagamento del Québec ora suggeriscono la mancia sull'importo prima delle tasse",
+  "note": "I conti riportano separatamente TPS e TVQ e la mancia volontaria non è tassata; un 'service fee' stampato sul conto è invece soggetto a imposta.",
+  "serviceNote": "Di norma non c'è un costo di servizio; alcuni ristoranti aggiungono automaticamente dal 15% al 18% per i gruppi numerosi (di solito sei o più persone), quindi controlla il conto.",
+  "taxNames": [
+   "GST",
+   "QST"
+  ],
+  "extraNames": []
+ },
+ "CA-NB": {
+  "name": "Nuovo Brunswick",
+  "tipNote": "Lascia dal 15% al 20% sul conto al netto delle tasse; il 15% è il minimo sicuro.",
+  "note": "L'HST si applica all'intero conto del ristorante; nelle fonti consultate non sono state trovate agevolazioni per i ristoranti.",
+  "serviceNote": "Di norma non c'è un costo di servizio; alcuni ristoranti aggiungono automaticamente dal 15% al 18% per i gruppi numerosi (di solito sei o più persone), quindi controlla il conto.",
+  "taxNames": [
+   "HST"
+  ],
+  "extraNames": []
+ },
+ "CA-NL": {
+  "name": "Terranova e Labrador",
+  "tipNote": "Lascia dal 15% al 20% sul conto al netto delle tasse; il 15% è il minimo sicuro.",
+  "note": "L'HST si applica all'intero conto del ristorante; nelle fonti consultate non sono state trovate agevolazioni per i ristoranti.",
+  "serviceNote": "Di norma non c'è un costo di servizio; alcuni ristoranti aggiungono automaticamente dal 15% al 18% per i gruppi numerosi (di solito sei o più persone), quindi controlla il conto.",
+  "taxNames": [
+   "HST"
+  ],
+  "extraNames": []
+ },
+ "CA-PE": {
+  "name": "Isola del Principe Edoardo",
+  "tipNote": "Lascia dal 15% al 20% sul conto al netto delle tasse; il 15% è il minimo sicuro.",
+  "note": "L'HST si applica all'intero conto del ristorante; nelle fonti consultate non sono state trovate agevolazioni per i ristoranti.",
+  "serviceNote": "Di norma non c'è un costo di servizio; alcuni ristoranti aggiungono automaticamente dal 15% al 18% per i gruppi numerosi (di solito sei o più persone), quindi controlla il conto.",
+  "taxNames": [
+   "HST"
+  ],
+  "extraNames": []
+ },
+ "CA-NS": {
+  "name": "Nuova Scozia",
+  "tipNote": "Lascia dal 15% al 20% sul conto al netto delle tasse; il 15% è il minimo sicuro.",
+  "note": "L'HST della Nuova Scozia è sceso al 14% nell'aprile 2025, quindi le guide più datate che indicano il 15% non sono più aggiornate.",
+  "serviceNote": "Di norma non c'è un costo di servizio; alcuni ristoranti aggiungono automaticamente dal 15% al 18% per i gruppi numerosi (di solito sei o più persone), quindi controlla il conto.",
+  "taxNames": [
+   "HST"
+  ],
+  "extraNames": []
+ },
+ "CA-YT": {
+  "name": "Yukon",
+  "tipNote": "Lascia dal 15% al 20% sul conto al netto delle tasse; il 15% è il minimo sicuro.",
+  "note": "Si aggiunge solo il 5% di GST; il territorio non ha imposte sulle vendite. L'usanza sulle mance è quella valida in tutto il Canada: non sono state trovate fonti specifiche per il territorio.",
+  "serviceNote": "Di norma non c'è un costo di servizio; alcuni ristoranti aggiungono automaticamente dal 15% al 18% per i gruppi numerosi (di solito sei o più persone), quindi controlla il conto.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "CA-NT": {
+  "name": "Territori del Nord-Ovest",
+  "tipNote": "Lascia dal 15% al 20% sul conto al netto delle tasse; il 15% è il minimo sicuro.",
+  "note": "Si aggiunge solo il 5% di GST; il territorio non ha imposte sulle vendite. L'usanza sulle mance è quella valida in tutto il Canada: non sono state trovate fonti specifiche per il territorio.",
+  "serviceNote": "Di norma non c'è un costo di servizio; alcuni ristoranti aggiungono automaticamente dal 15% al 18% per i gruppi numerosi (di solito sei o più persone), quindi controlla il conto.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "CA-NU": {
+  "name": "Nunavut",
+  "tipNote": "Lascia dal 15% al 20% sul conto al netto delle tasse; il 15% è il minimo sicuro.",
+  "note": "Si aggiunge solo il 5% di GST; il territorio non ha imposte sulle vendite. L'usanza sulle mance è quella valida in tutto il Canada: non sono state trovate fonti specifiche per il territorio.",
+  "serviceNote": "Di norma non c'è un costo di servizio; alcuni ristoranti aggiungono automaticamente dal 15% al 18% per i gruppi numerosi (di solito sei o più persone), quindi controlla il conto.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "SG": {
+  "name": "Singapore",
+  "tipNote": "Non serve la mancia: il 10% di costo di servizio è già la mancia; alcuni locali hanno un barattolo delle mance se vuoi aggiungerne un po'.",
+  "note": "Un totale di menu da S$100 diventa S$119.90 in un ristorante con '++' (10% di servizio, poi 9% di GST su S$110).",
+  "serviceNote": "La maggior parte dei ristoranti con servizio al tavolo aggiunge il 10% di costo di servizio, e il GST si applica poi su prezzo più costo di servizio (i menu indicano '++'); gli hawker centre e i food court di solito non aggiungono nulla.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "MY": {
+  "name": "Malesia",
+  "tipNote": "Non serve la mancia; una piccola somma data al personale è gradita, ma non è mai attesa.",
+  "note": "I ristoranti più piccoli sotto la soglia di RM1.5 milioni non applicano la service tax del 6%, quindi il conto può mostrare solo il costo di servizio, o nient'altro.",
+  "serviceNote": "Molti ristoranti con servizio al tavolo e hotel aggiungono il 10% di costo di servizio, indicato come '++'; i piccoli banchi e molti caffè non aggiungono nulla.",
+  "taxNames": [
+   "Imposta sui servizi (SST)"
+  ],
+  "extraNames": []
+ },
+ "ID": {
+  "name": "Indonesia",
+  "tipNote": "La mancia non è necessaria; se sul conto non c'è un costo di servizio, sono graditi il 10% o un arrotondamento.",
+  "note": "I pasti al ristorante sono soggetti alla imposta regionale PB1, non all'IVA nazionale (VAT), quindi un 11% stampato sul conto sarebbe un errore.",
+  "serviceNote": "I ristoranti delle zone turistiche e di fascia alta (Bali, Giacarta) spesso aggiungono dal 5% al 10% di costo di servizio, indicato come '++'; i warung e i caffè locali non aggiungono nulla.",
+  "taxNames": [
+   "Imposta regionale sui ristoranti (PB1 / PBJT)"
+  ],
+  "extraNames": []
+ },
+ "TH": {
+  "name": "Thailandia",
+  "tipNote": "Con un costo di servizio del 10% sul conto non serve altro; altrimenti lascia qualche moneta, circa 20 baht.",
+  "note": "Nei locali con '++' il conto finale è circa il 17% superiore al prezzo del menu; lo street food e i ristoranti locali di solito applicano il prezzo del menu.",
+  "serviceNote": "Gli hotel e molti locali di fascia alta aggiungono il 10% di costo di servizio (più VAT); il consiglio dei consumatori dice che è facoltativo ma deve essere indicato.",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": []
+ },
+ "AE": {
+  "name": "Emirati Arabi Uniti",
+  "tipNote": "Se sul conto c'è un costo di servizio del 10%, non serve la mancia; altrimenti è gradito dal 10% al 15% del totale (la guida di Dubai di Lonely Planet dice che basta il 5-10%).",
+  "note": "Il 5% di VAT è compreso nel prezzo del menu; le voci extra sul conto sono il costo di servizio e eventuali tasse comunali o di turismo. La tassa comunale del 7% di Dubai è per ora sospesa.",
+  "serviceNote": "I ristoranti degli hotel di solito aggiungono il 10%, e alcuni locali indipendenti lo fanno pure (la maggior parte no). Visit Dubai dice che spesso va all'azienda e non al cameriere. Lo dicono il menu o il conto.",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": [
+   "Tassa comunale di Dubai",
+   "Contributo turistico di Abu Dhabi"
+  ]
+ },
+ "IN": {
+  "name": "India",
+  "tipNote": "La mancia è di uso ma contenuta: dal 5% al 10% in contanti, oppure un arrotondamento, anche se sul conto c'era un costo di servizio.",
+  "note": "Molti menu di fascia media e alta indicano i prezzi al netto delle tasse ('plus taxes'), quindi il conto è almeno il 5% più alto; lo street food e i locali piccoli spesso indicano il prezzo finale.",
+  "serviceNote": "Alcuni ristoranti aggiungono ancora dal 5% al 10% di costo di servizio, ma deve essere facoltativo; puoi chiederne la rimozione.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": [
+   "GST nei ristoranti d'albergo (sostituisce il 5%)"
+  ]
+ },
+ "AT": {
+  "name": "Austria",
+  "tipNote": "Arrotonda o aggiungi il 5-10% per un buon servizio, e comunica al cameriere il totale che vuoi pagare.",
+  "note": "I prezzi del menu includono la VAT (regola UE).",
+  "serviceNote": "Controlla il conto: se la mancia è già inclusa, non pagarla due volte.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "BE": {
+  "name": "Belgio",
+  "tipNote": "Il servizio è già incluso nel prezzo; arrotondare o lasciare il 5-10% è un gesto gentile ma non obbligatorio.",
+  "note": "I prezzi del menu includono la VAT (regola UE).",
+  "serviceNote": "Il servizio è già incluso nel prezzo.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "BG": {
+  "name": "Bulgaria",
+  "tipNote": "Lascia circa il 10% in contanti per un buon servizio, di più se ti è piaciuto molto.",
+  "note": "La Bulgaria è passata dal lev all'euro il 1° gennaio 2026, quindi le guide più datate potrebbero indicare i lev.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "HR": {
+  "name": "Croazia",
+  "tipNote": "Arrotonda nei caffè e lascia circa il 10% per un buon pasto al ristorante.",
+  "note": "Le fonti non concordano: la guida Lonely Planet sulla Croazia indica almeno il 10%, quella sull'Europa dice il 5-10%.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "CY": {
+  "name": "Cipro",
+  "tipNote": "La mancia è a discrezione: arrotondare o lasciare il 5-10% per un buon servizio è un gentile ringraziamento.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [
+   "VAT (ristoranti)"
+  ],
+  "extraNames": []
+ },
+ "EE": {
+  "name": "Estonia",
+  "tipNote": "Arrotonda, oppure lascia circa il 10% se il cibo o il servizio sono stati eccezionali.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "FI": {
+  "name": "Finlandia",
+  "tipNote": "Il servizio è sempre incluso, quindi non aggiungere una mancia; arrotondare è gradito ma mai atteso.",
+  "note": "La VAT è già inclusa nel prezzo.",
+  "serviceNote": "Il servizio è sempre incluso nel conto.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "FR": {
+  "name": "Francia",
+  "tipNote": "Il servizio è già incluso, quindi la mancia è facoltativa: qualche euro, fino a circa il 10% per un servizio eccellente.",
+  "note": "Il prezzo del menu è quello che paghi: tasse e servizio sono inclusi.",
+  "serviceNote": "Il servizio è incluso per legge nei prezzi del menu ('service compris').",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "DE": {
+  "name": "Germania",
+  "tipNote": "Arrotonda a circa il 5-10% e comunica al cameriere il totale che vuoi pagare, invece di lasciare il denaro sul tavolo.",
+  "note": "Le fonti non concordano sull'importo: visitBerlin indica il 10-15%, Lonely Planet il 5-10%.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "GR": {
+  "name": "Grecia",
+  "tipNote": "La mancia non è richiesta; arrotondare o lasciare il 5-10% per un buon servizio è apprezzato.",
+  "note": "Le fonti non concordano sul servizio: il turismo di Atene dice che i ristoranti non aggiungono nulla, Lonely Planet dice che di norma è incluso, quindi controlla il conto.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "IE": {
+  "name": "Irlanda",
+  "tipNote": "Non è attesa, ma il 10% per un buon servizio è di uso comune; salta se sul conto c'è già un costo di servizio.",
+  "note": "",
+  "serviceNote": "I gruppi numerosi (sei o più persone) spesso hanno un costo di servizio; il listino deve indicare se si applica.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "IT": {
+  "name": "Italia",
+  "tipNote": "Qui la mancia non è attesa: arrotonda o lascia qualche euro solo per un servizio eccellente.",
+  "note": "Una legge regionale vieta il coperto nel Lazio (Roma inclusa).",
+  "serviceNote": "Il coperto (una tariffa fissa per il tavolo, circa 2 EUR a persona) è comune e legale se indicato sul menu; non è una mancia.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "LV": {
+  "name": "Lettonia",
+  "tipNote": "Arrotonda il conto, oppure lascia circa il 10% se ti è piaciuto il servizio.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "LT": {
+  "name": "Lituania",
+  "tipNote": "Lascia il 5-15% a seconda del servizio, a meno che sul conto non ci sia già un costo di servizio.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "LU": {
+  "name": "Lussemburgo",
+  "tipNote": "Il servizio è già nel prezzo; arrotonda o lascia il 5-10% se vuoi ringraziare.",
+  "note": "Per legge i prezzi del menu devono includere VAT e tutte le altre tasse.",
+  "serviceNote": "I ristoranti devono indicare i prezzi con il servizio incluso.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "MT": {
+  "name": "Malta",
+  "tipNote": "Controlla prima il conto per un costo di servizio; se non c'è, il 5-10% per un buon servizio è ragionevole, e arrotondare va bene nei caffè.",
+  "note": "L'ente turistico di Malta definisce il 5-10% di mancia di uso per un buon servizio, ma non necessario quando sul conto c'è un costo di servizio.",
+  "serviceNote": "Alcuni ristoranti aggiungono un costo di servizio; se è sul conto, non serve la mancia.",
+  "taxNames": [
+   "VAT (ristoranti)"
+  ],
+  "extraNames": []
+ },
+ "NL": {
+  "name": "Paesi Bassi",
+  "tipNote": "La gente del posto spesso arrotonda semplicemente; circa il 10% è più che sufficiente per un ottimo pasto.",
+  "note": "Holland.com definisce il 10% circa più che accettabile, ma non fisso.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "PT": {
+  "name": "Portogallo",
+  "tipNote": "Non c'è una grande cultura della mancia: lascia qualche moneta o arrotonda, e circa il 10% solo nei ristoranti di alta cucina.",
+  "note": "Gli antipasti portati senza richiesta (couvert) vengono addebitati se li mangi; puoi rimandarli indietro.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "SK": {
+  "name": "Slovacchia",
+  "tipNote": "Arrotonda il conto, di solito di circa il 5-10%; non è obbligatorio.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "SI": {
+  "name": "Slovenia",
+  "tipNote": "La mancia non è obbligatoria; arrotondare è cortese e il 5-10% è un caloroso ringraziamento per un buon servizio.",
+  "note": "Le guide non concordano sull'entità: Rough Guides dice di arrotondare, Ljubljana.info dice che il 10% o persino il 20% è un bel gesto.",
+  "serviceNote": "",
+  "taxNames": [
+   "VAT (ristoranti)"
+  ],
+  "extraNames": []
+ },
+ "ES": {
+  "name": "Spagna",
+  "tipNote": "La mancia non è di uso comune; arrotondare o lasciare il 5-10% per un buon servizio è gradito.",
+  "note": "Un cartello con scritto 'IVA NO INCLUIDO' significa che sul conto verrà aggiunto il 10%.",
+  "serviceNote": "",
+  "taxNames": [
+   "IVA (ristoranti)"
+  ],
+  "extraNames": []
+ },
+ "GB": {
+  "name": "Regno Unito",
+  "tipNote": "Se sul conto c'è un costo di servizio del 12.5%, non aggiungere altro; altrimenti lascia il 10-15%.",
+  "note": "Nei pub non si usa lasciare la mancia al personale del bancone.",
+  "serviceNote": "Di solito il 12.5%, indicato sul conto; è facoltativo e puoi chiederne la rimozione.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "CH": {
+  "name": "Svizzera",
+  "tipNote": "Il servizio è incluso; arrotondare o lasciare circa il 10% è di uso comune, ma non sei obbligato.",
+  "note": "I prezzi del menu sono prezzi finali in franchi, VAT inclusa.",
+  "serviceNote": "Il servizio è incluso nel prezzo.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "NO": {
+  "name": "Norvegia",
+  "tipNote": "Non è atteso; la gente del posto arrotonda o lascia il 5-10% quando è soddisfatta.",
+  "note": "Visit Norway dice che le mance tendono a restare entro il 5-15%, Lonely Planet dice che al ristorante la mancia non è affatto attesa.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "SE": {
+  "name": "Svezia",
+  "tipNote": "Arrotonda il conto (per esempio da 280 a 300 SEK); circa il 10% è una bella mancia per un pasto più abbondante.",
+  "note": "",
+  "serviceNote": "A volte il costo di servizio è incluso, ma è chiaramente indicato sul conto.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "DK": {
+  "name": "Danimarca",
+  "tipNote": "Il servizio è incluso nel conto; lascia la mancia solo se il servizio è stato ottimo, non c'è un importo stabilito.",
+  "note": "",
+  "serviceNote": "Il servizio è incluso nei conti dei ristoranti.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "IS": {
+  "name": "Islanda",
+  "tipNote": "Il servizio è incluso, quindi la mancia non è attesa; una piccola mancia in contanti per un servizio eccellente è gradita.",
+  "note": "Per legge il prezzo indicato deve includere la VAT.",
+  "serviceNote": "Nella maggior parte dei ristoranti e caffè il servizio è già incluso nel conto.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "PL": {
+  "name": "Polonia",
+  "tipNote": "Lascia circa il 10% per un buon servizio al ristorante; per un caffè, una moneta nel barattolo basta.",
+  "note": "La guida Lonely Planet di Varsavia dice il 10-15%.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "CZ": {
+  "name": "Cechia",
+  "tipNote": "Lascia circa il 10% per il servizio al tavolo.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "HU": {
+  "name": "Ungheria",
+  "tipNote": "Se sul conto c'è 'szerviz', non aggiungere altro; altrimenti lascia circa il 10%, e comunica il totale che vuoi pagare.",
+  "note": "La cifra del 12.5% deriva da un articolo del 2015, quindi controlla il conto.",
+  "serviceNote": "Molti ristoranti aggiungono un costo di servizio di circa il 12.5%, indicato come 'szerviz'; se c'è, non aggiungere una mancia.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "TR": {
+  "name": "Turchia",
+  "tipNote": "Lascia circa il 10% (il 15% per un servizio ottimo), preferibilmente in contanti: dal divieto alcuni locali propongono l'8, il 10 o il 15% sul POS, ma molti non accettano mance con carta.",
+  "note": "I menu devono ora indicare il prezzo completo: non si può aggiungere alcun costo di servizio, di tavolo o di coperto, e le mance sono volontarie.",
+  "serviceNote": "Dal 30 gennaio 2026 i ristoranti non possono aggiungere costi di servizio, di tavolo o di coperto con alcun nome (Gazzetta Ufficiale 33153).",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "MX": {
+  "name": "Messico",
+  "tipNote": "Lascia circa il 10%, fino al 15% per un servizio ottimo; è volontaria, quindi nessuno può pretenderla.",
+  "note": "La mancia abituale è il 10% (il 15% per un servizio ottimo). La guida Lonely Planet per le Americhe indica il 15-20% e dice che il costo di servizio è comune, ma Profeco, il turismo di Città del Messico e l'articolo di Lonely Planet sul Messico del 2026 indicano il 10%.",
+  "serviceNote": "Per legge nessun fornitore può pretendere una mancia né stabilirne l'importo.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "BR": {
+  "name": "Brasile",
+  "tipNote": "Se sul conto c'è la commissione di servizio del 10%, pagala come mancia e non aggiungerne un'altra.",
+  "note": "L'inclusione delle tasse nei prezzi del menu non è stata verificata separatamente.",
+  "serviceNote": "Sul conto è spesso stampata una 'taxa de servico' del 10%; per legge è facoltativa e deve riportarlo.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "AR": {
+  "name": "Argentina",
+  "tipNote": "Lascia circa il 10% in contanti; non è un obbligo di legge, ma è un'usanza consolidata.",
+  "note": "Non è stato possibile verificare se le tasse sono incluse nei prezzi del menu (il PDF nazionale sull'esposizione dei prezzi non era leggibile); Lonely Planet dice che più spesso viene aggiunto un costo di servizio.",
+  "serviceNote": "Alcuni ristoranti applicano un 'cubierto' a persona; non può essere applicato ai bambini sotto i 12 anni.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "CL": {
+  "name": "Cile",
+  "tipNote": "Il conto suggerisce il 10%; di' 'con propina' per includerla, oppure rifiutala: è volontaria.",
+  "note": "Per legge i prezzi del menu devono includere l'IVA.",
+  "serviceNote": "Il conto suggerisce una mancia di almeno il 10%, ma è volontaria.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "PE": {
+  "name": "Perù",
+  "tipNote": "La mancia non è la norma e molti locali non la lasciano. Se sul conto non ci sono voci 'servicio' o 'recargo', circa il 10% è un gesto gentile; se c'è, hai già lasciato la mancia.",
+  "note": "Le regole su tasse ed esposizione dei prezzi sono ufficiali; l'entità della mancia è una valutazione, perché i due articoli di Lonely Planet sul Perù non concordano e non è stata trovata alcuna cifra dell'ente turistico.",
+  "serviceNote": "Molti ristoranti di fascia media e alta aggiungono un 'servicio' o 'recargo al consumo' fino al 13% (Decreto Ley 25988); Indecopi dice che i prezzi esposti devono includerlo. Controlla menu e conto.",
+  "taxNames": [
+   "IGV"
+  ],
+  "extraNames": []
+ },
+ "CO": {
+  "name": "Colombia",
+  "tipNote": "Il conto può suggerire il 10%; è volontaria, quindi puoi accettarla, modificarla o rifiutarla.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [
+   "Impuesto nacional al consumo (ristoranti)"
+  ],
+  "extraNames": []
+ },
+ "CR": {
+  "name": "Costa Rica",
+  "tipNote": "Il servizio del 10% è già nel prezzo, quindi una mancia extra è facoltativa; circa il 5% è apprezzato per un buon servizio.",
+  "note": "Per legge il prezzo del menu deve essere il prezzo finale, comprensivo del 13% di IVA e del 10% di servizio. Se un menu dice '+ impuestos' o '10% servicio no incluido' viola la regola e il conto sarebbe circa il 23% più alto.",
+  "serviceNote": "Il servizio al tavolo del 10%, calcolato prima delle tasse, deve essere anch'esso incluso nel prezzo finale del menu; non si applica all'asporto.",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": []
+ },
+ "DO": {
+  "name": "Repubblica Dominicana",
+  "tipNote": "Il 10% di mancia legale è già sul conto; l'ente turistico dice che un ulteriore 10% è di uso comune.",
+  "note": "Non è stato verificato se i prezzi del menu siano indicati al netto di tasse e servizio.",
+  "serviceNote": "Sui conti dei pasti al tavolo viene aggiunto per legge il 10% di mancia (non per asporto o consegna).",
+  "taxNames": [
+   "ITBIS"
+  ],
+  "extraNames": []
+ },
+ "CU": {
+  "name": "Cuba",
+  "tipNote": "Controlla sul conto un costo di servizio del 10-12%; se non c'è, lascia al cameriere una piccola mancia (un tour operator suggerisce circa il 10% o qualche moneta).",
+  "note": "Bassa affidabilità: non è stata trovata alcuna fonte ufficiale su tasse, prezzi del menu o costi di servizio. I ristoranti privati fissano i prezzi in pesos a tassi informali e molti accettano euro; chiedi in quale valuta è indicato il menu.",
+  "serviceNote": "I costi di servizio del 10-12% sono piuttosto comuni nei ristoranti statali e nei paladares più curati; alcuni applicano un 10% fisso.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "JM": {
+  "name": "Giamaica",
+  "tipNote": "Controlla prima il conto per una gratifica; se non c'è, lascia il 15-20% al ristorante. I POS possono proporre mance fino al 25%.",
+  "note": "GCT e costo di servizio vengono spesso aggiunti al conto anziché al prezzo del menu, almeno negli hotel. Le uniche fonti sulle mance sono un quotidiano e i consigli di Lonely Planet per i Caraibi; non è stata letta alcuna pagina del Jamaica Tourist Board.",
+  "serviceNote": "Alcuni ristoranti aggiungono un costo di servizio o una gratifica obbligatoria del 10-20%; controlla il conto prima di lasciare la mancia.",
+  "taxNames": [
+   "GCT"
+  ],
+  "extraNames": []
+ },
+ "JP": {
+  "name": "Giappone",
+  "tipNote": "La mancia non è un'usanza e può confondere il personale.",
+  "note": "Dall'aprile 2021 i menu devono indicare prezzi comprensivi di tasse.",
+  "serviceNote": "Nei ristoranti di solito sul conto finale viene aggiunto un costo di servizio.",
+  "taxNames": [
+   "Imposta sui consumi"
+  ],
+  "extraNames": []
+ },
+ "KR": {
+  "name": "Corea del Sud",
+  "tipNote": "La mancia non è un'usanza e alcuni addetti potrebbero rifiutarla.",
+  "note": "Le fonti non concordano sul fatto che la VAT sia inclusa nei prezzi del menu: una norma del 2012 dice che deve esserlo, Visit Seoul dice che viene 'aggiunta'.",
+  "serviceNote": "Molti hotel e ristoranti di fascia alta aggiungono un costo di servizio del 10% oltre alla VAT.",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": []
+ },
+ "CN": {
+  "name": "Cina",
+  "tipNote": "La mancia non è attesa; controlla prima il conto per un costo di servizio.",
+  "note": "L'inclusione delle tasse nei prezzi del menu non è stata verificata separatamente.",
+  "serviceNote": "I ristoranti di qualità e di fascia alta possono aggiungere un costo di servizio del 5-15%.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "HK": {
+  "name": "Hong Kong",
+  "tipNote": "La maggior parte dei ristoranti aggiunge il 10% di servizio, quindi non serve lasciare altra mancia.",
+  "note": "Hong Kong non ha imposte sulle vendite né VAT.",
+  "serviceNote": "La maggior parte dei ristoranti aggiunge il 10% di costo di servizio; alcuni caffè e tavole calde no.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "TW": {
+  "name": "Taiwan",
+  "tipNote": "La mancia non è attesa; sul conto viene spesso aggiunto un costo di servizio del 10%.",
+  "note": "L'inclusione delle tasse nei prezzi del menu non è stata verificata separatamente.",
+  "serviceNote": "Un costo di servizio del 10% è di uso comune negli hotel e nei ristoranti.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "VN": {
+  "name": "Vietnam",
+  "tipNote": "Nei ristoranti la mancia non è attesa; arrotondare o lasciare il 5-10% per un buon servizio è gradito, e nulla in più se sul conto c'è un costo di servizio.",
+  "note": "La Legge sui prezzi stabilisce che i prezzi esposti includono tasse e commissioni, ma i locali di fascia alta possono indicare prezzi al netto di VAT e servizio, quindi controlla la nota a piè di menu. Non è stata trovata alcuna fonte ufficiale sui costi di servizio.",
+  "serviceNote": "Controlla il conto per una voce di costo di servizio o di VAT.",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": []
+ },
+ "PH": {
+  "name": "Filippine",
+  "tipNote": "Se sul conto c'è un costo di servizio, non serve la mancia; altrimenti è gradito arrotondare o lasciare il 5-10% per un buon servizio.",
+  "note": "La VAT è al 12%; alcuni ristoranti la includono nei prezzi del menu e altri la aggiungono al conto, e il menu indica quale dei due. Non è stata letta alcuna pagina del Dipartimento del Turismo sulle mance.",
+  "serviceNote": "Molti ristoranti aggiungono un costo di servizio del 5-10%; la legge non fissa un'aliquota, ma tutto l'importo deve andare al personale non dirigenziale.",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": []
+ },
+ "KH": {
+  "name": "Cambogia",
+  "tipNote": "La mancia non è un'usanza; per un buon servizio basta arrotondare o lasciare un dollaro o due, e nulla se sul conto c'è un costo di servizio.",
+  "note": "I prezzi sono spesso in dollari USA. Non è stato possibile verificare se i prezzi del menu includano la VAT del 10%, quindi controlla la nota a piè di menu.",
+  "serviceNote": "Hotel e ristoranti aggiungono comunemente un costo di servizio del 10% (FAQ del Ministero del Turismo); Rough Guides dice il 5-10% nei locali di fascia alta.",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": []
+ },
+ "AU": {
+  "name": "Australia",
+  "tipNote": "Non è attesa; per il servizio al tavolo in un ristorante di città è apprezzato il 10%, nulla al banco.",
+  "note": "Tourism Australia dice che i ristoranti non aggiungono costi di servizio; il sovrapprezzo festivo è separato.",
+  "serviceNote": "Alcuni locali applicano un sovrapprezzo nel weekend o nei giorni festivi fino al 15% (Lonely Planet); controlla il menu.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "NZ": {
+  "name": "Nuova Zelanda",
+  "tipNote": "La mancia non è attesa, anche se il 10% per un servizio al tavolo davvero ottimo è gradito.",
+  "note": "Lonely Planet dice che alcuni locali applicano un sovrapprezzo festivo fino al 15%.",
+  "serviceNote": "I ristoranti non aggiungono costi di servizio.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "ZA": {
+  "name": "Sudafrica",
+  "tipNote": "Lascia il 10-15% per un buon servizio; salta se sul conto c'è un costo di servizio per gruppi.",
+  "note": "La pagina di South African Tourism è del 2018, e non è stato possibile verificare l'inclusione della VAT nei prezzi del menu.",
+  "serviceNote": "Per i tavoli di più di sei ospiti viene aggiunto automaticamente un costo di servizio del 10%.",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": []
+ },
+ "MA": {
+  "name": "Marocco",
+  "tipNote": "Controlla prima il conto per un costo di servizio; se non c'è, lascia il 5-10%, o fino al 15% nei locali di fascia alta.",
+  "note": "I prezzi del menu devono includere la VAT (Legge 31-08). L'ufficio turistico marocchino non ha una pagina sulle mance; le fonti sono un editore, un sito di notizie e una guida locale, e la prima indica il 10-15% mentre le altre dicono il 5-10%.",
+  "serviceNote": "I ristoranti turistici più frequentati spesso aggiungono il 10% (Lonely Planet, Le360); non è stata trovata alcuna aliquota legale.",
+  "taxNames": [
+   "VAT (ristoranti)"
+  ],
+  "extraNames": []
+ },
+ "EG": {
+  "name": "Egitto",
+  "tipNote": "Di solito viene aggiunto un costo di servizio, quindi lascia al cameriere un po' di contanti in più; circa il 10% se non c'è.",
+  "note": "Una dichiarazione della camera di commercio del 2020 dice che i menu degli esercizi turistici devono indicare prezzi tutto compreso, ma un rapporto del 2023 dice che i clienti pagano in più il 26% (12% di servizio, 14% di VAT). Supponi che tasse e servizio vengano aggiunti finché il menu non dice diversamente.",
+  "serviceNote": "Negli esercizi turistici viene aggiunto circa il 12% di servizio (Lonely Planet dice il 10%).",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": []
+ },
+ "IL": {
+  "name": "Israele",
+  "tipNote": "Lascia il 10-12% per un buon servizio e il 15% per un servizio eccellente (il 15% è la norma a Tel Aviv), preferibilmente in contanti.",
+  "note": "Non è stata letta alcuna pagina del Ministero del Turismo sulle mance; le tre fonti (il blog di una catena alberghiera, un settimanale di notizie e una wiki di viaggi collaborativa) concordano sul 10-15%.",
+  "serviceNote": "I ristoranti quasi mai aggiungono un costo di servizio, tranne che per i gruppi numerosi.",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": []
+ },
+ "JO": {
+  "name": "Giordania",
+  "tipNote": "Lascia circa il 10% in aggiunta al conto, a meno che non ci sia già un costo di servizio.",
+  "note": "I prezzi del menu di solito non includono il 16% di imposta sulle vendite né eventuali voci di servizio del 10%, quindi il conto può arrivare a circa un quarto in più del totale del menu.",
+  "serviceNote": "Molti ristoranti aggiungono una voce 'service' del 10%; è un'usanza, non stabilita per legge.",
+  "taxNames": [
+   "Imposta generale sulle vendite"
+  ],
+  "extraNames": []
+ },
+ "QA": {
+  "name": "Qatar",
+  "tipNote": "Di solito il costo di servizio è già nel conto; è gradito un 10-15% in più in contanti.",
+  "note": "Non è stata verificata l'inclusione delle tasse nei prezzi del menu.",
+  "serviceNote": "La maggior parte degli esercizi di ospitalità include un costo di servizio nel conto.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "SA": {
+  "name": "Arabia Saudita",
+  "tipNote": "Di solito i camerieri si aspettano una mancia del 10-15% alla fine del pasto.",
+  "note": "La mancia non è obbligatoria e non viene aggiunto alcun costo di servizio, quindi il 10-15% di mancia non viene pagato due volte.",
+  "serviceNote": "I ristoranti non possono aggiungere costi di servizio (decisione del Ministero del Commercio, confermata nel 2017).",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": []
+ },
+ "KE": {
+  "name": "Kenya",
+  "tipNote": "La mancia non è richiesta, ma per un buon pasto è apprezzato circa il 10% del conto.",
+  "note": "La VAT è al 16% e le attività turistiche autorizzate pagano anche un contributo del 2% sulle vendite di cibo e bevande. Non è stata trovata alcuna legge sui prezzi del menu, quindi controlla il menu per 'inclusive of VAT'.",
+  "serviceNote": "",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": []
+ },
+ "TZ": {
+  "name": "Tanzania",
+  "tipNote": "Al ristorante è di uso comune circa il 10%, fino al 15% per un servizio ottimo; sempre in contanti.",
+  "note": "I prezzi pubblicizzati dalle attività registrate ai fini VAT devono includere il 18% di VAT. Non è stata letta alcuna pagina della Tanzania Tourist Board sulle mance; le fonti sulle mance sono gli operatori di safari e la guida Lonely Planet per l'Africa.",
+  "serviceNote": "",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": []
+ }
+}

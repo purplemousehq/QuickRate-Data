@@ -1,0 +1,1253 @@
+{
+ "US-AK": {
+  "name": "Alaska",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "Alaska no tiene impuesto estatal sobre las ventas y cada localidad fija el suyo: Anchorage y Fairbanks, las dos ciudades más grandes, no cobran ninguno, mientras que Juneau cobra un 5%, Seward un 4% y Kodiak un 7% (año fiscal 2024), y algunas localidades suman un impuesto de condado y otro municipal. El 1.82% es una media que no coincide con ninguna localidad en concreto.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto local sobre las ventas"
+  ],
+  "extraNames": []
+ },
+ "US-AL": {
+  "name": "Alabama",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "El impuesto sobre las ventas se añade en caja; revisa la cuenta por si ya incluye una propina o un cargo por servicio antes de dejar propina.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": []
+ },
+ "US-AR": {
+  "name": "Arkansas",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "El impuesto sobre las ventas se añade en caja; revisa la cuenta por si ya incluye una propina o un cargo por servicio antes de dejar propina.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": []
+ },
+ "US-AZ": {
+  "name": "Arizona",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "El impuesto sobre las ventas se añade en caja; revisa la cuenta por si ya incluye una propina o un cargo por servicio antes de dejar propina.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": []
+ },
+ "US-CA": {
+  "name": "California",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "En California, busca una línea de recargo en la carta o en la cuenta antes de añadir propina.",
+  "serviceNote": "Algunos restaurantes de California añaden un cargo obligatorio por servicio o recargo; la ley estatal lo permite si aparece en la carta con su finalidad.",
+  "taxNames": [
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": []
+ },
+ "US-CO": {
+  "name": "Colorado",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "El impuesto estatal de Colorado es solo del 2.9%, y los impuestos municipales, de condado y de distrito suponen la mayor parte del 7.89% de media.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": []
+ },
+ "US-CT": {
+  "name": "Connecticut",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "Connecticut cobra un 7.35% en comidas de restaurante y ciertas bebidas, un punto más que el 6.35% de la mayoría de bienes.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas de comidas"
+  ],
+  "extraNames": []
+ },
+ "US-DC": {
+  "name": "Distrito de Columbia",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "En Washington DC, los restaurantes cobran un 10% en comidas y bebidas, bastante por encima del 6% general.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas de comidas en restaurantes"
+  ],
+  "extraNames": []
+ },
+ "US-DE": {
+  "name": "Delaware",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "Delaware no tiene impuesto sobre las ventas, así que el precio de la carta es lo que aparece en la cuenta antes de cualquier propina.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "US-FL": {
+  "name": "Florida",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "El impuesto sobre las ventas se añade en caja; revisa la cuenta por si ya incluye una propina o un cargo por servicio antes de dejar propina.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": []
+ },
+ "US-GA": {
+  "name": "Georgia",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "El impuesto sobre las ventas se añade en caja; revisa la cuenta por si ya incluye una propina o un cargo por servicio antes de dejar propina.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": []
+ },
+ "US-HI": {
+  "name": "Hawái",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "Los restaurantes de Hawái pueden añadir a la cuenta hasta un 4.712% de general excise tax.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "General excise tax (repercutido)"
+  ],
+  "extraNames": []
+ },
+ "US-IA": {
+  "name": "Iowa",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "El impuesto sobre las ventas se añade en caja; revisa la cuenta por si ya incluye una propina o un cargo por servicio antes de dejar propina.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": []
+ },
+ "US-ID": {
+  "name": "Idaho",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "El impuesto sobre las ventas se añade en caja; revisa la cuenta por si ya incluye una propina o un cargo por servicio antes de dejar propina.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": []
+ },
+ "US-IL": {
+  "name": "Illinois",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "Chicago añade un 0.5% de impuesto de restaurantes además de su impuesto sobre las ventas.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": [
+   "Impuesto de restaurantes de Chicago"
+  ]
+ },
+ "US-IN": {
+  "name": "Indiana",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "El impuesto sobre las ventas se añade en caja; revisa la cuenta por si ya incluye una propina o un cargo por servicio antes de dejar propina.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": []
+ },
+ "US-KS": {
+  "name": "Kansas",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "El impuesto sobre las ventas se añade en caja; revisa la cuenta por si ya incluye una propina o un cargo por servicio antes de dejar propina.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": []
+ },
+ "US-KY": {
+  "name": "Kentucky",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "El impuesto sobre las ventas se añade en caja; revisa la cuenta por si ya incluye una propina o un cargo por servicio antes de dejar propina.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": []
+ },
+ "US-LA": {
+  "name": "Luisiana",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "Luisiana tiene la tasa combinada media más alta del país: los impuestos locales suman casi lo mismo que el 5% estatal.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": []
+ },
+ "US-MA": {
+  "name": "Massachusetts",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "Los restaurantes de Massachusetts cobran un 6.25%, y las ciudades y localidades que lo aprobaron añaden un 0.75%, hasta un 7% en total.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas de comidas"
+  ],
+  "extraNames": [
+   "Impuesto local opcional sobre comidas"
+  ]
+ },
+ "US-MD": {
+  "name": "Maryland",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "El impuesto sobre las ventas se añade en caja; revisa la cuenta por si ya incluye una propina o un cargo por servicio antes de dejar propina.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": []
+ },
+ "US-ME": {
+  "name": "Maine",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "Maine cobra un 8% en comidas de restaurante, no el 5.5% general.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre alimentos preparados"
+  ],
+  "extraNames": []
+ },
+ "US-MI": {
+  "name": "Míchigan",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "El impuesto sobre las ventas se añade en caja; revisa la cuenta por si ya incluye una propina o un cargo por servicio antes de dejar propina.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": []
+ },
+ "US-MN": {
+  "name": "Minnesota",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "En el centro de Minneapolis se añade un 3% a las comidas de restaurante (y un 3% al alcohol) además del impuesto habitual sobre las ventas.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": [
+   "Impuesto de restaurantes del centro de Minneapolis",
+   "Impuesto de licores del centro de Minneapolis"
+  ]
+ },
+ "US-MO": {
+  "name": "Misuri",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "El impuesto sobre las ventas se añade en caja; revisa la cuenta por si ya incluye una propina o un cargo por servicio antes de dejar propina.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": []
+ },
+ "US-MS": {
+  "name": "Misisipi",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "El impuesto sobre las ventas se añade en caja; revisa la cuenta por si ya incluye una propina o un cargo por servicio antes de dejar propina.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": []
+ },
+ "US-MT": {
+  "name": "Montana",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "Montana no tiene impuesto sobre las ventas, pero los restaurantes de sus localidades de acceso a estaciones de esquí y parques añaden un 3% de tasa turística.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [],
+  "extraNames": [
+   "Tasa turística local"
+  ]
+ },
+ "US-NC": {
+  "name": "Carolina del Norte",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "El impuesto sobre las ventas se añade en caja; revisa la cuenta por si ya incluye una propina o un cargo por servicio antes de dejar propina.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": []
+ },
+ "US-ND": {
+  "name": "Dakota del Norte",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "El impuesto sobre las ventas se añade en caja; revisa la cuenta por si ya incluye una propina o un cargo por servicio antes de dejar propina.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": []
+ },
+ "US-NE": {
+  "name": "Nebraska",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "El impuesto sobre las ventas se añade en caja; revisa la cuenta por si ya incluye una propina o un cargo por servicio antes de dejar propina.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": []
+ },
+ "US-NH": {
+  "name": "Nuevo Hampshire",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "Nuevo Hampshire no tiene impuesto sobre las ventas, pero cobra un 8.5% en comidas y bebidas de restaurante.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre comidas y alquileres"
+  ],
+  "extraNames": []
+ },
+ "US-NJ": {
+  "name": "Nueva Jersey",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "Nueva Jersey aplica un 6.625% casi en todas partes, con un tipo más bajo en el condado de Salem.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": []
+ },
+ "US-NM": {
+  "name": "Nuevo México",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "El impuesto sobre ingresos brutos de Nuevo México varía según la localidad, y los restaurantes suelen mostrarlo como una línea aparte.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": []
+ },
+ "US-NV": {
+  "name": "Nevada",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "El impuesto sobre las ventas se añade en caja; revisa la cuenta por si ya incluye una propina o un cargo por servicio antes de dejar propina.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": []
+ },
+ "US-NY": {
+  "name": "Nueva York",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "Los restaurantes de la ciudad de Nueva York cobran un 8.875%, por encima de la media estatal del 8.54%.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": []
+ },
+ "US-OH": {
+  "name": "Ohio",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "El impuesto sobre las ventas se añade en caja; revisa la cuenta por si ya incluye una propina o un cargo por servicio antes de dejar propina.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": []
+ },
+ "US-OK": {
+  "name": "Oklahoma",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "El impuesto sobre las ventas se añade en caja; revisa la cuenta por si ya incluye una propina o un cargo por servicio antes de dejar propina.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": []
+ },
+ "US-OR": {
+  "name": "Oregón",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "Oregón no tiene impuesto sobre las ventas, así que el precio de la carta es lo que aparece en la cuenta antes de cualquier propina.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "US-PA": {
+  "name": "Pensilvania",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "El impuesto sobre las ventas se añade en caja; revisa la cuenta por si ya incluye una propina o un cargo por servicio antes de dejar propina.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": []
+ },
+ "US-RI": {
+  "name": "Rhode Island",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "Todos los restaurantes y bares de Rhode Island cobran un 7% de impuesto sobre las ventas más un 1% de impuesto local sobre comidas y bebidas, un 8% en total, que se añade en caja.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto local sobre comidas y bebidas",
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": []
+ },
+ "US-SC": {
+  "name": "Carolina del Sur",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "El impuesto sobre las ventas se añade en caja; revisa la cuenta por si ya incluye una propina o un cargo por servicio antes de dejar propina.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": []
+ },
+ "US-SD": {
+  "name": "Dakota del Sur",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "El tipo estatal de Dakota del Sur es del 4.2%, con impuestos municipales añadidos encima.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": []
+ },
+ "US-TN": {
+  "name": "Tennessee",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "El impuesto sobre las ventas se añade en caja; revisa la cuenta por si ya incluye una propina o un cargo por servicio antes de dejar propina.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": []
+ },
+ "US-TX": {
+  "name": "Texas",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "El alcohol servido en bares y restaurantes de Texas lleva un 8.25% de impuesto sobre bebidas mezcladas.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": []
+ },
+ "US-UT": {
+  "name": "Utah",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "Salt Lake City añade un 1% de impuesto de restaurantes sobre su 8.45% de impuesto sobre las ventas.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": [
+   "Impuesto local de restaurantes"
+  ]
+ },
+ "US-VA": {
+  "name": "Virginia",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "Las ciudades y muchos condados de Virginia añaden su propio impuesto sobre comidas, de unos pocos puntos, encima del impuesto sobre las ventas, así que una cuenta de restaurante puede superar bastante el tipo estatal.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": [
+   "Impuesto local sobre comidas"
+  ]
+ },
+ "US-VT": {
+  "name": "Vermont",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "Vermont cobra un 9% en comidas de restaurante (un 10% en alcohol), y algunas localidades añaden un 1%.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre comidas"
+  ],
+  "extraNames": [
+   "Impuesto local opcional"
+  ]
+ },
+ "US-WA": {
+  "name": "Washington",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "El impuesto sobre las ventas se añade en caja; revisa la cuenta por si ya incluye una propina o un cargo por servicio antes de dejar propina.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": []
+ },
+ "US-WI": {
+  "name": "Wisconsin",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "El impuesto sobre las ventas se añade en caja; revisa la cuenta por si ya incluye una propina o un cargo por servicio antes de dejar propina.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": []
+ },
+ "US-WV": {
+  "name": "Virginia Occidental",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "El impuesto sobre las ventas se añade en caja; revisa la cuenta por si ya incluye una propina o un cargo por servicio antes de dejar propina.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": []
+ },
+ "US-WY": {
+  "name": "Wyoming",
+  "tipNote": "Propina del 15-20% sobre el importe antes de impuestos en restaurantes con servicio en mesa: el 15% es el mínimo que no sentará mal, el 18-20% es lo habitual, y en los locales de servicio en barra no hace falta propina.",
+  "note": "El impuesto sobre las ventas se añade en caja; revisa la cuenta por si ya incluye una propina o un cargo por servicio antes de dejar propina.",
+  "serviceNote": "No hay cargo por servicio incluido; revisa la cuenta por si añade un recargo o una propina antes de dar propina encima.",
+  "taxNames": [
+   "Impuesto sobre las ventas"
+  ],
+  "extraNames": []
+ },
+ "CA-AB": {
+  "name": "Alberta",
+  "tipNote": "Propina del 15% al 20% sobre el importe antes de impuestos; el 15% es el mínimo recomendable.",
+  "note": "Alberta no tiene impuesto provincial sobre las ventas, así que solo se añade un 5% de GST en caja.",
+  "serviceNote": "Normalmente no hay cargo por servicio; algunos restaurantes añaden automáticamente entre un 15% y un 18% en grupos grandes (normalmente seis o más), así que revisa la cuenta.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "CA-BC": {
+  "name": "Columbia Británica",
+  "tipNote": "Propina del 15% al 20% sobre el importe antes de impuestos; el 15% es el mínimo recomendable.",
+  "note": "En Columbia Británica, las comidas de restaurante están exentas del PST del 7%, así que una cuenta solo de comida lleva solo un 5% de GST; el alcohol añade un 10% de PST.",
+  "serviceNote": "Normalmente no hay cargo por servicio; algunos restaurantes añaden automáticamente entre un 15% y un 18% en grupos grandes (normalmente seis o más), así que revisa la cuenta.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": [
+   "PST sobre licores",
+   "PST sobre refrescos"
+  ]
+ },
+ "CA-SK": {
+  "name": "Saskatchewan",
+  "tipNote": "Propina del 15% al 20% sobre el importe antes de impuestos; el 15% es el mínimo recomendable.",
+  "note": "Saskatchewan cobra un 6% de PST en comidas de restaurante además del 5% de GST (un 11% en total); el alcohol lleva un 10% de LCT más GST en lugar de PST.",
+  "serviceNote": "Normalmente no hay cargo por servicio; algunos restaurantes añaden automáticamente entre un 15% y un 18% en grupos grandes (normalmente seis o más), así que revisa la cuenta.",
+  "taxNames": [
+   "GST",
+   "PST"
+  ],
+  "extraNames": [
+   "Liquor Consumption Tax (sustituye al PST)"
+  ]
+ },
+ "CA-MB": {
+  "name": "Manitoba",
+  "tipNote": "Propina del 15% al 20% sobre el importe antes de impuestos; el 15% es el mínimo recomendable.",
+  "note": "Manitoba mantiene su 7% de RST en comidas de restaurante y alcohol incluso después de la exención de alimentos de julio de 2026, así que la cuenta lleva un 12% en total.",
+  "serviceNote": "Normalmente no hay cargo por servicio; algunos restaurantes añaden automáticamente entre un 15% y un 18% en grupos grandes (normalmente seis o más), así que revisa la cuenta.",
+  "taxNames": [
+   "GST",
+   "RST (impuesto provincial sobre ventas minoristas)"
+  ],
+  "extraNames": []
+ },
+ "CA-ON": {
+  "name": "Ontario",
+  "tipNote": "Propina del 15% al 20% sobre el importe antes de impuestos; el 15% es el mínimo recomendable.",
+  "note": "La comida y bebida para llevar de $4 o menos antes de impuestos recupera en caja la parte provincial del 8% (solo se cobra un 5%); el alcohol no entra en esta exención.",
+  "serviceNote": "Normalmente no hay cargo por servicio; algunos restaurantes añaden automáticamente entre un 15% y un 18% en grupos grandes (normalmente seis o más), así que revisa la cuenta.",
+  "taxNames": [
+   "HST"
+  ],
+  "extraNames": []
+ },
+ "CA-QC": {
+  "name": "Quebec",
+  "tipNote": "Del 15 % al 20 % del importe antes de impuestos; los datáfonos de Quebec ahora sugieren la propina sobre el importe sin impuestos",
+  "note": "Las cuentas muestran por separado el TPS y el TVQ, y una propina voluntaria no tributa; un cargo por servicio impreso en la cuenta sí tributa.",
+  "serviceNote": "Normalmente no hay cargo por servicio; algunos restaurantes añaden automáticamente entre un 15% y un 18% en grupos grandes (normalmente seis o más), así que revisa la cuenta.",
+  "taxNames": [
+   "GST",
+   "QST"
+  ],
+  "extraNames": []
+ },
+ "CA-NB": {
+  "name": "Nuevo Brunswick",
+  "tipNote": "Propina del 15% al 20% sobre el importe antes de impuestos; el 15% es el mínimo recomendable.",
+  "note": "El HST se aplica a toda la cuenta del restaurante; no se ha encontrado ninguna exención para restaurantes en las fuentes consultadas.",
+  "serviceNote": "Normalmente no hay cargo por servicio; algunos restaurantes añaden automáticamente entre un 15% y un 18% en grupos grandes (normalmente seis o más), así que revisa la cuenta.",
+  "taxNames": [
+   "HST"
+  ],
+  "extraNames": []
+ },
+ "CA-NL": {
+  "name": "Terranova y Labrador",
+  "tipNote": "Propina del 15% al 20% sobre el importe antes de impuestos; el 15% es el mínimo recomendable.",
+  "note": "El HST se aplica a toda la cuenta del restaurante; no se ha encontrado ninguna exención para restaurantes en las fuentes consultadas.",
+  "serviceNote": "Normalmente no hay cargo por servicio; algunos restaurantes añaden automáticamente entre un 15% y un 18% en grupos grandes (normalmente seis o más), así que revisa la cuenta.",
+  "taxNames": [
+   "HST"
+  ],
+  "extraNames": []
+ },
+ "CA-PE": {
+  "name": "Isla del Príncipe Eduardo",
+  "tipNote": "Propina del 15% al 20% sobre el importe antes de impuestos; el 15% es el mínimo recomendable.",
+  "note": "El HST se aplica a toda la cuenta del restaurante; no se ha encontrado ninguna exención para restaurantes en las fuentes consultadas.",
+  "serviceNote": "Normalmente no hay cargo por servicio; algunos restaurantes añaden automáticamente entre un 15% y un 18% en grupos grandes (normalmente seis o más), así que revisa la cuenta.",
+  "taxNames": [
+   "HST"
+  ],
+  "extraNames": []
+ },
+ "CA-NS": {
+  "name": "Nueva Escocia",
+  "tipNote": "Propina del 15% al 20% sobre el importe antes de impuestos; el 15% es el mínimo recomendable.",
+  "note": "El HST de Nueva Escocia bajó al 14% en abril de 2025, así que las guías antiguas que indican un 15% están desactualizadas.",
+  "serviceNote": "Normalmente no hay cargo por servicio; algunos restaurantes añaden automáticamente entre un 15% y un 18% en grupos grandes (normalmente seis o más), así que revisa la cuenta.",
+  "taxNames": [
+   "HST"
+  ],
+  "extraNames": []
+ },
+ "CA-YT": {
+  "name": "Yukón",
+  "tipNote": "Propina del 15% al 20% sobre el importe antes de impuestos; el 15% es el mínimo recomendable.",
+  "note": "Solo se añade un 5% de GST; el territorio no tiene impuesto sobre las ventas. La costumbre de propina es la de todo Canadá; no se encontró ninguna fuente específica del territorio.",
+  "serviceNote": "Normalmente no hay cargo por servicio; algunos restaurantes añaden automáticamente entre un 15% y un 18% en grupos grandes (normalmente seis o más), así que revisa la cuenta.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "CA-NT": {
+  "name": "Territorios del Noroeste",
+  "tipNote": "Propina del 15% al 20% sobre el importe antes de impuestos; el 15% es el mínimo recomendable.",
+  "note": "Solo se añade un 5% de GST; el territorio no tiene impuesto sobre las ventas. La costumbre de propina es la de todo Canadá; no se encontró ninguna fuente específica del territorio.",
+  "serviceNote": "Normalmente no hay cargo por servicio; algunos restaurantes añaden automáticamente entre un 15% y un 18% en grupos grandes (normalmente seis o más), así que revisa la cuenta.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "CA-NU": {
+  "name": "Nunavut",
+  "tipNote": "Propina del 15% al 20% sobre el importe antes de impuestos; el 15% es el mínimo recomendable.",
+  "note": "Solo se añade un 5% de GST; el territorio no tiene impuesto sobre las ventas. La costumbre de propina es la de todo Canadá; no se encontró ninguna fuente específica del territorio.",
+  "serviceNote": "Normalmente no hay cargo por servicio; algunos restaurantes añaden automáticamente entre un 15% y un 18% en grupos grandes (normalmente seis o más), así que revisa la cuenta.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "SG": {
+  "name": "Singapur",
+  "tipNote": "No hace falta propina; el cargo por servicio del 10% es la propina, y algunos sitios tienen un bote para propinas si quieres añadir un poco.",
+  "note": "Un total de S$100 en la carta se convierte en S$119.90 en un restaurante con «++» (10% de servicio y luego 9% de GST sobre S$110).",
+  "serviceNote": "La mayoría de restaurantes con servicio en mesa añaden un cargo por servicio del 10%, y el GST se cobra sobre el precio más el cargo por servicio (las cartas muestran «++»); los hawker centres y las food courts suelen no añadir ninguno.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "MY": {
+  "name": "Malasia",
+  "tipNote": "No hace falta propina; una pequeña cantidad entregada al personal es bienvenida, pero nunca se espera.",
+  "note": "Los restaurantes pequeños por debajo del umbral de RM1.5 million no cobran el impuesto de servicio del 6%, así que la cuenta puede mostrar solo el cargo por servicio, o nada extra.",
+  "serviceNote": "Muchos restaurantes con servicio en mesa y hoteles añaden un cargo por servicio del 10%, indicado como «++»; los puestos pequeños y muchas cafeterías no añaden ninguno.",
+  "taxNames": [
+   "Impuesto de servicios (SST)"
+  ],
+  "extraNames": []
+ },
+ "ID": {
+  "name": "Indonesia",
+  "tipNote": "No es necesario dar propina; si la cuenta no incluye cargo por servicio, se agradece un 10% o redondear hacia arriba.",
+  "note": "Las comidas de restaurante llevan el impuesto regional PB1, no el IVA nacional, así que un 11% impreso sería un error.",
+  "serviceNote": "Los restaurantes de zonas turísticas y de gama alta (Bali, Yakarta) suelen añadir un cargo por servicio del 5% al 10%, indicado como «++»; los warungs y las cafeterías locales no añaden ninguno.",
+  "taxNames": [
+   "Impuesto regional sobre restaurantes (PB1 / PBJT)"
+  ],
+  "extraNames": []
+ },
+ "TH": {
+  "name": "Tailandia",
+  "tipNote": "Con un cargo por servicio del 10% en la cuenta no hace falta nada más; si no, deja unas monedas, alrededor de 20 baht.",
+  "note": "En los locales con «++», la cuenta final es alrededor de un 17% superior al precio de la carta; la comida callejera y los restaurantes locales suelen cobrar el precio de la carta.",
+  "serviceNote": "Los restaurantes de hotel y muchos locales de gama alta añaden un cargo por servicio del 10% (y el VAT encima); el organismo de consumo tailandés dice que es opcional, pero debe mostrarse.",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": []
+ },
+ "AE": {
+  "name": "Emiratos Árabes Unidos",
+  "tipNote": "Si la cuenta ya incluye un cargo por servicio del 10%, no hace falta propina; si no, se agradece entre un 10% y un 15% del total (la guía de Dubái de Lonely Planet dice que con un 5-10% basta).",
+  "note": "El IVA del 5% está incluido en el precio de la carta; las líneas extra de la cuenta son el cargo por servicio y cualquier tasa municipal o turística. La tasa municipal del 7% de Dubái está suspendida por ahora.",
+  "serviceNote": "Los hoteles suelen añadir un 10% y algunos locales independientes también (la mayoría no). Visit Dubai dice que a menudo va al negocio, no al camarero. Lo dicen la carta o la cuenta.",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": [
+   "Tasa municipal de Dubái",
+   "Tasa turística de Abu Dabi"
+  ]
+ },
+ "IN": {
+  "name": "India",
+  "tipNote": "La propina es habitual pero modesta: entre un 5% y un 10% en efectivo, o redondear, aunque haya un cargo por servicio en la cuenta.",
+  "note": "Muchos menús de gama media y alta muestran precios sin impuestos («plus taxes»), así que la cuenta es al menos un 5% superior; los puestos de comida callejera y los locales pequeños suelen indicar precios finales.",
+  "serviceNote": "Algunos restaurantes siguen añadiendo un cargo por servicio del 5% al 10%, pero debe ser voluntario; puedes pedir que lo quiten.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": [
+   "GST en restaurantes de hotel (sustituye al 5%)"
+  ]
+ },
+ "AT": {
+  "name": "Austria",
+  "tipNote": "Redondea o añade un 5-10% por un buen servicio, y dile al camarero el total que quieres pagar.",
+  "note": "Los precios de la carta incluyen el IVA (norma de la UE).",
+  "serviceNote": "Revisa la cuenta: si la propina ya está incluida, no la pagues dos veces.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "BE": {
+  "name": "Bélgica",
+  "tipNote": "El servicio ya está incluido en el precio; redondear o dejar un 5-10% es un bonito detalle, pero no es obligatorio.",
+  "note": "Los precios de la carta incluyen el IVA (norma de la UE).",
+  "serviceNote": "El servicio ya está incluido en el precio.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "BG": {
+  "name": "Bulgaria",
+  "tipNote": "Deja alrededor de un 10% en efectivo por un buen servicio, más si te ha gustado mucho.",
+  "note": "Bulgaria cambió el lev por el euro el 1 de enero de 2026, así que las guías antiguas pueden indicar levs.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "HR": {
+  "name": "Croacia",
+  "tipNote": "Redondea en las cafeterías y deja alrededor de un 10% en una buena comida en restaurante.",
+  "note": "Las fuentes no coinciden: el apartado de Croacia de Lonely Planet dice al menos un 10%, y su guía de Europa dice un 5-10%.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "CY": {
+  "name": "Chipre",
+  "tipNote": "La propina depende de ti; redondear o dejar un 5-10% por un buen servicio es un gesto de agradecimiento.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [
+   "VAT (restaurantes)"
+  ],
+  "extraNames": []
+ },
+ "EE": {
+  "name": "Estonia",
+  "tipNote": "Redondea, o deja alrededor de un 10% cuando la comida o el servicio han sido excepcionales.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "FI": {
+  "name": "Finlandia",
+  "tipNote": "El servicio siempre está incluido, así que no añadas propina; redondear es bienvenido pero nunca se espera.",
+  "note": "El IVA ya está incluido en el precio.",
+  "serviceNote": "El servicio siempre está incluido en la cuenta.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "FR": {
+  "name": "Francia",
+  "tipNote": "El servicio ya está incluido, así que la propina es opcional: unos pocos euros, hasta un 10% aproximadamente por un servicio excelente.",
+  "note": "El precio de la carta es lo que pagas: los impuestos y el servicio están incluidos.",
+  "serviceNote": "El servicio está incluido por ley en los precios de la carta («service compris»).",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "DE": {
+  "name": "Alemania",
+  "tipNote": "Redondea hasta alrededor de un 5-10% y dile al camarero el total que quieres pagar, en lugar de dejar el dinero en la mesa.",
+  "note": "Las fuentes difieren en la cantidad: visitBerlin dice un 10-15%, Lonely Planet un 5-10%.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "GR": {
+  "name": "Grecia",
+  "tipNote": "No es obligatorio dar propina; redondear o dejar un 5-10% por un buen servicio se agradece.",
+  "note": "Las fuentes difieren sobre el servicio: el turismo de Atenas dice que los restaurantes no añaden ninguno, Lonely Planet dice que normalmente está incluido, así que revisa la cuenta.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "IE": {
+  "name": "Irlanda",
+  "tipNote": "No se espera, pero un 10% por un buen servicio es lo habitual; no lo des si ya hay un cargo por servicio en la cuenta.",
+  "note": "",
+  "serviceNote": "Los grupos grandes (seis o más) suelen tener un cargo por servicio; la lista de precios debe indicar si se aplica uno.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "IT": {
+  "name": "Italia",
+  "tipNote": "Aquí no se espera propina, así que redondea o deja solo unos euros si el servicio ha sido excelente.",
+  "note": "Una ley regional prohíbe el coperto en el Lacio (incluida Roma).",
+  "serviceNote": "El coperto (un cargo fijo por mesa, alrededor de EUR 2 por persona) es habitual y legal si aparece en la carta; no es una propina.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "LV": {
+  "name": "Letonia",
+  "tipNote": "Redondea la cuenta, o deja alrededor de un 10% si te ha gustado el servicio.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "LT": {
+  "name": "Lituania",
+  "tipNote": "Deja un 5-15% según el servicio, salvo que la cuenta ya muestre un cargo por servicio.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "LU": {
+  "name": "Luxemburgo",
+  "tipNote": "El servicio ya está incluido en el precio; redondea o deja un 5-10% si quieres dar las gracias.",
+  "note": "Los precios de la carta deben incluir por ley el IVA y el resto de impuestos.",
+  "serviceNote": "Los restaurantes deben mostrar los precios con el servicio incluido.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "MT": {
+  "name": "Malta",
+  "tipNote": "Comprueba primero si hay cargo por servicio en la cuenta; si no lo hay, un 5-10% por un buen servicio es razonable, y redondear está bien en una cafetería.",
+  "note": "La oficina de turismo de Malta considera habitual una propina del 5-10% por un buen servicio, pero no necesaria si la cuenta ya incluye un cargo por servicio.",
+  "serviceNote": "Algunos restaurantes añaden un cargo por servicio; si aparece en la cuenta, no hace falta propina.",
+  "taxNames": [
+   "VAT (restaurantes)"
+  ],
+  "extraNames": []
+ },
+ "NL": {
+  "name": "Países Bajos",
+  "tipNote": "Los locales suelen simplemente redondear; alrededor de un 10% es más que suficiente para una comida excelente.",
+  "note": "Holland.com dice que alrededor de un 10% es bastante aceptable, pero no es fijo.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "PT": {
+  "name": "Portugal",
+  "tipNote": "No hay gran cultura de propina: deja cambio pequeño o redondea, y alrededor de un 10% solo en restaurantes de alta cocina.",
+  "note": "Los entrantes que traen sin pedirlos (couvert) se cobran si los comes; puedes devolverlos.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "SK": {
+  "name": "Eslovaquia",
+  "tipNote": "Redondea la cuenta, normalmente en torno a un 5-10%; no es obligatorio.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "SI": {
+  "name": "Eslovenia",
+  "tipNote": "La propina no es obligatoria; redondear es educado, y un 5-10% es un gesto cordial por un buen servicio.",
+  "note": "Las guías no coinciden en la cantidad: Rough Guides dice que basta con redondear, Ljubljana.info dice que un 10% o incluso un 20% es un bonito detalle.",
+  "serviceNote": "",
+  "taxNames": [
+   "VAT (restaurantes)"
+  ],
+  "extraNames": []
+ },
+ "ES": {
+  "name": "España",
+  "tipNote": "La propina no es habitual; redondear o dejar un 5-10% por un buen servicio es bienvenido.",
+  "note": "Un cartel que diga «IVA NO INCLUIDO» indica que se añadirá un 10% a la cuenta.",
+  "serviceNote": "",
+  "taxNames": [
+   "IVA (restaurantes)"
+  ],
+  "extraNames": []
+ },
+ "GB": {
+  "name": "Reino Unido",
+  "tipNote": "Si la cuenta incluye un servicio del 12.5%, no añadas más; si no, deja entre un 10% y un 15%.",
+  "note": "En los pubs no se suele dar propina al personal de barra.",
+  "serviceNote": "Normalmente un 12.5%, indicado en la cuenta; es opcional y puedes pedir que lo quiten.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "CH": {
+  "name": "Suiza",
+  "tipNote": "El servicio está incluido; redondear o dejar alrededor de un 10% es habitual, pero no estás obligado.",
+  "note": "Los precios de la carta son precios finales en francos, con IVA incluido.",
+  "serviceNote": "El servicio está incluido en el precio.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "NO": {
+  "name": "Noruega",
+  "tipNote": "No se espera; los locales redondean o dejan un 5-10% cuando están contentos.",
+  "note": "Visit Norway dice que las propinas suelen quedarse en torno al 5-15%, Lonely Planet dice que en restaurantes no se espera propina en absoluto.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "SE": {
+  "name": "Suecia",
+  "tipNote": "Redondea la cuenta (por ejemplo, de 280 a 300 SEK); alrededor de un 10% es una buena propina en una comida más abundante.",
+  "note": "",
+  "serviceNote": "A veces se incluye un cargo por servicio, pero se indica claramente en la cuenta.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "DK": {
+  "name": "Dinamarca",
+  "tipNote": "El servicio está incluido en la cuenta; da propina solo si el servicio ha sido excelente, no hay una cantidad fijada.",
+  "note": "",
+  "serviceNote": "El servicio está incluido en las cuentas de restaurante.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "IS": {
+  "name": "Islandia",
+  "tipNote": "El servicio está incluido, así que no se espera propina; una pequeña propina en efectivo por un servicio excelente es bienvenida.",
+  "note": "El precio indicado debe incluir el IVA por ley.",
+  "serviceNote": "El servicio ya está incluido en la cuenta en la mayoría de restaurantes y cafeterías.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "PL": {
+  "name": "Polonia",
+  "tipNote": "Deja alrededor de un 10% por un buen servicio en restaurante; para un café, una moneda en el bote es suficiente.",
+  "note": "La guía de Varsovia de Lonely Planet dice un 10-15%.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "CZ": {
+  "name": "Chequia",
+  "tipNote": "Deja alrededor de un 10% por el servicio en mesa.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "HU": {
+  "name": "Hungría",
+  "tipNote": "Si aparece «szerviz» en la cuenta, no añadas más; si no, deja alrededor de un 10% y di el total que quieres pagar.",
+  "note": "La cifra del 12.5% procede de un artículo de 2015, así que revisa la cuenta.",
+  "serviceNote": "Muchos restaurantes añaden un cargo por servicio de alrededor del 12.5%, indicado como «szerviz»; si está, no añadas propina.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "TR": {
+  "name": "Turquía",
+  "tipNote": "Deja alrededor de un 10% (un 15% por un servicio muy bueno), preferiblemente en efectivo: desde la prohibición, algunos locales ofrecen un 8, 10 o 15% en el datáfono, pero muchos no pueden cobrar propinas con tarjeta.",
+  "note": "Los menús deben mostrar ahora el precio completo: no se pueden añadir cargos por servicio, por mesa o por cubierto, y las propinas son voluntarias.",
+  "serviceNote": "Desde el 30 de enero de 2026, los restaurantes no pueden añadir cargos por servicio, por mesa o por cubierto con ningún nombre (Resmî Gazete 33153).",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "MX": {
+  "name": "México",
+  "tipNote": "Deja alrededor de un 10%, hasta un 15% por un servicio muy bueno; es voluntario, así que nadie puede exigirlo.",
+  "note": "La propina habitual es un 10% (un 15% por un servicio muy bueno). La guía de Américas de Lonely Planet dice un 15-20% y que un cargo por servicio es habitual, pero Profeco, el turismo de Ciudad de México y el artículo de Lonely Planet sobre México de 2026 indican un 10%.",
+  "serviceNote": "Por ley, ningún proveedor puede exigir una propina ni fijar su cuantía.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "BR": {
+  "name": "Brasil",
+  "tipNote": "Si la tasa de servicio del 10% aparece en la cuenta, págala como tu propina y no añadas otra.",
+  "note": "No se ha verificado por separado si los precios de la carta incluyen impuestos.",
+  "serviceNote": "Una «taxa de serviço» del 10% suele aparecer impresa en la cuenta; por ley es opcional y debe indicarlo.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "AR": {
+  "name": "Argentina",
+  "tipNote": "Deja alrededor de un 10% en efectivo; no es una obligación legal, pero es una costumbre firme.",
+  "note": "No se pudo confirmar si los precios de la carta incluyen impuestos (el PDF nacional sobre exhibición de precios no se pudo leer); Lonely Planet dice que es más habitual añadir un cargo por servicio.",
+  "serviceNote": "Algunos restaurantes cobran un «cubierto» por persona; no puede cobrarse a los niños menores de 12 años.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "CL": {
+  "name": "Chile",
+  "tipNote": "La cuenta sugiere un 10%; escribe «con propina» para incluirla, o recházala, es voluntaria.",
+  "note": "Por ley, los precios de la carta deben incluir el IVA.",
+  "serviceNote": "La cuenta sugiere una propina de al menos un 10%, pero es voluntaria.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "PE": {
+  "name": "Perú",
+  "tipNote": "La propina no es estándar y muchos peruanos no la dan. Si no aparece ninguna línea de «servicio» o «recargo» en la cuenta, alrededor de un 10% es un gesto amable; si la hay, ya has dado propina.",
+  "note": "Las normas sobre impuestos y exhibición de precios son oficiales; el tamaño de la propina es una estimación, porque las dos guías de Lonely Planet sobre Perú no coinciden y no se encontró ninguna cifra de la oficina de turismo.",
+  "serviceNote": "Muchos restaurantes de gama media y alta añaden un «servicio» o «recargo al consumo» de hasta un 13% (Decreto Ley 25988); Indecopi dice que los precios publicados deben incluirlo. Revisa la carta y la cuenta.",
+  "taxNames": [
+   "IGV"
+  ],
+  "extraNames": []
+ },
+ "CO": {
+  "name": "Colombia",
+  "tipNote": "La cuenta puede sugerir un 10%; es voluntario, así que puedes aceptarlo, cambiarlo o rechazarlo.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [
+   "Impuesto nacional al consumo (restaurantes)"
+  ],
+  "extraNames": []
+ },
+ "CR": {
+  "name": "Costa Rica",
+  "tipNote": "El servicio del 10% ya está incluido en el precio, así que una propina extra es opcional; un 5% aproximadamente se agradece por un buen servicio.",
+  "note": "Por ley, el precio de la carta debe ser el precio final, con el 13% de IVA y el 10% de servicio incluidos. Si una carta dice «+ impuestos» o «10% servicio no incluido», incumple la norma y la cuenta sería alrededor de un 23% superior.",
+  "serviceNote": "El 10% de servicio en mesa, calculado antes de impuestos, también debe estar en el precio final de la carta; no se cobra en comida para llevar.",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": []
+ },
+ "DO": {
+  "name": "República Dominicana",
+  "tipNote": "La propina legal del 10% ya está en la cuenta; la oficina de turismo dice que un 10% adicional es habitual.",
+  "note": "No se ha verificado si las cartas muestran los precios antes de impuestos y de servicio.",
+  "serviceNote": "Se añade una propina legal del 10% a las cuentas de comedor (no para llevar ni a domicilio).",
+  "taxNames": [
+   "ITBIS"
+  ],
+  "extraNames": []
+ },
+ "CU": {
+  "name": "Cuba",
+  "tipNote": "Comprueba si hay un cargo por servicio del 10-12% en la cuenta; si no lo hay, deja una pequeña propina al camarero (un operador turístico sugiere alrededor de un 10% o cambio pequeño).",
+  "note": "Confianza baja: no se pudo consultar ninguna fuente oficial sobre impuestos, precios de la carta ni cargos por servicio. Los restaurantes privados fijan precios en pesos a tipos informales y muchos aceptan euros; pregunta en qué moneda está la carta.",
+  "serviceNote": "Los cargos por servicio del 10-12% son bastante habituales en restaurantes estatales y en los paladares más cuidados; algunos añaden un 10% fijo.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "JM": {
+  "name": "Jamaica",
+  "tipNote": "Comprueba primero si la cuenta ya incluye una propina; si no, deja un 15-20% en un restaurante. Los datáfonos pueden ofrecer propinas de hasta un 25%.",
+  "note": "El GCT y un cargo por servicio se añaden a menudo a la cuenta en lugar de al precio de la carta, al menos en hoteles. Las únicas fuentes sobre propinas son un periódico y el consejo de Lonely Planet para el Caribe; no se pudo consultar ninguna página de la Jamaica Tourist Board.",
+  "serviceNote": "Algunos restaurantes añaden un cargo por servicio o propina obligatorio del 10-20%; revisa la cuenta antes de dar propina.",
+  "taxNames": [
+   "GCT"
+  ],
+  "extraNames": []
+ },
+ "JP": {
+  "name": "Japón",
+  "tipNote": "La propina no es costumbre y puede confundir al personal.",
+  "note": "Desde abril de 2021, los menús deben mostrar precios con impuestos incluidos.",
+  "serviceNote": "En los restaurantes, normalmente se añade un cargo por servicio a la cuenta final.",
+  "taxNames": [
+   "Impuesto de consumo"
+  ],
+  "extraNames": []
+ },
+ "KR": {
+  "name": "Corea del Sur",
+  "tipNote": "La propina no es costumbre y algunos empleados la rechazarán.",
+  "note": "Las fuentes no coinciden sobre si el IVA está incluido en los precios de la carta: una norma de 2012 dice que debe estarlo, Visit Seoul dice que se «añade».",
+  "serviceNote": "Muchos hoteles y restaurantes de gama alta añaden un cargo por servicio del 10% además del IVA.",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": []
+ },
+ "CN": {
+  "name": "China",
+  "tipNote": "No se espera propina; revisa primero si la cuenta incluye un cargo por servicio.",
+  "note": "No se ha verificado por separado si los precios de la carta incluyen impuestos.",
+  "serviceNote": "Los restaurantes de calidad y de gama alta pueden añadir un cargo por servicio del 5-15%.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "HK": {
+  "name": "Hong Kong",
+  "tipNote": "La mayoría de restaurantes añaden un 10% de servicio, así que no hace falta propina adicional.",
+  "note": "Hong Kong no tiene impuesto sobre las ventas ni IVA.",
+  "serviceNote": "La mayoría de restaurantes añaden un cargo por servicio del 10%; algunas cafeterías y comedores sencillos no.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "TW": {
+  "name": "Taiwán",
+  "tipNote": "No se espera propina; a menudo se añade un cargo por servicio del 10% a la cuenta.",
+  "note": "No se ha verificado por separado si los precios de la carta incluyen impuestos.",
+  "serviceNote": "Un cargo por servicio del 10% es habitual en hoteles y restaurantes.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "VN": {
+  "name": "Vietnam",
+  "tipNote": "No se espera propina en los restaurantes; redondear o dejar un 5-10% por un buen servicio es bienvenido, y nada extra si la cuenta ya incluye un cargo por servicio.",
+  "note": "La Ley de Precios dice que los precios publicados incluyen impuestos y tasas, pero los locales de gama alta pueden indicar precios antes del IVA y del servicio, así que revisa la nota al pie de la carta. No se encontró ninguna fuente oficial sobre cargos por servicio.",
+  "serviceNote": "Revisa la cuenta por si aparece una línea de cargo por servicio o de IVA.",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": []
+ },
+ "PH": {
+  "name": "Filipinas",
+  "tipNote": "Si la cuenta incluye un cargo por servicio, no hace falta propina; si no, redondear o dejar un 5-10% por un buen servicio se agradece.",
+  "note": "El IVA es del 12%; algunos restaurantes lo incluyen en los precios de la carta y otros lo añaden a la cuenta, y la carta indica cuál. No se pudo consultar ninguna página del Departamento de Turismo sobre propinas.",
+  "serviceNote": "Muchos restaurantes añaden un cargo por servicio del 5-10%; la ley no fija ningún porcentaje, pero todo debe ir al personal no directivo.",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": []
+ },
+ "KH": {
+  "name": "Camboya",
+  "tipNote": "La propina no es costumbre; redondear o dejar un dólar o dos por un buen servicio basta, y nada si la cuenta ya incluye un cargo por servicio.",
+  "note": "Los precios suelen estar en dólares estadounidenses. No se pudo confirmar si los precios de la carta incluyen el IVA del 10%, así que revisa la nota al pie de la carta.",
+  "serviceNote": "Hoteles y restaurantes suelen añadir un cargo por servicio del 10% (preguntas frecuentes del Ministerio de Turismo); Rough Guides dice un 5-10% en locales de gama alta.",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": []
+ },
+ "AU": {
+  "name": "Australia",
+  "tipNote": "No se espera; en un restaurante de ciudad con servicio en mesa se agradece un 10%, y nada en la barra.",
+  "note": "Tourism Australia dice que los restaurantes no añaden cargo por servicio; el recargo de festivos es aparte.",
+  "serviceNote": "Algunos locales añaden un recargo de fin de semana o de festivos de hasta un 15% (Lonely Planet); revisa la carta.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "NZ": {
+  "name": "Nueva Zelanda",
+  "tipNote": "No se espera propina, aunque un 10% por un servicio en mesa realmente bueno es bienvenido.",
+  "note": "Lonely Planet dice que algunos locales añaden un recargo festivo de hasta un 15%.",
+  "serviceNote": "Los restaurantes no añaden cargos por servicio.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "ZA": {
+  "name": "Sudáfrica",
+  "tipNote": "Deja un 10-15% por un buen servicio; no lo des si la cuenta ya incluye un cargo por servicio de grupo.",
+  "note": "La página de South African Tourism es de 2018, y no se pudo confirmar si los precios de la carta incluyen el VAT.",
+  "serviceNote": "Se añade automáticamente un cargo por servicio del 10% en mesas de más de seis comensales.",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": []
+ },
+ "MA": {
+  "name": "Marruecos",
+  "tipNote": "Comprueba primero si hay cargo por servicio en la cuenta; si no lo hay, deja un 5-10%, o hasta un 15% en locales de gama alta.",
+  "note": "Los precios de la carta deben incluir el IVA (Ley 31-08). La oficina de turismo marroquí no tiene una página sobre propinas; las fuentes son una editorial, un medio de noticias y una guía local, y la primera fija un 10-15% donde las otras dicen un 5-10%.",
+  "serviceNote": "Los restaurantes muy frecuentados por turistas suelen añadir un 10% (Lonely Planet, Le360); no se encontró ninguna tarifa legal.",
+  "taxNames": [
+   "VAT (restaurantes)"
+  ],
+  "extraNames": []
+ },
+ "EG": {
+  "name": "Egipto",
+  "tipNote": "Normalmente se añade un cargo por servicio, así que deja un poco más en efectivo para el camarero; alrededor de un 10% si no hay cargo.",
+  "note": "Una declaración de una cámara de 2020 dice que los menús de los establecimientos turísticos deben mostrar precios todo incluido, pero un informe de 2023 dice que los clientes pagan un 26% adicional (12% de servicio y 14% de IVA). Supón que se añaden impuestos y servicio hasta que la carta diga lo contrario.",
+  "serviceNote": "En establecimientos turísticos se añade alrededor de un 12% de servicio (Lonely Planet dice un 10%).",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": []
+ },
+ "IL": {
+  "name": "Israel",
+  "tipNote": "Deja un 10-12% por un buen servicio y un 15% por uno excelente (un 15% es lo normal en Tel Aviv), preferiblemente en efectivo.",
+  "note": "No se pudo consultar ninguna página del Ministerio de Turismo sobre propinas; las tres fuentes sobre propinas (un blog de una cadena hotelera, una revista de noticias y una wiki comunitaria de viajes) coinciden en un 10-15%.",
+  "serviceNote": "Los restaurantes casi nunca añaden cargo por servicio, salvo en grupos grandes.",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": []
+ },
+ "JO": {
+  "name": "Jordania",
+  "tipNote": "Deja alrededor de un 10% sobre la cuenta, salvo que ya incluya un cargo por servicio.",
+  "note": "Los precios de la carta normalmente no incluyen el impuesto general sobre las ventas del 16% ni la línea de servicio del 10%, así que una cuenta puede superar en hasta alrededor de un cuarto el total de la carta.",
+  "serviceNote": "Muchos restaurantes añaden una línea de «service» del 10%; es una costumbre, no una norma legal.",
+  "taxNames": [
+   "Impuesto general sobre las ventas"
+  ],
+  "extraNames": []
+ },
+ "QA": {
+  "name": "Catar",
+  "tipNote": "Normalmente la cuenta ya incluye un cargo por servicio; un 10-15% extra en efectivo se agradece.",
+  "note": "No se pudo confirmar si los precios de la carta incluyen impuestos.",
+  "serviceNote": "La mayoría de establecimientos de hostelería incluyen un cargo por servicio en la cuenta.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "SA": {
+  "name": "Arabia Saudí",
+  "tipNote": "Los camareros suelen esperar una propina del 10-15% al final de la comida.",
+  "note": "La propina no es obligatoria y no se añade ningún cargo por servicio, así que un 10-15% no se duplica.",
+  "serviceNote": "Los restaurantes no pueden añadir cargos por servicio (decisión del Ministerio de Comercio, reconfirmada en 2017).",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": []
+ },
+ "KE": {
+  "name": "Kenia",
+  "tipNote": "La propina no es obligatoria, pero alrededor de un 10% de la cuenta por una buena comida se agradece.",
+  "note": "El VAT es del 16% y los negocios turísticos con licencia también pagan una tasa del 2% sobre las ventas de comida y bebida. No se encontró ninguna ley sobre precios de la carta, así que revisa si el menú indica «inclusive of VAT».",
+  "serviceNote": "",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": []
+ },
+ "TZ": {
+  "name": "Tanzania",
+  "tipNote": "Alrededor de un 10% es lo habitual en restaurantes, hasta un 15% por un servicio muy bueno; siempre en efectivo.",
+  "note": "Los precios anunciados por empresas registradas a efectos de IVA deben incluir el 18% de VAT. No se pudo consultar ninguna página de la Tanzania Tourist Board sobre propinas; las fuentes son operadores de safaris y la guía de África de Lonely Planet.",
+  "serviceNote": "",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": []
+ }
+}

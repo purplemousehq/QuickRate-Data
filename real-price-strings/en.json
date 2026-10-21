@@ -1,0 +1,1253 @@
+{
+ "US-AK": {
+  "name": "Alaska",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Alaska has no state sales tax and each town sets its own: Anchorage and Fairbanks, the two largest cities, charge none, while Juneau charges 5%, Seward 4% and Kodiak 7% (tax year 2024), and some towns stack a borough and a city tax. The 1.82% is an average that matches no single town.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Local sales tax"
+  ],
+  "extraNames": []
+ },
+ "US-AL": {
+  "name": "Alabama",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Sales tax is added at the till; check the bill for an added gratuity or service fee before tipping.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax"
+  ],
+  "extraNames": []
+ },
+ "US-AR": {
+  "name": "Arkansas",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Sales tax is added at the till; check the bill for an added gratuity or service fee before tipping.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax"
+  ],
+  "extraNames": []
+ },
+ "US-AZ": {
+  "name": "Arizona",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Sales tax is added at the till; check the bill for an added gratuity or service fee before tipping.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax"
+  ],
+  "extraNames": []
+ },
+ "US-CA": {
+  "name": "California",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Look for a surcharge line on the menu or bill in California before adding a tip.",
+  "serviceNote": "Some California restaurants add a mandatory service or surcharge fee; state law lets them if it is shown on the menu with its purpose.",
+  "taxNames": [
+   "Sales tax"
+  ],
+  "extraNames": []
+ },
+ "US-CO": {
+  "name": "Colorado",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Colorado's state tax is only 2.9%, and city, county and district taxes make up most of the 7.89% average.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax"
+  ],
+  "extraNames": []
+ },
+ "US-CT": {
+  "name": "Connecticut",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Connecticut charges 7.35% on restaurant meals and certain drinks, one point more than the 6.35% on most goods.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax on meals"
+  ],
+  "extraNames": []
+ },
+ "US-DC": {
+  "name": "District of Columbia",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Washington DC charges 10% on restaurant meals and drinks, well above the 6% general rate.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax on restaurant meals"
+  ],
+  "extraNames": []
+ },
+ "US-DE": {
+  "name": "Delaware",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Delaware has no sales tax, so the menu price is what goes on the bill before any tip.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "US-FL": {
+  "name": "Florida",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Sales tax is added at the till; check the bill for an added gratuity or service fee before tipping.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax"
+  ],
+  "extraNames": []
+ },
+ "US-GA": {
+  "name": "Georgia",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Sales tax is added at the till; check the bill for an added gratuity or service fee before tipping.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax"
+  ],
+  "extraNames": []
+ },
+ "US-HI": {
+  "name": "Hawaii",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Hawaii restaurants may add up to 4.712% general excise tax to the bill.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "General excise tax (passed on)"
+  ],
+  "extraNames": []
+ },
+ "US-IA": {
+  "name": "Iowa",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Sales tax is added at the till; check the bill for an added gratuity or service fee before tipping.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax"
+  ],
+  "extraNames": []
+ },
+ "US-ID": {
+  "name": "Idaho",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Sales tax is added at the till; check the bill for an added gratuity or service fee before tipping.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax"
+  ],
+  "extraNames": []
+ },
+ "US-IL": {
+  "name": "Illinois",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Chicago adds a 0.5% restaurant tax on top of its sales tax.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax"
+  ],
+  "extraNames": [
+   "Chicago restaurant tax"
+  ]
+ },
+ "US-IN": {
+  "name": "Indiana",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Sales tax is added at the till; check the bill for an added gratuity or service fee before tipping.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax"
+  ],
+  "extraNames": []
+ },
+ "US-KS": {
+  "name": "Kansas",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Sales tax is added at the till; check the bill for an added gratuity or service fee before tipping.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax"
+  ],
+  "extraNames": []
+ },
+ "US-KY": {
+  "name": "Kentucky",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Sales tax is added at the till; check the bill for an added gratuity or service fee before tipping.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax"
+  ],
+  "extraNames": []
+ },
+ "US-LA": {
+  "name": "Louisiana",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Louisiana has the highest average combined rate in the country, with local taxes adding about as much as the 5% state tax.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax"
+  ],
+  "extraNames": []
+ },
+ "US-MA": {
+  "name": "Massachusetts",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Massachusetts restaurants charge 6.25%, and cities and towns that opted in add 0.75% for 7% in total.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax on meals"
+  ],
+  "extraNames": [
+   "Local option meals tax"
+  ]
+ },
+ "US-MD": {
+  "name": "Maryland",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Sales tax is added at the till; check the bill for an added gratuity or service fee before tipping.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax"
+  ],
+  "extraNames": []
+ },
+ "US-ME": {
+  "name": "Maine",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Maine charges 8% on restaurant meals, not the 5.5% general rate.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Prepared food tax"
+  ],
+  "extraNames": []
+ },
+ "US-MI": {
+  "name": "Michigan",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Sales tax is added at the till; check the bill for an added gratuity or service fee before tipping.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax"
+  ],
+  "extraNames": []
+ },
+ "US-MN": {
+  "name": "Minnesota",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Downtown Minneapolis adds 3% to restaurant meals (and 3% to alcohol) on top of the usual sales tax.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax"
+  ],
+  "extraNames": [
+   "Minneapolis downtown restaurant tax",
+   "Minneapolis downtown liquor tax"
+  ]
+ },
+ "US-MO": {
+  "name": "Missouri",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Sales tax is added at the till; check the bill for an added gratuity or service fee before tipping.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax"
+  ],
+  "extraNames": []
+ },
+ "US-MS": {
+  "name": "Mississippi",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Sales tax is added at the till; check the bill for an added gratuity or service fee before tipping.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax"
+  ],
+  "extraNames": []
+ },
+ "US-MT": {
+  "name": "Montana",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Montana has no sales tax, but restaurants in its ski and park gateway towns add a 3% resort tax.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [],
+  "extraNames": [
+   "Local resort tax"
+  ]
+ },
+ "US-NC": {
+  "name": "North Carolina",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Sales tax is added at the till; check the bill for an added gratuity or service fee before tipping.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax"
+  ],
+  "extraNames": []
+ },
+ "US-ND": {
+  "name": "North Dakota",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Sales tax is added at the till; check the bill for an added gratuity or service fee before tipping.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax"
+  ],
+  "extraNames": []
+ },
+ "US-NE": {
+  "name": "Nebraska",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Sales tax is added at the till; check the bill for an added gratuity or service fee before tipping.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax"
+  ],
+  "extraNames": []
+ },
+ "US-NH": {
+  "name": "New Hampshire",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "New Hampshire has no sales tax but charges 8.5% on restaurant meals and drinks.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Meals and rentals tax"
+  ],
+  "extraNames": []
+ },
+ "US-NJ": {
+  "name": "New Jersey",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "New Jersey charges 6.625% nearly everywhere, with a lower rate in Salem County.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax"
+  ],
+  "extraNames": []
+ },
+ "US-NM": {
+  "name": "New Mexico",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "New Mexico's gross receipts tax varies by town and restaurants often add it as a separate line.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax"
+  ],
+  "extraNames": []
+ },
+ "US-NV": {
+  "name": "Nevada",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Sales tax is added at the till; check the bill for an added gratuity or service fee before tipping.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax"
+  ],
+  "extraNames": []
+ },
+ "US-NY": {
+  "name": "New York",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "New York City restaurants charge 8.875%, above the 8.54% statewide average.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax"
+  ],
+  "extraNames": []
+ },
+ "US-OH": {
+  "name": "Ohio",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Sales tax is added at the till; check the bill for an added gratuity or service fee before tipping.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax"
+  ],
+  "extraNames": []
+ },
+ "US-OK": {
+  "name": "Oklahoma",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Sales tax is added at the till; check the bill for an added gratuity or service fee before tipping.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax"
+  ],
+  "extraNames": []
+ },
+ "US-OR": {
+  "name": "Oregon",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Oregon has no sales tax, so the menu price is what goes on the bill before any tip.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "US-PA": {
+  "name": "Pennsylvania",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Sales tax is added at the till; check the bill for an added gratuity or service fee before tipping.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax"
+  ],
+  "extraNames": []
+ },
+ "US-RI": {
+  "name": "Rhode Island",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Every Rhode Island restaurant and bar charges 7% sales tax plus a 1% local meals and beverage tax, 8% in all, added at the till.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Local meals and beverage tax",
+   "Sales tax"
+  ],
+  "extraNames": []
+ },
+ "US-SC": {
+  "name": "South Carolina",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Sales tax is added at the till; check the bill for an added gratuity or service fee before tipping.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax"
+  ],
+  "extraNames": []
+ },
+ "US-SD": {
+  "name": "South Dakota",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "South Dakota's state rate is 4.2%, with town taxes added on top.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax"
+  ],
+  "extraNames": []
+ },
+ "US-TN": {
+  "name": "Tennessee",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Sales tax is added at the till; check the bill for an added gratuity or service fee before tipping.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax"
+  ],
+  "extraNames": []
+ },
+ "US-TX": {
+  "name": "Texas",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Alcohol served in Texas bars and restaurants carries an 8.25% mixed beverage sales tax.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax"
+  ],
+  "extraNames": []
+ },
+ "US-UT": {
+  "name": "Utah",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Salt Lake City adds a 1% restaurant tax on top of its 8.45% sales tax.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax"
+  ],
+  "extraNames": [
+   "Local restaurant tax"
+  ]
+ },
+ "US-VA": {
+  "name": "Virginia",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Virginia cities and many counties add their own meals tax of a few percent on top of the sales tax, so a restaurant bill can run well above the state rate.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax"
+  ],
+  "extraNames": [
+   "Local meals tax"
+  ]
+ },
+ "US-VT": {
+  "name": "Vermont",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Vermont charges 9% on restaurant meals (10% on alcohol), and some towns add 1%.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Meals tax"
+  ],
+  "extraNames": [
+   "Local option tax"
+  ]
+ },
+ "US-WA": {
+  "name": "Washington",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Sales tax is added at the till; check the bill for an added gratuity or service fee before tipping.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax"
+  ],
+  "extraNames": []
+ },
+ "US-WI": {
+  "name": "Wisconsin",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Sales tax is added at the till; check the bill for an added gratuity or service fee before tipping.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax"
+  ],
+  "extraNames": []
+ },
+ "US-WV": {
+  "name": "West Virginia",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Sales tax is added at the till; check the bill for an added gratuity or service fee before tipping.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax"
+  ],
+  "extraNames": []
+ },
+ "US-WY": {
+  "name": "Wyoming",
+  "tipNote": "Tip 15-20% of the pre-tax amount at sit-down restaurants: 15% is the least that won't offend, 18-20% is normal, and counter service needs no tip.",
+  "note": "Sales tax is added at the till; check the bill for an added gratuity or service fee before tipping.",
+  "serviceNote": "No service charge is built in; check the bill for an added fee or gratuity before tipping on top.",
+  "taxNames": [
+   "Sales tax"
+  ],
+  "extraNames": []
+ },
+ "CA-AB": {
+  "name": "Alberta",
+  "tipNote": "Tip 15% to 20% on the bill before tax; 15% is the safe minimum.",
+  "note": "Alberta has no provincial sales tax, so only 5% GST is added at the till.",
+  "serviceNote": "No service charge normally; some restaurants add 15% to 18% automatically for large groups (usually six or more), so check the bill.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "CA-BC": {
+  "name": "British Columbia",
+  "tipNote": "Tip 15% to 20% on the bill before tax; 15% is the safe minimum.",
+  "note": "Restaurant meals are exempt from the 7% PST in BC, so a food-only bill carries just 5% GST; alcohol adds 10% PST.",
+  "serviceNote": "No service charge normally; some restaurants add 15% to 18% automatically for large groups (usually six or more), so check the bill.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": [
+   "PST on liquor",
+   "PST on soda beverages"
+  ]
+ },
+ "CA-SK": {
+  "name": "Saskatchewan",
+  "tipNote": "Tip 15% to 20% on the bill before tax; 15% is the safe minimum.",
+  "note": "Saskatchewan charges 6% PST on restaurant meals on top of 5% GST (11% in all); alcohol is 10% LCT plus GST instead of PST.",
+  "serviceNote": "No service charge normally; some restaurants add 15% to 18% automatically for large groups (usually six or more), so check the bill.",
+  "taxNames": [
+   "GST",
+   "PST"
+  ],
+  "extraNames": [
+   "Liquor Consumption Tax (replaces PST)"
+  ]
+ },
+ "CA-MB": {
+  "name": "Manitoba",
+  "tipNote": "Tip 15% to 20% on the bill before tax; 15% is the safe minimum.",
+  "note": "Manitoba keeps its 7% RST on restaurant meals and alcohol even after the July 2026 food exemption, so the bill carries 12% in all.",
+  "serviceNote": "No service charge normally; some restaurants add 15% to 18% automatically for large groups (usually six or more), so check the bill.",
+  "taxNames": [
+   "GST",
+   "RST (provincial retail sales tax)"
+  ],
+  "extraNames": []
+ },
+ "CA-ON": {
+  "name": "Ontario",
+  "tipNote": "Tip 15% to 20% on the bill before tax; 15% is the safe minimum.",
+  "note": "Takeaway food and drink of $4 or less before tax gets the 8% provincial part back at the till (only 5% charged); alcohol does not qualify.",
+  "serviceNote": "No service charge normally; some restaurants add 15% to 18% automatically for large groups (usually six or more), so check the bill.",
+  "taxNames": [
+   "HST"
+  ],
+  "extraNames": []
+ },
+ "CA-QC": {
+  "name": "Quebec",
+  "tipNote": "15% to 20% on the bill before tax; Quebec card terminals now suggest tips on the pre-tax amount",
+  "note": "Bills print TPS and TVQ separately and a voluntary tip is not taxed; a 'service fee' printed on the bill is taxable.",
+  "serviceNote": "No service charge normally; some restaurants add 15% to 18% automatically for large groups (usually six or more), so check the bill.",
+  "taxNames": [
+   "GST",
+   "QST"
+  ],
+  "extraNames": []
+ },
+ "CA-NB": {
+  "name": "New Brunswick",
+  "tipNote": "Tip 15% to 20% on the bill before tax; 15% is the safe minimum.",
+  "note": "HST applies to the whole restaurant bill; no restaurant relief found in the sources checked.",
+  "serviceNote": "No service charge normally; some restaurants add 15% to 18% automatically for large groups (usually six or more), so check the bill.",
+  "taxNames": [
+   "HST"
+  ],
+  "extraNames": []
+ },
+ "CA-NL": {
+  "name": "Newfoundland and Labrador",
+  "tipNote": "Tip 15% to 20% on the bill before tax; 15% is the safe minimum.",
+  "note": "HST applies to the whole restaurant bill; no restaurant relief found in the sources checked.",
+  "serviceNote": "No service charge normally; some restaurants add 15% to 18% automatically for large groups (usually six or more), so check the bill.",
+  "taxNames": [
+   "HST"
+  ],
+  "extraNames": []
+ },
+ "CA-PE": {
+  "name": "Prince Edward Island",
+  "tipNote": "Tip 15% to 20% on the bill before tax; 15% is the safe minimum.",
+  "note": "HST applies to the whole restaurant bill; no restaurant relief found in the sources checked.",
+  "serviceNote": "No service charge normally; some restaurants add 15% to 18% automatically for large groups (usually six or more), so check the bill.",
+  "taxNames": [
+   "HST"
+  ],
+  "extraNames": []
+ },
+ "CA-NS": {
+  "name": "Nova Scotia",
+  "tipNote": "Tip 15% to 20% on the bill before tax; 15% is the safe minimum.",
+  "note": "Nova Scotia's HST fell to 14% in April 2025, so older guides showing 15% are out of date.",
+  "serviceNote": "No service charge normally; some restaurants add 15% to 18% automatically for large groups (usually six or more), so check the bill.",
+  "taxNames": [
+   "HST"
+  ],
+  "extraNames": []
+ },
+ "CA-YT": {
+  "name": "Yukon",
+  "tipNote": "Tip 15% to 20% on the bill before tax; 15% is the safe minimum.",
+  "note": "Only 5% GST is added; the territory has no sales tax. Tipping custom is the Canada-wide one, no territory-specific source found.",
+  "serviceNote": "No service charge normally; some restaurants add 15% to 18% automatically for large groups (usually six or more), so check the bill.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "CA-NT": {
+  "name": "Northwest Territories",
+  "tipNote": "Tip 15% to 20% on the bill before tax; 15% is the safe minimum.",
+  "note": "Only 5% GST is added; the territory has no sales tax. Tipping custom is the Canada-wide one, no territory-specific source found.",
+  "serviceNote": "No service charge normally; some restaurants add 15% to 18% automatically for large groups (usually six or more), so check the bill.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "CA-NU": {
+  "name": "Nunavut",
+  "tipNote": "Tip 15% to 20% on the bill before tax; 15% is the safe minimum.",
+  "note": "Only 5% GST is added; the territory has no sales tax. Tipping custom is the Canada-wide one, no territory-specific source found.",
+  "serviceNote": "No service charge normally; some restaurants add 15% to 18% automatically for large groups (usually six or more), so check the bill.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "SG": {
+  "name": "Singapore",
+  "tipNote": "No tip needed; the 10% service charge is the tip, and some places have a tip jar if you want to add a little.",
+  "note": "A S$100 menu total becomes S$119.90 at a '++' restaurant (10% service, then 9% GST on S$110).",
+  "serviceNote": "Most sit-down restaurants add 10% service charge, and GST is then charged on price plus service charge (menus show '++'); hawker centres and food courts usually add none.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "MY": {
+  "name": "Malaysia",
+  "tipNote": "No tip needed; a small amount handed to staff is welcome but never expected.",
+  "note": "Smaller restaurants under the RM1.5 million threshold do not charge the 6% service tax, so the bill can show only the service charge, or nothing extra.",
+  "serviceNote": "Many sit-down restaurants and hotels add 10% service charge, shown as '++'; small stalls and many cafes add none.",
+  "taxNames": [
+   "Service tax (SST)"
+  ],
+  "extraNames": []
+ },
+ "ID": {
+  "name": "Indonesia",
+  "tipNote": "Tipping is not necessary; if there is no service charge on the bill, 10% or rounding up is appreciated.",
+  "note": "Restaurant meals carry the regional PB1 tax, not national VAT, so a printed 11% would be a mistake.",
+  "serviceNote": "Tourist-area and upmarket restaurants (Bali, Jakarta) often add 5% to 10% service charge, shown as '++'; warungs and local cafes add none.",
+  "taxNames": [
+   "Regional restaurant tax (PB1 / PBJT)"
+  ],
+  "extraNames": []
+ },
+ "TH": {
+  "name": "Thailand",
+  "tipNote": "With a 10% service charge on the bill, nothing more is needed; otherwise leave small change, around 20 baht.",
+  "note": "At '++' places the final bill is about 17% above the menu price; street food and local restaurants usually charge the menu price.",
+  "serviceNote": "Hotel restaurants and many upmarket venues add 10% service charge (and VAT on top); the consumer board says it is optional but must be displayed.",
+  "taxNames": [
+   "VAT"
+  ],
+  "extraNames": []
+ },
+ "AE": {
+  "name": "United Arab Emirates",
+  "tipNote": "If a 10% service charge is on the bill, no tip is needed; otherwise 10% to 15% of the total is appreciated (Lonely Planet's Dubai guide says 5-10% is enough).",
+  "note": "The 5% VAT is inside the menu price; extra lines on a bill are the service charge and any municipality or tourism fee. Dubai's 7% municipality fee is suspended for now.",
+  "serviceNote": "Hotel restaurants usually add 10% and some standalone places do too (most do not). Visit Dubai says it often goes to the business, not the waiter. The menu or bill says.",
+  "taxNames": [
+   "VAT"
+  ],
+  "extraNames": [
+   "Dubai municipality fee",
+   "Abu Dhabi tourism levy"
+  ]
+ },
+ "IN": {
+  "name": "India",
+  "tipNote": "Tipping is customary but modest: 5% to 10% in cash, or round up, even if a service charge was on the bill.",
+  "note": "Many mid-range and upmarket menus list prices before tax ('plus taxes'), so the bill is at least 5% higher; street food and small places often quote final prices.",
+  "serviceNote": "Some restaurants still add 5% to 10% service charge, but it must be voluntary; you can ask for it to be removed.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": [
+   "GST at hotel restaurants (replaces 5%)"
+  ]
+ },
+ "AT": {
+  "name": "Austria",
+  "tipNote": "Round up or add 5-10% for good service, and tell the server the total you want to pay.",
+  "note": "Menu prices include VAT (EU rule).",
+  "serviceNote": "Check the bill: if a tip is already included, don't pay it twice.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "BE": {
+  "name": "Belgium",
+  "tipNote": "Service is already in the price; rounding up or leaving 5-10% is a nice touch but not required.",
+  "note": "Menu prices include VAT (EU rule).",
+  "serviceNote": "Service is already included in the price.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "BG": {
+  "name": "Bulgaria",
+  "tipNote": "Leave about 10% in cash for good service, more if you loved it.",
+  "note": "Bulgaria switched from the lev to the euro on 1 January 2026, so older guides may quote levs.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "HR": {
+  "name": "Croatia",
+  "tipNote": "Round up in cafes and leave about 10% for a good restaurant meal.",
+  "note": "Sources differ: Lonely Planet's Croatia heading says at least 10%, its Europe guide says 5-10%.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "CY": {
+  "name": "Cyprus",
+  "tipNote": "Tipping is up to you; rounding up or leaving 5-10% for good service is a kind thank-you.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [
+   "VAT (restaurants)"
+  ],
+  "extraNames": []
+ },
+ "EE": {
+  "name": "Estonia",
+  "tipNote": "Round up, or leave about 10% when the food or service was exceptional.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "FI": {
+  "name": "Finland",
+  "tipNote": "Service is always included, so don't add a tip; rounding up is welcome but never expected.",
+  "note": "VAT is already in the price.",
+  "serviceNote": "Service is always included in the bill.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "FR": {
+  "name": "France",
+  "tipNote": "Service is already included, so a tip is optional: a few euros, up to about 10% for great service.",
+  "note": "The menu price is what you pay: taxes and service are included.",
+  "serviceNote": "Service is included by law in menu prices ('service compris').",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "DE": {
+  "name": "Germany",
+  "tipNote": "Round up to about 5-10% and tell the server the total you want to pay, instead of leaving cash on the table.",
+  "note": "Sources differ on the amount: visitBerlin says 10-15%, Lonely Planet says 5-10%.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "GR": {
+  "name": "Greece",
+  "tipNote": "No tip is required; rounding up or leaving 5-10% for good service is appreciated.",
+  "note": "Sources differ on service: Athens tourism says restaurants add none, Lonely Planet says it is normally included, so check the bill.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "IE": {
+  "name": "Ireland",
+  "tipNote": "Not expected, but 10% for good service is customary; skip it if a service charge is already on the bill.",
+  "note": "",
+  "serviceNote": "Large parties (six or more) often get a service charge; the price list must say whether one applies.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "IT": {
+  "name": "Italy",
+  "tipNote": "Tipping isn't expected here, so round up or leave a few euros only for great service.",
+  "note": "A regional law bans the coperto in Lazio (including Rome).",
+  "serviceNote": "Coperto (a flat table charge, around EUR 2 per person) is common and legal if shown on the menu; it is not a tip.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "LV": {
+  "name": "Latvia",
+  "tipNote": "Round up the bill, or leave about 10% if you liked the service.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "LT": {
+  "name": "Lithuania",
+  "tipNote": "Leave 5-15% depending on service, unless the bill already shows a service fee.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "LU": {
+  "name": "Luxembourg",
+  "tipNote": "Service is already in the price; round up or leave 5-10% if you want to say thanks.",
+  "note": "Menu prices must include VAT and all other taxes by law.",
+  "serviceNote": "Restaurants must show prices with service included.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "MT": {
+  "name": "Malta",
+  "tipNote": "Check the bill for a service charge first; if there is none, 5-10% for good service is reasonable, and rounding up is fine at a cafe.",
+  "note": "Malta's tourism authority calls a 5-10% tip customary for good service but not needed when a service charge is on the bill.",
+  "serviceNote": "Some restaurants add a service charge; if one is on the bill, no tip is needed.",
+  "taxNames": [
+   "VAT (restaurants)"
+  ],
+  "extraNames": []
+ },
+ "NL": {
+  "name": "Netherlands",
+  "tipNote": "Locals often just round up; about 10% is plenty for a great meal.",
+  "note": "Holland.com calls about 10% quite acceptable but not fixed.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "PT": {
+  "name": "Portugal",
+  "tipNote": "There's no big tipping culture: leave small change or round up, and about 10% only at fine dining.",
+  "note": "Starters brought unasked (couvert) are charged if you eat them; you can send them back.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "SK": {
+  "name": "Slovakia",
+  "tipNote": "Round up the bill, usually by about 5-10%; it isn't mandatory.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "SI": {
+  "name": "Slovenia",
+  "tipNote": "Tipping is not obligatory; rounding up is polite and 5-10% is a warm thank-you for good service.",
+  "note": "Guides disagree on size: Rough Guides says round up, Ljubljana.info says 10% or even 20% is a nice gesture.",
+  "serviceNote": "",
+  "taxNames": [
+   "VAT (restaurants)"
+  ],
+  "extraNames": []
+ },
+ "ES": {
+  "name": "Spain",
+  "tipNote": "Tipping isn't customary; rounding up or leaving 5-10% for good service is welcome.",
+  "note": "A sign saying 'IVA NO INCLUIDO' means 10% will be added to the bill.",
+  "serviceNote": "",
+  "taxNames": [
+   "IVA (restaurants)"
+  ],
+  "extraNames": []
+ },
+ "GB": {
+  "name": "United Kingdom",
+  "tipNote": "If a 12.5% service charge is on the bill, don't add more; otherwise leave 10-15%.",
+  "note": "Pubs: tipping the bar staff isn't done.",
+  "serviceNote": "Usually 12.5%, shown on the bill; it is optional and you can ask to remove it.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "CH": {
+  "name": "Switzerland",
+  "tipNote": "Service is included; rounding up or leaving about 10% is customary but you're not obliged.",
+  "note": "Menu prices are final prices in francs including VAT.",
+  "serviceNote": "Service is included in the price.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "NO": {
+  "name": "Norway",
+  "tipNote": "Not expected; locals round up or leave 5-10% when they're happy.",
+  "note": "Visit Norway says tips tend to stay within 5-15%, Lonely Planet says restaurant tipping isn't expected at all.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "SE": {
+  "name": "Sweden",
+  "tipNote": "Round up the bill (for example 280 to 300 SEK); about 10% is a nice tip on a larger meal.",
+  "note": "",
+  "serviceNote": "A service charge is sometimes included but is clearly stated on the bill.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "DK": {
+  "name": "Denmark",
+  "tipNote": "Service is included in the bill; tip only if the service was great, there's no set amount.",
+  "note": "",
+  "serviceNote": "Service is included in restaurant bills.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "IS": {
+  "name": "Iceland",
+  "tipNote": "Service is included, so tipping isn't expected; a small cash tip for great service is welcome.",
+  "note": "The stated price must include VAT by law.",
+  "serviceNote": "Service is already included in the bill at most restaurants and cafes.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "PL": {
+  "name": "Poland",
+  "tipNote": "Leave about 10% for good service in a restaurant; for a coffee, a coin in the jar is plenty.",
+  "note": "Lonely Planet's Warsaw guide says 10-15%.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "CZ": {
+  "name": "Czechia",
+  "tipNote": "Tip about 10% for table service.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "HU": {
+  "name": "Hungary",
+  "tipNote": "If 'szerviz' is on the bill, don't add more; otherwise tip about 10%, and say the total you want to pay.",
+  "note": "The 12.5% figure comes from a 2015 article, so check the bill.",
+  "serviceNote": "Many restaurants add a service charge of about 12.5%, shown as 'szerviz'; if it's there, add no tip.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "TR": {
+  "name": "Turkey",
+  "tipNote": "Leave about 10% (15% for very good service), ideally in cash: since the ban some venues offer 8, 10 or 15% on the card machine, but many cannot take card tips.",
+  "note": "Menus must now show the full price: no service, table or cover charge may be added, and tips are voluntary.",
+  "serviceNote": "Since 30 January 2026 restaurants may not add service, table or cover charges under any name (Official Gazette 33153).",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "MX": {
+  "name": "Mexico",
+  "tipNote": "Tip about 10%, up to 15% for very good service; it's voluntary, so nobody can demand it.",
+  "note": "The usual tip is 10% (15% for very good service). Lonely Planet's Americas guide says 15-20% and that a service charge is common, but Profeco, Mexico City tourism and Lonely Planet's 2026 Mexico article point to 10%.",
+  "serviceNote": "By law no provider may demand a tip or set its amount.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "BR": {
+  "name": "Brazil",
+  "tipNote": "If the 10% service fee is on the bill, pay it as your tip and don't add another.",
+  "note": "Tax inclusion in menu prices was not separately sourced.",
+  "serviceNote": "A 10% 'taxa de servico' is often printed on the bill; by law it is optional and must say so.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "AR": {
+  "name": "Argentina",
+  "tipNote": "Leave about 10% in cash; it isn't a legal duty but it's a firm custom.",
+  "note": "Tax inclusion in menu prices could not be sourced (the national price-display PDF was unreadable); Lonely Planet says a service charge is more commonly added.",
+  "serviceNote": "Some restaurants charge a 'cubierto' per person; it can't be charged for children under 12.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "CL": {
+  "name": "Chile",
+  "tipNote": "The bill suggests 10%; say 'con propina' to include it, or decline, it's voluntary.",
+  "note": "Menu prices must include IVA by law.",
+  "serviceNote": "The bill suggests a tip of at least 10%, but it is voluntary.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "PE": {
+  "name": "Peru",
+  "tipNote": "Tipping isn't standard and many locals don't. If no 'servicio' or 'recargo' line is on the bill, about 10% is a kind gesture; if there is one, you've already tipped.",
+  "note": "The tax and price-display rules are official; the tipping size is a judgement because Lonely Planet's two Peru articles disagree and no tourism-board figure was found.",
+  "serviceNote": "Many mid-range and upscale restaurants add a 'servicio' or 'recargo al consumo' of up to 13% (Decreto Ley 25988); Indecopi says listed prices must include it. Check the menu and bill.",
+  "taxNames": [
+   "IGV"
+  ],
+  "extraNames": []
+ },
+ "CO": {
+  "name": "Colombia",
+  "tipNote": "The bill may suggest 10%; it's voluntary, so you can accept, change it or decline.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [
+   "Impuesto nacional al consumo (restaurants)"
+  ],
+  "extraNames": []
+ },
+ "CR": {
+  "name": "Costa Rica",
+  "tipNote": "The 10% service is already in the price, so an extra tip is optional; about 5% is appreciated for good service.",
+  "note": "By law the menu price must be the final price including 13% IVA and 10% service. If a menu says '+ impuestos' or '10% servicio no incluido' it breaks the rule and the bill would be about 23% higher.",
+  "serviceNote": "10% table service, worked out before tax, must also be in the final menu price; not charged on takeaway.",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": []
+ },
+ "DO": {
+  "name": "Dominican Republic",
+  "tipNote": "The 10% legal tip is already on the bill; the tourism board says a further 10% is customary.",
+  "note": "Whether menus show prices before tax and service was not verified.",
+  "serviceNote": "A legal 10% tip is added to dine-in bills (not takeout or delivery).",
+  "taxNames": [
+   "ITBIS"
+  ],
+  "extraNames": []
+ },
+ "CU": {
+  "name": "Cuba",
+  "tipNote": "Check for a 10-12% service charge on the bill; if there's none, tip the waiter a little (a tour operator suggests about 10% or small change).",
+  "note": "Low confidence: no official source on taxes, menu pricing or service charges could be read. Private restaurants price in pesos at informal rates and many accept euros; ask which currency the menu uses.",
+  "serviceNote": "Service charges of 10-12% are fairly common in state restaurants and smarter paladares; some add a flat 10%.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "JM": {
+  "name": "Jamaica",
+  "tipNote": "Check the bill for a gratuity first; if there is none, tip 15-20% in a restaurant. Card machines may offer tips up to 25%.",
+  "note": "GCT and a service charge are often added to the bill rather than the menu price, at least in hotels. The only tipping sources are a newspaper and Lonely Planet's Caribbean advice; no Jamaica Tourist Board page could be read.",
+  "serviceNote": "Some restaurants add a compulsory 10-20% service charge or gratuity; check the bill before tipping.",
+  "taxNames": [
+   "GCT"
+  ],
+  "extraNames": []
+ },
+ "JP": {
+  "name": "Japan",
+  "tipNote": "Tipping isn't the custom and can confuse staff.",
+  "note": "Menus must show tax-inclusive prices since April 2021.",
+  "serviceNote": "A service charge is generally added to the final bill in restaurants.",
+  "taxNames": [
+   "Consumption tax"
+  ],
+  "extraNames": []
+ },
+ "KR": {
+  "name": "South Korea",
+  "tipNote": "Tipping isn't the custom and some staff will refuse it.",
+  "note": "Sources differ on whether VAT is in menu prices: a 2012 rule says it must be, Visit Seoul says it is 'added on'.",
+  "serviceNote": "Many hotels and upscale restaurants add a 10% service charge on top of VAT.",
+  "taxNames": [
+   "VAT"
+  ],
+  "extraNames": []
+ },
+ "CN": {
+  "name": "China",
+  "tipNote": "Tipping isn't expected; check the bill for a service charge first.",
+  "note": "Tax inclusion in menu prices was not separately sourced.",
+  "serviceNote": "Quality and high-end restaurants may add a 5-15% service charge.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "HK": {
+  "name": "Hong Kong",
+  "tipNote": "Most restaurants add 10% service, so you needn't tip on top.",
+  "note": "Hong Kong has no sales tax or VAT.",
+  "serviceNote": "Most restaurants add a 10% service charge; some cafes and diners don't.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "TW": {
+  "name": "Taiwan",
+  "tipNote": "Tipping isn't expected; a 10% service charge is often added to the bill.",
+  "note": "Tax inclusion in menu prices was not separately sourced.",
+  "serviceNote": "A 10% service charge is customary at hotels and restaurants.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "VN": {
+  "name": "Vietnam",
+  "tipNote": "Tipping isn't expected in restaurants; rounding up or leaving 5-10% for good service is welcome, and nothing extra if a service charge is on the bill.",
+  "note": "The Law on Prices says listed prices include taxes and fees, but upmarket places may quote prices before VAT and service, so check the menu footnote. No official source on service charges was found.",
+  "serviceNote": "Check the bill for a service charge or VAT line.",
+  "taxNames": [
+   "VAT"
+  ],
+  "extraNames": []
+ },
+ "PH": {
+  "name": "Philippines",
+  "tipNote": "If a service charge is on the bill, no tip is needed; otherwise rounding up or leaving 5-10% for good service is appreciated.",
+  "note": "VAT is 12%; some restaurants roll it into menu prices and others add it to the bill, and the menu says which. No Department of Tourism tipping page could be read.",
+  "serviceNote": "Many restaurants add a 5-10% service charge; the law sets no rate but all of it must go to non-managerial staff.",
+  "taxNames": [
+   "VAT"
+  ],
+  "extraNames": []
+ },
+ "KH": {
+  "name": "Cambodia",
+  "tipNote": "Tipping isn't a custom; rounding up or leaving a dollar or two for good service is plenty, and nothing if a service charge is on the bill.",
+  "note": "Prices are often in US dollars. Whether menu prices include the 10% VAT could not be sourced, so check the menu footnote.",
+  "serviceNote": "Hotels and restaurants commonly add a 10% service charge (Ministry of Tourism FAQ); Rough Guides says 5-10% at higher-end places.",
+  "taxNames": [
+   "VAT"
+  ],
+  "extraNames": []
+ },
+ "AU": {
+  "name": "Australia",
+  "tipNote": "Not expected; for table service in a city restaurant, 10% is appreciated, nothing at the counter.",
+  "note": "Tourism Australia says restaurants add no service charge; the holiday surcharge is separate.",
+  "serviceNote": "Some venues add a weekend or public-holiday surcharge of up to 15% (Lonely Planet); check the menu.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "NZ": {
+  "name": "New Zealand",
+  "tipNote": "Tipping isn't expected, though 10% for really good table service is welcome.",
+  "note": "Lonely Planet says some venues add a holiday surcharge of up to 15%.",
+  "serviceNote": "Restaurants don't add service charges.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "ZA": {
+  "name": "South Africa",
+  "tipNote": "Tip 10-15% for good service; skip it if a group service charge is on the bill.",
+  "note": "South African Tourism's page is from 2018, and VAT inclusion in menu prices could not be sourced.",
+  "serviceNote": "A 10% service charge is added automatically for tables of more than six guests.",
+  "taxNames": [
+   "VAT"
+  ],
+  "extraNames": []
+ },
+ "MA": {
+  "name": "Morocco",
+  "tipNote": "Check the bill for a service charge first; if there is none, leave 5-10%, or up to 15% at upscale places.",
+  "note": "Menu prices must include VAT (Law 31-08). The Moroccan tourist office has no tipping page; tipping sources are a publisher, a news site and a local guide, and the first sets 10-15% where the others say 5-10%.",
+  "serviceNote": "Popular tourist restaurants often add 10% (Lonely Planet, Le360); no legal rate found.",
+  "taxNames": [
+   "VAT (restaurants)"
+  ],
+  "extraNames": []
+ },
+ "EG": {
+  "name": "Egypt",
+  "tipNote": "A service charge is usually added, so leave a little extra in cash for the waiter; about 10% if there is none.",
+  "note": "A 2020 chamber statement says tourist-establishment menus must show all-inclusive prices, but a 2023 report says diners pay 26% (12% service, 14% VAT) on top. Assume tax and service are added until the menu says otherwise.",
+  "serviceNote": "About 12% service is added in tourist establishments (Lonely Planet says 10%).",
+  "taxNames": [
+   "VAT"
+  ],
+  "extraNames": []
+ },
+ "IL": {
+  "name": "Israel",
+  "tipNote": "Tip 10-12% for good service and 15% for excellent (15% is the norm in Tel Aviv), ideally in cash.",
+  "note": "No Ministry of Tourism tipping page could be read; the three tipping sources (a hotel-chain blog, a news magazine, a community travel wiki) agree on 10-15%.",
+  "serviceNote": "Restaurants almost never add a service charge, except for large groups.",
+  "taxNames": [
+   "VAT"
+  ],
+  "extraNames": []
+ },
+ "JO": {
+  "name": "Jordan",
+  "tipNote": "Tip about 10% on top of the bill, unless a service charge is already on it.",
+  "note": "Menu prices usually exclude the 16% sales tax and any 10% service line, so a bill can run up to about a quarter above the menu total.",
+  "serviceNote": "Many restaurants add a 10% 'service' line; it is a custom, not set by law.",
+  "taxNames": [
+   "General sales tax"
+  ],
+  "extraNames": []
+ },
+ "QA": {
+  "name": "Qatar",
+  "tipNote": "A service charge is usually in the bill; an extra 10-15% in cash is appreciated.",
+  "note": "Tax inclusion in menu prices was not sourced.",
+  "serviceNote": "Most hospitality outlets include a service charge in the bill.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "SA": {
+  "name": "Saudi Arabia",
+  "tipNote": "Servers generally expect a 10-15% tip at the end of the meal.",
+  "note": "Tipping is not mandatory and no service charge is added, so a 10-15% tip is not doubled up.",
+  "serviceNote": "Restaurants may not add service charges (Ministry of Commerce decision, reconfirmed 2017).",
+  "taxNames": [
+   "VAT"
+  ],
+  "extraNames": []
+ },
+ "KE": {
+  "name": "Kenya",
+  "tipNote": "Tipping isn't required, but about 10% of the bill for a good meal is appreciated.",
+  "note": "VAT is 16% and licensed tourism businesses also pay a 2% levy on food and drink sales. No law on menu pricing was found, so check the menu for 'inclusive of VAT'.",
+  "serviceNote": "",
+  "taxNames": [
+   "VAT"
+  ],
+  "extraNames": []
+ },
+ "TZ": {
+  "name": "Tanzania",
+  "tipNote": "About 10% is customary at restaurants, up to 15% for very good service; always in cash.",
+  "note": "Prices advertised by VAT-registered businesses must include 18% VAT. No Tanzania Tourist Board tipping page could be read; the tipping sources are safari operators and Lonely Planet's Africa guide.",
+  "serviceNote": "",
+  "taxNames": [
+   "VAT"
+  ],
+  "extraNames": []
+ }
+}

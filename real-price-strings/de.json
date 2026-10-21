@@ -1,0 +1,1253 @@
+{
+ "US-AK": {
+  "name": "Alaska",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Alaska erhebt keine staatliche Verkaufssteuer, und jede Stadt legt ihre eigene fest: Anchorage und Fairbanks, die beiden größten Städte, erheben keine, Juneau verlangt 5%, Seward 4% und Kodiak 7% (Steuerjahr 2024), und manche Orte erheben zusätzlich eine Borough- und eine Stadtsteuer. Die 1.82% ist ein Durchschnitt, der auf keine einzelne Stadt zutrifft.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Lokale Verkaufssteuer"
+  ],
+  "extraNames": []
+ },
+ "US-AL": {
+  "name": "Alabama",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Die Verkaufssteuer wird an der Kasse aufgeschlagen; prüfe die Rechnung auf einen zusätzlichen Trinkgeld- oder Servicezuschlag, bevor du Trinkgeld gibst.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer"
+  ],
+  "extraNames": []
+ },
+ "US-AR": {
+  "name": "Arkansas",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Die Verkaufssteuer wird an der Kasse aufgeschlagen; prüfe die Rechnung auf einen zusätzlichen Trinkgeld- oder Servicezuschlag, bevor du Trinkgeld gibst.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer"
+  ],
+  "extraNames": []
+ },
+ "US-AZ": {
+  "name": "Arizona",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Die Verkaufssteuer wird an der Kasse aufgeschlagen; prüfe die Rechnung auf einen zusätzlichen Trinkgeld- oder Servicezuschlag, bevor du Trinkgeld gibst.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer"
+  ],
+  "extraNames": []
+ },
+ "US-CA": {
+  "name": "Kalifornien",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Achte in Kalifornien vor dem Trinkgeld auf eine Zuschlagszeile auf Speisekarte oder Rechnung.",
+  "serviceNote": "Manche Restaurants in Kalifornien erheben eine verpflichtende Service- oder Zuschlagsgebühr; das Landesrecht erlaubt dies, wenn sie auf der Speisekarte mit ihrem Zweck angegeben ist.",
+  "taxNames": [
+   "Verkaufssteuer"
+  ],
+  "extraNames": []
+ },
+ "US-CO": {
+  "name": "Colorado",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Colorados Landessteuer beträgt nur 2.9%, und Stadt-, Bezirks- und Distriktsteuern machen den größten Teil der durchschnittlichen 7.89% aus.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer"
+  ],
+  "extraNames": []
+ },
+ "US-CT": {
+  "name": "Connecticut",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Connecticut erhebt 7.35% auf Restaurantmahlzeiten und bestimmte Getränke, einen Prozentpunkt mehr als die 6.35% auf die meisten Waren.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer auf Mahlzeiten"
+  ],
+  "extraNames": []
+ },
+ "US-DC": {
+  "name": "District of Columbia",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Washington D.C. erhebt 10% auf Restaurantmahlzeiten und Getränke, deutlich über dem allgemeinen Satz von 6%.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer auf Restaurantmahlzeiten"
+  ],
+  "extraNames": []
+ },
+ "US-DE": {
+  "name": "Delaware",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Delaware hat keine Verkaufssteuer, daher ist der Speisekartenpreis vor dem Trinkgeld die Summe, die auf der Rechnung steht.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "US-FL": {
+  "name": "Florida",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Die Verkaufssteuer wird an der Kasse aufgeschlagen; prüfe die Rechnung auf einen zusätzlichen Trinkgeld- oder Servicezuschlag, bevor du Trinkgeld gibst.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer"
+  ],
+  "extraNames": []
+ },
+ "US-GA": {
+  "name": "Georgia",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Die Verkaufssteuer wird an der Kasse aufgeschlagen; prüfe die Rechnung auf einen zusätzlichen Trinkgeld- oder Servicezuschlag, bevor du Trinkgeld gibst.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer"
+  ],
+  "extraNames": []
+ },
+ "US-HI": {
+  "name": "Hawaii",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Restaurants auf Hawaii dürfen bis zu 4.712% General Excise Tax auf die Rechnung aufschlagen.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "General Excise Tax (weitergegeben)"
+  ],
+  "extraNames": []
+ },
+ "US-IA": {
+  "name": "Iowa",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Die Verkaufssteuer wird an der Kasse aufgeschlagen; prüfe die Rechnung auf einen zusätzlichen Trinkgeld- oder Servicezuschlag, bevor du Trinkgeld gibst.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer"
+  ],
+  "extraNames": []
+ },
+ "US-ID": {
+  "name": "Idaho",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Die Verkaufssteuer wird an der Kasse aufgeschlagen; prüfe die Rechnung auf einen zusätzlichen Trinkgeld- oder Servicezuschlag, bevor du Trinkgeld gibst.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer"
+  ],
+  "extraNames": []
+ },
+ "US-IL": {
+  "name": "Illinois",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Chicago erhebt zusätzlich zu seiner Verkaufssteuer eine Restaurantsteuer von 0.5%.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer"
+  ],
+  "extraNames": [
+   "Chicagoer Restaurantsteuer"
+  ]
+ },
+ "US-IN": {
+  "name": "Indiana",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Die Verkaufssteuer wird an der Kasse aufgeschlagen; prüfe die Rechnung auf einen zusätzlichen Trinkgeld- oder Servicezuschlag, bevor du Trinkgeld gibst.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer"
+  ],
+  "extraNames": []
+ },
+ "US-KS": {
+  "name": "Kansas",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Die Verkaufssteuer wird an der Kasse aufgeschlagen; prüfe die Rechnung auf einen zusätzlichen Trinkgeld- oder Servicezuschlag, bevor du Trinkgeld gibst.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer"
+  ],
+  "extraNames": []
+ },
+ "US-KY": {
+  "name": "Kentucky",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Die Verkaufssteuer wird an der Kasse aufgeschlagen; prüfe die Rechnung auf einen zusätzlichen Trinkgeld- oder Servicezuschlag, bevor du Trinkgeld gibst.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer"
+  ],
+  "extraNames": []
+ },
+ "US-LA": {
+  "name": "Louisiana",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Louisiana hat den höchsten durchschnittlichen Gesamtsteuersatz des Landes, da lokale Steuern etwa so viel wie die 5% Landessteuer ausmachen.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer"
+  ],
+  "extraNames": []
+ },
+ "US-MA": {
+  "name": "Massachusetts",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Restaurants in Massachusetts berechnen 6.25%, und Städte und Gemeinden, die dem zugestimmt haben, fügen 0.75% hinzu, insgesamt 7%.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer auf Mahlzeiten"
+  ],
+  "extraNames": [
+   "Lokale optionale Speisesteuer"
+  ]
+ },
+ "US-MD": {
+  "name": "Maryland",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Die Verkaufssteuer wird an der Kasse aufgeschlagen; prüfe die Rechnung auf einen zusätzlichen Trinkgeld- oder Servicezuschlag, bevor du Trinkgeld gibst.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer"
+  ],
+  "extraNames": []
+ },
+ "US-ME": {
+  "name": "Maine",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Maine erhebt 8% auf Restaurantmahlzeiten, nicht den allgemeinen Satz von 5.5%.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Steuer auf zubereitete Speisen"
+  ],
+  "extraNames": []
+ },
+ "US-MI": {
+  "name": "Michigan",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Die Verkaufssteuer wird an der Kasse aufgeschlagen; prüfe die Rechnung auf einen zusätzlichen Trinkgeld- oder Servicezuschlag, bevor du Trinkgeld gibst.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer"
+  ],
+  "extraNames": []
+ },
+ "US-MN": {
+  "name": "Minnesota",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "In der Innenstadt von Minneapolis kommen zusätzlich zur üblichen Verkaufssteuer 3% auf Restaurantmahlzeiten und 3% auf Alkohol hinzu.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer"
+  ],
+  "extraNames": [
+   "Restaurantsteuer Innenstadt Minneapolis",
+   "Alkoholsteuer Innenstadt Minneapolis"
+  ]
+ },
+ "US-MO": {
+  "name": "Missouri",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Die Verkaufssteuer wird an der Kasse aufgeschlagen; prüfe die Rechnung auf einen zusätzlichen Trinkgeld- oder Servicezuschlag, bevor du Trinkgeld gibst.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer"
+  ],
+  "extraNames": []
+ },
+ "US-MS": {
+  "name": "Mississippi",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Die Verkaufssteuer wird an der Kasse aufgeschlagen; prüfe die Rechnung auf einen zusätzlichen Trinkgeld- oder Servicezuschlag, bevor du Trinkgeld gibst.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer"
+  ],
+  "extraNames": []
+ },
+ "US-MT": {
+  "name": "Montana",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Montana hat keine Verkaufssteuer, aber Restaurants in seinen Skiorten und Parkeingangsorten erheben eine Resortsteuer von 3%.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [],
+  "extraNames": [
+   "Lokale Resortsteuer"
+  ]
+ },
+ "US-NC": {
+  "name": "Nord-Carolina",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Die Verkaufssteuer wird an der Kasse aufgeschlagen; prüfe die Rechnung auf einen zusätzlichen Trinkgeld- oder Servicezuschlag, bevor du Trinkgeld gibst.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer"
+  ],
+  "extraNames": []
+ },
+ "US-ND": {
+  "name": "Nord-Dakota",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Die Verkaufssteuer wird an der Kasse aufgeschlagen; prüfe die Rechnung auf einen zusätzlichen Trinkgeld- oder Servicezuschlag, bevor du Trinkgeld gibst.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer"
+  ],
+  "extraNames": []
+ },
+ "US-NE": {
+  "name": "Nebraska",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Die Verkaufssteuer wird an der Kasse aufgeschlagen; prüfe die Rechnung auf einen zusätzlichen Trinkgeld- oder Servicezuschlag, bevor du Trinkgeld gibst.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer"
+  ],
+  "extraNames": []
+ },
+ "US-NH": {
+  "name": "New Hampshire",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "New Hampshire hat keine Verkaufssteuer, erhebt aber 8.5% auf Restaurantmahlzeiten und Getränke.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Steuer auf Mahlzeiten und Vermietungen"
+  ],
+  "extraNames": []
+ },
+ "US-NJ": {
+  "name": "New Jersey",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "New Jersey erhebt fast überall 6.625%, mit einem niedrigeren Satz im Salem County.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer"
+  ],
+  "extraNames": []
+ },
+ "US-NM": {
+  "name": "New Mexico",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Die Gross-Receipts-Steuer von New Mexico variiert je nach Ort, und Restaurants weisen sie oft als eigene Zeile aus.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer"
+  ],
+  "extraNames": []
+ },
+ "US-NV": {
+  "name": "Nevada",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Die Verkaufssteuer wird an der Kasse aufgeschlagen; prüfe die Rechnung auf einen zusätzlichen Trinkgeld- oder Servicezuschlag, bevor du Trinkgeld gibst.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer"
+  ],
+  "extraNames": []
+ },
+ "US-NY": {
+  "name": "New York",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Restaurants in New York City erheben 8.875%, über dem landesweiten Durchschnitt von 8.54%.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer"
+  ],
+  "extraNames": []
+ },
+ "US-OH": {
+  "name": "Ohio",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Die Verkaufssteuer wird an der Kasse aufgeschlagen; prüfe die Rechnung auf einen zusätzlichen Trinkgeld- oder Servicezuschlag, bevor du Trinkgeld gibst.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer"
+  ],
+  "extraNames": []
+ },
+ "US-OK": {
+  "name": "Oklahoma",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Die Verkaufssteuer wird an der Kasse aufgeschlagen; prüfe die Rechnung auf einen zusätzlichen Trinkgeld- oder Servicezuschlag, bevor du Trinkgeld gibst.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer"
+  ],
+  "extraNames": []
+ },
+ "US-OR": {
+  "name": "Oregon",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Oregon hat keine Verkaufssteuer, daher ist der Speisekartenpreis vor dem Trinkgeld die Summe, die auf der Rechnung steht.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "US-PA": {
+  "name": "Pennsylvania",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Die Verkaufssteuer wird an der Kasse aufgeschlagen; prüfe die Rechnung auf einen zusätzlichen Trinkgeld- oder Servicezuschlag, bevor du Trinkgeld gibst.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer"
+  ],
+  "extraNames": []
+ },
+ "US-RI": {
+  "name": "Rhode Island",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Jedes Restaurant und jede Bar in Rhode Island erhebt 7% Verkaufssteuer plus 1% lokale Steuer auf Speisen und Getränke, insgesamt 8%, die an der Kasse aufgeschlagen werden.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Lokale Steuer auf Speisen und Getränke",
+   "Verkaufssteuer"
+  ],
+  "extraNames": []
+ },
+ "US-SC": {
+  "name": "Süd-Carolina",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Die Verkaufssteuer wird an der Kasse aufgeschlagen; prüfe die Rechnung auf einen zusätzlichen Trinkgeld- oder Servicezuschlag, bevor du Trinkgeld gibst.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer"
+  ],
+  "extraNames": []
+ },
+ "US-SD": {
+  "name": "Süd-Dakota",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Der Landessteuersatz von South Dakota beträgt 4.2%, dazu kommen Ortssteuern.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer"
+  ],
+  "extraNames": []
+ },
+ "US-TN": {
+  "name": "Tennessee",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Die Verkaufssteuer wird an der Kasse aufgeschlagen; prüfe die Rechnung auf einen zusätzlichen Trinkgeld- oder Servicezuschlag, bevor du Trinkgeld gibst.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer"
+  ],
+  "extraNames": []
+ },
+ "US-TX": {
+  "name": "Texas",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Alkohol, der in Bars und Restaurants in Texas ausgeschenkt wird, unterliegt einer Mixed-Beverage-Verkaufssteuer von 8.25%.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer"
+  ],
+  "extraNames": []
+ },
+ "US-UT": {
+  "name": "Utah",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Salt Lake City erhebt zusätzlich zu seiner Verkaufssteuer von 8.45% eine Restaurantsteuer von 1%.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer"
+  ],
+  "extraNames": [
+   "Lokale Restaurantsteuer"
+  ]
+ },
+ "US-VA": {
+  "name": "Virginia",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Städte und viele Landkreise in Virginia erheben auf die Verkaufssteuer eine eigene Speisesteuer von einigen Prozent, daher kann eine Restaurantrechnung deutlich über dem Landessatz liegen.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer"
+  ],
+  "extraNames": [
+   "Lokale Speisesteuer"
+  ]
+ },
+ "US-VT": {
+  "name": "Vermont",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Vermont erhebt 9% auf Restaurantmahlzeiten (10% auf Alkohol), und manche Orte fügen 1% hinzu.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Speisesteuer"
+  ],
+  "extraNames": [
+   "Lokale optionale Steuer"
+  ]
+ },
+ "US-WA": {
+  "name": "Washington",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Die Verkaufssteuer wird an der Kasse aufgeschlagen; prüfe die Rechnung auf einen zusätzlichen Trinkgeld- oder Servicezuschlag, bevor du Trinkgeld gibst.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer"
+  ],
+  "extraNames": []
+ },
+ "US-WI": {
+  "name": "Wisconsin",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Die Verkaufssteuer wird an der Kasse aufgeschlagen; prüfe die Rechnung auf einen zusätzlichen Trinkgeld- oder Servicezuschlag, bevor du Trinkgeld gibst.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer"
+  ],
+  "extraNames": []
+ },
+ "US-WV": {
+  "name": "West Virginia",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Die Verkaufssteuer wird an der Kasse aufgeschlagen; prüfe die Rechnung auf einen zusätzlichen Trinkgeld- oder Servicezuschlag, bevor du Trinkgeld gibst.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer"
+  ],
+  "extraNames": []
+ },
+ "US-WY": {
+  "name": "Wyoming",
+  "tipNote": "Im Restaurant mit Bedienung 15-20% des Betrags vor Steuern als Trinkgeld geben: 15% ist das Mindeste, was nicht unhöflich wirkt, 18-20% sind üblich, und an der Theke ist kein Trinkgeld nötig.",
+  "note": "Die Verkaufssteuer wird an der Kasse aufgeschlagen; prüfe die Rechnung auf einen zusätzlichen Trinkgeld- oder Servicezuschlag, bevor du Trinkgeld gibst.",
+  "serviceNote": "Ein Servicezuschlag ist nicht eingerechnet; prüfe die Rechnung auf eine zusätzliche Gebühr oder Trinkgeldpauschale, bevor du obendrauf Trinkgeld gibst.",
+  "taxNames": [
+   "Verkaufssteuer"
+  ],
+  "extraNames": []
+ },
+ "CA-AB": {
+  "name": "Alberta",
+  "tipNote": "Trinkgeld 15% bis 20% auf den Betrag vor Steuern; 15% ist das sichere Minimum.",
+  "note": "Alberta hat keine Provinz-Verkaufssteuer, daher wird an der Kasse nur die 5% GST aufgeschlagen.",
+  "serviceNote": "In der Regel kein Servicezuschlag; manche Restaurants fügen bei großen Gruppen (meist ab sechs Personen) automatisch 15% bis 18% hinzu, prüfe daher die Rechnung.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "CA-BC": {
+  "name": "British Columbia",
+  "tipNote": "Trinkgeld 15% bis 20% auf den Betrag vor Steuern; 15% ist das sichere Minimum.",
+  "note": "Restaurantmahlzeiten sind in BC von der 7% PST befreit, daher enthält eine reine Essensrechnung nur 5% GST; Alkohol kommt mit 10% PST hinzu.",
+  "serviceNote": "In der Regel kein Servicezuschlag; manche Restaurants fügen bei großen Gruppen (meist ab sechs Personen) automatisch 15% bis 18% hinzu, prüfe daher die Rechnung.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": [
+   "PST auf Spirituosen",
+   "PST auf Softdrinks"
+  ]
+ },
+ "CA-SK": {
+  "name": "Saskatchewan",
+  "tipNote": "Trinkgeld 15% bis 20% auf den Betrag vor Steuern; 15% ist das sichere Minimum.",
+  "note": "Saskatchewan erhebt 6% PST auf Restaurantmahlzeiten zusätzlich zu 5% GST (insgesamt 11%); Alkohol unterliegt 10% LCT plus GST statt PST.",
+  "serviceNote": "In der Regel kein Servicezuschlag; manche Restaurants fügen bei großen Gruppen (meist ab sechs Personen) automatisch 15% bis 18% hinzu, prüfe daher die Rechnung.",
+  "taxNames": [
+   "GST",
+   "PST"
+  ],
+  "extraNames": [
+   "Liquor Consumption Tax (ersetzt PST)"
+  ]
+ },
+ "CA-MB": {
+  "name": "Manitoba",
+  "tipNote": "Trinkgeld 15% bis 20% auf den Betrag vor Steuern; 15% ist das sichere Minimum.",
+  "note": "Manitoba behält seine 7% RST auf Restaurantmahlzeiten und Alkohol bei, auch nach der Lebensmittelbefreiung im Juli 2026, daher enthält die Rechnung insgesamt 12%.",
+  "serviceNote": "In der Regel kein Servicezuschlag; manche Restaurants fügen bei großen Gruppen (meist ab sechs Personen) automatisch 15% bis 18% hinzu, prüfe daher die Rechnung.",
+  "taxNames": [
+   "GST",
+   "RST (provinzielle Verkaufssteuer)"
+  ],
+  "extraNames": []
+ },
+ "CA-ON": {
+  "name": "Ontario",
+  "tipNote": "Trinkgeld 15% bis 20% auf den Betrag vor Steuern; 15% ist das sichere Minimum.",
+  "note": "Take-away-Speisen und -Getränke bis zu $4 vor Steuern erhalten an der Kasse den 8% Provinzanteil erlassen (es werden nur 5% berechnet); Alkohol fällt nicht darunter.",
+  "serviceNote": "In der Regel kein Servicezuschlag; manche Restaurants fügen bei großen Gruppen (meist ab sechs Personen) automatisch 15% bis 18% hinzu, prüfe daher die Rechnung.",
+  "taxNames": [
+   "HST"
+  ],
+  "extraNames": []
+ },
+ "CA-QC": {
+  "name": "Québec",
+  "tipNote": "15 bis 20 % auf den Rechnungsbetrag vor Steuern; die Kartenterminals in Québec schlagen Trinkgeld inzwischen auf Basis des Betrags vor Steuern vor",
+  "note": "Rechnungen weisen TPS und TVQ getrennt aus, und ein freiwilliges Trinkgeld wird nicht besteuert; eine auf der Rechnung ausgewiesene 'Servicegebühr' ist steuerpflichtig.",
+  "serviceNote": "In der Regel kein Servicezuschlag; manche Restaurants fügen bei großen Gruppen (meist ab sechs Personen) automatisch 15% bis 18% hinzu, prüfe daher die Rechnung.",
+  "taxNames": [
+   "GST",
+   "QST"
+  ],
+  "extraNames": []
+ },
+ "CA-NB": {
+  "name": "Neubraunschweig",
+  "tipNote": "Trinkgeld 15% bis 20% auf den Betrag vor Steuern; 15% ist das sichere Minimum.",
+  "note": "Die HST gilt für die gesamte Restaurantrechnung; in den geprüften Quellen wurde keine Restaurantbefreiung gefunden.",
+  "serviceNote": "In der Regel kein Servicezuschlag; manche Restaurants fügen bei großen Gruppen (meist ab sechs Personen) automatisch 15% bis 18% hinzu, prüfe daher die Rechnung.",
+  "taxNames": [
+   "HST"
+  ],
+  "extraNames": []
+ },
+ "CA-NL": {
+  "name": "Neufundland und Labrador",
+  "tipNote": "Trinkgeld 15% bis 20% auf den Betrag vor Steuern; 15% ist das sichere Minimum.",
+  "note": "Die HST gilt für die gesamte Restaurantrechnung; in den geprüften Quellen wurde keine Restaurantbefreiung gefunden.",
+  "serviceNote": "In der Regel kein Servicezuschlag; manche Restaurants fügen bei großen Gruppen (meist ab sechs Personen) automatisch 15% bis 18% hinzu, prüfe daher die Rechnung.",
+  "taxNames": [
+   "HST"
+  ],
+  "extraNames": []
+ },
+ "CA-PE": {
+  "name": "Prinz-Edward-Insel",
+  "tipNote": "Trinkgeld 15% bis 20% auf den Betrag vor Steuern; 15% ist das sichere Minimum.",
+  "note": "Die HST gilt für die gesamte Restaurantrechnung; in den geprüften Quellen wurde keine Restaurantbefreiung gefunden.",
+  "serviceNote": "In der Regel kein Servicezuschlag; manche Restaurants fügen bei großen Gruppen (meist ab sechs Personen) automatisch 15% bis 18% hinzu, prüfe daher die Rechnung.",
+  "taxNames": [
+   "HST"
+  ],
+  "extraNames": []
+ },
+ "CA-NS": {
+  "name": "Neuschottland",
+  "tipNote": "Trinkgeld 15% bis 20% auf den Betrag vor Steuern; 15% ist das sichere Minimum.",
+  "note": "Die HST von Neuschottland fiel im April 2025 auf 14%, daher sind ältere Reiseführer mit 15% veraltet.",
+  "serviceNote": "In der Regel kein Servicezuschlag; manche Restaurants fügen bei großen Gruppen (meist ab sechs Personen) automatisch 15% bis 18% hinzu, prüfe daher die Rechnung.",
+  "taxNames": [
+   "HST"
+  ],
+  "extraNames": []
+ },
+ "CA-YT": {
+  "name": "Yukon",
+  "tipNote": "Trinkgeld 15% bis 20% auf den Betrag vor Steuern; 15% ist das sichere Minimum.",
+  "note": "Es wird nur 5% GST aufgeschlagen; das Territorium hat keine Verkaufssteuer. Die Trinkgeldsitte ist die kanadaweite, für das Territorium wurde keine eigene Quelle gefunden.",
+  "serviceNote": "In der Regel kein Servicezuschlag; manche Restaurants fügen bei großen Gruppen (meist ab sechs Personen) automatisch 15% bis 18% hinzu, prüfe daher die Rechnung.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "CA-NT": {
+  "name": "Nordwest-Territorien",
+  "tipNote": "Trinkgeld 15% bis 20% auf den Betrag vor Steuern; 15% ist das sichere Minimum.",
+  "note": "Es wird nur 5% GST aufgeschlagen; das Territorium hat keine Verkaufssteuer. Die Trinkgeldsitte ist die kanadaweite, für das Territorium wurde keine eigene Quelle gefunden.",
+  "serviceNote": "In der Regel kein Servicezuschlag; manche Restaurants fügen bei großen Gruppen (meist ab sechs Personen) automatisch 15% bis 18% hinzu, prüfe daher die Rechnung.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "CA-NU": {
+  "name": "Nunavut",
+  "tipNote": "Trinkgeld 15% bis 20% auf den Betrag vor Steuern; 15% ist das sichere Minimum.",
+  "note": "Es wird nur 5% GST aufgeschlagen; das Territorium hat keine Verkaufssteuer. Die Trinkgeldsitte ist die kanadaweite, für das Territorium wurde keine eigene Quelle gefunden.",
+  "serviceNote": "In der Regel kein Servicezuschlag; manche Restaurants fügen bei großen Gruppen (meist ab sechs Personen) automatisch 15% bis 18% hinzu, prüfe daher die Rechnung.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "SG": {
+  "name": "Singapur",
+  "tipNote": "Kein Trinkgeld nötig; die 10% Servicegebühr ist das Trinkgeld, und manche Lokale haben ein Trinkgeldglas, falls du etwas dazugeben möchtest.",
+  "note": "Eine Speisekartensumme von S$100 wird in einem '++'-Restaurant zu S$119.90 (10% Service, dann 9% GST auf S$110).",
+  "serviceNote": "Die meisten Restaurants mit Bedienung berechnen 10% Servicegebühr, und die GST wird dann auf Preis plus Servicegebühr erhoben (Speisekarten zeigen '++'); Hawker Centres und Food Courts berechnen meist keine.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "MY": {
+  "name": "Malaysia",
+  "tipNote": "Kein Trinkgeld nötig; ein kleiner Betrag an das Personal ist willkommen, wird aber nie erwartet.",
+  "note": "Kleinere Restaurants unter der Schwelle von RM1.5 Millionen erheben die 6% Servicesteuer nicht, daher kann die Rechnung nur die Servicegebühr oder gar nichts Zusätzliches ausweisen.",
+  "serviceNote": "Viele Restaurants mit Bedienung und Hotels berechnen 10% Servicegebühr, angegeben als '++'; kleine Stände und viele Cafés berechnen keine.",
+  "taxNames": [
+   "Servicesteuer (SST)"
+  ],
+  "extraNames": []
+ },
+ "ID": {
+  "name": "Indonesien",
+  "tipNote": "Trinkgeld ist nicht nötig; fehlt eine Servicegebühr auf der Rechnung, sind 10% oder Aufrunden willkommen.",
+  "note": "Restaurantmahlzeiten unterliegen der regionalen PB1-Steuer, nicht der nationalen VAT, daher wäre ein aufgedruckter Satz von 11% ein Fehler.",
+  "serviceNote": "Touristengebiete und gehobene Restaurants (Bali, Jakarta) fügen oft 5% bis 10% Servicegebühr hinzu, angegeben als '++'; Warungs und lokale Cafés nicht.",
+  "taxNames": [
+   "Regionale Restaurantsteuer (PB1 / PBJT)"
+  ],
+  "extraNames": []
+ },
+ "TH": {
+  "name": "Thailand",
+  "tipNote": "Bei einer Servicegebühr von 10% auf der Rechnung ist nichts weiteres nötig; sonst lass etwas Kleingeld liegen, etwa 20 Baht.",
+  "note": "Bei '++'-Betrieben liegt der Endbetrag der Rechnung etwa 17% über dem Speisekartenpreis; Straßenküchen und lokale Restaurants berechnen meist den Speisekartenpreis.",
+  "serviceNote": "Hotelrestaurants und viele gehobene Lokale berechnen 10% Servicegebühr (und VAT obendrauf); die Verbraucherschutzbehörde sagt, sie sei freiwillig, muss aber angezeigt werden.",
+  "taxNames": [
+   "MwSt."
+  ],
+  "extraNames": []
+ },
+ "AE": {
+  "name": "Vereinigte Arabische Emirate",
+  "tipNote": "Steht eine Servicegebühr von 10% auf der Rechnung, ist kein Trinkgeld nötig; sonst sind 10% bis 15% der Summe willkommen (Lonely Planets Dubai-Führer sagt, 5-10% reichen).",
+  "note": "Die 5% VAT ist im Speisekartenpreis enthalten; zusätzliche Posten auf der Rechnung sind die Servicegebühr und etwaige Gemeinde- oder Tourismusgebühren. Dubais 7% Gemeindegebühr ist derzeit ausgesetzt.",
+  "serviceNote": "Hotelrestaurants berechnen meist 10%, und manche eigenständigen Lokale ebenfalls (die meisten nicht). Visit Dubai sagt, das Geld geht oft an den Betrieb, nicht an den Kellner. Die Speisekarte oder Rechnung gibt Auskunft.",
+  "taxNames": [
+   "MwSt."
+  ],
+  "extraNames": [
+   "Gemeindegebühr Dubai",
+   "Tourismusabgabe Abu Dhabi"
+  ]
+ },
+ "IN": {
+  "name": "Indien",
+  "tipNote": "Trinkgeld ist üblich, aber bescheiden: 5% bis 10% in bar, oder aufrunden, auch wenn eine Servicegebühr auf der Rechnung steht.",
+  "note": "Viele Speisekarten im mittleren und gehobenen Segment führen Preise vor Steuern ('plus taxes'), daher liegt die Rechnung mindestens 5% höher; Straßenessen und kleine Lokale nennen oft Endpreise.",
+  "serviceNote": "Manche Restaurants berechnen noch 5% bis 10% Servicegebühr, sie muss aber freiwillig sein; du kannst verlangen, sie zu streichen.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": [
+   "GST in Hotelrestaurants (ersetzt 5%)"
+  ]
+ },
+ "AT": {
+  "name": "Österreich",
+  "tipNote": "Runde auf oder gib 5-10% für guten Service, und sag dem Kellner den Betrag, den du zahlen möchtest.",
+  "note": "Die Speisekartenpreise enthalten die Mehrwertsteuer (EU-Regel).",
+  "serviceNote": "Prüfe die Rechnung: Ist bereits ein Trinkgeld enthalten, zahle es nicht doppelt.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "BE": {
+  "name": "Belgien",
+  "tipNote": "Service ist bereits im Preis enthalten; Aufrunden oder 5-10% zu geben ist eine nette Geste, aber nicht erforderlich.",
+  "note": "Die Speisekartenpreise enthalten die Mehrwertsteuer (EU-Regel).",
+  "serviceNote": "Service ist bereits im Preis enthalten.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "BG": {
+  "name": "Bulgarien",
+  "tipNote": "Gib etwa 10% in bar für guten Service, mehr, wenn er dir sehr gefallen hat.",
+  "note": "Bulgarien hat am 1. Januar 2026 vom Lew zum Euro gewechselt, daher nennen ältere Reiseführer möglicherweise noch Lew.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "HR": {
+  "name": "Kroatien",
+  "tipNote": "In Cafés aufrunden und bei einer guten Restaurantmahlzeit etwa 10% geben.",
+  "note": "Die Quellen gehen auseinander: Lonely Planets Kroatien-Kapitel sagt mindestens 10%, sein Europa-Reiseführer 5-10%.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "CY": {
+  "name": "Zypern",
+  "tipNote": "Trinkgeld ist dir überlassen; Aufrunden oder 5-10% für guten Service ist ein freundlicher Dank.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [
+   "VAT (Restaurants)"
+  ],
+  "extraNames": []
+ },
+ "EE": {
+  "name": "Estland",
+  "tipNote": "Runde auf, oder gib etwa 10%, wenn Essen oder Service außergewöhnlich waren.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "FI": {
+  "name": "Finnland",
+  "tipNote": "Service ist immer inbegriffen, daher gib kein Trinkgeld; Aufrunden ist willkommen, wird aber nie erwartet.",
+  "note": "Die MwSt. ist bereits im Preis enthalten.",
+  "serviceNote": "Service ist immer in der Rechnung enthalten.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "FR": {
+  "name": "Frankreich",
+  "tipNote": "Service ist bereits inbegriffen, daher ist Trinkgeld optional: ein paar Euro, bei hervorragendem Service bis etwa 10%.",
+  "note": "Der Speisekartenpreis ist der zu zahlende Preis: Steuern und Service sind enthalten.",
+  "serviceNote": "Service ist gesetzlich in den Speisekartenpreisen enthalten ('service compris').",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "DE": {
+  "name": "Deutschland",
+  "tipNote": "Runde auf etwa 5-10% auf und sag dem Kellner den Betrag, den du zahlen möchtest, statt Geld auf dem Tisch liegen zu lassen.",
+  "note": "Die Quellen unterscheiden sich bei der Höhe: visitBerlin sagt 10-15%, Lonely Planet sagt 5-10%.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "GR": {
+  "name": "Griechenland",
+  "tipNote": "Trinkgeld ist nicht vorgeschrieben; Aufrunden oder 5-10% für guten Service werden geschätzt.",
+  "note": "Die Quellen sind sich beim Service uneinig: Athens Tourismusbehörde sagt, Restaurants berechnen keinen, Lonely Planet sagt, er sei normalerweise enthalten, daher prüfe die Rechnung.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "IE": {
+  "name": "Irland",
+  "tipNote": "Wird nicht erwartet, aber 10% für guten Service sind üblich; lass es weg, wenn bereits eine Servicegebühr auf der Rechnung steht.",
+  "note": "",
+  "serviceNote": "Große Gruppen (sechs oder mehr Personen) erhalten oft eine Servicegebühr; die Preisliste muss angeben, ob eine gilt.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "IT": {
+  "name": "Italien",
+  "tipNote": "Trinkgeld wird hier nicht erwartet; runde auf oder gib ein paar Euro nur für hervorragenden Service.",
+  "note": "Eine regionale Vorschrift verbietet das Coperto in Latium (einschließlich Rom).",
+  "serviceNote": "Das Coperto (eine pauschale Tischgebühr, etwa EUR 2 pro Person) ist üblich und zulässig, wenn es auf der Speisekarte steht; es ist kein Trinkgeld.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "LV": {
+  "name": "Lettland",
+  "tipNote": "Runde die Rechnung auf oder gib etwa 10%, wenn dir der Service gefallen hat.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "LT": {
+  "name": "Litauen",
+  "tipNote": "Gib 5-15% je nach Service, sofern die Rechnung nicht bereits eine Servicegebühr ausweist.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "LU": {
+  "name": "Luxemburg",
+  "tipNote": "Service ist bereits im Preis enthalten; runde auf oder gib 5-10%, wenn du Dank ausdrücken möchtest.",
+  "note": "Speisekartenpreise müssen gesetzlich die Mehrwertsteuer und alle anderen Steuern enthalten.",
+  "serviceNote": "Restaurants müssen Preise mit enthaltenem Service angeben.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "MT": {
+  "name": "Malta",
+  "tipNote": "Prüfe zuerst die Rechnung auf eine Servicegebühr; wenn keine da ist, sind 5-10% für guten Service angemessen, und Aufrunden im Café ist in Ordnung.",
+  "note": "Maltas Tourismusbehörde nennt 5-10% Trinkgeld für guten Service üblich, aber nicht nötig, wenn eine Servicegebühr auf der Rechnung steht.",
+  "serviceNote": "Manche Restaurants berechnen eine Servicegebühr; steht sie auf der Rechnung, ist kein Trinkgeld nötig.",
+  "taxNames": [
+   "VAT (Restaurants)"
+  ],
+  "extraNames": []
+ },
+ "NL": {
+  "name": "Niederlande",
+  "tipNote": "Einheimische runden oft nur auf; etwa 10% sind bei einem guten Essen mehr als genug.",
+  "note": "Holland.com nennt etwa 10% durchaus akzeptabel, aber nicht festgelegt.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "PT": {
+  "name": "Portugal",
+  "tipNote": "Es gibt keine große Trinkgeldkultur: lass etwas Kleingeld oder runde auf, und etwa 10% nur bei gehobener Küche.",
+  "note": "Vorspeisen, die ungefragt gebracht werden (Couvert), werden berechnet, wenn du sie isst; du kannst sie zurückgeben.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "SK": {
+  "name": "Slowakei",
+  "tipNote": "Runde die Rechnung meist um etwa 5-10% auf; es ist nicht verpflichtend.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "SI": {
+  "name": "Slowenien",
+  "tipNote": "Trinkgeld ist nicht verpflichtend; Aufrunden ist höflich, und 5-10% sind ein herzlicher Dank für guten Service.",
+  "note": "Die Reiseführer gehen bei der Höhe auseinander: Rough Guides sagt aufrunden, Ljubljana.info sagt 10% oder sogar 20% sind eine schöne Geste.",
+  "serviceNote": "",
+  "taxNames": [
+   "VAT (Restaurants)"
+  ],
+  "extraNames": []
+ },
+ "ES": {
+  "name": "Spanien",
+  "tipNote": "Trinkgeld ist nicht üblich; Aufrunden oder 5-10% für guten Service sind willkommen.",
+  "note": "Ein Schild mit 'IVA NO INCLUIDO' bedeutet, dass 10% auf die Rechnung aufgeschlagen werden.",
+  "serviceNote": "",
+  "taxNames": [
+   "IVA (Restaurants)"
+  ],
+  "extraNames": []
+ },
+ "GB": {
+  "name": "Vereinigtes Königreich",
+  "tipNote": "Steht eine Servicegebühr von 12.5% auf der Rechnung, gib nichts extra; sonst gib 10-15%.",
+  "note": "Pubs: Trinkgeld fürs Barpersonal ist nicht üblich.",
+  "serviceNote": "Meist 12.5%, auf der Rechnung ausgewiesen; sie ist freiwillig, und du kannst verlangen, sie zu streichen.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "CH": {
+  "name": "Schweiz",
+  "tipNote": "Service ist inbegriffen; Aufrunden oder etwa 10% sind üblich, aber nicht verpflichtend.",
+  "note": "Speisekartenpreise sind Endpreise in Franken inklusive MwSt.",
+  "serviceNote": "Service ist im Preis enthalten.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "NO": {
+  "name": "Norwegen",
+  "tipNote": "Wird nicht erwartet; Einheimische runden auf oder geben 5-10%, wenn sie zufrieden sind.",
+  "note": "Visit Norway sagt, Trinkgelder bewegen sich meist zwischen 5-15%, Lonely Planet sagt, Trinkgeld in Restaurants werde gar nicht erwartet.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "SE": {
+  "name": "Schweden",
+  "tipNote": "Runde die Rechnung auf (zum Beispiel von 280 auf 300 SEK); etwa 10% sind bei einer größeren Mahlzeit ein schönes Trinkgeld.",
+  "note": "",
+  "serviceNote": "Eine Servicegebühr ist manchmal enthalten, wird aber auf der Rechnung klar angegeben.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "DK": {
+  "name": "Dänemark",
+  "tipNote": "Service ist in der Rechnung enthalten; gib nur Trinkgeld, wenn der Service großartig war, einen festen Betrag gibt es nicht.",
+  "note": "",
+  "serviceNote": "Service ist in Restaurantrechnungen enthalten.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "IS": {
+  "name": "Island",
+  "tipNote": "Service ist inbegriffen, daher wird kein Trinkgeld erwartet; ein kleines Bargeld-Trinkgeld für hervorragenden Service ist willkommen.",
+  "note": "Der angegebene Preis muss gesetzlich die Mehrwertsteuer enthalten.",
+  "serviceNote": "Service ist in den meisten Restaurants und Cafés bereits in der Rechnung enthalten.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "PL": {
+  "name": "Polen",
+  "tipNote": "Gib etwa 10% für guten Service im Restaurant; für einen Kaffee reicht eine Münze im Glas.",
+  "note": "Lonely Planets Warschau-Reiseführer nennt 10-15%.",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "CZ": {
+  "name": "Tschechien",
+  "tipNote": "Gib etwa 10% beim Service am Tisch.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "HU": {
+  "name": "Ungarn",
+  "tipNote": "Steht 'szerviz' auf der Rechnung, gib nichts extra; sonst gib etwa 10% und sag den Betrag, den du zahlen möchtest.",
+  "note": "Die Zahl 12.5% stammt aus einem Artikel von 2015, prüfe daher die Rechnung.",
+  "serviceNote": "Viele Restaurants berechnen eine Servicegebühr von etwa 12.5%, angegeben als 'szerviz'; ist sie vorhanden, gib kein Trinkgeld.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "TR": {
+  "name": "Türkei",
+  "tipNote": "Gib etwa 10% (15% bei sehr gutem Service), am besten in bar: Seit dem Verbot bieten manche Lokale 8, 10 oder 15% am Kartenterminal an, viele können Kartentrinkgeld aber nicht annehmen.",
+  "note": "Speisekarten müssen jetzt den vollen Preis angeben: Es darf kein Service-, Tisch- oder Gedeckzuschlag hinzugefügt werden, und Trinkgeld ist freiwillig.",
+  "serviceNote": "Seit dem 30. Januar 2026 dürfen Restaurants keinen Service-, Tisch- oder Gedeckzuschlag unter welchem Namen auch immer erheben (Amtsblatt 33153).",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "MX": {
+  "name": "Mexiko",
+  "tipNote": "Gib etwa 10%, bei sehr gutem Service bis zu 15%; es ist freiwillig, und niemand kann es verlangen.",
+  "note": "Das übliche Trinkgeld beträgt 10% (15% bei sehr gutem Service). Lonely Planets Amerika-Reiseführer nennt 15-20% und sagt, ein Servicezuschlag sei üblich, aber Profeco, die Tourismusbehörde von Mexiko-Stadt und Lonely Planets Mexiko-Artikel von 2026 nennen 10%.",
+  "serviceNote": "Gesetzlich darf kein Anbieter ein Trinkgeld verlangen oder dessen Höhe festlegen.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "BR": {
+  "name": "Brasilien",
+  "tipNote": "Steht die 10% Servicegebühr auf der Rechnung, zahle sie als dein Trinkgeld und gib nicht noch mehr dazu.",
+  "note": "Die Einbeziehung der Steuern in die Speisekartenpreise wurde nicht gesondert belegt.",
+  "serviceNote": "Eine 10% 'taxa de servico' steht oft auf der Rechnung; gesetzlich ist sie freiwillig und muss das auch angeben.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "AR": {
+  "name": "Argentinien",
+  "tipNote": "Gib etwa 10% in bar; es ist keine gesetzliche Pflicht, aber ein fester Brauch.",
+  "note": "Ob die Steuern in den Speisekartenpreisen enthalten sind, konnte nicht belegt werden (das nationale PDF zur Preisangabe war nicht lesbar); Lonely Planet sagt, häufiger wird eine Servicegebühr aufgeschlagen.",
+  "serviceNote": "Manche Restaurants berechnen ein 'cubierto' pro Person; es darf nicht für Kinder unter 12 Jahren berechnet werden.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "CL": {
+  "name": "Chile",
+  "tipNote": "Die Rechnung schlägt 10% vor; sag 'con propina', um es einzuschließen, oder lehne ab, es ist freiwillig.",
+  "note": "Speisekartenpreise müssen gesetzlich die IVA enthalten.",
+  "serviceNote": "Die Rechnung schlägt ein Trinkgeld von mindestens 10% vor, es ist aber freiwillig.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "PE": {
+  "name": "Peru",
+  "tipNote": "Trinkgeld ist nicht üblich, und viele Einheimische geben keins. Fehlt auf der Rechnung eine Zeile 'servicio' oder 'recargo', sind etwa 10% eine freundliche Geste; steht eine dort, hast du bereits Trinkgeld gegeben.",
+  "note": "Die Steuer- und Preisangabevorschriften sind offiziell; die Höhe des Trinkgelds ist eine Einschätzung, weil die beiden Peru-Artikel von Lonely Planet sich widersprechen und keine Zahl der Tourismusbehörde gefunden wurde.",
+  "serviceNote": "Viele Restaurants der mittleren und gehobenen Preisklasse berechnen einen 'servicio' oder 'recargo al consumo' von bis zu 13% (Decreto Ley 25988); Indecopi sagt, angegebene Preise müssen ihn enthalten. Speisekarte und Rechnung prüfen.",
+  "taxNames": [
+   "IGV"
+  ],
+  "extraNames": []
+ },
+ "CO": {
+  "name": "Kolumbien",
+  "tipNote": "Die Rechnung schlägt möglicherweise 10% vor; es ist freiwillig, du kannst annehmen, ändern oder ablehnen.",
+  "note": "",
+  "serviceNote": "",
+  "taxNames": [
+   "Impuesto nacional al consumo (Restaurants)"
+  ],
+  "extraNames": []
+ },
+ "CR": {
+  "name": "Costa Rica",
+  "tipNote": "Die 10% Service sind bereits im Preis enthalten, daher ist ein zusätzliches Trinkgeld optional; etwa 5% sind bei gutem Service willkommen.",
+  "note": "Gesetzlich muss der Speisekartenpreis der Endpreis inklusive 13% IVA und 10% Service sein. Wenn eine Speisekarte '+ impuestos' oder '10% servicio no incluido' angibt, verstößt sie gegen die Regel, und die Rechnung läge etwa 23% höher.",
+  "serviceNote": "10% Tischservice, vor Steuern berechnet, muss ebenfalls im endgültigen Speisekartenpreis enthalten sein; bei Takeaway wird er nicht berechnet.",
+  "taxNames": [
+   "IVA"
+  ],
+  "extraNames": []
+ },
+ "DO": {
+  "name": "Dominikanische Republik",
+  "tipNote": "Das gesetzliche 10%-Trinkgeld ist bereits auf der Rechnung; das Tourismusbüro sagt, weitere 10% sind üblich.",
+  "note": "Ob Speisekarten Preise vor Steuern und Service angeben, wurde nicht geprüft.",
+  "serviceNote": "Ein gesetzliches 10%-Trinkgeld wird auf Rechnungen für den Verzehr im Lokal hinzugefügt (nicht für Takeaway oder Lieferung).",
+  "taxNames": [
+   "ITBIS"
+  ],
+  "extraNames": []
+ },
+ "CU": {
+  "name": "Kuba",
+  "tipNote": "Prüfe die Rechnung auf eine Servicegebühr von 10-12%; ist keine da, gib dem Kellner ein wenig Trinkgeld (ein Reiseveranstalter schlägt etwa 10% oder Kleingeld vor).",
+  "note": "Geringe Verlässlichkeit: Keine offizielle Quelle zu Steuern, Speisekartenpreisen oder Servicegebühren konnte gelesen werden. Private Restaurants kalkulieren in Pesos zu inoffiziellen Kursen, und viele akzeptieren Euro; frag, in welcher Währung die Speisekarte ist.",
+  "serviceNote": "Servicegebühren von 10-12% sind in staatlichen Restaurants und gehobenen Paladares ziemlich verbreitet; manche berechnen pauschal 10%.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "JM": {
+  "name": "Jamaika",
+  "tipNote": "Prüfe die Rechnung zuerst auf eine Gratifikation; ist keine da, gib in einem Restaurant 15-20%. Kartenterminals bieten möglicherweise Trinkgelder bis 25% an.",
+  "note": "GCT und eine Servicegebühr werden oft zur Rechnung hinzugefügt statt zum Speisekartenpreis, zumindest in Hotels. Die einzigen Trinkgeldquellen sind eine Zeitung und Lonely Planets Karibik-Empfehlung; keine Seite des Jamaica Tourist Board konnte gelesen werden.",
+  "serviceNote": "Manche Restaurants berechnen eine verpflichtende Servicegebühr oder Gratifikation von 10-20%; prüfe die Rechnung, bevor du Trinkgeld gibst.",
+  "taxNames": [
+   "GCT"
+  ],
+  "extraNames": []
+ },
+ "JP": {
+  "name": "Japan",
+  "tipNote": "Trinkgeld ist hier nicht üblich und kann das Personal verwirren.",
+  "note": "Speisekarten müssen seit April 2021 Preise inklusive Steuern angeben.",
+  "serviceNote": "Eine Servicegebühr wird in Restaurants in der Regel auf die Endrechnung aufgeschlagen.",
+  "taxNames": [
+   "Verbrauchsteuer"
+  ],
+  "extraNames": []
+ },
+ "KR": {
+  "name": "Südkorea",
+  "tipNote": "Trinkgeld ist nicht üblich, und manche Angestellte lehnen es ab.",
+  "note": "Die Quellen unterscheiden sich, ob die MwSt. in den Speisekartenpreisen enthalten ist: Eine Regel von 2012 verlangt es, Visit Seoul sagt, sie werde 'aufgeschlagen'.",
+  "serviceNote": "Viele Hotels und gehobene Restaurants berechnen zusätzlich zur VAT eine Servicegebühr von 10%.",
+  "taxNames": [
+   "MwSt."
+  ],
+  "extraNames": []
+ },
+ "CN": {
+  "name": "China",
+  "tipNote": "Trinkgeld wird nicht erwartet; prüfe zuerst die Rechnung auf eine Servicegebühr.",
+  "note": "Die Einbeziehung der Steuern in die Speisekartenpreise wurde nicht gesondert belegt.",
+  "serviceNote": "Qualitäts- und Luxusrestaurants können eine Servicegebühr von 5-15% berechnen.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "HK": {
+  "name": "Hongkong",
+  "tipNote": "Die meisten Restaurants berechnen 10% Service, daher musst du nichts extra geben.",
+  "note": "Hongkong hat keine Verkaufssteuer und keine VAT.",
+  "serviceNote": "Die meisten Restaurants berechnen eine Servicegebühr von 10%; manche Cafés und Diners tun es nicht.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "TW": {
+  "name": "Taiwan",
+  "tipNote": "Trinkgeld wird nicht erwartet; eine Servicegebühr von 10% wird oft auf die Rechnung aufgeschlagen.",
+  "note": "Die Einbeziehung der Steuern in die Speisekartenpreise wurde nicht gesondert belegt.",
+  "serviceNote": "Eine Servicegebühr von 10% ist in Hotels und Restaurants üblich.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "VN": {
+  "name": "Vietnam",
+  "tipNote": "Trinkgeld wird in Restaurants nicht erwartet; Aufrunden oder 5-10% für guten Service sind willkommen, und nichts extra, wenn eine Servicegebühr auf der Rechnung steht.",
+  "note": "Das Preisgesetz besagt, dass angegebene Preise Steuern und Gebühren enthalten, aber gehobene Lokale nennen Preise möglicherweise vor VAT und Service; prüfe daher die Fußnote der Speisekarte. Keine offizielle Quelle zu Servicegebühren wurde gefunden.",
+  "serviceNote": "Prüfe die Rechnung auf eine Servicegebühr oder eine VAT-Zeile.",
+  "taxNames": [
+   "MwSt."
+  ],
+  "extraNames": []
+ },
+ "PH": {
+  "name": "Philippinen",
+  "tipNote": "Steht eine Servicegebühr auf der Rechnung, ist kein Trinkgeld nötig; sonst sind Aufrunden oder 5-10% für guten Service willkommen.",
+  "note": "Die VAT beträgt 12%; manche Restaurants rechnen sie in die Speisekartenpreise ein, andere schlagen sie auf die Rechnung auf, und die Speisekarte sagt, welche Variante gilt. Keine Seite des Department of Tourism zum Trinkgeld konnte gelesen werden.",
+  "serviceNote": "Viele Restaurants berechnen eine Servicegebühr von 5-10%; das Gesetz legt keinen Satz fest, aber alles muss an nicht leitende Mitarbeiter gehen.",
+  "taxNames": [
+   "MwSt."
+  ],
+  "extraNames": []
+ },
+ "KH": {
+  "name": "Kambodscha",
+  "tipNote": "Trinkgeld ist nicht üblich; Aufrunden oder ein oder zwei Dollar für guten Service reichen, und nichts, wenn eine Servicegebühr auf der Rechnung steht.",
+  "note": "Preise werden oft in US-Dollar angegeben. Ob die Speisekartenpreise die 10% VAT enthalten, konnte nicht belegt werden; prüfe daher die Fußnote der Speisekarte.",
+  "serviceNote": "Hotels und Restaurants berechnen häufig eine Servicegebühr von 10% (FAQ des Tourismusministeriums); Rough Guides nennt 5-10% in gehobeneren Lokalen.",
+  "taxNames": [
+   "MwSt."
+  ],
+  "extraNames": []
+ },
+ "AU": {
+  "name": "Australien",
+  "tipNote": "Wird nicht erwartet; für Tischservice in einem Stadtrestaurant sind 10% willkommen, an der Theke nichts.",
+  "note": "Tourism Australia sagt, Restaurants erheben keine Servicegebühr; der Feiertagszuschlag ist davon getrennt.",
+  "serviceNote": "Manche Betriebe erheben einen Wochenend- oder Feiertagszuschlag von bis zu 15% (Lonely Planet); prüfe die Speisekarte.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "NZ": {
+  "name": "Neuseeland",
+  "tipNote": "Trinkgeld wird nicht erwartet, aber 10% für wirklich guten Tischservice sind willkommen.",
+  "note": "Lonely Planet sagt, manche Betriebe erheben einen Feiertagszuschlag von bis zu 15%.",
+  "serviceNote": "Restaurants erheben keine Servicegebühren.",
+  "taxNames": [
+   "GST"
+  ],
+  "extraNames": []
+ },
+ "ZA": {
+  "name": "Südafrika",
+  "tipNote": "Gib 10-15% für guten Service; lass es weg, wenn eine Gruppenservicegebühr auf der Rechnung steht.",
+  "note": "Die Seite von South African Tourism stammt aus dem Jahr 2018, und ob die VAT in den Speisekartenpreisen enthalten ist, konnte nicht belegt werden.",
+  "serviceNote": "Für Tische mit mehr als sechs Gästen wird automatisch eine Servicegebühr von 10% hinzugefügt.",
+  "taxNames": [
+   "MwSt."
+  ],
+  "extraNames": []
+ },
+ "MA": {
+  "name": "Marokko",
+  "tipNote": "Prüfe zuerst die Rechnung auf eine Servicegebühr; ist keine da, gib 5-10%, in gehobenen Lokalen bis zu 15%.",
+  "note": "Speisekartenpreise müssen die VAT enthalten (Gesetz 31-08). Das marokkanische Fremdenverkehrsamt hat keine Trinkgeldseite; Trinkgeldquellen sind ein Verlag, eine Nachrichtenseite und ein lokaler Reiseführer, und der erste nennt 10-15%, wo die anderen 5-10% sagen.",
+  "serviceNote": "Beliebte Touristenrestaurants schlagen oft 10% auf (Lonely Planet, Le360); ein gesetzlicher Satz wurde nicht gefunden.",
+  "taxNames": [
+   "VAT (Restaurants)"
+  ],
+  "extraNames": []
+ },
+ "EG": {
+  "name": "Ägypten",
+  "tipNote": "Meist wird eine Servicegebühr aufgeschlagen, also lass etwas extra bar beim Kellner; etwa 10%, wenn keine enthalten ist.",
+  "note": "Eine Erklärung einer Handelskammer von 2020 besagt, dass Speisekarten touristischer Betriebe Preise inklusive aller Kosten angeben müssen, aber ein Bericht von 2023 sagt, Gäste zahlen 26% (12% Service, 14% VAT) obendrauf. Geh davon aus, dass Steuern und Service aufgeschlagen werden, bis die Speisekarte etwas anderes angibt.",
+  "serviceNote": "In touristischen Betrieben werden etwa 12% Service aufgeschlagen (Lonely Planet sagt 10%).",
+  "taxNames": [
+   "MwSt."
+  ],
+  "extraNames": []
+ },
+ "IL": {
+  "name": "Israel",
+  "tipNote": "Gib 10-12% für guten Service und 15% für hervorragenden (15% ist in Tel Aviv üblich), am besten in bar.",
+  "note": "Keine Trinkgeldseite des Tourismusministeriums konnte gelesen werden; die drei Trinkgeldquellen (ein Blog einer Hotelkette, ein Nachrichtenmagazin, ein Community-Reisewiki) stimmen bei 10-15% überein.",
+  "serviceNote": "Restaurants erheben fast nie eine Servicegebühr, außer bei großen Gruppen.",
+  "taxNames": [
+   "MwSt."
+  ],
+  "extraNames": []
+ },
+ "JO": {
+  "name": "Jordanien",
+  "tipNote": "Gib etwa 10% zusätzlich zur Rechnung, außer wenn bereits eine Servicegebühr darauf steht.",
+  "note": "Speisekartenpreise schließen meist die 16% Umsatzsteuer und eine etwaige 10%-Serviceposition aus, daher kann eine Rechnung bis zu etwa einem Viertel über der Speisekartensumme liegen.",
+  "serviceNote": "Viele Restaurants fügen eine 10%-'Service'-Position hinzu; das ist ein Brauch, kein gesetzlicher Satz.",
+  "taxNames": [
+   "Allgemeine Umsatzsteuer"
+  ],
+  "extraNames": []
+ },
+ "QA": {
+  "name": "Katar",
+  "tipNote": "Meist ist eine Servicegebühr auf der Rechnung; zusätzlich 10-15% in bar werden geschätzt.",
+  "note": "Ob die Steuern in den Speisekartenpreisen enthalten sind, wurde nicht belegt.",
+  "serviceNote": "Die meisten gastronomischen Betriebe nehmen eine Servicegebühr in die Rechnung auf.",
+  "taxNames": [],
+  "extraNames": []
+ },
+ "SA": {
+  "name": "Saudi-Arabien",
+  "tipNote": "Kellner erwarten am Ende der Mahlzeit in der Regel 10-15% Trinkgeld.",
+  "note": "Trinkgeld ist nicht verpflichtend, und es wird keine Servicegebühr aufgeschlagen, daher wird ein Trinkgeld von 10-15% nicht doppelt berechnet.",
+  "serviceNote": "Restaurants dürfen keine Servicegebühren aufschlagen (Entscheidung des Handelsministeriums, 2017 bestätigt).",
+  "taxNames": [
+   "MwSt."
+  ],
+  "extraNames": []
+ },
+ "KE": {
+  "name": "Kenia",
+  "tipNote": "Trinkgeld ist nicht vorgeschrieben, aber etwa 10% der Rechnung für eine gute Mahlzeit werden geschätzt.",
+  "note": "Die VAT beträgt 16%, und lizenzierte Tourismusbetriebe zahlen zusätzlich eine Abgabe von 2% auf Speisen- und Getränkeverkäufe. Ein Gesetz zur Speisekartenpreisgestaltung wurde nicht gefunden; prüfe die Speisekarte auf 'inclusive of VAT'.",
+  "serviceNote": "",
+  "taxNames": [
+   "MwSt."
+  ],
+  "extraNames": []
+ },
+ "TZ": {
+  "name": "Tansania",
+  "tipNote": "Etwa 10% sind in Restaurants üblich, bis zu 15% bei sehr gutem Service; immer in bar.",
+  "note": "Preise, die von MwSt.-registrierten Unternehmen beworben werden, müssen 18% VAT enthalten. Keine Trinkgeldseite des Tanzania Tourist Board konnte gelesen werden; die Trinkgeldquellen sind Safari-Anbieter und Lonely Planets Afrika-Reiseführer.",
+  "serviceNote": "",
+  "taxNames": [
+   "MwSt."
+  ],
+  "extraNames": []
+ }
+}
