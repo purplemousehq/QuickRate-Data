@@ -60,9 +60,24 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.commerce.alaska.gov/web/dcra/OfficeoftheStateAssessor/AlaskaSalesTaxInformation.aspx",
+     "title": "Alaska Division of Community and Regional Affairs: Alaska Sales Tax Information",
+     "covers": "The State of Alaska does not levy a sales tax; local municipalities do, and exemptions are mostly a local issue.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "Local sales tax",
+     "rate": 0.0182,
+     "basis": "population-weighted average of local rates; no state tax; none at all in Anchorage or Fairbanks"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "No state sales tax; each town sets its own tax and exemptions, so the 1.82% average matches no single town. Anchorage and Fairbanks charge none."
   },
   {
    "code": "US-AL",
@@ -122,9 +137,24 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.revenue.alabama.gov/sales-use/state-sales-use-tax-rates/",
+     "title": "Alabama Department of Revenue: State Sales and Use Tax Rates",
+     "covers": "General state rate 4%; food/grocery state rate 2% from 1 Sep 2025. Local city and county taxes are added separately.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.0946,
+     "basis": "state + average local"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "Groceries carry a reduced 2% state rate (since 1 Sep 2025); local tax still applies."
   },
   {
    "code": "US-AR",
@@ -184,9 +214,24 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.dfa.arkansas.gov/excise-tax/sales-and-use-tax/",
+     "title": "Arkansas DFA: Sales and Use Tax",
+     "covers": "State sales tax rate 6.500%; city and county tax is added on top where goods are delivered.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.0948,
+     "basis": "state + average local"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "City and county tax is added to the 6.5% state rate; rates vary by town."
   },
   {
    "code": "US-AZ",
@@ -246,9 +291,24 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://azdor.gov/sites/default/files/document/TPT_RATETABLE_10012026.pdf",
+     "title": "Arizona Department of Revenue: Transaction Privilege Tax Rate Tables (1 Oct 2026)",
+     "covers": "State transaction privilege tax (the sales tax) rate 5.6%, combined with county and city rates.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.0854,
+     "basis": "state + average local"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "The sales tax is called Transaction Privilege Tax; state 5.6% plus county and city rates."
   },
   {
    "code": "US-CA",
@@ -314,9 +374,24 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://cdtfa.ca.gov/taxes-and-fees/sales-use-tax-rates.htm",
+     "title": "California CDTFA: City and County Sales and Use Tax Rates",
+     "covers": "Statewide base rate 7.25%; district taxes range from 0.10% upward and are added locally.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.0903,
+     "basis": "state + average local"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "7.25% statewide base plus local district taxes."
   },
   {
    "code": "US-CO",
@@ -382,9 +457,24 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://content.leg.colorado.gov/agencies/legislative-council-staff/sales-and-use-taxes%C2%A0",
+     "title": "Colorado Legislative Council Staff: Sales and Use Taxes",
+     "covers": "State sales and use tax 2.9%; most food for home consumption is exempt.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "high"
+   "confidence": "high",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.0789,
+     "basis": "state + average local"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "State rate is only 2.9%; city, county and district taxes make up most of the 7.89% average. Most groceries are exempt from the state tax."
   },
   {
    "code": "US-CT",
@@ -456,9 +546,24 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://portal.ct.gov/DRS/Publications/Special-Notices/2003/SN-2003-3",
+     "title": "Connecticut DRS: SN 2003(3) Sales and Use Taxes on Retail Sales of Clothing",
+     "covers": "2011 Conn. Pub. Acts 6 repealed the exemption for clothing and footwear costing under $50 effective 1 Jul 2011.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "high"
+   "confidence": "high",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.0635,
+     "basis": "state; no local sales tax; 7.35% applies only to meals and certain beverages"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "Clothing is taxed at 6.35% (the under-$50 clothing exemption ended 1 Jul 2011); an August Sales Tax Free Week exempts some clothing and footwear. Restaurant meals are 7.35%."
   },
   {
    "code": "US-DC",
@@ -526,7 +631,16 @@
      "checked": "2026-10"
     }
    ],
-   "confidence": "high"
+   "confidence": "high",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.06,
+     "basis": "DC general rate for goods; restaurant meals are 10%"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "6% on goods; the planned rise to 7% is postponed to after 30 Sep 2027. Restaurant meals are 10%, off-premises alcohol 10.25%."
   },
   {
    "code": "US-DE",
@@ -587,7 +701,10 @@
      "checked": "2026-10"
     }
    ],
-   "confidence": "high"
+   "confidence": "high",
+   "shopTaxes": [],
+   "shopPricesIncludeTax": false,
+   "shopNote": "No sales tax; the gross receipts tax is paid by the seller and is not added at the till."
   },
   {
    "code": "US-FL",
@@ -647,9 +764,24 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://floridarevenue.com/taxes/taxesfees/Pages/sales_tax.aspx",
+     "title": "Florida Department of Revenue: Sales and Use Tax",
+     "covers": "General state sales tax rate 6%; counties add discretionary surtax.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.0698,
+     "basis": "state + average local"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "6% state rate plus county surtax that varies by county."
   },
   {
    "code": "US-GA",
@@ -709,9 +841,24 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://dor.georgia.gov/taxes/business-taxes/sales-use-tax/tax-rates",
+     "title": "Georgia Department of Revenue: Sales and Use Tax Rates",
+     "covers": "Statewide rate 4% plus local 1% taxes (Muscogee County example totals 8%).",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.0756,
+     "basis": "state + average local"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "4% state plus local 1% taxes that stack by county and city."
   },
   {
    "code": "US-HI",
@@ -777,9 +924,24 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://tax.hawaii.gov/geninfo/get/",
+     "title": "Hawaii Department of Taxation: General Excise Tax FAQs",
+     "covers": "Hawaii has the GET instead of a sales tax; passed-on rates include the county surcharge, up to 4.7120% in Honolulu.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "high"
+   "confidence": "high",
+   "shopTaxes": [
+    {
+     "name": "General excise tax (passed on)",
+     "rate": 0.04712,
+     "basis": "4% GET + 0.5% county surcharge; maximum visible pass-on rate in all four counties"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "Hawaii has no sales tax; the General Excise Tax is often added as a separate line at the till (up to 4.712% depending on the county)."
   },
   {
    "code": "US-IA",
@@ -839,9 +1001,24 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://revenue.iowa.gov/taxes/tax-guidance/sales-use-excise-tax/sales-use-tax-guide",
+     "title": "Iowa Department of Revenue: Sales and Use Tax Guide",
+     "covers": "State sales tax 6%; most localities add a 1% local option tax.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.0694,
+     "basis": "state + average local"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "6% state plus a 1% local option tax in most places."
   },
   {
    "code": "US-ID",
@@ -901,9 +1078,24 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://tax.idaho.gov/taxes/sales-use/online-guide/",
+     "title": "Idaho State Tax Commission: Sales and Use Taxes Basics Guide",
+     "covers": "Idaho's sales tax rate is 6%.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.0603,
+     "basis": "state + average local"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "6% state; local sales tax is rare in Idaho (0.03% average)."
   },
   {
    "code": "US-IL",
@@ -975,6 +1167,12 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://tax.illinois.gov/research/publications/pio-115.html",
+     "title": "Illinois Department of Revenue: PIO-115 Tax Rates for Retail Sales of Food and Medicine",
+     "covers": "State rate 6.25% on general merchandise; the state's 1% tax on groceries was eliminated from 1 Jan 2026, with an optional 1% local grocery tax.",
+     "checked": "2026-10-21"
     }
    ],
    "confidence": "medium",
@@ -984,7 +1182,16 @@
      "rate": 0.005,
      "where": "City of Chicago only"
     }
-   ]
+   ],
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.0898,
+     "basis": "state + average local"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "6.25% state plus local tax on general goods. The state's 1% grocery tax ended on 1 Jan 2026 (some places add a 1% local grocery tax)."
   },
   {
    "code": "US-IN",
@@ -1044,9 +1251,24 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.in.gov/dor/i-am-a/business-corp/county-tax-information/",
+     "title": "Indiana DOR: County Tax Information",
+     "covers": "The sales tax for the entire State of Indiana is 7%; counties levy other taxes such as Food and Beverage (restaurant) taxes.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.07,
+     "basis": "state + average local"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "Flat 7% statewide with no local sales tax. Some counties add a 1-2% food and beverage tax that applies to restaurants, not shops."
   },
   {
    "code": "US-KS",
@@ -1106,9 +1328,24 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.ksrevenue.gov/faqs-taxsales.html",
+     "title": "Kansas Department of Revenue: Sales Tax FAQs",
+     "covers": "State rate 6.50%; since 1 Jan 2025 the state tax on food is 0% (local tax still applies).",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.0871,
+     "basis": "state + average local"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "6.5% state plus city and county tax. Groceries carry no state tax (since 1 Jan 2025) but local tax still applies."
   },
   {
    "code": "US-KY",
@@ -1168,9 +1405,24 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://revenue.ky.gov/Business/Sales-Use-Tax/Pages/default.aspx",
+     "title": "Kentucky Department of Revenue: Sales and Use Tax",
+     "covers": "Imposed at 6 percent of gross receipts; there are no local sales and use taxes in Kentucky.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.06,
+     "basis": "state + average local"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "Flat 6% statewide; no local sales tax."
   },
   {
    "code": "US-LA",
@@ -1236,9 +1488,24 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://revenue.louisiana.gov/businesses/general-sales-and-use-taxes/general-sales-use-tax/",
+     "title": "Louisiana Department of Revenue: General Sales and Use Tax",
+     "covers": "State sales tax rate 5% (since 1 Jan 2025); parishes and cities add their own.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "high"
+   "confidence": "high",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.1013,
+     "basis": "state + average local"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "5% state plus high parish and city tax; one of the highest combined rates in the US."
   },
   {
    "code": "US-MA",
@@ -1304,6 +1571,18 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64H/Section6",
+     "title": "Massachusetts General Laws c.64H s.6: exemptions",
+     "covers": "Exempt: clothing and footwear up to $175 of the sales price per article; food products for human consumption.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64H/Section2",
+     "title": "Massachusetts General Laws c.64H s.2: excise rate",
+     "covers": "Sales excise at 6.25 per cent of gross receipts.",
+     "checked": "2026-10-21"
     }
    ],
    "confidence": "medium",
@@ -1313,7 +1592,16 @@
      "rate": 0.0075,
      "where": "Cities and towns that adopted it (optional for each municipality)"
     }
-   ]
+   ],
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.0625,
+     "basis": "state; meals are taxed at the same rate; clothing up to $175 per item exempt"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "Clothing is exempt up to $175 per item (only the excess is taxed); food for home consumption is exempt."
   },
   {
    "code": "US-MD",
@@ -1373,9 +1661,24 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/tips/business/bustip8.pdf",
+     "title": "Maryland Comptroller: Business Tax Tip 8 Calculating Sales and Use Tax",
+     "covers": "Sales and use tax rate 6%; there are no general local sales taxes.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.06,
+     "basis": "state + average local"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "Flat 6% statewide (alcohol 9%); no local sales tax."
   },
   {
    "code": "US-ME",
@@ -1441,9 +1744,24 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.maine.gov/revenue/taxes/sales-use-service-provider-tax/rates-due-dates",
+     "title": "Maine Revenue Services: Sales and Use Tax Rates",
+     "covers": "General Sales 5.5%; Prepared Food 8% (effective 1 Jan 2026 column).",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "high"
+   "confidence": "high",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.055,
+     "basis": "state; general rate (prepared food at restaurants is 8%)"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "5.5% on goods; the 8% rate applies only to prepared food and some alcohol-serving venues."
   },
   {
    "code": "US-MI",
@@ -1503,9 +1821,24 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.michigan.gov/taxes/business-taxes/sales-use-tax",
+     "title": "Michigan Department of Treasury: Sales and Use Tax",
+     "covers": "6% sales tax on the total price of taxable retail sales.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.06,
+     "basis": "state + average local"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "Flat 6% statewide."
   },
   {
    "code": "US-MN",
@@ -1571,6 +1904,18 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.revenue.state.mn.us/sites/default/files/2026-08/local-sales-and-use-tax-rate-guide-2026-q4.pdf",
+     "title": "Minnesota Department of Revenue: Local Sales and Use Tax Rate Guide (1 Oct 2026)",
+     "covers": "State general rate 6.875% plus local rates listed by city and county.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://www.revisor.mn.gov/statutes/cite/297A.67",
+     "title": "Minnesota Statutes 297A.67: exemptions",
+     "covers": "Clothing is exempt (human wearing apparel suitable for general use); food and food ingredients are exempt.",
+     "checked": "2026-10-21"
     }
    ],
    "confidence": "medium",
@@ -1585,7 +1930,16 @@
      "rate": 0.03,
      "where": "Downtown Minneapolis only, on alcohol"
     }
-   ]
+   ],
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.0814,
+     "basis": "state + average local"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "Clothing is exempt; food and food ingredients are mostly exempt."
   },
   {
    "code": "US-MO",
@@ -1645,9 +1999,24 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://dor.mo.gov/taxation/business/tax-types/sales-use/",
+     "title": "Missouri Department of Revenue: Sales and Use Tax",
+     "covers": "4.225 percent state sales and use tax.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.0844,
+     "basis": "state + average local"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "4.225% state plus city, county and district taxes."
   },
   {
    "code": "US-MS",
@@ -1707,9 +2076,24 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.dor.ms.gov/business/sales-use-tax/sales-tax-rates",
+     "title": "Mississippi DOR: Sales Tax Rates",
+     "covers": "Tangible personal property 7%; groceries (SNAP-eligible food) 5%.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.0706,
+     "basis": "state + average local"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "7% on goods; groceries are taxed at a reduced 5%."
   },
   {
    "code": "US-MT",
@@ -1768,6 +2152,18 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://revenue.mt.gov/taxes/general-sales-tax",
+     "title": "Montana Department of Revenue: Sales Tax Guidance",
+     "covers": "Montana does not have a general-use sales tax.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://revenue.mt.gov/taxes/miscellaneous/local-resort-tax",
+     "title": "Montana Department of Revenue: Local Resort Tax",
+     "covers": "Local resort tax (up to 3%) in designated resort areas; administered locally.",
+     "checked": "2026-10-21"
     }
    ],
    "confidence": "medium",
@@ -1777,7 +2173,10 @@
      "rate": 0.03,
      "where": "Resort areas: Virginia City, West Yellowstone, Whitefish, Big Sky, Cooke City, Craig, Gardiner, St Regis, Wolf Creek, Red Lodge"
     }
-   ]
+   ],
+   "shopTaxes": [],
+   "shopPricesIncludeTax": false,
+   "shopNote": "No general sales tax. Designated resort towns (Whitefish, Big Sky, West Yellowstone and others) add a local resort tax of up to 3% on lodging, dining and some retail."
   },
   {
    "code": "US-NC",
@@ -1837,9 +2236,24 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-rates/current-sales-and-use-tax-rates",
+     "title": "North Carolina DOR: Current Sales and Use Tax Rates",
+     "covers": "4.75% state rate plus county and transit rates.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.071,
+     "basis": "state + average local"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "4.75% state plus county and transit taxes."
   },
   {
    "code": "US-ND",
@@ -1899,9 +2313,24 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.tax.nd.gov/business/sales-and-use-tax",
+     "title": "North Dakota Office of State Tax Commissioner: Sales and Use Tax",
+     "covers": "The North Dakota sales tax rate is 5% for most retail sales.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.0709,
+     "basis": "state + average local"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "5% state plus city tax (and some county tax); rates vary by town."
   },
   {
    "code": "US-NE",
@@ -1961,9 +2390,24 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://revenue.nebraska.gov/businesses/sales-and-use-tax",
+     "title": "Nebraska Department of Revenue: Sales and Use Tax",
+     "covers": "State sales and use tax rate 5.5%; local rates added.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.0698,
+     "basis": "state + average local"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "5.5% state plus city tax."
   },
   {
    "code": "US-NH",
@@ -2029,9 +2473,24 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.revenue.nh.gov/resource-center/frequently-asked-questions/general-information",
+     "title": "New Hampshire DRA: General Information FAQ",
+     "covers": "No general sales tax on goods purchased in New Hampshire.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://www.revenue.nh.gov/taxes-glance/meals-rooms-rentals-tax",
+     "title": "New Hampshire DRA: Meals and Rooms (Rentals) Tax",
+     "covers": "Meals and Rentals tax rate is 8.5%.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [],
+   "shopPricesIncludeTax": false,
+   "shopNote": "No general sales tax. The 8.5% meals and rentals tax applies only to restaurant meals, hotel rooms and vehicle rentals."
   },
   {
    "code": "US-NJ",
@@ -2091,9 +2550,30 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.nj.gov/treasury/taxation/businesses/salestax/index.shtml",
+     "title": "New Jersey Division of Taxation: Sales and Use Tax",
+     "covers": "New Jersey assesses a 6.625% Sales Tax on most tangible personal property.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://www.nj.gov/treasury/taxation/salestaxfur.shtml",
+     "title": "New Jersey Division of Taxation: Fur clothing notice",
+     "covers": "Clothing and footwear exemption in N.J.S.A. 54:32B-8.4 now covers fur clothing too.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.06625,
+     "basis": "state rate; Tax Foundation's 6.60% combined figure is lowered by a reduced-rate zone in Salem County"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "Clothing and footwear are exempt, fur clothing included."
   },
   {
    "code": "US-NM",
@@ -2159,9 +2639,24 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.tax.newmexico.gov/wp-content/uploads/2023/08/July-2023_GRT-Filers-Kit.pdf",
+     "title": "New Mexico TRD: GRT Filer's Kit (July 2023)",
+     "covers": "State portion of the gross receipts tax lowered from 5.000% to 4.875%, plus county and municipal rates.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.0768,
+     "basis": "state + average local"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "New Mexico charges a gross receipts tax that shows up like a sales tax at the till: 4.875% state plus county and city rates."
   },
   {
    "code": "US-NV",
@@ -2221,9 +2716,24 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://tax.nv.gov/tax-types/sales-tax-use-tax/",
+     "title": "Nevada Department of Taxation: Sales Tax and Use Tax",
+     "covers": "Base state sales tax rate 6.85%; local jurisdictions add more.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.0824,
+     "basis": "state + average local"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "6.85% state plus county tax."
   },
   {
    "code": "US-NY",
@@ -2295,9 +2805,30 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.tax.ny.gov/pubs_and_bulls/tg_bulletins/st/clothing_and_footwear.htm",
+     "title": "New York Tax Dept: TB-ST-122 Clothing and Footwear",
+     "covers": "Clothing and footwear under $110 per item exempt from the 4% state tax; not from local tax unless the county or city elects.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://www.tax.ny.gov/bus/st/rates.htm",
+     "title": "New York Tax Dept: Sales Tax Rates",
+     "covers": "Combined rate equals the 4% state rate plus local city, county or school district rates; extra 0.375% in the MCTD.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.0854,
+     "basis": "state + average local"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "Clothing and shoes under $110 per item are exempt from the 4% state tax; the local part is exempt only where the county or city elects (check the receipt)."
   },
   {
    "code": "US-OH",
@@ -2357,9 +2888,24 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://tax.ohio.gov/help-center/faqs/sales-and-use-general-information",
+     "title": "Ohio Department of Taxation: Sales and Use FAQs",
+     "covers": "State rate 5.75% plus county and transit tax (cap 8.75% combined).",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.0729,
+     "basis": "state + average local"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "5.75% state plus county tax; up to 8.75% in total."
   },
   {
    "code": "US-OK",
@@ -2419,9 +2965,30 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://oklahoma.gov/tax/businesses/sales-use-tax.html",
+     "title": "Oklahoma Tax Commission: Sales and Use Tax",
+     "covers": "Sales tax is levied at 4.5% of gross receipts; local city and county taxes are added.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://oklahoma.gov/tax/businesses/state-sales-tax-on-food-and-food-ingredients.html",
+     "title": "Oklahoma Tax Commission: State Sales Tax on Food and Food Ingredients",
+     "covers": "Food and food ingredients exempt from the state portion since 29 Aug 2024; prepared food, alcohol and supplements remain taxed.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.0906,
+     "basis": "state + average local"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "4.5% state plus city and county tax. State tax on groceries has been removed (since Aug 2024); local tax still applies."
   },
   {
    "code": "US-OR",
@@ -2482,7 +3049,10 @@
      "checked": "2026-10"
     }
    ],
-   "confidence": "high"
+   "confidence": "high",
+   "shopTaxes": [],
+   "shopPricesIncludeTax": false,
+   "shopNote": "No sales tax."
   },
   {
    "code": "US-PA",
@@ -2542,9 +3112,30 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.pa.gov/agencies/revenue/resources/tax-types-and-information/sales-use-and-hotel-occupancy-tax",
+     "title": "Pennsylvania Department of Revenue: Sales, Use and Hotel Occupancy Tax",
+     "covers": "Sales tax rate 6%; Philadelphia +2%, Allegheny +1%; major exempt items include food, candy, most clothing.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://hub.business.pa.gov/Home/HelpCenterDetail/ClothingStoresandBoutiques",
+     "title": "PA Business Hub: Clothing Stores and Boutiques",
+     "covers": "No sales tax on everyday ordinary wearing apparel; backpacks, jewelry and formal wear are taxable.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.0634,
+     "basis": "state + average local"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "Clothing is exempt, but formal wear, jewelry and backpacks are taxed; most food is exempt. Philadelphia adds 2% and Allegheny County 1%."
   },
   {
    "code": "US-RI",
@@ -2628,9 +3219,30 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://rules.sos.ri.gov/regulations/part/280-20-70-6",
+     "title": "Rhode Island 280-RICR-20-70-6: Clothing",
+     "covers": "Clothing with a sales price of $250 or less per item is exempt.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://tax.ri.gov/tax-sections/sales-excise-taxes/sales-use-tax",
+     "title": "Rhode Island Division of Taxation: Sales and Use Tax",
+     "covers": "Sales tax and complementary use tax at 7%.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "high"
+   "confidence": "high",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.07,
+     "basis": "state rate; Rhode Island has no local sales tax"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "Clothing and footwear are exempt up to $250 per item (only the excess is taxed). Restaurant meals add a 1% local meals tax."
   },
   {
    "code": "US-SC",
@@ -2690,9 +3302,24 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://dor.sc.gov/sales-use-tax-index/sales-tax",
+     "title": "South Carolina DOR: Sales Tax",
+     "covers": "Statewide sales and use tax rate 6%; counties may add 1% local tax.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.0749,
+     "basis": "state + average local"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "6% state plus an optional 1% county tax where voters approved it."
   },
   {
    "code": "US-SD",
@@ -2758,9 +3385,24 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://dor.sd.gov/individuals/taxes/sales-use-tax/",
+     "title": "South Dakota DOR: Sales and Use Tax",
+     "covers": "Sales and use tax rates are 4.2%; municipalities add up to 2% plus a 1% gross receipts tax.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.0611,
+     "basis": "state + average local"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "4.2% state plus municipal tax."
   },
   {
    "code": "US-TN",
@@ -2820,9 +3462,24 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.tn.gov/revenue/taxes/sales-and-use-tax/due-dates-and-tax-rates.html",
+     "title": "Tennessee Department of Revenue: Due Dates and Tax Rates",
+     "covers": "General rate 7% for most tangible personal property; 4% state rate on food; local tax added.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.0961,
+     "basis": "state + average local"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "7% state plus local tax of up to 2.75%; food carries a lower 4% state rate."
   },
   {
    "code": "US-TX",
@@ -2888,9 +3545,24 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://comptroller.texas.gov/taxes/sales/",
+     "title": "Texas Comptroller: Sales and Use Tax",
+     "covers": "6.25 percent state sales and use tax on retail sales of most goods; local jurisdictions add up to 2%.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.082,
+     "basis": "state + average local"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "6.25% state plus up to 2% local; 8.25% is the usual top total."
   },
   {
    "code": "US-UT",
@@ -2956,6 +3628,12 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://tax.utah.gov/forms-pubs/pub-25/",
+     "title": "Utah State Tax Commission: Pub 25 Sales and Use Tax General Information",
+     "covers": "State rate 4.85%; grocery food state rate 1.75%; local and county options added.",
+     "checked": "2026-10-21"
     }
    ],
    "confidence": "medium",
@@ -2965,7 +3643,16 @@
      "rate": 0.01,
      "where": "Salt Lake City (counties may add up to 1% on restaurant sales elsewhere in Utah)"
     }
-   ]
+   ],
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.0742,
+     "basis": "state + average local"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "4.85% state plus mandatory local option taxes; groceries are taxed at a reduced rate (about 3% in total)."
   },
   {
    "code": "US-VA",
@@ -3051,7 +3738,16 @@
      "checked": "2026-10"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.0577,
+     "basis": "population-weighted average; official rate is 5.3% in most places, 6% in Northern Virginia, Hampton Roads and Central Virginia, and 6.3% to 7% in a few localities"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "5.3% in most places, 6% in Northern Virginia, Hampton Roads and Central Virginia. Groceries carry a lower rate (1% state-level)."
   },
   {
    "code": "US-VT",
@@ -3123,6 +3819,24 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://tax.vermont.gov/business/sales-and-use-tax",
+     "title": "Vermont Department of Taxes: Sales and Use Tax",
+     "covers": "The sales tax rate is 6%.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://legislature.vermont.gov/statutes/section/32/233/09741",
+     "title": "Vermont 32 V.S.A. s.9741: sales exempt from tax",
+     "covers": "Clothing is exempt, but not clothing accessories or equipment, protective equipment, or sport or recreational equipment.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://tax.vermont.gov/business/local-option-tax",
+     "title": "Vermont Department of Taxes: Local Option Tax",
+     "covers": "Municipalities may vote to add a 1% local option tax to sales tax.",
+     "checked": "2026-10-21"
     }
    ],
    "confidence": "high",
@@ -3132,7 +3846,16 @@
      "rate": 0.01,
      "where": "Towns that adopted it"
     }
-   ]
+   ],
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.0643,
+     "basis": "state + average local"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "Clothing is exempt (not accessories, protective or sports equipment). The 6% state tax can have a 1% local option added in some towns."
   },
   {
    "code": "US-WA",
@@ -3198,9 +3921,24 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://dor.wa.gov/taxes-rates/retail-sales-tax",
+     "title": "Washington Department of Revenue: Retail Sales Tax",
+     "covers": "State rate 6.5%; local rate varies by city or county; food is among the common exemptions.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.0957,
+     "basis": "state + average local"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "6.5% state plus local tax. Food is on the state's common-exemptions list."
   },
   {
    "code": "US-WI",
@@ -3260,9 +3998,24 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://docs.legis.wisconsin.gov/statutes/statutes/77/iii/52/2",
+     "title": "Wisconsin Statutes 77.52(2): sales tax imposed",
+     "covers": "A tax of 5 percent of the sales price is imposed on retail sales of tangible personal property.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.0572,
+     "basis": "state + average local"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "5% state plus county and some city or stadium taxes."
   },
   {
    "code": "US-WV",
@@ -3322,9 +4075,24 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://tax.wv.gov/Business/SalesAndUseTax/Pages/SalesAndUseTax.aspx",
+     "title": "West Virginia State Tax Department: Sales and Use Tax",
+     "covers": "Sales tax at 6%; some municipalities add a local sales tax.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.066,
+     "basis": "state + average local"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "6% state plus a local tax in some municipalities."
   },
   {
    "code": "US-WY",
@@ -3384,9 +4152,24 @@
      "title": "Pew Research Center: What services do Americans tip for, and how much? (9 Nov 2023)",
      "covers": "\"While specific recommendations vary, 15% is widely deemed the minimum acceptable tip for restaurant service, and 18% to 20% or beyond is frequently advised\" (Pew's review of more than three dozen tipping guides). Survey: \"a majority of Americans (57%) say they would tip 15% or less\" for average food and service, \"Another 12% of adults say they would leave a tip of 18%, while a quarter say they would tip 20% or more.\" 92% of sit-down diners always or often tip. Read as raw page text, 20 Oct 2026.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://excise-tax-div.wyo.gov/general-administrative/excise-tax-faqs",
+     "title": "Wyoming Excise Tax Division: FAQs",
+     "covers": "Mandatory statewide 4% rate plus voter-approved local pennies.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "Sales tax",
+     "rate": 0.0539,
+     "basis": "state + average local"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "4% state plus county tax."
   },
   {
    "code": "CA-AB",
@@ -3434,9 +4217,36 @@
      "title": "Tipping in Canada: How Does It Work? - Authentik Canada (tour operator blog, 20 Aug 2024)",
      "covers": "Customary restaurant tip is 15 to 20% of the bill before taxes; some restaurants add 15 to 18% automatically for groups of six or more.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.alberta.ca/about-tra",
+     "title": "Alberta Tax and Revenue Administration: About TRA",
+     "covers": "Alberta has no sales tax.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-place-supply.html",
+     "title": "Canada Revenue Agency: GST/HST rates and place-of-supply rules",
+     "covers": "5% GST applies in non-participating provinces and territories.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-3/basic-groceries.html",
+     "title": "CRA GST/HST Memorandum 4.3: Basic Groceries",
+     "covers": "Basic groceries are zero-rated (no GST/HST); candy, snack foods and soft drinks are taxable.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "high"
+   "confidence": "high",
+   "shopTaxes": [
+    {
+     "name": "GST",
+     "rate": 0.05,
+     "basis": "federal; Alberta has no provincial sales tax"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "No provincial sales tax; only the 5% GST. Basic groceries carry no GST."
   },
   {
    "code": "CA-BC",
@@ -3490,6 +4300,18 @@
      "title": "Tipping in Canada: How Does It Work? - Authentik Canada (tour operator blog, 20 Aug 2024)",
      "covers": "Customary restaurant tip is 15 to 20% of the bill before taxes; some restaurants add 15 to 18% automatically for groups of six or more.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www2.gov.bc.ca/gov/content/taxes/sales-taxes/pst/publications/small-business-guide",
+     "title": "BC Government: Small business guide to PST",
+     "covers": "The general PST rate is 7%.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://www2.gov.bc.ca/gov/content/taxes/sales-taxes/pst/exemptions",
+     "title": "BC Government: PST exemptions",
+     "covers": "Exempt: food for human consumption, books, newspapers and magazines, children-sized clothing, bicycles.",
+     "checked": "2026-10-21"
     }
    ],
    "confidence": "high",
@@ -3504,7 +4326,21 @@
      "rate": 0.07,
      "where": "Soda (soft drinks) only; meals and coffee or tea are exempt from PST."
     }
-   ]
+   ],
+   "shopTaxes": [
+    {
+     "name": "GST",
+     "rate": 0.05,
+     "basis": "federal"
+    },
+    {
+     "name": "PST",
+     "rate": 0.07,
+     "basis": "provincial; applies to most goods, but not to restaurant meals or food"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "GST 5% plus PST 7% = 12% on most goods. PST-exempt: food, books and magazines, children-sized clothing and footwear, bicycles. Restaurant meals pay GST only (5%)."
   },
   {
    "code": "CA-SK",
@@ -3564,6 +4400,18 @@
      "title": "Tipping in Canada: How Does It Work? - Authentik Canada (tour operator blog, 20 Aug 2024)",
      "covers": "Customary restaurant tip is 15 to 20% of the bill before taxes; some restaurants add 15 to 18% automatically for groups of six or more.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.saskatchewan.ca/business/taxes-licensing-and-reporting/provincial-taxes-policies-and-bulletins/provincial-sales-tax",
+     "title": "Saskatchewan: Provincial Sales Tax",
+     "covers": "PST is a six per cent sales tax on taxable goods and services.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://publications.saskatchewan.ca/api/v1/products/7946/formats/11438/download",
+     "title": "Saskatchewan PST-15: taxable and exempt goods",
+     "covers": "Taxable: clothing and footwear, including children's. Exempt: basic groceries, books.",
+     "checked": "2026-10-21"
     }
    ],
    "confidence": "high",
@@ -3573,7 +4421,21 @@
      "rate": 0.1,
      "where": "Alcoholic drinks only: 10% LCT plus GST, no 6% PST on those."
     }
-   ]
+   ],
+   "shopTaxes": [
+    {
+     "name": "GST",
+     "rate": 0.05,
+     "basis": "federal"
+    },
+    {
+     "name": "PST",
+     "rate": 0.06,
+     "basis": "provincial; applies to most goods including all clothing"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "GST 5% plus PST 6% = 11%. Clothing is taxed (children's too); basic groceries and books are exempt from PST."
   },
   {
    "code": "CA-MB",
@@ -3645,9 +4507,35 @@
      "title": "Tipping in Canada: How Does It Work? - Authentik Canada (tour operator blog, 20 Aug 2024)",
      "covers": "Customary restaurant tip is 15 to 20% of the bill before taxes; some restaurants add 15 to 18% automatically for groups of six or more.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.gov.mb.ca/finance/taxation/taxes/retail.html",
+     "title": "Manitoba Finance: Retail Sales Tax",
+     "covers": "The general sales tax rate is 7%, calculated before GST.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://www.gov.mb.ca/finance/taxation/pubs/bulletins/030.pdf",
+     "title": "Manitoba Finance: RST Bulletin 030",
+     "covers": "Taxable goods taxed at 7 per cent; exempt goods include printed books.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "high"
+   "confidence": "high",
+   "shopTaxes": [
+    {
+     "name": "GST",
+     "rate": 0.05,
+     "basis": "federal"
+    },
+    {
+     "name": "RST (provincial retail sales tax)",
+     "rate": 0.07,
+     "basis": "provincial; applies to most goods"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "GST 5% plus RST 7% = 12%. Printed books are exempt from RST. The 2020 plan to cut RST to 6% was deferred."
   },
   {
    "code": "CA-ON",
@@ -3713,9 +4601,24 @@
      "title": "Tipping in Canada: How Does It Work? - Authentik Canada (tour operator blog, 20 Aug 2024)",
      "covers": "Customary restaurant tip is 15 to 20% of the bill before taxes; some restaurants add 15 to 18% automatically for groups of six or more.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-place-supply.html",
+     "title": "Canada Revenue Agency: GST/HST rates and place-of-supply rules",
+     "covers": "13% HST in Ontario.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "high"
+   "confidence": "high",
+   "shopTaxes": [
+    {
+     "name": "HST",
+     "rate": 0.13,
+     "basis": "5% federal + 8% provincial"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "HST 13%. The 8% provincial part is rebated at the till on books, children's clothing and footwear, diapers, qualifying food and newspapers."
   },
   {
    "code": "CA-QC",
@@ -3781,9 +4684,35 @@
      "title": "Pourboires et frais de service - Revenu Quebec",
      "covers": "Title seen, content not read (HTTP 403 for our fetcher). Search summary only: voluntary tips not subject to GST/QST, service fees printed on the bill are taxable.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.revenuquebec.ca/fr/entreprises/taxes/tpstvh-et-tvq/perception-de-la-tps-et-de-la-tvq/calcul-des-taxes/",
+     "title": "Revenu Quebec: Calcul des taxes",
+     "covers": "GST 5% on the price; QST 9.975% on the price excluding GST.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://www.revenuquebec.ca/en/citizens/consumption-taxes/taxable-zero-rated-or-tax-exempt-goods-and-services/gst-and-qst/other-situations/books/",
+     "title": "Revenu Quebec: Books",
+     "covers": "Printed books with an ISBN are zero-rated for QST; GST still applies.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "high"
+   "confidence": "high",
+   "shopTaxes": [
+    {
+     "name": "GST",
+     "rate": 0.05,
+     "basis": "federal"
+    },
+    {
+     "name": "QST",
+     "rate": 0.09975,
+     "basis": "provincial; applied to the pre-tax price, not on top of GST"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "GST 5% plus QST 9.975% on the pre-tax price (about 14.975%). Printed books are zero-rated for QST; basic groceries are zero-rated."
   },
   {
    "code": "CA-NB",
@@ -3831,9 +4760,30 @@
      "title": "Tipping in Canada: How Does It Work? - Authentik Canada (tour operator blog, 20 Aug 2024)",
      "covers": "Customary restaurant tip is 15 to 20% of the bill before taxes; some restaurants add 15 to 18% automatically for groups of six or more.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-place-supply.html",
+     "title": "Canada Revenue Agency: GST/HST rates and place-of-supply rules",
+     "covers": "15% HST in participating provinces other than Ontario and Nova Scotia.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-3/basic-groceries.html",
+     "title": "CRA GST/HST Memorandum 4.3: Basic Groceries",
+     "covers": "Basic groceries are zero-rated (no GST/HST); candy, snack foods and soft drinks are taxable.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "high"
+   "confidence": "high",
+   "shopTaxes": [
+    {
+     "name": "HST",
+     "rate": 0.15,
+     "basis": "5% federal + 10% provincial"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "HST 15%. Basic groceries carry no HST; candy, snack foods and soft drinks are taxed."
   },
   {
    "code": "CA-NL",
@@ -3881,9 +4831,30 @@
      "title": "Tipping in Canada: How Does It Work? - Authentik Canada (tour operator blog, 20 Aug 2024)",
      "covers": "Customary restaurant tip is 15 to 20% of the bill before taxes; some restaurants add 15 to 18% automatically for groups of six or more.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-place-supply.html",
+     "title": "Canada Revenue Agency: GST/HST rates and place-of-supply rules",
+     "covers": "15% HST in participating provinces other than Ontario and Nova Scotia.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-3/basic-groceries.html",
+     "title": "CRA GST/HST Memorandum 4.3: Basic Groceries",
+     "covers": "Basic groceries are zero-rated (no GST/HST); candy, snack foods and soft drinks are taxable.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "high"
+   "confidence": "high",
+   "shopTaxes": [
+    {
+     "name": "HST",
+     "rate": 0.15,
+     "basis": "5% federal + 10% provincial"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "HST 15%. Basic groceries carry no HST; candy, snack foods and soft drinks are taxed."
   },
   {
    "code": "CA-PE",
@@ -3931,9 +4902,30 @@
      "title": "Tipping in Canada: How Does It Work? - Authentik Canada (tour operator blog, 20 Aug 2024)",
      "covers": "Customary restaurant tip is 15 to 20% of the bill before taxes; some restaurants add 15 to 18% automatically for groups of six or more.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-place-supply.html",
+     "title": "Canada Revenue Agency: GST/HST rates and place-of-supply rules",
+     "covers": "15% HST in participating provinces other than Ontario and Nova Scotia.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-3/basic-groceries.html",
+     "title": "CRA GST/HST Memorandum 4.3: Basic Groceries",
+     "covers": "Basic groceries are zero-rated (no GST/HST); candy, snack foods and soft drinks are taxable.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "high"
+   "confidence": "high",
+   "shopTaxes": [
+    {
+     "name": "HST",
+     "rate": 0.15,
+     "basis": "5% federal + 10% provincial"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "HST 15%. Basic groceries carry no HST; candy, snack foods and soft drinks are taxed."
   },
   {
    "code": "CA-NS",
@@ -3993,9 +4985,30 @@
      "title": "Tipping in Canada: How Does It Work? - Authentik Canada (tour operator blog, 20 Aug 2024)",
      "covers": "Customary restaurant tip is 15 to 20% of the bill before taxes; some restaurants add 15 to 18% automatically for groups of six or more.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-place-supply.html",
+     "title": "Canada Revenue Agency: GST/HST rates and place-of-supply rules",
+     "covers": "14% HST in Nova Scotia on or after 1 April 2025.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-3/basic-groceries.html",
+     "title": "CRA GST/HST Memorandum 4.3: Basic Groceries",
+     "covers": "Basic groceries are zero-rated (no GST/HST); candy, snack foods and soft drinks are taxable.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "high"
+   "confidence": "high",
+   "shopTaxes": [
+    {
+     "name": "HST",
+     "rate": 0.14,
+     "basis": "5% federal + 9% provincial (cut from 15% on 1 Apr 2025)"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "HST 14% since 1 Apr 2025. Basic groceries carry no HST; candy, snack foods and soft drinks are taxed."
   },
   {
    "code": "CA-YT",
@@ -4043,9 +5056,36 @@
      "title": "Tipping in Canada: How Does It Work? - Authentik Canada (tour operator blog, 20 Aug 2024)",
      "covers": "Customary restaurant tip is 15 to 20% of the bill before taxes; some restaurants add 15 to 18% automatically for groups of six or more.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.fin.gov.nt.ca/sites/fin/files/2016_revenue_options.pdf",
+     "title": "Government of the Northwest Territories: Revenue Options (2016)",
+     "covers": "Residents of Alberta and the three territories pay only the federal 5% GST on taxable goods.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-place-supply.html",
+     "title": "Canada Revenue Agency: GST/HST rates and place-of-supply rules",
+     "covers": "5% GST applies in non-participating provinces and territories.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-3/basic-groceries.html",
+     "title": "CRA GST/HST Memorandum 4.3: Basic Groceries",
+     "covers": "Basic groceries are zero-rated (no GST/HST); candy, snack foods and soft drinks are taxable.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "GST",
+     "rate": 0.05,
+     "basis": "federal; no territorial sales tax"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "No territorial sales tax; only the 5% GST. Basic groceries carry no GST."
   },
   {
    "code": "CA-NT",
@@ -4093,9 +5133,36 @@
      "title": "Tipping in Canada: How Does It Work? - Authentik Canada (tour operator blog, 20 Aug 2024)",
      "covers": "Customary restaurant tip is 15 to 20% of the bill before taxes; some restaurants add 15 to 18% automatically for groups of six or more.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.fin.gov.nt.ca/sites/fin/files/2016_revenue_options.pdf",
+     "title": "Government of the Northwest Territories: Revenue Options (2016)",
+     "covers": "Residents of Alberta and the three territories pay only the federal 5% GST on taxable goods.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-place-supply.html",
+     "title": "Canada Revenue Agency: GST/HST rates and place-of-supply rules",
+     "covers": "5% GST applies in non-participating provinces and territories.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-3/basic-groceries.html",
+     "title": "CRA GST/HST Memorandum 4.3: Basic Groceries",
+     "covers": "Basic groceries are zero-rated (no GST/HST); candy, snack foods and soft drinks are taxable.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "GST",
+     "rate": 0.05,
+     "basis": "federal; no territorial sales tax"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "No territorial sales tax; only the 5% GST. Basic groceries carry no GST."
   },
   {
    "code": "CA-NU",
@@ -4143,9 +5210,36 @@
      "title": "Tipping in Canada: How Does It Work? - Authentik Canada (tour operator blog, 20 Aug 2024)",
      "covers": "Customary restaurant tip is 15 to 20% of the bill before taxes; some restaurants add 15 to 18% automatically for groups of six or more.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.fin.gov.nt.ca/sites/fin/files/2016_revenue_options.pdf",
+     "title": "Government of the Northwest Territories: Revenue Options (2016)",
+     "covers": "Residents of Alberta and the three territories pay only the federal 5% GST on taxable goods.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-place-supply.html",
+     "title": "Canada Revenue Agency: GST/HST rates and place-of-supply rules",
+     "covers": "5% GST applies in non-participating provinces and territories.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-3/basic-groceries.html",
+     "title": "CRA GST/HST Memorandum 4.3: Basic Groceries",
+     "covers": "Basic groceries are zero-rated (no GST/HST); candy, snack foods and soft drinks are taxable.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "GST",
+     "rate": 0.05,
+     "basis": "federal; no territorial sales tax"
+    }
+   ],
+   "shopPricesIncludeTax": false,
+   "shopNote": "No territorial sales tax; only the 5% GST. Basic groceries carry no GST."
   },
   {
    "code": "SG",
@@ -4207,9 +5301,24 @@
      "title": "The ultimate guide to tipping in Asia - Lonely Planet (5 Aug 2024)",
      "covers": "Across most of Southeast Asia a service charge is almost always included in the bill so tips are not expected; India tipping is customary, 10-15% at restaurants even when a service charge is included.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/consumers/tourist-refund-scheme",
+     "title": "IRAS: Tourist Refund Scheme",
+     "covers": "Spend at least SGD100 (including GST); up to 3 same-day receipts from the same GST registration number.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "high"
+   "confidence": "high",
+   "shopTaxes": [
+    {
+     "name": "GST",
+     "rate": 0.09,
+     "basis": "standard rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "GST 9% is included in the displayed price (shops must quote GST-inclusive prices). Tourists can claim GST back at participating shops on purchases of S$100 or more (incl. GST)."
   },
   {
    "code": "MY",
@@ -4258,9 +5367,24 @@
      "title": "The ultimate guide to tipping in Asia - Lonely Planet (5 Aug 2024)",
      "covers": "Across most of Southeast Asia a service charge is almost always included in the bill so tips are not expected; India tipping is customary, 10-15% at restaurants even when a service charge is included.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://mysst.customs.gov.my/faq-sales-tax/",
+     "title": "Royal Malaysian Customs: MySST FAQ Sales Tax",
+     "covers": "The sales tax rate is 5%, 10% or a specific rate.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://mysst.customs.gov.my/assets/document/General%20Guides/General%20Guide%20on%20Sales%20Tax%2018012019-v4.pdf",
+     "title": "Royal Malaysian Customs: Sales Tax General Guide",
+     "covers": "Sales tax is a single-stage tax charged on taxable goods manufactured in or imported into Malaysia.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [],
+   "shopPricesIncludeTax": true,
+   "shopNote": "No sales tax is added at the till: the 5% or 10% sales tax is charged on goods at the manufacturer or importer, so it is already inside the shelf price. The 6% service tax is a different tax and applies to restaurants."
   },
   {
    "code": "ID",
@@ -4308,9 +5432,30 @@
      "title": "The ultimate guide to tipping in Asia - Lonely Planet (5 Aug 2024)",
      "covers": "Across most of Southeast Asia a service charge is almost always included in the bill so tips are not expected; India tipping is customary, 10-15% at restaurants even when a service charge is included.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.pajak.go.id/en/node/113455",
+     "title": "Direktorat Jenderal Pajak: PPN 2025",
+     "covers": "PPN rose to 12% from 1 Jan 2025 for luxury goods; for other goods the tax base is 11/12 of the price, so the effective rate stays 11%.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://pajak.go.id/en/node/21232",
+     "title": "Direktorat Jenderal Pajak: Sadarkah jika selama ini telah membayar pajak?",
+     "covers": "Notes that price tags can carry an asterisk saying the price is or is not inclusive of PPN.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "VAT (PPN)",
+     "rate": 0.11,
+     "basis": "effective rate: 12% applied to 11/12 of the price for ordinary goods (12% on luxury goods); usually in the shelf price but some shops quote prices before PPN"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "PPN is effectively 11% on ordinary goods (12% on luxury goods). Most shelf prices include it, but some price tags say it is not included. Restaurants charge a different regional tax (up to 10%), not PPN."
   },
   {
    "code": "TH",
@@ -4364,9 +5509,36 @@
      "title": "The ultimate guide to tipping in Asia - Lonely Planet (5 Aug 2024)",
      "covers": "Across most of Southeast Asia a service charge is almost always included in the bill so tips are not expected; India tipping is customary, 10-15% at restaurants even when a service charge is included.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://kpmg.com/us/en/taxnewsflash/news/2026/09/thailand-reduced-7-percent-vat-rate-extended-through-september-2027",
+     "title": "KPMG: Thailand reduced 7% VAT rate extended through September 2027 (not a government site)",
+     "covers": "Reduced 7% VAT rate extended through September 2027.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://www.rd.go.th/5208.html",
+     "title": "Revenue Code sections 85-86 (Revenue Department)",
+     "covers": "Section 86/6: in retail businesses, prices of goods or services must be displayed with VAT already included.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://vrtweb.rd.go.th/81.html",
+     "title": "Revenue Department: VAT Refund for Tourists conditions",
+     "covers": "Goods must be bought for at least 2,000 baht (VAT included) per day per store and leave with the traveller within 60 days.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.07,
+     "basis": "reduced rate (statutory 10%), extended to 30 Sep 2027; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 7% is included in the shelf price (retailers must show VAT-inclusive prices). Tourists can claim VAT back at 'VAT Refund for Tourists' shops on 2,000 baht or more per store per day."
   },
   {
    "code": "AE",
@@ -4467,9 +5639,30 @@
      "title": "10% service fee in some Dubai restaurants legal - Gulf News (updated 15 Sep 2018)",
      "covers": "From the first pass, not re-read in the re-check: an official said in 2018 a service charge is illegal unless the restaurant is part of a hotel. Older than the 2026 guides above, which say standalone places also add it.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://tax.gov.ae/DataFolder/Files/Pdf/VAT-Decree-Law-No-8-of-2017.pdf",
+     "title": "UAE Federal Decree-Law No. 8 of 2017 (VAT), Article 38",
+     "covers": "For taxable supplies, the advertised price shall include the tax.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://tax.gov.ae/en/taxes/Vat/refunds.aspx",
+     "title": "Federal Tax Authority: VAT refunds",
+     "covers": "Lists the tourist tax refund platform.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.05,
+     "basis": "standard rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 5% is included in the advertised price. Tourists can claim VAT back on eligible goods through the Tax Free scheme."
   },
   {
    "code": "IN",
@@ -4523,6 +5716,18 @@
      "title": "Tipping in India: Who to Tip and How Much - travel blog (20 May 2026)",
      "covers": "One traveller's view: 5-10% rounded up at restaurants without a service charge, less in high-end places. Blog, lower tier, shows the sources disagree.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2163555&reg=48&lang=2",
+     "title": "PIB: Recommendations of the 56th GST Council meeting",
+     "covers": "Two-rate structure with a 18% standard rate and 5% merit rate, plus a 40% de-merit rate for a few goods and services.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1770064&reg=48&lang=2",
+     "title": "PIB: Legal Metrology (Packaged Commodities) Rules amendment",
+     "covers": "Mandatory declaration of MRP in Indian currency inclusive of all taxes on pre-packed products.",
+     "checked": "2026-10-21"
     }
    ],
    "confidence": "medium",
@@ -4532,7 +5737,16 @@
      "rate": 0.18,
      "where": "Restaurants inside hotels where any room cost more than 7,500 rupees a night in the previous financial year."
     }
-   ]
+   ],
+   "shopTaxes": [
+    {
+     "name": "GST",
+     "rate": 0.18,
+     "basis": "standard rate; 5% merit rate and 40% rate on luxury and sin goods also apply; included in the printed MRP"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "GST is included in the printed MRP. Since 22 Sep 2025 there are only 5% and 18% rates plus 40% on luxury and sin goods (the old 12% and 28% slabs are gone); 18% is typical for general goods, 5% for many foods and basics."
   },
   {
    "code": "AT",
@@ -4579,9 +5793,36 @@
      "title": "Your Europe: Pricing and payments (European Commission)",
      "covers": "EU-wide rule: consumers must be told the total price including all taxes and additional charges. General, not restaurant-specific, no country list.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://europa.eu/youreurope/business/taxation/vat/vat-rules-rates/index_en.htm",
+     "title": "Your Europe (European Commission): VAT rules and rates",
+     "covers": "Austria: standard VAT rate 20%, reduced rate(s) 10 / 13% (table as shown 21 Oct 2026).",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://eur-lex.europa.eu/EN/legal-content/summary/price-indications-on-consumer-products.html",
+     "title": "EUR-Lex: Price indications on consumer products (Directive 98/6/EC)",
+     "covers": "Selling price shown to consumers must include VAT and all other taxes.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-directive/vat-refunds_en",
+     "title": "European Commission: VAT refunds",
+     "covers": "VAT refunds for goods sold to non-EU tourists who take them out of the EU in personal luggage; conditions set by each Member State.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.2,
+     "basis": "standard rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 20% is included in the shelf price. Reduced rate(s) of 10 / 13% apply to some goods. Visitors from outside the EU can claim a VAT refund on goods taken out of the EU (minimum spend set by each country)."
   },
   {
    "code": "BE",
@@ -4622,9 +5863,36 @@
      "title": "Your Europe: Pricing and payments (European Commission)",
      "covers": "EU-wide rule: consumers must be told the total price including all taxes and additional charges. General, not restaurant-specific, no country list.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://europa.eu/youreurope/business/taxation/vat/vat-rules-rates/index_en.htm",
+     "title": "Your Europe (European Commission): VAT rules and rates",
+     "covers": "Belgium: standard VAT rate 21%, reduced rate(s) 6 / 12% (table as shown 21 Oct 2026).",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://eur-lex.europa.eu/EN/legal-content/summary/price-indications-on-consumer-products.html",
+     "title": "EUR-Lex: Price indications on consumer products (Directive 98/6/EC)",
+     "covers": "Selling price shown to consumers must include VAT and all other taxes.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-directive/vat-refunds_en",
+     "title": "European Commission: VAT refunds",
+     "covers": "VAT refunds for goods sold to non-EU tourists who take them out of the EU in personal luggage; conditions set by each Member State.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.21,
+     "basis": "standard rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 21% is included in the shelf price. Reduced rate(s) of 6 / 12% apply to some goods. Visitors from outside the EU can claim a VAT refund on goods taken out of the EU (minimum spend set by each country)."
   },
   {
    "code": "BG",
@@ -4671,9 +5939,36 @@
      "title": "Your Europe: Pricing and payments (European Commission)",
      "covers": "EU-wide rule: consumers must be told the total price including all taxes and additional charges. General, not restaurant-specific, no country list.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://europa.eu/youreurope/business/taxation/vat/vat-rules-rates/index_en.htm",
+     "title": "Your Europe (European Commission): VAT rules and rates",
+     "covers": "Bulgaria: standard VAT rate 20%, reduced rate(s) 9% (table as shown 21 Oct 2026).",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://eur-lex.europa.eu/EN/legal-content/summary/price-indications-on-consumer-products.html",
+     "title": "EUR-Lex: Price indications on consumer products (Directive 98/6/EC)",
+     "covers": "Selling price shown to consumers must include VAT and all other taxes.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-directive/vat-refunds_en",
+     "title": "European Commission: VAT refunds",
+     "covers": "VAT refunds for goods sold to non-EU tourists who take them out of the EU in personal luggage; conditions set by each Member State.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.2,
+     "basis": "standard rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 20% is included in the shelf price. Reduced rate(s) of 9% apply to some goods. Visitors from outside the EU can claim a VAT refund on goods taken out of the EU (minimum spend set by each country)."
   },
   {
    "code": "HR",
@@ -4714,9 +6009,36 @@
      "title": "Your Europe: Pricing and payments (European Commission)",
      "covers": "EU-wide rule: consumers must be told the total price including all taxes and additional charges. General, not restaurant-specific, no country list.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://europa.eu/youreurope/business/taxation/vat/vat-rules-rates/index_en.htm",
+     "title": "Your Europe (European Commission): VAT rules and rates",
+     "covers": "Croatia: standard VAT rate 25%, reduced rate(s) 5 / 13% (table as shown 21 Oct 2026).",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://eur-lex.europa.eu/EN/legal-content/summary/price-indications-on-consumer-products.html",
+     "title": "EUR-Lex: Price indications on consumer products (Directive 98/6/EC)",
+     "covers": "Selling price shown to consumers must include VAT and all other taxes.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-directive/vat-refunds_en",
+     "title": "European Commission: VAT refunds",
+     "covers": "VAT refunds for goods sold to non-EU tourists who take them out of the EU in personal luggage; conditions set by each Member State.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.25,
+     "basis": "standard rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 25% is included in the shelf price. Reduced rate(s) of 5 / 13% apply to some goods. Visitors from outside the EU can claim a VAT refund on goods taken out of the EU (minimum spend set by each country)."
   },
   {
    "code": "CY",
@@ -4764,9 +6086,36 @@
      "title": "Your Europe: Pricing and payments (European Commission)",
      "covers": "EU-wide rule: consumers must be told the total price including all taxes and additional charges. General, not restaurant-specific, no country list.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://europa.eu/youreurope/business/taxation/vat/vat-rules-rates/index_en.htm",
+     "title": "Your Europe (European Commission): VAT rules and rates",
+     "covers": "Cyprus: standard VAT rate 19%, reduced rate(s) 5 / 9% (table as shown 21 Oct 2026).",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://eur-lex.europa.eu/EN/legal-content/summary/price-indications-on-consumer-products.html",
+     "title": "EUR-Lex: Price indications on consumer products (Directive 98/6/EC)",
+     "covers": "Selling price shown to consumers must include VAT and all other taxes.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-directive/vat-refunds_en",
+     "title": "European Commission: VAT refunds",
+     "covers": "VAT refunds for goods sold to non-EU tourists who take them out of the EU in personal luggage; conditions set by each Member State.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.19,
+     "basis": "standard rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 19% is included in the shelf price. Reduced rate(s) of 5 / 9% apply to some goods. Visitors from outside the EU can claim a VAT refund on goods taken out of the EU (minimum spend set by each country)."
   },
   {
    "code": "EE",
@@ -4807,9 +6156,36 @@
      "title": "Your Europe: Pricing and payments (European Commission)",
      "covers": "EU-wide rule: consumers must be told the total price including all taxes and additional charges. General, not restaurant-specific, no country list.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://europa.eu/youreurope/business/taxation/vat/vat-rules-rates/index_en.htm",
+     "title": "Your Europe (European Commission): VAT rules and rates",
+     "covers": "Estonia: standard VAT rate 24%, reduced rate(s) 9% (table as shown 21 Oct 2026).",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://eur-lex.europa.eu/EN/legal-content/summary/price-indications-on-consumer-products.html",
+     "title": "EUR-Lex: Price indications on consumer products (Directive 98/6/EC)",
+     "covers": "Selling price shown to consumers must include VAT and all other taxes.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-directive/vat-refunds_en",
+     "title": "European Commission: VAT refunds",
+     "covers": "VAT refunds for goods sold to non-EU tourists who take them out of the EU in personal luggage; conditions set by each Member State.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.24,
+     "basis": "standard rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 24% is included in the shelf price. Reduced rate(s) of 9% apply to some goods. Visitors from outside the EU can claim a VAT refund on goods taken out of the EU (minimum spend set by each country)."
   },
   {
    "code": "FI",
@@ -4844,9 +6220,36 @@
      "title": "Your Europe: Pricing and payments (European Commission)",
      "covers": "EU-wide rule: consumers must be told the total price including all taxes and additional charges. General, not restaurant-specific, no country list.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://europa.eu/youreurope/business/taxation/vat/vat-rules-rates/index_en.htm",
+     "title": "Your Europe (European Commission): VAT rules and rates",
+     "covers": "Finland: standard VAT rate 25.5%, reduced rate(s) 10 / 13.5% (table as shown 21 Oct 2026).",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://eur-lex.europa.eu/EN/legal-content/summary/price-indications-on-consumer-products.html",
+     "title": "EUR-Lex: Price indications on consumer products (Directive 98/6/EC)",
+     "covers": "Selling price shown to consumers must include VAT and all other taxes.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-directive/vat-refunds_en",
+     "title": "European Commission: VAT refunds",
+     "covers": "VAT refunds for goods sold to non-EU tourists who take them out of the EU in personal luggage; conditions set by each Member State.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "high"
+   "confidence": "high",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.255,
+     "basis": "standard rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 25.5% is included in the shelf price. Reduced rate(s) of 10 / 13.5% apply to some goods. Visitors from outside the EU can claim a VAT refund on goods taken out of the EU (minimum spend set by each country)."
   },
   {
    "code": "FR",
@@ -4887,9 +6290,36 @@
      "title": "Your Europe: Pricing and payments (European Commission)",
      "covers": "EU-wide rule: consumers must be told the total price including all taxes and additional charges. General, not restaurant-specific, no country list.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://europa.eu/youreurope/business/taxation/vat/vat-rules-rates/index_en.htm",
+     "title": "Your Europe (European Commission): VAT rules and rates",
+     "covers": "France: standard VAT rate 20%, reduced rate(s) 5.5 / 10% (table as shown 21 Oct 2026).",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://eur-lex.europa.eu/EN/legal-content/summary/price-indications-on-consumer-products.html",
+     "title": "EUR-Lex: Price indications on consumer products (Directive 98/6/EC)",
+     "covers": "Selling price shown to consumers must include VAT and all other taxes.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-directive/vat-refunds_en",
+     "title": "European Commission: VAT refunds",
+     "covers": "VAT refunds for goods sold to non-EU tourists who take them out of the EU in personal luggage; conditions set by each Member State.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "high"
+   "confidence": "high",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.2,
+     "basis": "standard rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 20% is included in the shelf price. Reduced rate(s) of 5.5 / 10% apply to some goods. Visitors from outside the EU can claim a VAT refund on goods taken out of the EU (minimum spend set by each country)."
   },
   {
    "code": "DE",
@@ -4936,9 +6366,36 @@
      "title": "Your Europe: Pricing and payments (European Commission)",
      "covers": "EU-wide rule: consumers must be told the total price including all taxes and additional charges. General, not restaurant-specific, no country list.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://europa.eu/youreurope/business/taxation/vat/vat-rules-rates/index_en.htm",
+     "title": "Your Europe (European Commission): VAT rules and rates",
+     "covers": "Germany: standard VAT rate 19%, reduced rate(s) 7% (table as shown 21 Oct 2026).",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://eur-lex.europa.eu/EN/legal-content/summary/price-indications-on-consumer-products.html",
+     "title": "EUR-Lex: Price indications on consumer products (Directive 98/6/EC)",
+     "covers": "Selling price shown to consumers must include VAT and all other taxes.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-directive/vat-refunds_en",
+     "title": "European Commission: VAT refunds",
+     "covers": "VAT refunds for goods sold to non-EU tourists who take them out of the EU in personal luggage; conditions set by each Member State.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.19,
+     "basis": "standard rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 19% is included in the shelf price. Reduced rate(s) of 7% apply to some goods. Visitors from outside the EU can claim a VAT refund on goods taken out of the EU (minimum spend set by each country)."
   },
   {
    "code": "GR",
@@ -4985,9 +6442,36 @@
      "title": "Your Europe: Pricing and payments (European Commission)",
      "covers": "EU-wide rule: consumers must be told the total price including all taxes and additional charges. General, not restaurant-specific, no country list.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://europa.eu/youreurope/business/taxation/vat/vat-rules-rates/index_en.htm",
+     "title": "Your Europe (European Commission): VAT rules and rates",
+     "covers": "Greece: standard VAT rate 24%, reduced rate(s) 6 / 13 / 17% (table as shown 21 Oct 2026).",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://eur-lex.europa.eu/EN/legal-content/summary/price-indications-on-consumer-products.html",
+     "title": "EUR-Lex: Price indications on consumer products (Directive 98/6/EC)",
+     "covers": "Selling price shown to consumers must include VAT and all other taxes.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-directive/vat-refunds_en",
+     "title": "European Commission: VAT refunds",
+     "covers": "VAT refunds for goods sold to non-EU tourists who take them out of the EU in personal luggage; conditions set by each Member State.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.24,
+     "basis": "standard rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 24% is included in the shelf price. Reduced rate(s) of 6 / 13 / 17% apply to some goods. Visitors from outside the EU can claim a VAT refund on goods taken out of the EU (minimum spend set by each country)."
   },
   {
    "code": "IE",
@@ -5034,9 +6518,36 @@
      "title": "The Ultimate Guide to Tipping in Europe (Lonely Planet, Emily Frost, 3 Sep 2026)",
      "covers": "Europe-wide: many countries add a service charge for parties of 6+, otherwise 5-10% in cash; Italy and Austria round up; Scandinavia and Iceland: restaurant tipping not expected; coperto in Italy is not a staff tip; UK pubs never tipped. Few country-specific numbers.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://europa.eu/youreurope/business/taxation/vat/vat-rules-rates/index_en.htm",
+     "title": "Your Europe (European Commission): VAT rules and rates",
+     "covers": "Ireland: standard VAT rate 23%, reduced rate(s) 9 / 13.5% (table as shown 21 Oct 2026).",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://eur-lex.europa.eu/EN/legal-content/summary/price-indications-on-consumer-products.html",
+     "title": "EUR-Lex: Price indications on consumer products (Directive 98/6/EC)",
+     "covers": "Selling price shown to consumers must include VAT and all other taxes.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-directive/vat-refunds_en",
+     "title": "European Commission: VAT refunds",
+     "covers": "VAT refunds for goods sold to non-EU tourists who take them out of the EU in personal luggage; conditions set by each Member State.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "high"
+   "confidence": "high",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.23,
+     "basis": "standard rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 23% is included in the shelf price. Reduced rate(s) of 9 / 13.5% apply to some goods. Visitors from outside the EU can claim a VAT refund on goods taken out of the EU (minimum spend set by each country)."
   },
   {
    "code": "IT",
@@ -5083,9 +6594,36 @@
      "title": "Your Europe: Pricing and payments (European Commission)",
      "covers": "EU-wide rule: consumers must be told the total price including all taxes and additional charges. General, not restaurant-specific, no country list.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://europa.eu/youreurope/business/taxation/vat/vat-rules-rates/index_en.htm",
+     "title": "Your Europe (European Commission): VAT rules and rates",
+     "covers": "Italy: standard VAT rate 22%, reduced rate(s) 5 / 10% (table as shown 21 Oct 2026).",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://eur-lex.europa.eu/EN/legal-content/summary/price-indications-on-consumer-products.html",
+     "title": "EUR-Lex: Price indications on consumer products (Directive 98/6/EC)",
+     "covers": "Selling price shown to consumers must include VAT and all other taxes.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-directive/vat-refunds_en",
+     "title": "European Commission: VAT refunds",
+     "covers": "VAT refunds for goods sold to non-EU tourists who take them out of the EU in personal luggage; conditions set by each Member State.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.22,
+     "basis": "standard rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 22% is included in the shelf price. Reduced rate(s) of 5 / 10% apply to some goods. Visitors from outside the EU can claim a VAT refund on goods taken out of the EU (minimum spend set by each country)."
   },
   {
    "code": "LV",
@@ -5120,9 +6658,36 @@
      "title": "Your Europe: Pricing and payments (European Commission)",
      "covers": "EU-wide rule: consumers must be told the total price including all taxes and additional charges. General, not restaurant-specific, no country list.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://europa.eu/youreurope/business/taxation/vat/vat-rules-rates/index_en.htm",
+     "title": "Your Europe (European Commission): VAT rules and rates",
+     "covers": "Latvia: standard VAT rate 21%, reduced rate(s) 5 / 12% (table as shown 21 Oct 2026).",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://eur-lex.europa.eu/EN/legal-content/summary/price-indications-on-consumer-products.html",
+     "title": "EUR-Lex: Price indications on consumer products (Directive 98/6/EC)",
+     "covers": "Selling price shown to consumers must include VAT and all other taxes.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-directive/vat-refunds_en",
+     "title": "European Commission: VAT refunds",
+     "covers": "VAT refunds for goods sold to non-EU tourists who take them out of the EU in personal luggage; conditions set by each Member State.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.21,
+     "basis": "standard rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 21% is included in the shelf price. Reduced rate(s) of 5 / 12% apply to some goods. Visitors from outside the EU can claim a VAT refund on goods taken out of the EU (minimum spend set by each country)."
   },
   {
    "code": "LT",
@@ -5163,9 +6728,36 @@
      "title": "Your Europe: Pricing and payments (European Commission)",
      "covers": "EU-wide rule: consumers must be told the total price including all taxes and additional charges. General, not restaurant-specific, no country list.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://europa.eu/youreurope/business/taxation/vat/vat-rules-rates/index_en.htm",
+     "title": "Your Europe (European Commission): VAT rules and rates",
+     "covers": "Lithuania: standard VAT rate 21%, reduced rate(s) 5 / 12% (table as shown 21 Oct 2026).",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://eur-lex.europa.eu/EN/legal-content/summary/price-indications-on-consumer-products.html",
+     "title": "EUR-Lex: Price indications on consumer products (Directive 98/6/EC)",
+     "covers": "Selling price shown to consumers must include VAT and all other taxes.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-directive/vat-refunds_en",
+     "title": "European Commission: VAT refunds",
+     "covers": "VAT refunds for goods sold to non-EU tourists who take them out of the EU in personal luggage; conditions set by each Member State.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.21,
+     "basis": "standard rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 21% is included in the shelf price. Reduced rate(s) of 5 / 12% apply to some goods. Visitors from outside the EU can claim a VAT refund on goods taken out of the EU (minimum spend set by each country)."
   },
   {
    "code": "LU",
@@ -5200,9 +6792,36 @@
      "title": "The Ultimate Guide to Tipping in Europe (Lonely Planet, Emily Frost, 3 Sep 2026)",
      "covers": "Europe-wide: many countries add a service charge for parties of 6+, otherwise 5-10% in cash; Italy and Austria round up; Scandinavia and Iceland: restaurant tipping not expected; coperto in Italy is not a staff tip; UK pubs never tipped. Few country-specific numbers.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://europa.eu/youreurope/business/taxation/vat/vat-rules-rates/index_en.htm",
+     "title": "Your Europe (European Commission): VAT rules and rates",
+     "covers": "Luxembourg: standard VAT rate 17%, reduced rate(s) 8% (table as shown 21 Oct 2026).",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://eur-lex.europa.eu/EN/legal-content/summary/price-indications-on-consumer-products.html",
+     "title": "EUR-Lex: Price indications on consumer products (Directive 98/6/EC)",
+     "covers": "Selling price shown to consumers must include VAT and all other taxes.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-directive/vat-refunds_en",
+     "title": "European Commission: VAT refunds",
+     "covers": "VAT refunds for goods sold to non-EU tourists who take them out of the EU in personal luggage; conditions set by each Member State.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.17,
+     "basis": "standard rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 17% is included in the shelf price. Reduced rate(s) of 8% apply to some goods. Visitors from outside the EU can claim a VAT refund on goods taken out of the EU (minimum spend set by each country)."
   },
   {
    "code": "MT",
@@ -5262,9 +6881,36 @@
      "title": "The Ultimate Guide to Tipping in Europe (Lonely Planet, 3 Sep 2026)",
      "covers": "Europe-wide: most countries add a service charge for large parties, otherwise 5-10% in cash unless service was poor; Italy and Austria round up; Scandinavia and Iceland need no restaurant tip. Names neither Malta nor Slovenia, so general background only. Read as raw page text.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://europa.eu/youreurope/business/taxation/vat/vat-rules-rates/index_en.htm",
+     "title": "Your Europe (European Commission): VAT rules and rates",
+     "covers": "Malta: standard VAT rate 18%, reduced rate(s) 5 / 7% (table as shown 21 Oct 2026).",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://eur-lex.europa.eu/EN/legal-content/summary/price-indications-on-consumer-products.html",
+     "title": "EUR-Lex: Price indications on consumer products (Directive 98/6/EC)",
+     "covers": "Selling price shown to consumers must include VAT and all other taxes.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-directive/vat-refunds_en",
+     "title": "European Commission: VAT refunds",
+     "covers": "VAT refunds for goods sold to non-EU tourists who take them out of the EU in personal luggage; conditions set by each Member State.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.18,
+     "basis": "standard rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 18% is included in the shelf price. Reduced rate(s) of 5 / 7% apply to some goods. Visitors from outside the EU can claim a VAT refund on goods taken out of the EU (minimum spend set by each country)."
   },
   {
    "code": "NL",
@@ -5305,9 +6951,36 @@
      "title": "Your Europe: Pricing and payments (European Commission)",
      "covers": "EU-wide rule: consumers must be told the total price including all taxes and additional charges. General, not restaurant-specific, no country list.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://europa.eu/youreurope/business/taxation/vat/vat-rules-rates/index_en.htm",
+     "title": "Your Europe (European Commission): VAT rules and rates",
+     "covers": "Netherlands: standard VAT rate 21%, reduced rate(s) 9% (table as shown 21 Oct 2026).",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://eur-lex.europa.eu/EN/legal-content/summary/price-indications-on-consumer-products.html",
+     "title": "EUR-Lex: Price indications on consumer products (Directive 98/6/EC)",
+     "covers": "Selling price shown to consumers must include VAT and all other taxes.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-directive/vat-refunds_en",
+     "title": "European Commission: VAT refunds",
+     "covers": "VAT refunds for goods sold to non-EU tourists who take them out of the EU in personal luggage; conditions set by each Member State.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.21,
+     "basis": "standard rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 21% is included in the shelf price. Reduced rate(s) of 9% apply to some goods. Visitors from outside the EU can claim a VAT refund on goods taken out of the EU (minimum spend set by each country)."
   },
   {
    "code": "PT",
@@ -5354,9 +7027,36 @@
      "title": "Your Europe: Pricing and payments (European Commission)",
      "covers": "EU-wide rule: consumers must be told the total price including all taxes and additional charges. General, not restaurant-specific, no country list.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://europa.eu/youreurope/business/taxation/vat/vat-rules-rates/index_en.htm",
+     "title": "Your Europe (European Commission): VAT rules and rates",
+     "covers": "Portugal: standard VAT rate 23%, reduced rate(s) 6 / 13% (table as shown 21 Oct 2026).",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://eur-lex.europa.eu/EN/legal-content/summary/price-indications-on-consumer-products.html",
+     "title": "EUR-Lex: Price indications on consumer products (Directive 98/6/EC)",
+     "covers": "Selling price shown to consumers must include VAT and all other taxes.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-directive/vat-refunds_en",
+     "title": "European Commission: VAT refunds",
+     "covers": "VAT refunds for goods sold to non-EU tourists who take them out of the EU in personal luggage; conditions set by each Member State.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.23,
+     "basis": "standard rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 23% is included in the shelf price. Reduced rate(s) of 6 / 13% apply to some goods. Visitors from outside the EU can claim a VAT refund on goods taken out of the EU (minimum spend set by each country)."
   },
   {
    "code": "SK",
@@ -5391,9 +7091,36 @@
      "title": "Your Europe: Pricing and payments (European Commission)",
      "covers": "EU-wide rule: consumers must be told the total price including all taxes and additional charges. General, not restaurant-specific, no country list.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://europa.eu/youreurope/business/taxation/vat/vat-rules-rates/index_en.htm",
+     "title": "Your Europe (European Commission): VAT rules and rates",
+     "covers": "Slovakia: standard VAT rate 23%, reduced rate(s) 5 / 19% (table as shown 21 Oct 2026).",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://eur-lex.europa.eu/EN/legal-content/summary/price-indications-on-consumer-products.html",
+     "title": "EUR-Lex: Price indications on consumer products (Directive 98/6/EC)",
+     "covers": "Selling price shown to consumers must include VAT and all other taxes.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-directive/vat-refunds_en",
+     "title": "European Commission: VAT refunds",
+     "covers": "VAT refunds for goods sold to non-EU tourists who take them out of the EU in personal luggage; conditions set by each Member State.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.23,
+     "basis": "standard rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 23% is included in the shelf price. Reduced rate(s) of 5 / 19% apply to some goods. Visitors from outside the EU can claim a VAT refund on goods taken out of the EU (minimum spend set by each country)."
   },
   {
    "code": "SI",
@@ -5459,9 +7186,36 @@
      "title": "The Ultimate Guide to Tipping in Europe (Lonely Planet, 3 Sep 2026)",
      "covers": "Europe-wide: most countries add a service charge for large parties, otherwise 5-10% in cash unless service was poor; Italy and Austria round up; Scandinavia and Iceland need no restaurant tip. Names neither Malta nor Slovenia, so general background only. Read as raw page text.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://europa.eu/youreurope/business/taxation/vat/vat-rules-rates/index_en.htm",
+     "title": "Your Europe (European Commission): VAT rules and rates",
+     "covers": "Slovenia: standard VAT rate 22%, reduced rate(s) 5 / 9.5% (table as shown 21 Oct 2026).",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://eur-lex.europa.eu/EN/legal-content/summary/price-indications-on-consumer-products.html",
+     "title": "EUR-Lex: Price indications on consumer products (Directive 98/6/EC)",
+     "covers": "Selling price shown to consumers must include VAT and all other taxes.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-directive/vat-refunds_en",
+     "title": "European Commission: VAT refunds",
+     "covers": "VAT refunds for goods sold to non-EU tourists who take them out of the EU in personal luggage; conditions set by each Member State.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.22,
+     "basis": "standard rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 22% is included in the shelf price. Reduced rate(s) of 5 / 9.5% apply to some goods. Visitors from outside the EU can claim a VAT refund on goods taken out of the EU (minimum spend set by each country)."
   },
   {
    "code": "ES",
@@ -5515,9 +7269,36 @@
      "title": "Your Europe: Pricing and payments (European Commission)",
      "covers": "EU-wide rule: consumers must be told the total price including all taxes and additional charges. General, not restaurant-specific, no country list.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://europa.eu/youreurope/business/taxation/vat/vat-rules-rates/index_en.htm",
+     "title": "Your Europe (European Commission): VAT rules and rates",
+     "covers": "Spain: standard VAT rate 21%, reduced rate(s) 10% (table as shown 21 Oct 2026).",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://eur-lex.europa.eu/EN/legal-content/summary/price-indications-on-consumer-products.html",
+     "title": "EUR-Lex: Price indications on consumer products (Directive 98/6/EC)",
+     "covers": "Selling price shown to consumers must include VAT and all other taxes.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-directive/vat-refunds_en",
+     "title": "European Commission: VAT refunds",
+     "covers": "VAT refunds for goods sold to non-EU tourists who take them out of the EU in personal luggage; conditions set by each Member State.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "IVA",
+     "rate": 0.21,
+     "basis": "standard rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 21% is included in the shelf price. Reduced rate(s) of 10% apply to some goods. Visitors from outside the EU can claim a VAT refund on goods taken out of the EU (minimum spend set by each country)."
   },
   {
    "code": "GB",
@@ -5564,9 +7345,36 @@
      "title": "The Ultimate Guide to Tipping in Europe (Lonely Planet, Emily Frost, 3 Sep 2026)",
      "covers": "Europe-wide: many countries add a service charge for parties of 6+, otherwise 5-10% in cash; Italy and Austria round up; Scandinavia and Iceland: restaurant tipping not expected; coperto in Italy is not a staff tip; UK pubs never tipped. Few country-specific numbers.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.gov.uk/vat-rates",
+     "title": "GOV.UK: VAT rates",
+     "covers": "Standard rate 20% on most goods and services; reduced 5%; zero rate 0%.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://www.legislation.gov.uk/uksi/2004/102/made",
+     "title": "The Price Marking Order 2004",
+     "covers": "Selling price means the final price including VAT and all other taxes.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://www.gov.uk/government/publications/revenue-and-customs-brief-21-2020-withdrawal-of-the-vat-retail-export-scheme-and-the-tax-free-shopping-concession/revenue-and-customs-brief-21-2020-withdrawal-of-the-vat-retail-export-scheme-and-the-tax-free-shopping-concession",
+     "title": "HMRC Brief 21 (2020): withdrawal of the VAT Retail Export Scheme",
+     "covers": "The VAT Retail Export Scheme and tax-free shopping concession were withdrawn from 1 Jan 2021.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "high"
+   "confidence": "high",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.2,
+     "basis": "standard rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 20% is included in the shelf price (reduced 5% and zero rates apply to some goods). Tax-free shopping for overseas visitors ended in Great Britain on 1 Jan 2021."
   },
   {
    "code": "CH",
@@ -5607,9 +7415,36 @@
      "title": "The Ultimate Guide to Tipping in Europe (Lonely Planet, Emily Frost, 3 Sep 2026)",
      "covers": "Europe-wide: many countries add a service charge for parties of 6+, otherwise 5-10% in cash; Italy and Austria round up; Scandinavia and Iceland: restaurant tipping not expected; coperto in Italy is not a staff tip; UK pubs never tipped. Few country-specific numbers.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.estv.admin.ch/en/vat-rates-switzerland",
+     "title": "Swiss Federal Tax Administration: VAT rates",
+     "covers": "Normal rate 8.1%; reduced rate 2.6% for foodstuffs, books, newspapers and more.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://www.estv.admin.ch/en/tax-free-for-tourists",
+     "title": "Swiss Federal Tax Administration: Tax-free for tourists",
+     "covers": "Tax-free sale needs a retail price of at least CHF 300 (incl. VAT) and export by a buyer not domiciled in Switzerland.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://www.konsumentenschutz.ch/online-ratgeber/so-muessen-preise-im-laden-und-online-angegeben-werden/",
+     "title": "Stiftung fuer Konsumentenschutz: price display rules",
+     "covers": "Shop prices must be the amount actually payable, including VAT (PBV).",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "high"
+   "confidence": "high",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.081,
+     "basis": "standard rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 8.1% is included in the shelf price (2.6% on food, books and newspapers). Visitors can get VAT back on purchases over CHF 300 (incl. VAT) through the shop's export document."
   },
   {
    "code": "NO",
@@ -5650,9 +7485,36 @@
      "title": "The Ultimate Guide to Tipping in Europe (Lonely Planet, Emily Frost, 3 Sep 2026)",
      "covers": "Europe-wide: many countries add a service charge for parties of 6+, otherwise 5-10% in cash; Italy and Austria round up; Scandinavia and Iceland: restaurant tipping not expected; coperto in Italy is not a staff tip; UK pubs never tipped. Few country-specific numbers.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.skatteetaten.no/en/rates/value-added-tax/",
+     "title": "Norwegian Tax Administration: VAT rates",
+     "covers": "Normal rate 25%; foodstuffs 15%.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://lovdata.no/dokument/SFO/forskrift/1999-12-06-1256",
+     "title": "Lovdata: Forskrift om prisopplysning for varer",
+     "covers": "Sale price is the price including VAT and other public charges.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://www.toll.no/en/travelling-to-and-from-norway/reimbursement-of-vat-to-tourists",
+     "title": "Norwegian Customs: Reimbursement of VAT to tourists",
+     "covers": "Tourists resident abroad ask the shop how to have Norwegian VAT reimbursed.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "high"
+   "confidence": "high",
+   "shopTaxes": [
+    {
+     "name": "VAT (MVA)",
+     "rate": 0.25,
+     "basis": "standard rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 25% is included in the shelf price (15% on food). Visitors resident abroad can reclaim VAT through the shop or a Tax-Free Shopping scheme."
   },
   {
    "code": "SE",
@@ -5693,9 +7555,36 @@
      "title": "Your Europe: Pricing and payments (European Commission)",
      "covers": "EU-wide rule: consumers must be told the total price including all taxes and additional charges. General, not restaurant-specific, no country list.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://europa.eu/youreurope/business/taxation/vat/vat-rules-rates/index_en.htm",
+     "title": "Your Europe (European Commission): VAT rules and rates",
+     "covers": "Sweden: standard VAT rate 25%, reduced rate(s) 6 / 12% (table as shown 21 Oct 2026).",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://eur-lex.europa.eu/EN/legal-content/summary/price-indications-on-consumer-products.html",
+     "title": "EUR-Lex: Price indications on consumer products (Directive 98/6/EC)",
+     "covers": "Selling price shown to consumers must include VAT and all other taxes.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-directive/vat-refunds_en",
+     "title": "European Commission: VAT refunds",
+     "covers": "VAT refunds for goods sold to non-EU tourists who take them out of the EU in personal luggage; conditions set by each Member State.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.25,
+     "basis": "standard rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 25% is included in the shelf price. Reduced rate(s) of 6 / 12% apply to some goods. Visitors from outside the EU can claim a VAT refund on goods taken out of the EU (minimum spend set by each country)."
   },
   {
    "code": "DK",
@@ -5736,9 +7625,36 @@
      "title": "Your Europe: Pricing and payments (European Commission)",
      "covers": "EU-wide rule: consumers must be told the total price including all taxes and additional charges. General, not restaurant-specific, no country list.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://europa.eu/youreurope/business/taxation/vat/vat-rules-rates/index_en.htm",
+     "title": "Your Europe (European Commission): VAT rules and rates",
+     "covers": "Denmark: standard VAT rate 25%, reduced rate(s) 0% (table as shown 21 Oct 2026).",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://eur-lex.europa.eu/EN/legal-content/summary/price-indications-on-consumer-products.html",
+     "title": "EUR-Lex: Price indications on consumer products (Directive 98/6/EC)",
+     "covers": "Selling price shown to consumers must include VAT and all other taxes.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-directive/vat-refunds_en",
+     "title": "European Commission: VAT refunds",
+     "covers": "VAT refunds for goods sold to non-EU tourists who take them out of the EU in personal luggage; conditions set by each Member State.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.25,
+     "basis": "standard rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 25% is included in the shelf price. Reduced rate(s) of 0% apply to some goods. Visitors from outside the EU can claim a VAT refund on goods taken out of the EU (minimum spend set by each country)."
   },
   {
    "code": "IS",
@@ -5785,9 +7701,36 @@
      "title": "The Ultimate Guide to Tipping in Europe (Lonely Planet, Emily Frost, 3 Sep 2026)",
      "covers": "Europe-wide: many countries add a service charge for parties of 6+, otherwise 5-10% in cash; Italy and Austria round up; Scandinavia and Iceland: restaurant tipping not expected; coperto in Italy is not a staff tip; UK pubs never tipped. Few country-specific numbers.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.skatturinn.is/english/companies/value-added-tax/",
+     "title": "Skatturinn (Iceland Revenue and Customs): VAT",
+     "covers": "VAT is 24% or 11%.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://www.neytendastofa.is/fyrirtaeki/gagnsaei-markadarins/",
+     "title": "Neytendastofa (Icelandic Consumer Agency): market transparency",
+     "covers": "Prices to consumers must always be the final price in ISK including VAT.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://www.skatturinn.is/english/individuals/customs-matters/travelling-to-iceland/tax-free-vat-refund/",
+     "title": "Skatturinn: Tax free - VAT refund",
+     "covers": "All non-Iceland residents are tax-free eligible; minimum ISK 12,000 per receipt.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "high"
+   "confidence": "high",
+   "shopTaxes": [
+    {
+     "name": "VAT (VSK)",
+     "rate": 0.24,
+     "basis": "standard rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 24% is included in the shelf price; an 11% rate applies to some goods. Non-residents can claim a tax-free refund on receipts of at least ISK 12,000."
   },
   {
    "code": "PL",
@@ -5828,9 +7771,36 @@
      "title": "Your Europe: Pricing and payments (European Commission)",
      "covers": "EU-wide rule: consumers must be told the total price including all taxes and additional charges. General, not restaurant-specific, no country list.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://europa.eu/youreurope/business/taxation/vat/vat-rules-rates/index_en.htm",
+     "title": "Your Europe (European Commission): VAT rules and rates",
+     "covers": "Poland: standard VAT rate 23%, reduced rate(s) 5 / 8% (table as shown 21 Oct 2026).",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://eur-lex.europa.eu/EN/legal-content/summary/price-indications-on-consumer-products.html",
+     "title": "EUR-Lex: Price indications on consumer products (Directive 98/6/EC)",
+     "covers": "Selling price shown to consumers must include VAT and all other taxes.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-directive/vat-refunds_en",
+     "title": "European Commission: VAT refunds",
+     "covers": "VAT refunds for goods sold to non-EU tourists who take them out of the EU in personal luggage; conditions set by each Member State.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.23,
+     "basis": "standard rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 23% is included in the shelf price. Reduced rate(s) of 5 / 8% apply to some goods. Visitors from outside the EU can claim a VAT refund on goods taken out of the EU (minimum spend set by each country)."
   },
   {
    "code": "CZ",
@@ -5871,9 +7841,36 @@
      "title": "Your Europe: Pricing and payments (European Commission)",
      "covers": "EU-wide rule: consumers must be told the total price including all taxes and additional charges. General, not restaurant-specific, no country list.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://europa.eu/youreurope/business/taxation/vat/vat-rules-rates/index_en.htm",
+     "title": "Your Europe (European Commission): VAT rules and rates",
+     "covers": "Czechia: standard VAT rate 21%, reduced rate(s) 12 / 0% (table as shown 21 Oct 2026).",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://eur-lex.europa.eu/EN/legal-content/summary/price-indications-on-consumer-products.html",
+     "title": "EUR-Lex: Price indications on consumer products (Directive 98/6/EC)",
+     "covers": "Selling price shown to consumers must include VAT and all other taxes.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-directive/vat-refunds_en",
+     "title": "European Commission: VAT refunds",
+     "covers": "VAT refunds for goods sold to non-EU tourists who take them out of the EU in personal luggage; conditions set by each Member State.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.21,
+     "basis": "standard rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 21% is included in the shelf price. Reduced rate(s) of 12 / 0% apply to some goods. Visitors from outside the EU can claim a VAT refund on goods taken out of the EU (minimum spend set by each country)."
   },
   {
    "code": "HU",
@@ -5920,9 +7917,36 @@
      "title": "Your Europe: Pricing and payments (European Commission)",
      "covers": "EU-wide rule: consumers must be told the total price including all taxes and additional charges. General, not restaurant-specific, no country list.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://europa.eu/youreurope/business/taxation/vat/vat-rules-rates/index_en.htm",
+     "title": "Your Europe (European Commission): VAT rules and rates",
+     "covers": "Hungary: standard VAT rate 27%, reduced rate(s) 5 / 18% (table as shown 21 Oct 2026).",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://eur-lex.europa.eu/EN/legal-content/summary/price-indications-on-consumer-products.html",
+     "title": "EUR-Lex: Price indications on consumer products (Directive 98/6/EC)",
+     "covers": "Selling price shown to consumers must include VAT and all other taxes.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-directive/vat-refunds_en",
+     "title": "European Commission: VAT refunds",
+     "covers": "VAT refunds for goods sold to non-EU tourists who take them out of the EU in personal luggage; conditions set by each Member State.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.27,
+     "basis": "standard rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 27% is included in the shelf price. Reduced rate(s) of 5 / 18% apply to some goods. Visitors from outside the EU can claim a VAT refund on goods taken out of the EU (minimum spend set by each country)."
   },
   {
    "code": "TR",
@@ -5993,9 +8017,30 @@
      "title": "The Ultimate Guide to Tipping in Europe (Lonely Planet, 3 Sep 2026)",
      "covers": "Europe-wide: most countries add a service charge for large parties, otherwise 5-10% in cash unless service was poor. Does not name Turkey, so general background only. Read as raw page text.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv%2Fyardim-kaynaklar%2Fyararli-bilgiler%2Fkdv-oranlari.pdf",
+     "title": "Gelir Idaresi Baskanligi: current KDV rates",
+     "covers": "General rate 20% (since 10 Jul 2023); lists I and II at 1% and 10%.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://www.resmigazete.gov.tr/eskiler/2014/06/20140628-2.htm",
+     "title": "Resmi Gazete: Fiyat Etiketi Yonetmeligi (2014)",
+     "covers": "Retail price labels must show the sale price including all taxes.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "VAT (KDV)",
+     "rate": 0.2,
+     "basis": "general rate; reduced 10% and 1% lists apply to food, books and some other goods; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "KDV 20% is included in the shelf price; 10% and 1% apply to listed goods."
   },
   {
    "code": "MX",
@@ -6048,9 +8093,30 @@
      "title": "Everything You Need to Know About Tipping in North and South America (Lonely Planet, 31 Jul 2024)",
      "covers": "For Mexico, Nicaragua, Argentina and Peru a service charge is more commonly added and a personal tip of 15-20% is a good amount (an outlier against the sources above). Read as raw page text.",
      "checked": "2026-10"
+    },
+    {
+     "url": "http://www.diputados.gob.mx/LeyesBiblio/pdf/LIVA.pdf",
+     "title": "Ley del Impuesto al Valor Agregado, art. 1",
+     "covers": "IVA is calculated at the 16% rate.",
+     "checked": "2026-10-22"
+    },
+    {
+     "url": "https://dof.gob.mx/nota_detalle.php?codigo=5777697&fecha=31%2F12%2F2025",
+     "title": "DOF 31 Dec 2025: border-region fiscal stimulus decree",
+     "covers": "Fiscal stimuli on income tax and IVA for the border regions continue to 31 Dec 2026.",
+     "checked": "2026-10-22"
     }
    ],
-   "confidence": "high"
+   "confidence": "high",
+   "shopTaxes": [
+    {
+     "name": "IVA",
+     "rate": 0.16,
+     "basis": "general rate; already included in the shelf price; border regions have a reduced-IVA stimulus extended to 31 Dec 2026"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "IVA 16% is included in the shelf price. The northern and southern border regions have a reduced-IVA stimulus that runs to 31 Dec 2026."
   },
   {
    "code": "BR",
@@ -6085,9 +8151,18 @@
      "title": "Everything You Need to Know About Tipping in North and South America (Lonely Planet, Emily Frost, 31 Jul 2024)",
      "covers": "Mexico, Nicaragua, Argentina, Peru: a service charge more commonly added, personal tip 15-20%; Brazil, Chile, Costa Rica: restaurants often include a 10% sit-down charge, ~5% extra appreciated; Caribbean: check the bill for included gratuity, else 15-20%.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12741.htm",
+     "title": "Lei 12.741/2012 (Lei da Transparencia)",
+     "covers": "Sales documents must show the approximate total of federal, state and municipal taxes that form part of the sale price.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [],
+   "shopPricesIncludeTax": true,
+   "shopNote": "No visible sales-tax line: ICMS, IPI, PIS/Cofins and other taxes are built into the shelf price. Receipts show only an approximate total of taxes."
   },
   {
    "code": "AR",
@@ -6128,9 +8203,24 @@
      "title": "Everything You Need to Know About Tipping in North and South America (Lonely Planet, Emily Frost, 31 Jul 2024)",
      "covers": "Mexico, Nicaragua, Argentina, Peru: a service charge more commonly added, personal tip 15-20%; Brazil, Chile, Costa Rica: restaurants often include a 10% sit-down charge, ~5% extra appreciated; Caribbean: check the bill for included gratuity, else 15-20%.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.argentina.gob.ar/servicio/reintegrar-impuestos-turistas-extranjeros",
+     "title": "argentina.gob.ar: Reintegrar impuestos a turistas extranjeros",
+     "covers": "IVA is 21%; tourists can reclaim IVA on national products over $70 bought at Tax Free shops.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "IVA",
+     "rate": 0.21,
+     "basis": "general rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "IVA 21% is included in the price. Foreign visitors can reclaim IVA on Argentine-made goods over $70 per purchase at Tax Free shops (a commission is deducted)."
   },
   {
    "code": "CL",
@@ -6183,9 +8273,24 @@
      "title": "Everything You Need to Know About Tipping in North and South America (Lonely Planet, Emily Frost, 31 Jul 2024)",
      "covers": "Mexico, Nicaragua, Argentina, Peru: a service charge more commonly added, personal tip 15-20%; Brazil, Chile, Costa Rica: restaurants often include a 10% sit-down charge, ~5% extra appreciated; Caribbean: check the bill for included gratuity, else 15-20%.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.sii.cl/destacados/iva_bienes/index.html",
+     "title": "Servicio de Impuestos Internos: IVA Bienes",
+     "covers": "IVA applied at 19%.",
+     "checked": "2026-10-22"
     }
    ],
-   "confidence": "high"
+   "confidence": "high",
+   "shopTaxes": [
+    {
+     "name": "IVA",
+     "rate": 0.19,
+     "basis": "general rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "IVA 19% is included in the price (shop prices must include taxes by law)."
   },
   {
    "code": "PE",
@@ -6263,9 +8368,30 @@
      "title": "Tipping in Peru: Restaurants, Tours, Drivers, and Hotels (2026) (How to Peru, a travel-advice blog)",
      "covers": "In restaurants leave up to 10% only if no 'servicio' is on the bill; a 10-13% service line means no extra tip. Blog, used only as a third view.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://emprender.sunat.gob.pe/principales-impuestos/impuesto-general-las-ventas-igv/impuesto-general-las-ventas",
+     "title": "SUNAT: Impuesto General a las Ventas",
+     "covers": "The applicable rate is 18% on the operation taxed with IGV.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://cultura.sunat.gob.pe/sites/default/files/2026-01/2025_Cartilla7_IGV.pdf",
+     "title": "SUNAT: El IGV (Cartilla 7)",
+     "covers": "A worked example shows a shop price of S/ 29.50 that includes 18% IGV.",
+     "checked": "2026-10-22"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "IGV",
+     "rate": 0.18,
+     "basis": "16% IGV plus 2% municipal promotion tax (split changing under Law 32387, total stays 18%); already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "IGV 18% is included in the price."
   },
   {
    "code": "CO",
@@ -6313,9 +8439,30 @@
      "title": "13 things to know before traveling to Colombia (Lonely Planet, 25 Mar 2026)",
      "covers": "Tipping isn't obligatory but is appreciated; at fancier restaurants you'll likely be asked whether to add the propina, typically around 10% of the meal.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://normograma.dian.gov.co/dian/compilacion/docs/oficio_dian_8857_2025.htm",
+     "title": "DIAN: Concepto 8857 de 2025",
+     "covers": "General IVA rate is 19% (Estatuto Tributario art. 468), with exceptions.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1480_2011.html",
+     "title": "Ley 1480 de 2011 (Estatuto del Consumidor), art. 26",
+     "covers": "The retail price must include all taxes and additional costs.",
+     "checked": "2026-10-22"
     }
    ],
-   "confidence": "high"
+   "confidence": "high",
+   "shopTaxes": [
+    {
+     "name": "IVA",
+     "rate": 0.19,
+     "basis": "general rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "IVA 19% is included in the price (retail prices must include all taxes). Some goods are at 5% or excluded."
   },
   {
    "code": "CR",
@@ -6399,9 +8546,24 @@
      "title": "Everything You Need to Know About Tipping in North and South America (Lonely Planet, 31 Jul 2024)",
      "covers": "Lists Costa Rica with Brazil and Chile: restaurants often include a 10% sit-down charge, a tip is not expected but around 5% is appreciated. Read as raw page text.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.hacienda.go.cr/docs/PresentacionIVACRTEx.pdf",
+     "title": "Hacienda Costa Rica: Impuesto sobre el Valor Agregado",
+     "covers": "General rate 13%.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "IVA",
+     "rate": 0.13,
+     "basis": "general rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "IVA 13% is included in the final price."
   },
   {
    "code": "DO",
@@ -6610,9 +8772,36 @@
      "title": "The Ultimate Guide to Tipping in Asia (Lonely Planet, Emily Frost, 5 Aug 2024)",
      "covers": "China, Singapore, Taiwan: no strong tipping culture; Japan: tipping only for exceptional service, some servers refuse; SE Asia incl. Cambodia, Vietnam: hospitality workers increasingly used to tips but non-touristy areas only round up; 10% service charge common at higher-end places; Philippines and Singapore tours 10%.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.mof.go.jp/english/tax_policy/tax_system/consumption/index.html",
+     "title": "Ministry of Finance Japan: Consumption tax",
+     "covers": "Reduced rate 8% for food and drink excluding alcohol and eating out; standard rate 10%.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6902.htm",
+     "title": "National Tax Agency: No.6902 total price display",
+     "covers": "Businesses must show the tax-inclusive price to consumers.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://www.japan.travel/en/us/blog/everything-you-need-to-know-japans-new-tax-free-shopping-system/",
+     "title": "JNTO: Japan's new tax-free shopping system",
+     "covers": "From 1 Nov 2026 tax-free shopping becomes a refund system on exit.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "Consumption tax",
+     "rate": 0.1,
+     "basis": "standard rate, already in the price tag (8% reduced rate on food and drink to take away)"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "10% is included in the price tag (shops must show tax-inclusive prices). Tourists can buy tax-free at tax-free shops; from 1 Nov 2026 this changes to a refund at departure."
   },
   {
    "code": "KR",
@@ -6666,9 +8855,24 @@
      "title": "The Ultimate Guide to Tipping in Asia (Lonely Planet, Emily Frost, 5 Aug 2024)",
      "covers": "China, Singapore, Taiwan: no strong tipping culture; Japan: tipping only for exceptional service, some servers refuse; SE Asia incl. Cambodia, Vietnam: hospitality workers increasingly used to tips but non-touristy areas only round up; 10% service charge common at higher-end places; Philippines and Singapore tours 10%.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140736",
+     "title": "Korea Tourism Organization: Duty Free and Tax Refunds",
+     "covers": "Tax refund stores quote prices including VAT; refund needs a purchase of 15,000 won or more.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.1,
+     "basis": "standard rate, already in the price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 10% is included in the price at tax-refund shops. Tourists can get VAT back on purchases of 15,000 won or more at 'Tax Free' shops."
   },
   {
    "code": "CN",
@@ -6703,9 +8907,30 @@
      "title": "Tipping in China (TravelChinaGuide, updated 14 Aug 2025)",
      "covers": "Not necessary to tip at quality Chinese restaurants; the bill may already include a 5-15% service charge; Western-style high-end restaurants usually include 10-15%.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://english.beijing.gov.cn/consuminginbeijing/consumerrights/202103/t20210330_2333090.html",
+     "title": "Beijing government: Departure Tax Refund Guide",
+     "covers": "Refundable items have an applicable tax rate of 13% (refund 11%) or 9% (refund 8%).",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "http://www.eguangzhou.gov.cn/gzlatest/content/post_33605.html",
+     "title": "Guangzhou government: China lowers minimum for departure tax refunds to 200 yuan",
+     "covers": "Minimum for departure tax refunds lowered to 200 yuan.",
+     "checked": "2026-10-22"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.13,
+     "basis": "general rate for goods (a 9% rate applies to some goods); normally in the price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 13% is normally in the price; some goods are at 9%. Overseas visitors can claim a departure tax refund on purchases of 200 yuan or more at the same store on the same day."
   },
   {
    "code": "HK",
@@ -6742,7 +8967,10 @@
      "checked": "2026-10"
     }
    ],
-   "confidence": "high"
+   "confidence": "high",
+   "shopTaxes": [],
+   "shopPricesIncludeTax": true,
+   "shopNote": "No sales tax or VAT; the price on the tag is what you pay."
   },
   {
    "code": "TW",
@@ -6777,9 +9005,30 @@
      "title": "The Ultimate Guide to Tipping in Asia (Lonely Planet, Emily Frost, 5 Aug 2024)",
      "covers": "China, Singapore, Taiwan: no strong tipping culture; Japan: tipping only for exceptional service, some servers refuse; SE Asia incl. Cambodia, Vietnam: hospitality workers increasingly used to tips but non-touristy areas only round up; 10% service charge common at higher-end places; Philippines and Singapore tours 10%.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=G0340080",
+     "title": "Taiwan Value-added and Non-value-added Business Tax Act",
+     "covers": "The list price set by a business for taxable goods shall be inclusive of the business tax.",
+     "checked": "2026-10-22"
+    },
+    {
+     "url": "https://www.mof.gov.tw/eng/singlehtml/f48d641f159a4866b1d31c0916fbcc71?cntId=32bc7af09c4840d1a781991c4f753851",
+     "title": "Taiwan Ministry of Finance: Tax Refund for Foreign Tourists",
+     "covers": "Tourists spending NT$2,000 (VAT included) at one store can apply for a 5% VAT refund.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "VAT (business tax)",
+     "rate": 0.05,
+     "basis": "standard rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "5% business tax is included in the listed price. Foreign tourists can claim a refund on NT$2,000 or more (VAT included) at one authorized store on the same day."
   },
   {
    "code": "VN",
@@ -6841,7 +9090,16 @@
      "checked": "2026-10"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.08,
+     "basis": "temporary cut from 10% for 1 Jul 2025 to 31 Dec 2026 on most goods (some groups stay at 10%); already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 8% on most goods until 31 Dec 2026 (then back to 10% unless extended); some groups such as telecoms, finance and certain products stay at 10%. Listed prices include taxes."
   },
   {
    "code": "PH",
@@ -6913,9 +9171,24 @@
      "title": "Philippines travel tips (Rough Guides, undated)",
      "covers": "Tipping isn't mandatory but is appreciated: in restaurants leave 5-10% unless a service charge is already included.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.dof.gov.ph/ph-is-now-vat-free-for-foreign-tourists/",
+     "title": "Department of Finance: PH is now VAT-free for foreign tourists",
+     "covers": "Tourists can get a VAT refund on goods from accredited stores of at least PHP 3,000.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.12,
+     "basis": "standard rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 12% is included in the price unless a receipt shows it separately. Non-resident tourists can claim a VAT refund on purchases of PHP 3,000 or more at accredited stores."
   },
   {
    "code": "KH",
@@ -7019,9 +9292,30 @@
      "title": "Guide to Tipping in Australia, New Zealand and the South Pacific (Lonely Planet, 21 Aug 2024)",
      "covers": "Australia/NZ: no tip needed at counters or regional pubs; city restaurants with table service 10-15% appreciated; menu prices factor in tax; service surcharges of up to 15% may be added on weekends and holidays.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.ato.gov.au/businesses-and-organisations/gst-excise-and-indirect-taxes/gst/how-gst-works",
+     "title": "Australian Taxation Office: How GST works",
+     "covers": "GST is a broad-based tax of 10% on most goods, services and other items.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://www.ato.gov.au/businesses-and-organisations/gst-excise-and-indirect-taxes/gst/in-detail/rules-for-specific-transactions/international-transactions/gst-free-sales-to-travellers-departing-australia/tourist-refund-scheme",
+     "title": "Australian Taxation Office: Tourist Refund Scheme",
+     "covers": "Purchases from one business with the same ABN totalling AUD$300 (GST inclusive) or more.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "high"
+   "confidence": "high",
+   "shopTaxes": [
+    {
+     "name": "GST",
+     "rate": 0.1,
+     "basis": "standard rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "GST 10% is included in the displayed price. Visitors can claim GST back under the Tourist Refund Scheme on A$300 or more (GST inclusive) from one business within 60 days of leaving."
   },
   {
    "code": "NZ",
@@ -7069,9 +9363,30 @@
      "title": "Guide to Tipping in Australia, New Zealand and the South Pacific (Lonely Planet, 21 Aug 2024)",
      "covers": "Australia/NZ: no tip needed at counters or regional pubs; city restaurants with table service 10-15% appreciated; menu prices factor in tax; service surcharges of up to 15% may be added on weekends and holidays.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.ird.govt.nz/gst/what-gst-is",
+     "title": "Inland Revenue: What GST is",
+     "covers": "GST rate 15%.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://www.ird.govt.nz/-/media/project/ir/home/documents/forms-and-guides/ir200---ir299/ir294/ir294.pdf?modified=20260331211622",
+     "title": "Inland Revenue: IR294 Tax information for visitors (April 2026)",
+     "covers": "A visitor must pay GST on goods bought here like a resident; no exemption for visitors.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "high"
+   "confidence": "high",
+   "shopTaxes": [
+    {
+     "name": "GST",
+     "rate": 0.15,
+     "basis": "standard rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "GST 15% is included in the displayed price. Visitors pay GST like residents (no refund for goods that stay in New Zealand)."
   },
   {
    "code": "ZA",
@@ -7119,9 +9434,24 @@
      "title": "The Ultimate Guide to Tipping in Africa (Lonely Planet, Emily Frost, 27 Sep 2024)",
      "covers": "Popular restaurants and bars in Egypt, Morocco and South Africa add a 10% service charge; otherwise 10-15% if happy; elsewhere in Africa 10-15% is normal for good service.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.sars.gov.za/types-of-tax/value-added-tax/vat-refunds-for-tourists-and-foreign-enterprises/",
+     "title": "SARS: VAT refunds for tourists and foreign enterprises",
+     "covers": "Goods exported at the end of the visit must exceed R250 per qualifying purchaser.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.15,
+     "basis": "standard rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 15% is included in the price. Foreign visitors can claim VAT back on goods exported at the end of the visit when the total exceeds R250."
   },
   {
    "code": "MA",
@@ -7181,9 +9511,30 @@
      "title": "Tipping in Morocco: who, when, and how much (GuideMe, a local travel guide; 2026)",
      "covers": "Leave 5-10% in restaurants; tipping is customary and appreciated, never legally required; cash in dirhams.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.tax.gov.ma/wps/wcm/connect/08712531-1e81-4e28-a38b-2bd9edf8e09e/CGI+2026+FR.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-08712531-1e81-4e28-a38b-2bd9edf8e09e",
+     "title": "Direction Generale des Impots: Code General des Impots 2026, art. 99",
+     "covers": "Standard VAT rate 20%; 10% for accommodation and restaurant operations.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://www.finances.gov.ma/Publication/adii/2022/guide-mre2022.pdf",
+     "title": "ADII (Moroccan customs): visitor guide",
+     "covers": "VAT refund (detaxe) for goods bought the same day from one seller for 2,000 dhs or more VAT included; food excluded.",
+     "checked": "2026-10-22"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.2,
+     "basis": "standard rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 20% is included in the price (the 10% rate applies to restaurants and hotels). Visitors can claim VAT back on goods bought for 2,000 dirhams or more at one seller on the same day (food excluded)."
   },
   {
    "code": "EG",
@@ -7249,9 +9600,30 @@
      "title": "Country-by-country guide: tipping practices across 7 Middle Eastern destinations (Mighty Travels blog, Nov 2024)",
      "covers": "Travel blog, used as a second view: many Egyptian restaurants already include a service charge, yet customers are generally still expected to tip separately.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.eta.gov.eg/sites/default/files/2024-02/Law-english-no.67-2016.pdf.pdf",
+     "title": "Egyptian Tax Authority: VAT Law 67 of 2016",
+     "covers": "Standard VAT rate 14% from fiscal year 2017/2018.",
+     "checked": "2026-10-21"
+    },
+    {
+     "url": "https://eta.gov.eg/en/tax-refund",
+     "title": "Egyptian Tax Authority: VAT refund for departing visitors",
+     "covers": "Visitors can refund VAT if stay is 3 months or less and invoices total at least EGP 1,500.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.14,
+     "basis": "standard rate; shelf prices usually include it"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 14%. Foreign visitors staying up to 3 months can claim VAT back on invoices of at least EGP 1,500."
   },
   {
    "code": "IL",
@@ -7317,9 +9689,24 @@
      "title": "Israel - Wikivoyage (community travel guide, undated)",
      "covers": "The norm for waiters is a 15% tip; where a service charge is included in the bill, don't tip. Community-edited, used only as a third view.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.gov.il/en/pages/vat-refund-guide-for-tourists",
+     "title": "Israel Tax Authority: VAT refund for tourists who purchased goods in Israel (updated 17 Feb 2026; read in the in-app browser)",
+     "covers": "Under Article 43b of the VAT Law a tourist is entitled on departure to a refund of VAT paid on goods bought in a business approved by the Ministry of Tourism.",
+     "checked": "2026-10-22"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.18,
+     "basis": "rate since 1 Jan 2025; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 18% is included in the price. Tourists can claim VAT back on goods bought at approved shops when leaving."
   },
   {
    "code": "JO",
@@ -7422,9 +9809,18 @@
      "title": "The Ultimate Guide to Tipping in the Middle East (Lonely Planet, Emily Frost, 27 Sep 2024)",
      "covers": "UAE, Qatar, Jordan and Saudi Arabia: servers expect a 10-15% tip at the end of a meal; taxis in Jordan round up. Israel and Morocco not covered.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://gta.gov.qa/en/investors-guide",
+     "title": "Qatar General Tax Authority: Investor's guide",
+     "covers": "Qatar has not applied the Value Added Tax (VAT).",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [],
+   "shopPricesIncludeTax": true,
+   "shopNote": "No VAT or general sales tax; the price on the tag is what you pay."
   },
   {
    "code": "SA",
@@ -7462,10 +9858,10 @@
      "checked": "2026-10"
     },
     {
-     "url": "https://www.zatca.gov.sa/en/RulesRegulations/VAT/Pages/Business_Large.aspx",
-     "title": "ZATCA: VAT for large businesses (read via the Wayback Machine)",
-     "covers": "Businesses must include a VAT clause in customer contracts and display VAT-inclusive prices at the point of sale.",
-     "checked": "2026-10"
+     "url": "https://mc.gov.sa/en/mediacenter/news/pages/04-08-20-01.aspx",
+     "title": "Ministry of Commerce: the product price on the shelf includes VAT",
+     "covers": "The shelf price includes VAT and must match the invoice. Used for the restaurant row's VAT-inclusive pricing; replaces a ZATCA page that no longer loads.",
+     "checked": "2026-10-21"
     },
     {
      "url": "https://www.aleqt.com/2017/04/17/article_1171566.html",
@@ -7486,7 +9882,16 @@
      "checked": "2026-10"
     }
    ],
-   "confidence": "high"
+   "confidence": "high",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.15,
+     "basis": "standard rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 15% is included in the shelf price."
   },
   {
    "code": "KE",
@@ -7546,9 +9951,24 @@
      "title": "The Ultimate Guide to Tipping in Africa (Lonely Planet, 27 Sep 2024)",
      "covers": "Elsewhere in Africa leaving 10 to 15% is a normal tip for good service in restaurants. Does not name Kenya, so general background only. Read as raw page text.",
      "checked": "2026-10"
+    },
+    {
+     "url": "https://www.kra.go.ke/images/publications/KRA_VAT-FAQ.pdf",
+     "title": "Kenya Revenue Authority: VAT FAQ",
+     "covers": "16% applies to taxable goods and services other than zero-rated supplies.",
+     "checked": "2026-10-21"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.16,
+     "basis": "general rate; shelf prices normally include it"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 16% on most goods (8% on petroleum)."
   },
   {
    "code": "TZ",
@@ -7604,7 +10024,16 @@
      "checked": "2026-10"
     }
    ],
-   "confidence": "medium"
+   "confidence": "medium",
+   "shopTaxes": [
+    {
+     "name": "VAT",
+     "rate": 0.18,
+     "basis": "mainland rate; already included in the shelf price"
+    }
+   ],
+   "shopPricesIncludeTax": true,
+   "shopNote": "VAT 18% is included in the price (advertised prices of VAT-registered sellers must include VAT)."
   }
  ]
 }
