@@ -1,0 +1,592 @@
+[
+  {
+    "id": "agra",
+    "country": "IN",
+    "region": null,
+    "lat": 27.1751,
+    "lon": 78.0421,
+    "emblem": "peacock",
+    "bundled": false,
+    "greeting": "नमस्ते!"
+  },
+  {
+    "id": "athens",
+    "country": "GR",
+    "region": null,
+    "lat": 37.9838,
+    "lon": 23.7275,
+    "emblem": "owl-of-athena",
+    "bundled": false,
+    "greeting": "Γεια σου!"
+  },
+  {
+    "id": "auckland",
+    "country": "NZ",
+    "region": null,
+    "lat": -36.8485,
+    "lon": 174.7633,
+    "emblem": "kiwi",
+    "bundled": false,
+    "greeting": "Kia ora!"
+  },
+  {
+    "id": "bali",
+    "country": "ID",
+    "region": null,
+    "lat": -8.65,
+    "lon": 115.2167,
+    "emblem": "frangipani",
+    "bundled": false,
+    "greeting": "Om Swastiastu!"
+  },
+  {
+    "id": "beijing",
+    "country": "CN",
+    "region": null,
+    "lat": 39.9042,
+    "lon": 116.4074,
+    "emblem": "giant-panda",
+    "bundled": false,
+    "greeting": "你好!"
+  },
+  {
+    "id": "berlin",
+    "country": "DE",
+    "region": null,
+    "lat": 52.52,
+    "lon": 13.405,
+    "emblem": "cornflower",
+    "bundled": false,
+    "greeting": "Hallo!"
+  },
+  {
+    "id": "boston",
+    "country": "US",
+    "region": "MA",
+    "lat": 42.3601,
+    "lon": -71.0589,
+    "emblem": "mayflower",
+    "bundled": false,
+    "greeting": "Hello!"
+  },
+  {
+    "id": "budapest",
+    "country": "HU",
+    "region": null,
+    "lat": 47.4979,
+    "lon": 19.0402,
+    "emblem": "red-paprika",
+    "bundled": false,
+    "greeting": "Szia!"
+  },
+  {
+    "id": "busan",
+    "country": "KR",
+    "region": null,
+    "lat": 35.1796,
+    "lon": 129.0756,
+    "emblem": "korean-magpie",
+    "bundled": false,
+    "greeting": "안녕하세요!"
+  },
+  {
+    "id": "cairo",
+    "country": "EG",
+    "region": null,
+    "lat": 30.0444,
+    "lon": 31.2357,
+    "emblem": "blue-lotus",
+    "bundled": false,
+    "greeting": "أهلاً!"
+  },
+  {
+    "id": "cancun",
+    "country": "MX",
+    "region": null,
+    "lat": 21.1619,
+    "lon": -86.8515,
+    "emblem": "dahlia",
+    "bundled": false,
+    "greeting": "¡Hola!"
+  },
+  {
+    "id": "chiangmai",
+    "country": "TH",
+    "region": null,
+    "lat": 18.7883,
+    "lon": 98.9853,
+    "emblem": "elephant",
+    "bundled": false,
+    "greeting": "สวัสดี!"
+  },
+  {
+    "id": "chicago",
+    "country": "US",
+    "region": "IL",
+    "lat": 41.8781,
+    "lon": -87.6298,
+    "emblem": "violet",
+    "bundled": false,
+    "greeting": "Hello!"
+  },
+  {
+    "id": "cn-zhangjiajie",
+    "country": "CN",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "giant-panda",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "danang",
+    "country": "VN",
+    "region": null,
+    "lat": 16.0544,
+    "lon": 108.2022,
+    "emblem": "lotus",
+    "bundled": false,
+    "greeting": "Xin chào!"
+  },
+  {
+    "id": "delhi",
+    "country": "IN",
+    "region": null,
+    "lat": 28.6139,
+    "lon": 77.209,
+    "emblem": "peacock",
+    "bundled": false,
+    "greeting": "नमस्ते!"
+  },
+  {
+    "id": "dublin",
+    "country": "IE",
+    "region": null,
+    "lat": 53.3498,
+    "lon": -6.2603,
+    "emblem": "shamrock",
+    "bundled": false,
+    "greeting": "Dia duit!"
+  },
+  {
+    "id": "es-puentenuevoronda",
+    "country": "ES",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "carnation",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "florence",
+    "country": "IT",
+    "region": null,
+    "lat": 43.7696,
+    "lon": 11.2558,
+    "emblem": "tuscan-iris",
+    "bundled": false,
+    "greeting": "Ciao!"
+  },
+  {
+    "id": "gb-stonehenge",
+    "country": "GB",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "tudor-rose",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "georgetown",
+    "country": "MY",
+    "region": null,
+    "lat": 5.4141,
+    "lon": 100.3288,
+    "emblem": "hibiscus",
+    "bundled": false,
+    "greeting": "Selamat datang!"
+  },
+  {
+    "id": "gr-meteora",
+    "country": "GR",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "owl-of-athena",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "halong",
+    "country": "VN",
+    "region": null,
+    "lat": 20.9101,
+    "lon": 107.1839,
+    "emblem": "lotus",
+    "bundled": false,
+    "greeting": "Xin chào!"
+  },
+  {
+    "id": "hanoi",
+    "country": "VN",
+    "region": null,
+    "lat": 21.0285,
+    "lon": 105.8542,
+    "emblem": "lotus",
+    "bundled": false,
+    "greeting": "Xin chào!"
+  },
+  {
+    "id": "hiroshima",
+    "country": "JP",
+    "region": null,
+    "lat": 34.296,
+    "lon": 132.3198,
+    "emblem": "cherry-blossom",
+    "bundled": false,
+    "greeting": "こんにちは!"
+  },
+  {
+    "id": "hochiminh",
+    "country": "VN",
+    "region": null,
+    "lat": 10.8231,
+    "lon": 106.6297,
+    "emblem": "lotus",
+    "bundled": false,
+    "greeting": "Xin chào!"
+  },
+  {
+    "id": "honolulu",
+    "country": "US",
+    "region": "HI",
+    "lat": 21.3069,
+    "lon": -157.8583,
+    "emblem": "hibiscus",
+    "bundled": false,
+    "greeting": "Aloha!"
+  },
+  {
+    "id": "hr-plitvicelakes",
+    "country": "HR",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "dalmatian-dog",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "jaipur",
+    "country": "IN",
+    "region": null,
+    "lat": 26.9124,
+    "lon": 75.7873,
+    "emblem": "peacock",
+    "bundled": false,
+    "greeting": "नमस्ते!"
+  },
+  {
+    "id": "jeju",
+    "country": "KR",
+    "region": null,
+    "lat": 33.4996,
+    "lon": 126.5312,
+    "emblem": "korean-magpie",
+    "bundled": false,
+    "greeting": "안녕하세요!"
+  },
+  {
+    "id": "jp-himejicastle",
+    "country": "JP",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "cherry-blossom",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "lasvegas",
+    "country": "US",
+    "region": "NV",
+    "lat": 36.1699,
+    "lon": -115.1398,
+    "emblem": "bighorn-sheep",
+    "bundled": false,
+    "greeting": "Hello!"
+  },
+  {
+    "id": "lisbon",
+    "country": "PT",
+    "region": null,
+    "lat": 38.7223,
+    "lon": -9.1393,
+    "emblem": "sardine",
+    "bundled": false,
+    "greeting": "Olá!"
+  },
+  {
+    "id": "losangeles",
+    "country": "US",
+    "region": "CA",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "emblem": "california-poppy",
+    "bundled": false,
+    "greeting": "Hello!"
+  },
+  {
+    "id": "manila",
+    "country": "PH",
+    "region": null,
+    "lat": 14.5995,
+    "lon": 120.9842,
+    "emblem": "sampaguita",
+    "bundled": false,
+    "greeting": "Kumusta!"
+  },
+  {
+    "id": "marrakech",
+    "country": "MA",
+    "region": null,
+    "lat": 31.6295,
+    "lon": -7.9811,
+    "emblem": "fennec-fox",
+    "bundled": false,
+    "greeting": "مرحبا!"
+  },
+  {
+    "id": "melbourne",
+    "country": "AU",
+    "region": null,
+    "lat": -37.8136,
+    "lon": 144.9631,
+    "emblem": "koala",
+    "bundled": false,
+    "greeting": "G'day!"
+  },
+  {
+    "id": "miami",
+    "country": "US",
+    "region": "FL",
+    "lat": 25.7617,
+    "lon": -80.1918,
+    "emblem": "orange-blossom",
+    "bundled": false,
+    "greeting": "Hello!"
+  },
+  {
+    "id": "montreal",
+    "country": "CA",
+    "region": "QC",
+    "lat": 45.5047,
+    "lon": -73.5873,
+    "emblem": "fleur-de-lis",
+    "bundled": false,
+    "greeting": "Bonjour !"
+  },
+  {
+    "id": "mumbai",
+    "country": "IN",
+    "region": null,
+    "lat": 18.922,
+    "lon": 72.8347,
+    "emblem": "peacock",
+    "bundled": false,
+    "greeting": "नमस्ते!"
+  },
+  {
+    "id": "neworleans",
+    "country": "US",
+    "region": "LA",
+    "lat": 29.9511,
+    "lon": -90.0715,
+    "emblem": "brown-pelican",
+    "bundled": false,
+    "greeting": "Hello!"
+  },
+  {
+    "id": "nl-keukenhof",
+    "country": "NL",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "tulip",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "orlando",
+    "country": "US",
+    "region": "FL",
+    "lat": 28.5383,
+    "lon": -81.3792,
+    "emblem": "orange-blossom",
+    "bundled": false,
+    "greeting": "Hello!"
+  },
+  {
+    "id": "phuket",
+    "country": "TH",
+    "region": null,
+    "lat": 7.8804,
+    "lon": 98.3923,
+    "emblem": "elephant",
+    "bundled": false,
+    "greeting": "สวัสดี!"
+  },
+  {
+    "id": "prague",
+    "country": "CZ",
+    "region": null,
+    "lat": 50.0755,
+    "lon": 14.4378,
+    "emblem": "linden-leaf",
+    "bundled": false,
+    "greeting": "Ahoj!"
+  },
+  {
+    "id": "pt-penapalacesintra",
+    "country": "PT",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "barcelos-rooster",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "sanfrancisco",
+    "country": "US",
+    "region": "CA",
+    "lat": 37.7749,
+    "lon": -122.4194,
+    "emblem": "california-poppy",
+    "bundled": false,
+    "greeting": "Hello!"
+  },
+  {
+    "id": "sapporo",
+    "country": "JP",
+    "region": null,
+    "lat": 43.0618,
+    "lon": 141.3545,
+    "emblem": "cherry-blossom",
+    "bundled": false,
+    "greeting": "こんにちは!"
+  },
+  {
+    "id": "seattle",
+    "country": "US",
+    "region": "WA",
+    "lat": 47.6062,
+    "lon": -122.3321,
+    "emblem": "coast-rhododendron",
+    "bundled": false,
+    "greeting": "Hello!"
+  },
+  {
+    "id": "shanghai",
+    "country": "CN",
+    "region": null,
+    "lat": 31.2304,
+    "lon": 121.4737,
+    "emblem": "giant-panda",
+    "bundled": false,
+    "greeting": "你好!"
+  },
+  {
+    "id": "siemreap",
+    "country": "KH",
+    "region": null,
+    "lat": 13.3671,
+    "lon": 103.8448,
+    "emblem": "sugar-palm",
+    "bundled": false,
+    "greeting": "សួស្តី!"
+  },
+  {
+    "id": "sydney",
+    "country": "AU",
+    "region": null,
+    "lat": -33.85679,
+    "lon": 151.21528,
+    "emblem": "kangaroo",
+    "bundled": false,
+    "greeting": "G'day!"
+  },
+  {
+    "id": "th-watmahathatayutthaya",
+    "country": "TH",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "elephant",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "toronto",
+    "country": "CA",
+    "region": "ON",
+    "lat": 43.6532,
+    "lon": -79.3832,
+    "emblem": "white-trillium",
+    "bundled": false,
+    "greeting": "Hello!"
+  },
+  {
+    "id": "tr-pamukkale",
+    "country": "TR",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "evil-eye-bead",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "vancouver",
+    "country": "CA",
+    "region": "BC",
+    "lat": 49.2827,
+    "lon": -123.1207,
+    "emblem": "pacific-dogwood",
+    "bundled": false,
+    "greeting": "Hello!"
+  },
+  {
+    "id": "venice",
+    "country": "IT",
+    "region": null,
+    "lat": 45.4408,
+    "lon": 12.3155,
+    "emblem": "gondola-prow",
+    "bundled": false,
+    "greeting": "Ciao!"
+  },
+  {
+    "id": "vienna",
+    "country": "AT",
+    "region": null,
+    "lat": 48.2082,
+    "lon": 16.3738,
+    "emblem": "edelweiss",
+    "bundled": false,
+    "greeting": "Servus!"
+  },
+  {
+    "id": "washingtondc",
+    "country": "US",
+    "region": "DC",
+    "lat": 38.9072,
+    "lon": -77.0369,
+    "emblem": "american-beauty-rose",
+    "bundled": false,
+    "greeting": "Hello!"
+  }
+]

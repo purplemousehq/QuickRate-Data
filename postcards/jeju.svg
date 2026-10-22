@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+<defs><linearGradient id="sk" x1="0" y1="0" x2="0" y2="222" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#e98f8a"/><stop offset="0.5" stop-color="#f9b98e"/><stop offset="1" stop-color="#ffe2a8"/></linearGradient>
+<linearGradient id="sea" x1="0" y1="222" x2="0" y2="300" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#2f8fa8"/><stop offset="1" stop-color="#1b5a78"/></linearGradient></defs>
+<rect width="400" height="300" fill="url(#sk)"/>
+<circle cx="318" cy="160" r="30" fill="#fff0b8"/>
+<g transform="translate(4.5 125.4) scale(0.23)"><path d="M531.2 15.9 L568.4 37.2 L642.8 58.5 L669.4 58.5 L685.3 47.8 L749.1 69.1 L834.1 63.8 L876.6 79.7 L892.5 74.4 L913.8 85.1 L950.9 85.1 L993.4 111.6 L1057.2 106.3 L1078.4 127.6 L1131.6 117 L1168.8 138.2 L1205.9 138.2 L1290.9 180.8 L1333.4 223.3 L1418.4 271.1 L1429.1 265.8 L1460.9 303 L1476.9 297.7 L1524.7 313.7 L1593.8 319 L1630.9 334.9 L1652.2 356.2 L1662.8 350.9 L1673.4 361.5 L1673.4 382.8 L1694.7 393.4 L1694.7 414.7 L0 414.7 L10.6 398.7 L10.6 366.8 L63.8 271.1 L63.8 239.2 L90.3 170.1 L122.2 127.6 L159.4 106.3 L164.7 90.4 L185.9 85.1 L207.2 101 L228.4 101 L244.4 79.7 L260.3 79.7 L276.2 63.8 L302.8 69.1 L340 95.7 L361.2 90.4 L419.7 31.9 L494.1 31.9Z" fill="#2b5e45"/></g>
+<rect y="222" width="400" height="78" fill="url(#sea)"/>
+<rect y="221" width="400" height="2" fill="#ffe7b0"/>
+<g fill="#ffe9b5" opacity=".85"><rect x="296" y="229" width="44" height="2"/><rect x="304" y="237" width="30" height="2"/><rect x="286" y="246" width="58" height="2.5"/><rect x="312" y="256" width="22" height="2"/><rect x="278" y="268" width="70" height="3"/></g>
+</svg>
