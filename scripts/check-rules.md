@@ -10,7 +10,9 @@ This is the brief for the weekly cloud routine. The routine checks `real-price-r
 2. Compare these values with what the source says now:
    - tax lines: name, rate, added vs. included;
    - service charge: kind, rate, plusPlus, serviceTaxed;
-   - tip custom: kind, min, usual, generous.
+   - tip custom: kind, min, usual, generous;
+   - shop tax (`shopTaxes`, `shopPricesIncludeTax`): rate, added vs. included in the shelf price.
+   - Each source's `covers` says which of these it backs: compare a source only against the values it covers (a shop-tax source says nothing about restaurant tax, and the reverse).
    - A difference counts only when the source states a new value **and** an effective date, or clearly replaces the old one. Wording changes don't count.
 3. If a source is unreachable on both the live site and Wayback, list it in the report. Don't change the rule.
 
