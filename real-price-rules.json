@@ -4622,7 +4622,7 @@
   },
   {
    "code": "CA-QC",
-   "name": "Quebec",
+   "name": "Québec",
    "currency": "CAD",
    "pricesIncludeTax": false,
    "taxes": [
