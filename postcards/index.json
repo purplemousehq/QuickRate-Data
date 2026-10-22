@@ -1,5 +1,15 @@
 [
   {
+    "id": "ae-liwaoasis",
+    "country": "AE",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "falcon",
+    "bundled": false,
+    "greeting": null
+  },
+  {
     "id": "agra",
     "country": "IN",
     "region": null,
@@ -8,6 +18,16 @@
     "emblem": "peacock",
     "bundled": false,
     "greeting": "नमस्ते!"
+  },
+  {
+    "id": "at-grossglocknerhighalpineroad",
+    "country": "AT",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "edelweiss",
+    "bundled": false,
+    "greeting": null
   },
   {
     "id": "athens",
@@ -110,6 +130,16 @@
     "greeting": "¡Hola!"
   },
   {
+    "id": "ch-landwasserviaduct",
+    "country": "CH",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "alpine-ibex",
+    "bundled": false,
+    "greeting": null
+  },
+  {
     "id": "chiangmai",
     "country": "TH",
     "region": null,
@@ -150,6 +180,16 @@
     "greeting": "Xin chào!"
   },
   {
+    "id": "de-neuschwansteincastle",
+    "country": "DE",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "gentian",
+    "bundled": false,
+    "greeting": null
+  },
+  {
     "id": "delhi",
     "country": "IN",
     "region": null,
@@ -188,6 +228,16 @@
     "emblem": "tuscan-iris",
     "bundled": false,
     "greeting": "Ciao!"
+  },
+  {
+    "id": "fr-montsaintmichel",
+    "country": "FR",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "gallic-rooster",
+    "bundled": false,
+    "greeting": null
   },
   {
     "id": "gb-stonehenge",
@@ -276,6 +326,16 @@
     "lat": null,
     "lon": null,
     "emblem": "dalmatian-dog",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "it-trecimedilavaredo",
+    "country": "IT",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "italian-cypress",
     "bundled": false,
     "greeting": null
   },
@@ -398,6 +458,16 @@
     "emblem": "peacock",
     "bundled": false,
     "greeting": "नमस्ते!"
+  },
+  {
+    "id": "mx-chichenitza",
+    "country": "MX",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "dahlia",
+    "bundled": false,
+    "greeting": null
   },
   {
     "id": "neworleans",
@@ -546,6 +616,36 @@
     "lat": null,
     "lon": null,
     "emblem": "evil-eye-bead",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "us-ca-yosemitevalley",
+    "country": "US",
+    "region": "CA",
+    "lat": null,
+    "lon": null,
+    "emblem": "california-poppy",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "us-fl-kennedyspacecenter",
+    "country": "US",
+    "region": "FL",
+    "lat": null,
+    "lon": null,
+    "emblem": "orange-blossom",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "us-ny-niagarafallsamericanfalls",
+    "country": "US",
+    "region": "NY",
+    "lat": null,
+    "lon": null,
+    "emblem": "bluebird",
     "bundled": false,
     "greeting": null
   },
