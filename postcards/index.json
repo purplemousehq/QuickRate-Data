@@ -204,6 +204,16 @@
     "mediumX": -52
   },
   {
+    "id": "cz-ceskykrumlov",
+    "country": "CZ",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "linden-leaf",
+    "bundled": false,
+    "greeting": null
+  },
+  {
     "id": "danang",
     "country": "VN",
     "region": null,
@@ -250,6 +260,16 @@
     "greeting": "Dia duit!",
     "mediumZoom": 1.0,
     "mediumX": 0
+  },
+  {
+    "id": "eg-abusimbel",
+    "country": "EG",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "blue-lotus",
+    "bundled": false,
+    "greeting": null
   },
   {
     "id": "es-puentenuevoronda",
@@ -394,6 +414,26 @@
     "greeting": null,
     "mediumZoom": 1.0,
     "mediumX": 0
+  },
+  {
+    "id": "hu-tihanyabbey",
+    "country": "HU",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "red-paprika",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "ie-cliffsofmoher",
+    "country": "IE",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "shamrock",
+    "bundled": false,
+    "greeting": null
   },
   {
     "id": "it-trecimedilavaredo",
@@ -610,6 +650,16 @@
     "greeting": "สวัสดี!",
     "mediumZoom": 1.05,
     "mediumX": -14
+  },
+  {
+    "id": "pl-malborkcastle",
+    "country": "PL",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "white-stork",
+    "bundled": false,
+    "greeting": null
   },
   {
     "id": "prague",
