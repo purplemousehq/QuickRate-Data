@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="300" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#7fa6bd"/><stop offset="0.6" stop-color="#eec28c"/><stop offset="1" stop-color="#f3a25e"/></linearGradient>
+</defs>
+<g id="sky"><rect width="400" height="300" fill="url(#sky)"/><rect y="196" width="400" height="18" fill="#fbe2b8" opacity="0.35"/></g>
+<g id="celestial"><circle cx="330" cy="150" r="30" fill="#ffe7a8" opacity="0.28"/><circle cx="330" cy="150" r="14" fill="#fff2c9"/></g>
+<g id="background"><path d="M0 232 Q60 222 120 230 T260 226 T400 230 L400 300 L0 300Z" fill="#b8694a"/></g>
+<g id="landmark"><path d="M77.5 285.0 L85.0 266.2 L97.5 247.5 L107.5 240.0 L132.5 233.4 L145.0 227.8 L157.5 224.1 L170.0 221.2 L182.5 220.3 L200.0 219.4 L207.5 220.1 L220.0 223.9 L232.5 228.8 L245.0 233.6 L257.5 239.1 L270.0 246.6 L282.5 256.9 L290.0 271.9 L291.5 285.0 L291.5 285.0 L77.5 285.0 Z" fill="#b5532f"/><path d="M202.5 221.2 L190.0 247.5 L182.5 283.1" fill="none" stroke="#7a2f1f" stroke-width="1.2" opacity="0.55" stroke-linecap="round"/><path d="M222.5 225.0 L217.5 256.9 L212.5 281.2" fill="none" stroke="#7a2f1f" stroke-width="1.2" opacity="0.55" stroke-linecap="round"/><path d="M170.0 225.0 L152.5 247.5 L137.5 277.5" fill="none" stroke="#7a2f1f" stroke-width="1.2" opacity="0.55" stroke-linecap="round"/><path d="M252.5 236.2 L250.0 258.8 L257.5 277.5" fill="none" stroke="#7a2f1f" stroke-width="1.2" opacity="0.55" stroke-linecap="round"/></g>
+<g id="foreground"><rect y="282" width="400" height="18" fill="#8c4a2a"/><ellipse cx="200" cy="285" rx="150" ry="5" fill="#8c4a2a"/>
+<path d="M300 282 L301 262 L303 250 M301 262 L293 256 M303 250 L310 246" fill="none" stroke="#3d4a2a" stroke-width="2.2" stroke-linecap="round"/>
+<ellipse cx="312" cy="250" rx="16" ry="9" fill="#4f5a30"/>
+<path d="M120 282 Q150 268 180 282 Z M240 282 Q262 272 280 282 Z" fill="#5c5a2a"/>
+</g>
+</svg>

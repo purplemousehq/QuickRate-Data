@@ -48,6 +48,16 @@
     "mediumX": 0
   },
   {
+    "id": "au-uluru",
+    "country": "AU",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "kangaroo",
+    "bundled": false,
+    "greeting": null
+  },
+  {
     "id": "auckland",
     "country": "NZ",
     "region": null,
@@ -514,6 +524,16 @@
     "mediumX": 0
   },
   {
+    "id": "kr-bulguksa",
+    "country": "KR",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "korean-magpie",
+    "bundled": false,
+    "greeting": null
+  },
+  {
     "id": "lasvegas",
     "country": "US",
     "region": "NV",
@@ -548,6 +568,16 @@
     "greeting": "Hello!",
     "mediumZoom": 1.45,
     "mediumX": 98
+  },
+  {
+    "id": "ma-merzouga",
+    "country": "MA",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "fennec-fox",
+    "bundled": false,
+    "greeting": null
   },
   {
     "id": "manila",
@@ -664,6 +694,16 @@
     "lat": null,
     "lon": null,
     "emblem": "moose",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "nz-milfordsound",
+    "country": "NZ",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "kiwi",
     "bundled": false,
     "greeting": null
   },
@@ -926,5 +966,15 @@
     "greeting": "Hello!",
     "mediumZoom": 1.0,
     "mediumX": 0
+  },
+  {
+    "id": "za-kruger",
+    "country": "ZA",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "king-protea",
+    "bundled": false,
+    "greeting": null
   }
 ]
