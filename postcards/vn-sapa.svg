@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="300" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#b9c9d2"/><stop offset="0.5" stop-color="#dfe5e3"/><stop offset="1" stop-color="#eef0ea"/>
+</linearGradient>
+</defs>
+<g id="sky">
+<rect width="400" height="300" fill="url(#sky)"/>
+<ellipse cx="80" cy="46" rx="110" ry="12" fill="#f4f6f2" opacity=".8"/>
+<ellipse cx="300" cy="62" rx="120" ry="14" fill="#f4f6f2" opacity=".7"/>
+</g>
+<g id="celestial"></g>
+<g id="background">
+<path d="M0 300 L0 120 L56.8 75.9 L65.6 74.4 L81.8 72.4 L98.0 74.7 L111.2 73.0 L125.9 73.5 L139.1 72.1 L159.7 70.0 L174.4 71.2 L189.1 72.4 L203.8 70.6 L218.5 73.0 L231.7 68.6 L244.9 64.1 L262.6 61.2 L280.2 58.3 L292.0 58.3 L400 300 Z" fill="#8fa3a6"/>
+<path d="M0 150 L80 136 L160 146 L260 132 L360 144 L400 138 L400 300 L0 300 Z" fill="#6f8a7f"/>
+</g>
+<g id="landmark">
+<path d="M120.0 122.9 L125.9 120.0 L139.1 122.9 L159.7 127.3 L177.3 134.7 L195.0 142.1 L215.6 149.4 L240.5 153.8 L262.6 152.3 L280.2 146.5 L280.2 170.0 L262.6 184.7 L244.9 195.0 L218.5 195.0 L189.1 193.5 L159.7 181.7 L145.0 170.0 L133.2 158.2 L121.5 146.5 L120.0 122.9 Z" fill="#a9a66e"/>
+<path d="M122.9 134.7 L159.7 140.6 L189.1 146.5 L218.5 152.3 L247.9 155.3 L277.3 152.3" fill="none" stroke="#e0d6a4" stroke-width="1.1" opacity=".8"/>
+<path d="M121.5 143.5 L150.9 149.4 L177.3 155.3 L203.8 161.2 L233.2 164.1 L265.5 164.1" fill="none" stroke="#e0d6a4" stroke-width="1.1" opacity=".8"/>
+<path d="M133.2 158.2 L159.7 164.1 L189.1 170.0 L218.5 174.4 L247.9 175.9 L269.9 175.9" fill="none" stroke="#e0d6a4" stroke-width="1.1" opacity=".8"/>
+<path d="M150.9 174.4 L177.3 180.3 L203.8 184.7 L230.2 187.6 L255.2 189.1" fill="none" stroke="#e0d6a4" stroke-width="1.1" opacity=".8"/>
+</g>
+<g id="foreground">
+<path d="M0 170 Q60 150 120 176 T230 190 L230 300 L0 300 Z" fill="#4f6a55"/>
+<path d="M0 222 Q80 200 160 232 T330 250 T400 240 L400 300 L0 300 Z" fill="#3c5a45"/>
+<path d="M300 268 Q360 254 400 262 L400 300 L300 300 Z" fill="#5a7a58"/>
+</g>
+</svg>

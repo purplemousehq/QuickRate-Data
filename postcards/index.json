@@ -456,12 +456,32 @@
     "greeting": null
   },
   {
+    "id": "id-mountbromo",
+    "country": "ID",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "frangipani",
+    "bundled": false,
+    "greeting": null
+  },
+  {
     "id": "ie-cliffsofmoher",
     "country": "IE",
     "region": null,
     "lat": null,
     "lon": null,
     "emblem": "shamrock",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "in-keralabackwaters",
+    "country": "IN",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "peacock",
     "bundled": false,
     "greeting": null
   },
@@ -662,6 +682,16 @@
     "greeting": null,
     "mediumZoom": 1.1,
     "mediumX": 6
+  },
+  {
+    "id": "my-mountkinabalu",
+    "country": "MY",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "hibiscus",
+    "bundled": false,
+    "greeting": null
   },
   {
     "id": "neworleans",
@@ -884,6 +914,16 @@
     "mediumX": 5
   },
   {
+    "id": "tw-tarokogorge",
+    "country": "TW",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "",
+    "bundled": false,
+    "greeting": null
+  },
+  {
     "id": "us-ca-yosemitevalley",
     "country": "US",
     "region": "CA",
@@ -954,6 +994,16 @@
     "greeting": "Servus!",
     "mediumZoom": 1.0,
     "mediumX": 15
+  },
+  {
+    "id": "vn-sapa",
+    "country": "VN",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "lotus",
+    "bundled": false,
+    "greeting": null
   },
   {
     "id": "washingtondc",

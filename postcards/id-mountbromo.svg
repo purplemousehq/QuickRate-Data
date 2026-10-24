@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="300" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#2e3d6e"/><stop offset="0.35" stop-color="#8e5a7a"/><stop offset="0.6" stop-color="#e98a5a"/><stop offset="0.8" stop-color="#f7c978"/><stop offset="1" stop-color="#f5d9a0"/>
+</linearGradient>
+</defs>
+<g id="sky">
+<rect width="400" height="300" fill="url(#sky)"/>
+<rect x="0" y="118" width="400" height="20" fill="#f7c978" opacity=".35"/>
+</g>
+<g id="celestial">
+<circle cx="322" cy="104" r="12" fill="#ffd27a"/>
+</g>
+<g id="background">
+<path d="M0 142 L40 136 L80 140 L120 132 L160 138 L200 130 L240 136 L280 128 L320 136 L360 132 L400 140 L400 200 L0 200 Z" fill="#4b3d56" opacity=".85"/>
+</g>
+<g id="landmark">
+<path d="M120.0 146.7 L129.4 157.7 L151.4 168.7 L173.4 173.4 L204.8 173.4 L236.2 173.4 L258.2 168.7 L273.9 154.5 L280.1 135.7 Z" fill="#7a6d66"/>
+<path d="M120.0 146.7 L129.4 138.8 L145.1 127.8 L167.1 120.0 L185.9 123.1 L198.5 129.4 L220.5 131.9 L236.2 132.6 L251.9 129.4 L269.1 126.3 L280.1 135.7 L273.9 146.7 L258.2 157.7 L236.2 164.0 L204.8 165.8 L173.4 165.8 L151.4 164.9 L129.4 157.7 L120.0 146.7 Z" fill="#8a7f78"/>
+<path d="M120.0 146.7 L129.4 138.8 L145.1 127.8 L167.1 120.0 L185.9 123.1 L198.5 129.4 L220.5 131.9 L236.2 132.6 L251.9 129.4 L269.1 126.3 L267.6 132.6 L251.9 134.1 L220.5 135.7 L198.5 132.6 L173.4 129.4 L148.3 134.1 L129.4 142.0 L120.0 146.7 Z" fill="#d9b48e"/>
+<path d="M123.1 148.3 L135.7 145.1 L157.7 138.8 L182.8 135.7 L204.8 134.1 L226.8 135.4 L244.0 138.8 L256.6 145.1 L251.9 154.5 L236.2 160.0 L204.8 161.6 L173.4 161.6 L151.4 160.0 L131.0 155.3 L123.1 148.3 Z" fill="#4e4543"/>
+<ellipse cx="204.8" cy="123.1" rx="9" ry="3.5" fill="#e8dccb" opacity=".55"/>
+<ellipse cx="214.2" cy="118.4" rx="6" ry="2.5" fill="#e8dccb" opacity=".45"/>
+</g>
+<g id="foreground">
+<path d="M0 170 Q60 164 120 170 T240 168 T400 166 L400 300 L0 300 Z" fill="#5b4c48"/>
+<path d="M0 186 Q70 180 140 188 T280 184 T400 182 L400 300 L0 300 Z" fill="#3f3434"/>
+<path d="M0 214 Q80 206 160 214 T320 210 T400 208 L400 300 L0 300 Z" fill="#2c2426"/>
+</g>
+</svg>

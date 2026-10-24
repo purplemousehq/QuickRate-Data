@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="300" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#e9b874"/><stop offset="0.45" stop-color="#f6d79a"/><stop offset="0.7" stop-color="#fbe8bf"/><stop offset="1" stop-color="#f8dcaa"/>
+</linearGradient>
+</defs>
+<g id="sky">
+<rect width="400" height="300" fill="url(#sky)"/>
+</g>
+<g id="celestial">
+<circle cx="345" cy="104" r="22" fill="#fff2c4" opacity=".45"/>
+<circle cx="345" cy="104" r="12" fill="#fff8e0"/>
+</g>
+<g id="background">
+<path d="M92.6 146.2 L100.8 127.1 L117.3 122.9 L137.8 125.7 L147.4 118.8 L163.8 110.6 L180.3 118.8 L196.7 112.0 L215.9 96.9 L243.3 99.7 L265.2 113.4 L273.4 122.9 L298.1 121.6 L311.8 125.7 L311.8 149.0 L92.6 149.0 Z" fill="#5f7f4a"/>
+<path d="M200.8 109.2 L202.2 80.5 L203.0 80.5 L203.3 109.2 Z" fill="#5b4a2e"/>
+<ellipse cx="169.3" cy="107.9" rx="23.3" ry="16.4" fill="#3f6035"/>
+<ellipse cx="224.1" cy="112.0" rx="30.1" ry="17.8" fill="#3f6035"/>
+</g>
+<g id="landmark">
+<path d="M120.0 165.1 L138.5 159.7 L147.4 152.8 L265.9 152.8 L279.6 166.0 L256.3 159.7 L138.5 159.7 Z" fill="#3e3026" opacity=".35"/>
+<path d="M139.2 174.7 L256.3 175.8 L256.3 159.7 L139.2 159.7 Z" fill="#9c7a4e" opacity=".3"/>
+<path d="M120.0 140.5 L138.5 146.0 L147.4 152.8 L265.9 152.8 L279.6 139.7 L256.3 146.0 L138.5 146.0 Z" fill="#3e3026"/>
+<path d="M139.2 130.9 L256.3 129.8 L256.3 146.0 L139.2 146.0 Z" fill="#b08a55"/>
+<path d="M151.5 128.7 L169.3 126.5 L188.5 125.4 L213.2 125.0 L229.6 126.0 L244.7 127.6 L246.0 131.4 L151.5 131.4 Z" fill="#8c6c40"/>
+<rect x="174.8" y="135.3" width="5.48" height="10.28" fill="#f7f1e2"/><rect x="184.1" y="135.3" width="5.48" height="10.28" fill="#f7f1e2"/><rect x="198.4" y="135.3" width="5.48" height="10.28" fill="#f7f1e2"/><rect x="212.9" y="135.3" width="4.66" height="10.28" fill="#f7f1e2"/><rect x="221.7" y="135.3" width="4.93" height="10.28" fill="#f7f1e2"/>
+</g>
+<g id="foreground">
+<rect y="152" width="400" height="148" fill="#8aa39a"/>
+<path d="M140 160 L260 160" stroke="#f8dcaa" stroke-width="0.8" opacity=".6"/>
+<path d="M60 176 L170 176 M230 190 L340 190 M90 210 L210 210" stroke="#c9d8cf" stroke-width="0.8" opacity=".5"/>
+<ellipse cx="90" cy="232" rx="5" ry="1.8" fill="#4f7560"/>
+<ellipse cx="300" cy="256" rx="6" ry="2" fill="#4f7560"/>
+</g>
+</svg>
