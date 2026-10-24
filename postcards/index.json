@@ -250,6 +250,16 @@
     "mediumX": 0
   },
   {
+    "id": "dk-kronborgcastle",
+    "country": "DK",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "mute-swan",
+    "bundled": false,
+    "greeting": null
+  },
+  {
     "id": "dublin",
     "country": "IE",
     "region": null,
@@ -282,6 +292,16 @@
     "greeting": null,
     "mediumZoom": 1.0,
     "mediumX": 0
+  },
+  {
+    "id": "fi-olavinlinna",
+    "country": "FI",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "whooper-swan",
+    "bundled": false,
+    "greeting": null
   },
   {
     "id": "florence",
@@ -432,6 +452,16 @@
     "lat": null,
     "lon": null,
     "emblem": "shamrock",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "is-gullfoss",
+    "country": "IS",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "atlantic-puffin",
     "bundled": false,
     "greeting": null
   },
@@ -628,6 +658,16 @@
     "mediumX": 118
   },
   {
+    "id": "no-geirangerfjord",
+    "country": "NO",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "moose",
+    "bundled": false,
+    "greeting": null
+  },
+  {
     "id": "orlando",
     "country": "US",
     "region": "FL",
@@ -708,6 +748,16 @@
     "greeting": "こんにちは!",
     "mediumZoom": 1.1,
     "mediumX": -8
+  },
+  {
+    "id": "se-dalarna",
+    "country": "SE",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "dala-horse",
+    "bundled": false,
+    "greeting": null
   },
   {
     "id": "seattle",
