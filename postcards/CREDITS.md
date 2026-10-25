@@ -130,10 +130,6 @@ All references are from Wikimedia Commons and are public domain, CC0 or CC BY. F
 | cz-ceskykrumlov (emblem) | Linden leaf: copied from em-linden-leaf | none | Existing QuickFX emblem | Own work |
 | hu-tihanyabbey | Tihany Abbey twin towers with onion domes | [Tihany, Hungary - panoramio (23).jpg](https://commons.wikimedia.org/wiki/File:Tihany,_Hungary_-_panoramio_(23).jpg) | Victor Belousov | CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) |
 | hu-tihanyabbey (emblem) | Red paprika: copied from em-red-paprika | none | Existing QuickFX emblem | Own work |
-| ie-cliffsofmoher | Cliff face and strata, grassy top, sea | [CliffsofMoher 001.jpg](https://commons.wikimedia.org/wiki/File:CliffsofMoher_001.jpg) | Höstblomma | CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) |
-| ie-cliffsofmoher (emblem) | Shamrock: copied from em-shamrock | none | Existing QuickFX emblem | Own work |
-| eg-abusimbel | Great Temple facade with four seated colossi | [Großer Tempel (Abu Simbel) 01.jpg](https://commons.wikimedia.org/wiki/File:Gro%C3%9Fer_Tempel_(Abu_Simbel)_01.jpg) | Olaf Tausch | CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) |
-| eg-abusimbel (emblem) | Blue lotus: copied from em-blue-lotus | none | Existing QuickFX emblem | Own work |
 | fi-olavinlinna | Olavinlinna towers, conical roofs and curtain wall | [Olavinlinna in Savonlinna Finland.JPG](https://commons.wikimedia.org/wiki/File:Olavinlinna_in_Savonlinna_Finland.JPG) | Pöllö | CC BY 2.5 (https://creativecommons.org/licenses/by/2.5) |
 | dk-kronborgcastle | Kronborg block, green copper spires | [20200815 Yachthamnen og Kronborg Slot Helsingor 001-2 (50234448536).jpg](https://commons.wikimedia.org/wiki/File:20200815_Yachthamnen_og_Kronborg_Slot_Helsingor_001-2_(50234448536).jpg) | Johan Wessman / News Oresund | CC BY 2.0 (https://creativecommons.org/licenses/by/2.0) |
 | se-dalarna | Red house with white trim, chimneys | [Suntak Sweden 01.JPG](https://commons.wikimedia.org/wiki/File:Suntak_Sweden_01.JPG) | Nasko | CC0 (https://creativecommons.org/publicdomain/zero/1.0/deed.en) |
@@ -145,3 +141,11 @@ All references are from Wikimedia Commons and are public domain, CC0 or CC BY. F
 | za-kruger | Adult elephant and calf at the waterhole | [Finding a nice cool drink (394400272).jpg](https://commons.wikimedia.org/wiki/File:Finding_a_nice_cool_drink_(394400272).jpg) | Chris Eason | CC BY 2.0 (https://creativecommons.org/licenses/by/2.0) |
 | za-kruger (emblem) | King protea bloom, leaves and stem | [Protea cynaroides.jpg](https://commons.wikimedia.org/wiki/File:Protea_cynaroides.jpg) | Andrew Massyn | Public domain |
 | ma-merzouga | Sahara dune ridge and peaks | [Erg Chebbi (54239244419).jpg](https://commons.wikimedia.org/wiki/File:Erg_Chebbi_(54239244419).jpg) | Jorge Franganillo | CC BY 2.0 (https://creativecommons.org/licenses/by/2.0) |
+| ie-cliffsofmoher | Cliff face and strata, grassy top, sea | [CliffsofMoher 001.jpg](https://commons.wikimedia.org/wiki/File:CliffsofMoher_001.jpg) | Höstblomma | CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) |
+| ie-cliffsofmoher (emblem) | Shamrock: copied from em-shamrock | none | Existing QuickFX emblem | Own work |
+| ie-cliffsofmoher | Cliff outline, grass top, sandstone shelf, sea stack, O'Brien's Tower, headland (strata lines are generated texture) | [CliffsofMoher 001.jpg](https://commons.wikimedia.org/wiki/File:CliffsofMoher_001.jpg) | Höstblomma | CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) |
+| ie-cliffsofmoher (emblem) | Shamrock: unchanged, copied from em-shamrock | none | Existing QuickFX emblem | Own work |
+| eg-abusimbel | Great Temple facade with four seated colossi | [Großer Tempel (Abu Simbel) 01.jpg](https://commons.wikimedia.org/wiki/File:Gro%C3%9Fer_Tempel_(Abu_Simbel)_01.jpg) | Olaf Tausch | CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) |
+| eg-abusimbel (emblem) | Blue lotus: copied from em-blue-lotus | none | Existing QuickFX emblem | Own work |
+| eg-abusimbel | Rock hill outline, recessed facade, four colossi, door, niche, frieze, platform, brick wall, acacia | [Großer Tempel (Abu Simbel) 01.jpg](https://commons.wikimedia.org/wiki/File:Gro%C3%9Fer_Tempel_(Abu_Simbel)_01.jpg) | Olaf Tausch | CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) |
+| eg-abusimbel (emblem) | Blue lotus: unchanged, copied from em-blue-lotus | none | Existing QuickFX emblem | Own work |
