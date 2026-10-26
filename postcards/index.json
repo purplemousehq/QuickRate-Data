@@ -92,6 +92,16 @@
     "mediumX": 0
   },
   {
+    "id": "be-dinant",
+    "country": "BE",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "cornflower",
+    "bundled": false,
+    "greeting": null
+  },
+  {
     "id": "beijing",
     "country": "CN",
     "region": null,
@@ -114,6 +124,16 @@
     "greeting": "Hallo!",
     "mediumZoom": 1.3,
     "mediumX": 3
+  },
+  {
+    "id": "bg-rilamonastery",
+    "country": "BG",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "bulgarian-rose",
+    "bundled": false,
+    "greeting": null
   },
   {
     "id": "boston",
@@ -178,6 +198,26 @@
     "lat": null,
     "lon": null,
     "emblem": "pacific-dogwood",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "ca-on-parliamenthill",
+    "country": "CA",
+    "region": "ON",
+    "lat": null,
+    "lon": null,
+    "emblem": "white-trillium",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "ca-qc-percerock",
+    "country": "CA",
+    "region": "QC",
+    "lat": null,
+    "lon": null,
+    "emblem": "fleur-de-lis",
     "bundled": false,
     "greeting": null
   },
@@ -270,6 +310,16 @@
     "lat": null,
     "lon": null,
     "emblem": "mariposa",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "cy-capegreco",
+    "country": "CY",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "cyprus-mouflon",
     "bundled": false,
     "greeting": null
   },
