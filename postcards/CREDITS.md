@@ -167,3 +167,8 @@ All references are from Wikimedia Commons and are public domain, CC0 or CC BY. F
 | jm-dunnsriverfalls | Doctor bird (streamertail) | Original geometric drawing | Purplemouse | n/a |
 | ph-chocolatehills | Conical grass hills in sunrise light | [Bohol's Chocolate Hills.jpg](https://commons.wikimedia.org/wiki/File:Bohol%27s_Chocolate_Hills.jpg) | rogel tura | CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
 | ph-chocolatehills | Sampaguita | Existing em-sampaguita imageset (reused) | Purplemouse | n/a |
+| ee-saaremaa | Windmill at Angla: sails, body, stone base | [Windmills at Angla, Saaremaa-ekkeekke.jpg](https://commons.wikimedia.org/wiki/File:Windmills_at_Angla,_Saaremaa-ekkeekke.jpg) | ekke vasli | CC BY 2.0 (https://creativecommons.org/licenses/by/2.0) |
+| lv-turaidacastle | Turaida Castle tower and gable outline | [2023 Turaida castle 1.jpg](https://commons.wikimedia.org/wiki/File:2023_Turaida_castle_1.jpg) | Qasinka | CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
+| br-iguacufalls | Central falls curtains and drop outlines | [Iguazu-Falls-January-2013.jpg](https://commons.wikimedia.org/wiki/File:Iguazu-Falls-January-2013.jpg) | Acediscovery | CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) |
+| ar-peritomoreno | Glacier front outline (centre section) | [Argentina - Perito Moreno Glacier 05.jpg](https://commons.wikimedia.org/wiki/File:Argentina_-_Perito_Moreno_Glacier_05.jpg) | P. Hughes | CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) |
+| pe-vinicunca | Mountain profile (striped bands are constructed) | [Rainbow Mountain Peru.jpg](https://commons.wikimedia.org/wiki/File:Rainbow_Mountain_Peru.jpg) | MareikeHeuer(WMDE) | CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en) |

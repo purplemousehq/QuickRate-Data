@@ -24,6 +24,16 @@
     "mediumX": 63
   },
   {
+    "id": "ar-peritomoreno",
+    "country": "AR",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "rufous-hornero",
+    "bundled": false,
+    "greeting": null
+  },
+  {
     "id": "at-grossglocknerhighalpineroad",
     "country": "AT",
     "region": null,
@@ -116,6 +126,16 @@
     "greeting": "Hello!",
     "mediumZoom": 1.45,
     "mediumX": 20
+  },
+  {
+    "id": "br-iguacufalls",
+    "country": "BR",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "toucan",
+    "bundled": false,
+    "greeting": null
   },
   {
     "id": "budapest",
@@ -330,6 +350,16 @@
     "greeting": "Dia duit!",
     "mediumZoom": 1.0,
     "mediumX": 0
+  },
+  {
+    "id": "ee-saaremaa",
+    "country": "EE",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "barn-swallow",
+    "bundled": false,
+    "greeting": null
   },
   {
     "id": "eg-abusimbel",
@@ -650,6 +680,16 @@
     "mediumX": 98
   },
   {
+    "id": "lv-turaidacastle",
+    "country": "LV",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "white-wagtail",
+    "bundled": false,
+    "greeting": null
+  },
+  {
     "id": "ma-merzouga",
     "country": "MA",
     "region": null,
@@ -808,6 +848,16 @@
     "greeting": "Hello!",
     "mediumZoom": 1.0,
     "mediumX": 0
+  },
+  {
+    "id": "pe-vinicunca",
+    "country": "PE",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "llama",
+    "bundled": false,
+    "greeting": null
   },
   {
     "id": "ph-chocolatehills",
