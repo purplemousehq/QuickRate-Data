@@ -142,6 +142,26 @@
     "mediumX": 0
   },
   {
+    "id": "ca-ab-lakelouise",
+    "country": "CA",
+    "region": "AB",
+    "lat": null,
+    "lon": null,
+    "emblem": "wild-rose",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "ca-bc-whistler",
+    "country": "CA",
+    "region": "BC",
+    "lat": null,
+    "lon": null,
+    "emblem": "pacific-dogwood",
+    "bundled": false,
+    "greeting": null
+  },
+  {
     "id": "cairo",
     "country": "EG",
     "region": null,
@@ -946,6 +966,26 @@
     "greeting": null,
     "mediumZoom": 1.05,
     "mediumX": 60
+  },
+  {
+    "id": "us-hi-napalicoast",
+    "country": "US",
+    "region": "HI",
+    "lat": null,
+    "lon": null,
+    "emblem": "hibiscus",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "us-nv-laketahoe",
+    "country": "US",
+    "region": "NV",
+    "lat": null,
+    "lon": null,
+    "emblem": "bighorn-sheep",
+    "bundled": false,
+    "greeting": null
   },
   {
     "id": "us-ny-niagarafallsamericanfalls",

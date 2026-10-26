@@ -149,3 +149,11 @@ All references are from Wikimedia Commons and are public domain, CC0 or CC BY. F
 | eg-abusimbel (emblem) | Blue lotus: copied from em-blue-lotus | none | Existing QuickFX emblem | Own work |
 | eg-abusimbel | Rock hill outline, recessed facade, four colossi, door, niche, frieze, platform, brick wall, acacia | [Großer Tempel (Abu Simbel) 01.jpg](https://commons.wikimedia.org/wiki/File:Gro%C3%9Fer_Tempel_(Abu_Simbel)_01.jpg) | Olaf Tausch | CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) |
 | eg-abusimbel (emblem) | Blue lotus: unchanged, copied from em-blue-lotus | none | Existing QuickFX emblem | Own work |
+| us-hi-napalicoast | Na Pali coast ridges and sea, misty light | [Na Pali Coast - Kauai.jpg](https://commons.wikimedia.org/wiki/File:Na_Pali_Coast_-_Kauai.jpg) | Unknown (Commons upload) | Public domain |
+| us-hi-napalicoast (emblem) | Hibiscus stamp, copied from em-hibiscus | n/a (Purplemouse emblem) | Purplemouse | n/a |
+| us-nv-laketahoe | Emerald Bay and Fannette Island, snowy light | [Emerald Bay, Lake Tahoe, California. 2015.jpg](https://commons.wikimedia.org/wiki/File:Emerald_Bay,_Lake_Tahoe,_California._2015.jpg) | Eric Philbin | CC0 |
+| us-nv-laketahoe (emblem) | Bighorn sheep stamp, copied from em-bighorn-sheep | n/a (Purplemouse emblem) | Purplemouse | n/a |
+| ca-ab-lakelouise | Lake Louise dock, canoes and turquoise water, bright morning | [Canoes at Lake Louise (6459194277).jpg](https://commons.wikimedia.org/wiki/File:Canoes_at_Lake_Louise_(6459194277).jpg) | Flickr user (see file page) | CC BY 2.0 (https://creativecommons.org/licenses/by/2.0) |
+| ca-ab-lakelouise (emblem) | Wild rose stamp, drawn from scratch | n/a (Purplemouse emblem) | Purplemouse | n/a |
+| ca-bc-whistler | Peak 2 Peak gondola cabins over the runs, blue winter day | [Peak to peak gondola (3131865423).jpg](https://commons.wikimedia.org/wiki/File:Peak_to_peak_gondola_(3131865423).jpg) | Flickr user (see file page) | CC BY 2.0 (https://creativecommons.org/licenses/by/2.0) |
+| ca-bc-whistler (emblem) | Pacific dogwood stamp, copied from em-pacific-dogwood | n/a (Purplemouse emblem) | Purplemouse | n/a |
