@@ -234,6 +234,26 @@
     "mediumX": -52
   },
   {
+    "id": "cr-manuelantonio",
+    "country": "CR",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "guaria-morada-orchid",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "cu-vinales",
+    "country": "CU",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "mariposa",
+    "bundled": false,
+    "greeting": null
+  },
+  {
     "id": "cz-ceskykrumlov",
     "country": "CZ",
     "region": null,
@@ -286,6 +306,16 @@
     "lat": null,
     "lon": null,
     "emblem": "mute-swan",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "do-saonaisland",
+    "country": "DO",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "bayahibe-rose",
     "bundled": false,
     "greeting": null
   },
@@ -552,6 +582,16 @@
     "mediumX": -10
   },
   {
+    "id": "jm-dunnsriverfalls",
+    "country": "JM",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "doctor-bird",
+    "bundled": false,
+    "greeting": null
+  },
+  {
     "id": "jp-himejicastle",
     "country": "JP",
     "region": null,
@@ -768,6 +808,16 @@
     "greeting": "Hello!",
     "mediumZoom": 1.0,
     "mediumX": 0
+  },
+  {
+    "id": "ph-chocolatehills",
+    "country": "PH",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "sampaguita",
+    "bundled": false,
+    "greeting": null
   },
   {
     "id": "phuket",
