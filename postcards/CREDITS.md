@@ -157,3 +157,13 @@ All references are from Wikimedia Commons and are public domain, CC0 or CC BY. F
 | ca-ab-lakelouise (emblem) | Wild rose stamp, drawn from scratch | n/a (Purplemouse emblem) | Purplemouse | n/a |
 | ca-bc-whistler | Peak 2 Peak gondola cabins over the runs, blue winter day | [Peak to peak gondola (3131865423).jpg](https://commons.wikimedia.org/wiki/File:Peak_to_peak_gondola_(3131865423).jpg) | Flickr user (see file page) | CC BY 2.0 (https://creativecommons.org/licenses/by/2.0) |
 | ca-bc-whistler (emblem) | Pacific dogwood stamp, copied from em-pacific-dogwood | n/a (Purplemouse emblem) | Purplemouse | n/a |
+| cr-manuelantonio | Forested headland, bay and beach composition | [Manuel Antonio National Park.jpg](https://commons.wikimedia.org/wiki/File:Manuel_Antonio_National_Park.jpg) | RAMDOM_X | Public domain |
+| cr-manuelantonio | Guaria morada orchid | Original geometric drawing | Purplemouse | n/a |
+| do-saonaisland | Palm beach, turquoise water, sand line | [Saona Island.jpg](https://commons.wikimedia.org/wiki/File:Saona_Island.jpg) | User:Tria… (see file page) | Public domain |
+| do-saonaisland | Bayahibe rose | Original geometric drawing | Purplemouse | n/a |
+| cu-vinales | Limestone mogotes and tobacco-field valley | [CUBA. VINALES (7).jpg](https://commons.wikimedia.org/wiki/File:CUBA._VINALES_(7).jpg) | User:Maur… (see file page) | CC0 |
+| cu-vinales | Mariposa (white ginger lily) | Original geometric drawing | Purplemouse | n/a |
+| jm-dunnsriverfalls | Terraced cascade and pool | [Dunn's River Falls.jpg](https://commons.wikimedia.org/wiki/File:Dunn%27s_River_Falls.jpg) | Thank You (23 Millions+) views (Flickr user, see file page) | CC BY 2.0 (https://creativecommons.org/licenses/by/2.0) |
+| jm-dunnsriverfalls | Doctor bird (streamertail) | Original geometric drawing | Purplemouse | n/a |
+| ph-chocolatehills | Conical grass hills in sunrise light | [Bohol's Chocolate Hills.jpg](https://commons.wikimedia.org/wiki/File:Bohol%27s_Chocolate_Hills.jpg) | rogel tura | CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
+| ph-chocolatehills | Sampaguita | Existing em-sampaguita imageset (reused) | Purplemouse | n/a |
