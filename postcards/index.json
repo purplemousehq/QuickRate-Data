@@ -202,6 +202,36 @@
     "greeting": null
   },
   {
+    "id": "ca-mb-churchill",
+    "country": "CA",
+    "region": "MB",
+    "lat": null,
+    "lon": null,
+    "emblem": "prairie-crocus",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "ca-nb-hopewellrocks",
+    "country": "CA",
+    "region": "NB",
+    "lat": null,
+    "lon": null,
+    "emblem": "purple-violet",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "ca-nl-twillingate",
+    "country": "CA",
+    "region": "NL",
+    "lat": null,
+    "lon": null,
+    "emblem": "pitcher-plant",
+    "bundled": false,
+    "greeting": null
+  },
+  {
     "id": "ca-on-parliamenthill",
     "country": "CA",
     "region": "ON",
@@ -212,12 +242,32 @@
     "greeting": null
   },
   {
+    "id": "ca-pe-greengables",
+    "country": "CA",
+    "region": "PE",
+    "lat": null,
+    "lon": null,
+    "emblem": "lady-s-slipper",
+    "bundled": false,
+    "greeting": null
+  },
+  {
     "id": "ca-qc-percerock",
     "country": "CA",
     "region": "QC",
     "lat": null,
     "lon": null,
     "emblem": "fleur-de-lis",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "ca-sk-prairie",
+    "country": "CA",
+    "region": "SK",
+    "lat": null,
+    "lon": null,
+    "emblem": "western-red-lily",
     "bundled": false,
     "greeting": null
   },
@@ -1022,6 +1072,16 @@
     "greeting": "你好!",
     "mediumZoom": 1.05,
     "mediumX": 3
+  },
+  {
+    "id": "si-predjamacastle",
+    "country": "SI",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "carniolan-honeybee",
+    "bundled": false,
+    "greeting": null
   },
   {
     "id": "siemreap",

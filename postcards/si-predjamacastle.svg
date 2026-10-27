@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+<defs><linearGradient id="skyGrad" x1="0" y1="0" x2="0" y2="300" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#7fa9c4"/><stop offset=".6" stop-color="#cfe3ee"/><stop offset="1" stop-color="#f3f8fb"/></linearGradient></defs>
+<g id="sky">
+<rect width="400" height="300" fill="url(#skyGrad)"/>
+<ellipse cx="62" cy="44" rx="46" ry="9" fill="#ffffff" opacity=".85"/>
+<ellipse cx="82" cy="36" rx="24" ry="8" fill="#ffffff" opacity=".85"/>
+<ellipse cx="330" cy="62" rx="54" ry="10" fill="#ffffff" opacity=".8"/>
+<ellipse cx="350" cy="54" rx="26" ry="9" fill="#ffffff" opacity=".8"/>
+</g>
+<g id="celestial"></g>
+<g id="background">
+<path d="M0 160L50 130L90 150L130 125L170 150L230 128L280 150L330 125L400 150L400 300L0 300Z" fill="#7d9bb0"/>
+<path d="M0 185L60 168L120 182L180 170L240 184L300 172L360 182L400 176L400 300L0 300Z" fill="#a9c2d3"/>
+<path d="M330 125L340 137L333 135L326 141L321 133Z" fill="#ffffff"/>
+</g>
+<g id="landmark">
+<path d="M137.0 119.4L147.2 116.8L159.1 116.0L193.1 116.0L193.1 136.4L198.2 145.8L211.8 147.4L239.0 144.1L256.9 141.5L266.2 139.8L266.2 160.2L256.0 167.0L244.1 172.1L232.2 178.9L222.0 187.4L213.5 195.9L201.6 201.0L191.4 207.8L182.9 216.3L174.4 219.7L164.2 218.0L160.8 215.4L154.0 207.8L145.5 197.6L137.0 184.0L131.9 167.0L126.0 144.9L128.5 124.5Z" fill="#5a5149"/>
+<path d="M159.1 122.8L162.5 122.8L161.7 150.0L159.1 150.0Z" fill="#8a7a66" opacity=".7"/>
+<path d="M135.3 136.4L137.8 136.4L139.6 167.0L137.0 167.0Z" fill="#7a6d5f" opacity=".6"/>
+<path d="M205.0 160.2L208.4 160.2L207.0 180.6L204.3 180.6Z" fill="#7a6d5f" opacity=".6"/>
+<path d="M159.1 195.9L170.2 204.4L174.4 218.0L167.6 220.0L159.1 213.8Z" fill="#2a2624"/>
+<path d="M193.1 116.0L266.2 116.0L266.2 144.9L256.0 143.2L239.0 144.1L211.8 147.4L198.2 145.8L193.1 136.4Z" fill="#e4dccb"/>
+<path d="M193.1 136.4L198.2 145.8L211.8 147.4L198.2 148.3L191.4 138.1Z" fill="#8a7a66" opacity=".6"/>
+<rect x="205.0" y="124.5" width="2.4" height="3.7" fill="#5a5149"/>
+<rect x="218.6" y="121.1" width="2.4" height="3.4" fill="#5a5149"/>
+<rect x="239.0" y="116.0" width="3.1" height="1.4" fill="#5a5149"/>
+<rect x="250.9" y="122.8" width="2.4" height="3.7" fill="#5a5149"/>
+<rect x="261.1" y="125.3" width="2.4" height="2.7" fill="#5a5149"/>
+<rect x="228.8" y="133.0" width="1.7" height="2.4" fill="#5a5149"/>
+<path d="M175.8 192.8L175.8 178.6L178.7 173.1L181.5 170.7L184.6 173.1L187.0 178.6L187.0 192.8Z" fill="#2a2624"/>
+<path d="M176.4 192.8L176.4 178.2L187.0 178.2L187.0 192.8Z" fill="#c9bfae"/>
+<path d="M179.8 192.8L179.8 188.1L182.9 186.0L183.6 188.1L183.6 192.8Z" fill="#2a2624"/>
+<path d="M177.8 193.9L196.5 207.8" stroke="#3b3b3b" stroke-width="1.6" fill="none"/>
+<path d="M174.4 228.2L201.6 204.4" stroke="#3b3b3b" stroke-width="1.6" fill="none"/>
+</g>
+<g id="foreground">
+<path d="M154.0 238.4L174.4 224.8L198.2 204.4L222.0 195.9L239.0 187.4L256.0 184.0L266.2 182.3L443.0 182.3L443.0 238.4Z" fill="#ffffff"/>
+<path d="M159.1 238.4L184.6 229.1L208.4 219.7L232.2 213.8L266.2 207.8L443.0 207.8L443.0 238.4Z" fill="#bcd3e3"/>
+<path d="M0 252L120 240L260 246L400 232L400 300L0 300Z" fill="#ffffff"/>
+<path d="M0 270L140 262L280 272L400 260L400 300L0 300Z" fill="#cfe0ec"/>
+<path d="M109.0 116.0L103.8 221.4L114.0 221.4Z" fill="#2c4a3d"/>
+<path d="M124.2 167.0L119.5 211.2L129.0 211.2Z" fill="#2c4a3d"/>
+<path d="M131.1 168.7L125.6 226.5L136.5 226.5Z" fill="#2c4a3d"/>
+</g>
+</svg>
