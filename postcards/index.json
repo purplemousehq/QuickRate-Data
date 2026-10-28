@@ -656,6 +656,16 @@
     "greeting": null
   },
   {
+    "id": "il-caesarea",
+    "country": "IL",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "hoopoe",
+    "bundled": false,
+    "greeting": null
+  },
+  {
     "id": "in-keralabackwaters",
     "country": "IN",
     "region": null,
@@ -722,6 +732,16 @@
     "greeting": null
   },
   {
+    "id": "jo-wadirum",
+    "country": "JO",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "black-iris",
+    "bundled": false,
+    "greeting": null
+  },
+  {
     "id": "jp-himejicastle",
     "country": "JP",
     "region": null,
@@ -732,6 +752,16 @@
     "greeting": null,
     "mediumZoom": 1.2,
     "mediumX": 0
+  },
+  {
+    "id": "ke-maasaimara",
+    "country": "KE",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "umbrella-thorn-acacia",
+    "bundled": false,
+    "greeting": null
   },
   {
     "id": "kr-bulguksa",
@@ -1016,6 +1046,26 @@
     "mediumX": 6
   },
   {
+    "id": "qa-inlandsea",
+    "country": "QA",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "arabian-oryx",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "sa-hegraalula",
+    "country": "SA",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "arabian-horse",
+    "bundled": false,
+    "greeting": null
+  },
+  {
     "id": "sanfrancisco",
     "country": "US",
     "region": "CA",
@@ -1150,6 +1200,16 @@
     "lat": null,
     "lon": null,
     "emblem": "",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "tz-kilimanjaro",
+    "country": "TZ",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "giraffe",
     "bundled": false,
     "greeting": null
   },
