@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+<defs><linearGradient id="pg-sky" x1="0" y1="0" x2="0" y2="300" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#b9c9d3"/><stop offset="0.6" stop-color="#dfe6e7"/><stop offset="1" stop-color="#eef0ea"/></linearGradient></defs>
+<g id="sky">
+  <rect x="0.0" y="0.0" width="400.0" height="300.0" fill="url(#pg-sky)"/>
+  <ellipse cx="70" cy="36" rx="60" ry="8" fill="#e9eef1" opacity="0.8"/>
+  <ellipse cx="330" cy="58" rx="70" ry="9" fill="#e9eef1" opacity="0.8"/>
+  <ellipse cx="260" cy="98" rx="80" ry="7" fill="#eef2f4" opacity="0.7"/>
+  <ellipse cx="110" cy="92" rx="50" ry="6" fill="#eef2f4" opacity="0.7"/>
+  <rect x="0.0" y="226.0" width="400.0" height="36.0" fill="#f2f4f0" opacity="0.55"/>
+</g>
+<g id="celestial">
+  
+</g>
+<g id="background">
+  <polygon points="243.0,262.0 262.0,258.0 300.0,257.0 360.0,254.0 400.0,252.0 400.0,272.0 243.0,272.0" fill="#8a989f"/>
+</g>
+<g id="landmark">
+  <path d="M173.3 160.7 L173.3 152.0 L232.1 152.0 L232.1 160.7" fill="none" stroke="#3a3a3a" stroke-width="1.2"/>
+  <polygon points="179.6,165.1 224.8,165.1 231.6,275.7 167.4,275.7" fill="#f4f1ea"/>
+  <polygon points="212.2,165.1 224.8,165.1 231.6,275.7 219.0,275.7" fill="#cfd3d1"/>
+  <polygon points="166.5,275.7 232.6,275.7 233.5,282.2 165.5,282.2" fill="#e6e2d8"/>
+  <polygon points="172.3,161.7 232.1,161.7 233.5,165.1 170.8,165.1" fill="#fbfaf6"/>
+  <polygon points="184.2,134.0 220.2,134.0 219.7,159.7 184.9,159.7" fill="#c23b2a"/>
+  <polygon points="183.2,131.8 201.9,116.0 220.9,131.8 220.2,134.0 184.2,134.0" fill="#c23b2a"/>
+  <polygon points="189.3,136.4 215.1,136.4 215.1,147.1 189.3,147.1" fill="#9fbcc4"/>
+  <polygon points="200.2,241.6 226.7,241.6 226.7,272.0 200.2,272.0" fill="#c9c4bb"/>
+  <polygon points="198.5,240.9 228.7,240.9 228.7,244.8 198.5,244.8" fill="#e6e2d8"/>
+  <polygon points="181.0,176.0 183.0,176.0 183.0,191.8 181.0,191.8" fill="#3a3a3a"/>
+  <polygon points="178.1,210.0 180.1,210.0 180.1,223.4 178.1,223.4" fill="#3a3a3a"/>
+  <polygon points="174.2,247.2 176.7,247.2 176.7,262.3 174.2,262.3" fill="#3a3a3a"/>
+</g>
+<g id="foreground">
+  <polygon points="243.0,264.0 400.0,262.0 400.0,284.0 243.0,284.0" fill="#8ea7b2"/>
+  <polygon points="0.0,272.0 90.0,268.0 150.0,276.0 190.0,284.0 250.0,284.0 330.0,276.0 400.0,272.0 400.0,300.0 0.0,300.0" fill="#8a8175"/>
+  <polygon points="40.0,282.0 120.0,278.0 160.0,288.0 60.0,296.0" fill="#a79d90"/>
+  <polygon points="230.0,284.0 300.0,281.0 330.0,290.0 250.0,295.0" fill="#a79d90"/>
+  <polygon points="300.0,281.0 360.0,278.0 400.0,280.0 400.0,288.0 330.0,289.0" fill="#5f7d3e"/>
+  <polygon points="0.0,290.0 120.0,290.0 200.0,300.0 0.0,300.0" fill="#6e655b"/>
+</g>
+</svg>

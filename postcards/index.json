@@ -232,6 +232,16 @@
     "greeting": null
   },
   {
+    "id": "ca-ns-peggyscove",
+    "country": "CA",
+    "region": "NS",
+    "lat": null,
+    "lon": null,
+    "emblem": "mayflower",
+    "bundled": false,
+    "greeting": null
+  },
+  {
     "id": "ca-on-parliamenthill",
     "country": "CA",
     "region": "ON",
@@ -332,6 +342,16 @@
     "mediumX": -62
   },
   {
+    "id": "cl-torresdelpaine",
+    "country": "CL",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "copihue-flower",
+    "bundled": false,
+    "greeting": null
+  },
+  {
     "id": "cn-zhangjiajie",
     "country": "CN",
     "region": null,
@@ -342,6 +362,16 @@
     "greeting": null,
     "mediumZoom": 1.05,
     "mediumX": -52
+  },
+  {
+    "id": "co-cocoravalley",
+    "country": "CO",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "cattleya-orchid",
+    "bundled": false,
+    "greeting": null
   },
   {
     "id": "cr-manuelantonio",
@@ -764,6 +794,16 @@
     "greeting": null
   },
   {
+    "id": "kh-tonlesap",
+    "country": "KH",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "sugar-palm",
+    "bundled": false,
+    "greeting": null
+  },
+  {
     "id": "kr-bulguksa",
     "country": "KR",
     "region": null,
@@ -808,6 +848,26 @@
     "greeting": "Hello!",
     "mediumZoom": 1.45,
     "mediumX": 98
+  },
+  {
+    "id": "lt-trakai",
+    "country": "LT",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "white-stork",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "lu-viandencastle",
+    "country": "LU",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "rose",
+    "bundled": false,
+    "greeting": null
   },
   {
     "id": "lv-turaidacastle",
