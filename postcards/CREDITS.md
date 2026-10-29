@@ -217,3 +217,5 @@ All references are from Wikimedia Commons and are public domain, CC0 or CC BY. F
 | ca-nt-virginiafalls | Mountain avens emblem | Original geometric drawing (five petals and centre) | Purplemouse | n/a |
 | ca-nu-inuksuk | Stacked boulder with cap stone | [Inuksuk on the top of a large boulder.jpg](https://commons.wikimedia.org/wiki/File:Inuksuk_on_the_top_of_a_large_boulder.jpg) | L.T. Burwash (Lachlan Taylor Burwash, 1874-1940) | Public domain |
 | ca-nu-inuksuk | Purple saxifrage emblem | Original geometric drawing (five petals and centre) | Purplemouse | n/a |
+| us-il-starvedrock | Canyon walls, waterfall position (traced loosely; no people drawn) | [Starved Rock State Park.jpg](https://commons.wikimedia.org/wiki/File:Starved_Rock_State_Park.jpg) | צבוע לבנה (Commons user) | CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) |
+| us-ky-bluegrass | Stone barn, cupola and fence line (traced loosely) | [Horse farm, Lexington, Kentucky LCCN2010630483.tif](https://commons.wikimedia.org/wiki/File:Horse_farm,_Lexington,_Kentucky_LCCN2010630483.tif) | Carol M. Highsmith (Library of Congress) | Public domain |

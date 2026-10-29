@@ -1358,6 +1358,26 @@
     "greeting": null
   },
   {
+    "id": "us-il-starvedrock",
+    "country": "US",
+    "region": "IL",
+    "lat": null,
+    "lon": null,
+    "emblem": "violet",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "us-ky-bluegrass",
+    "country": "US",
+    "region": "KY",
+    "lat": null,
+    "lon": null,
+    "emblem": "goldenrod",
+    "bundled": false,
+    "greeting": null
+  },
+  {
     "id": "us-ma-capecod",
     "country": "US",
     "region": "MA",
