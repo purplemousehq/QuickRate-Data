@@ -1336,6 +1336,26 @@
     "greeting": null
   },
   {
+    "id": "us-dc-jeffersonmemorial",
+    "country": "US",
+    "region": "DC",
+    "lat": null,
+    "lon": null,
+    "emblem": "american-beauty-rose",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "us-de-rehobothbeach",
+    "country": "US",
+    "region": "DE",
+    "lat": null,
+    "lon": null,
+    "emblem": "peach-blossom",
+    "bundled": false,
+    "greeting": null
+  },
+  {
     "id": "us-fl-kennedyspacecenter",
     "country": "US",
     "region": "FL",
@@ -1348,12 +1368,42 @@
     "mediumX": 60
   },
   {
+    "id": "us-ga-forsythparksavannah",
+    "country": "US",
+    "region": "GA",
+    "lat": null,
+    "lon": null,
+    "emblem": "peach",
+    "bundled": false,
+    "greeting": null
+  },
+  {
     "id": "us-hi-napalicoast",
     "country": "US",
     "region": "HI",
     "lat": null,
     "lon": null,
     "emblem": "hibiscus",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "us-ia-rosemancoveredbridge",
+    "country": "US",
+    "region": "IA",
+    "lat": null,
+    "lon": null,
+    "emblem": "eastern-goldfinch",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "us-id-sawtoothmountains",
+    "country": "US",
+    "region": "ID",
+    "lat": null,
+    "lon": null,
+    "emblem": "syringa",
     "bundled": false,
     "greeting": null
   },
