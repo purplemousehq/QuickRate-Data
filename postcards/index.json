@@ -242,6 +242,26 @@
     "greeting": null
   },
   {
+    "id": "ca-nt-virginiafalls",
+    "country": "CA",
+    "region": "NT",
+    "lat": null,
+    "lon": null,
+    "emblem": "mountain-avens",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "ca-nu-inuksuk",
+    "country": "CA",
+    "region": "NU",
+    "lat": null,
+    "lon": null,
+    "emblem": "purple-saxifrage",
+    "bundled": false,
+    "greeting": null
+  },
+  {
     "id": "ca-on-parliamenthill",
     "country": "CA",
     "region": "ON",
@@ -1304,6 +1324,36 @@
     "lat": null,
     "lon": null,
     "emblem": "hibiscus",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "us-ma-capecod",
+    "country": "US",
+    "region": "MA",
+    "lat": null,
+    "lon": null,
+    "emblem": "mayflower",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "us-md-assateague",
+    "country": "US",
+    "region": "MD",
+    "lat": null,
+    "lon": null,
+    "emblem": "black-eyed-susan",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "us-me-portlandheadlight",
+    "country": "US",
+    "region": "ME",
+    "lat": null,
+    "lon": null,
+    "emblem": "white-pine-cone",
     "bundled": false,
     "greeting": null
   },
