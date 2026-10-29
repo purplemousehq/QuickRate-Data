@@ -1294,6 +1294,26 @@
     "greeting": null
   },
   {
+    "id": "us-ak-denali",
+    "country": "US",
+    "region": "AK",
+    "lat": null,
+    "lon": null,
+    "emblem": "forget-me-not",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "us-ar-buffaloriver",
+    "country": "US",
+    "region": "AR",
+    "lat": null,
+    "lon": null,
+    "emblem": "apple-blossom",
+    "bundled": false,
+    "greeting": null
+  },
+  {
     "id": "us-ca-yosemitevalley",
     "country": "US",
     "region": "CA",
@@ -1304,6 +1324,16 @@
     "greeting": null,
     "mediumZoom": 1.35,
     "mediumX": 0
+  },
+  {
+    "id": "us-co-maroonbells",
+    "country": "US",
+    "region": "CO",
+    "lat": null,
+    "lon": null,
+    "emblem": "columbine",
+    "bundled": false,
+    "greeting": null
   },
   {
     "id": "us-fl-kennedyspacecenter",
