@@ -1518,6 +1518,16 @@
     "greeting": null
   },
   {
+    "id": "us-nh-coveredbridge",
+    "country": "US",
+    "region": "NH",
+    "lat": null,
+    "lon": null,
+    "emblem": "purple-lilac",
+    "bundled": false,
+    "greeting": null
+  },
+  {
     "id": "us-nj-capemaylighthouse",
     "country": "US",
     "region": "NJ",
@@ -1550,6 +1560,36 @@
     "mediumX": 36
   },
   {
+    "id": "us-oh-hockinghills",
+    "country": "US",
+    "region": "OH",
+    "lat": null,
+    "lon": null,
+    "emblem": "buckeye",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "us-or-craterlake",
+    "country": "US",
+    "region": "OR",
+    "lat": null,
+    "lon": null,
+    "emblem": "oregon-grape",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "us-pa-fallingwater",
+    "country": "US",
+    "region": "PA",
+    "lat": null,
+    "lon": null,
+    "emblem": "ruffed-grouse",
+    "bundled": false,
+    "greeting": null
+  },
+  {
     "id": "us-ri-cliffwalk",
     "country": "US",
     "region": "RI",
@@ -1566,6 +1606,16 @@
     "lat": null,
     "lon": null,
     "emblem": "palmetto",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "us-tn-greatsmokymountains",
+    "country": "US",
+    "region": "TN",
+    "lat": null,
+    "lon": null,
+    "emblem": "iris",
     "bundled": false,
     "greeting": null
   },
