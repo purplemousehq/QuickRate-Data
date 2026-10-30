@@ -1458,6 +1458,46 @@
     "greeting": null
   },
   {
+    "id": "us-mi-mackinacbridge",
+    "country": "US",
+    "region": "MI",
+    "lat": null,
+    "lon": null,
+    "emblem": "robin",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "us-mn-splitrocklighthouse",
+    "country": "US",
+    "region": "MN",
+    "lat": null,
+    "lon": null,
+    "emblem": "common-loon",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "us-mt-glaciernationalpark",
+    "country": "US",
+    "region": "MT",
+    "lat": null,
+    "lon": null,
+    "emblem": "bitterroot",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "us-nj-capemaylighthouse",
+    "country": "US",
+    "region": "NJ",
+    "lat": null,
+    "lon": null,
+    "emblem": "violet",
+    "bundled": false,
+    "greeting": null
+  },
+  {
     "id": "us-nv-laketahoe",
     "country": "US",
     "region": "NV",
@@ -1478,6 +1518,16 @@
     "greeting": null,
     "mediumZoom": 1.25,
     "mediumX": 36
+  },
+  {
+    "id": "us-ri-cliffwalk",
+    "country": "US",
+    "region": "RI",
+    "lat": null,
+    "lon": null,
+    "emblem": "violet",
+    "bundled": false,
+    "greeting": null
   },
   {
     "id": "vancouver",
