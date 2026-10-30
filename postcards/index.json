@@ -1478,12 +1478,42 @@
     "greeting": null
   },
   {
+    "id": "us-mo-gatewayarch",
+    "country": "US",
+    "region": "MO",
+    "lat": null,
+    "lon": null,
+    "emblem": "hawthorn-blossom",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "us-ms-biloxilighthouse",
+    "country": "US",
+    "region": "MS",
+    "lat": null,
+    "lon": null,
+    "emblem": "magnolia",
+    "bundled": false,
+    "greeting": null
+  },
+  {
     "id": "us-mt-glaciernationalpark",
     "country": "US",
     "region": "MT",
     "lat": null,
     "lon": null,
     "emblem": "bitterroot",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "us-nc-capehatteraslighthouse",
+    "country": "US",
+    "region": "NC",
+    "lat": null,
+    "lon": null,
+    "emblem": "cardinal",
     "bundled": false,
     "greeting": null
   },
@@ -1526,6 +1556,26 @@
     "lat": null,
     "lon": null,
     "emblem": "violet",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "us-sc-rainbowrow",
+    "country": "US",
+    "region": "SC",
+    "lat": null,
+    "lon": null,
+    "emblem": "palmetto",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "us-tx-thealamo",
+    "country": "US",
+    "region": "TX",
+    "lat": null,
+    "lon": null,
+    "emblem": "bluebonnet",
     "bundled": false,
     "greeting": null
   },
