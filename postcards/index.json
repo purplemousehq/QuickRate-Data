@@ -1518,6 +1518,26 @@
     "greeting": null
   },
   {
+    "id": "us-nd-theodorerooseveltnationalpark",
+    "country": "US",
+    "region": "ND",
+    "lat": null,
+    "lon": null,
+    "emblem": "wild-prairie-rose",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "us-ne-chimneyrock",
+    "country": "US",
+    "region": "NE",
+    "lat": null,
+    "lon": null,
+    "emblem": "western-meadowlark",
+    "bundled": false,
+    "greeting": null
+  },
+  {
     "id": "us-nh-coveredbridge",
     "country": "US",
     "region": "NH",
@@ -1534,6 +1554,16 @@
     "lat": null,
     "lon": null,
     "emblem": "violet",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "us-nm-whitesands",
+    "country": "US",
+    "region": "NM",
+    "lat": null,
+    "lon": null,
+    "emblem": "roadrunner",
     "bundled": false,
     "greeting": null
   },
@@ -1566,6 +1596,16 @@
     "lat": null,
     "lon": null,
     "emblem": "buckeye",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "us-ok-bluewhaleofcatoosa",
+    "country": "US",
+    "region": "OK",
+    "lat": null,
+    "lon": null,
+    "emblem": "scissor-tailed-flycatcher",
     "bundled": false,
     "greeting": null
   },
@@ -1606,6 +1646,16 @@
     "lat": null,
     "lon": null,
     "emblem": "palmetto",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "us-sd-badlands",
+    "country": "US",
+    "region": "SD",
+    "lat": null,
+    "lon": null,
+    "emblem": "pasque-flower",
     "bundled": false,
     "greeting": null
   },
