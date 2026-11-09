@@ -1,6 +1,6 @@
 {
  "version": 1,
- "checked": "2026-10",
+ "checked": "2026-11",
  "rules": [
   {
    "code": "US-AK",
@@ -8801,7 +8801,7 @@
     }
    ],
    "shopPricesIncludeTax": true,
-   "shopNote": "10% is included in the price tag (shops must show tax-inclusive prices). Tourists can buy tax-free at tax-free shops; from 1 Nov 2026 this changes to a refund at departure."
+   "shopNote": "10% is included in the price tag (shops must show tax-inclusive prices). Since 1 Nov 2026, tourists pay the tax at the shop and claim a refund when they leave Japan (the old tax-free counter is gone)."
   },
   {
    "code": "KR",
