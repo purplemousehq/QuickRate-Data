@@ -1746,5 +1746,15 @@
     "emblem": "king-protea",
     "bundled": false,
     "greeting": null
+  },
+  {
+    "id": "zermatt",
+    "country": "CH",
+    "region": null,
+    "lat": 46.0207,
+    "lon": 7.7491,
+    "emblem": "alpine-ibex",
+    "bundled": false,
+    "greeting": "Grüezi!"
   }
 ]
