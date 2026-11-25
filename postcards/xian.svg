@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300"><defs><linearGradient id="xsky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0c1230"/><stop offset=".6" stop-color="#25335c"/><stop offset="1" stop-color="#5a5f7a"/></linearGradient></defs><g id="sky">
+<rect width="400" height="300" fill="url(#xsky)"/>
+</g><g id="celestial">
+<g fill="#ffffff"><circle cx="30" cy="30" r=".9"/><circle cx="62" cy="58" r=".7"/><circle cx="350" cy="36" r="1"/><circle cx="330" cy="66" r=".7"/><circle cx="380" cy="82" r=".8"/><circle cx="18" cy="96" r=".7"/><circle cx="260" cy="20" r=".8"/><circle cx="196" cy="34" r=".6"/><circle cx="388" cy="20" r=".7"/><circle cx="150" cy="60" r=".6"/></g>
+</g><g id="background">
+<path d="M0 240L14 240L14 226L40 226L40 236L60 236L60 220L72 220L72 240L110 240L110 232L130 232L130 245L400 245V300H0Z" fill="#1a2440"/>
+<path d="M0 255Q120 245 240 252T400 250V300H0Z" fill="#17203a"/>
+<g fill="#f0c36a" opacity=".7"><rect x="18" y="232" width="2" height="3"/><rect x="44" y="230" width="2" height="3"/><rect x="66" y="226" width="2" height="3"/><rect x="92" y="238" width="2" height="3"/><rect x="120" y="236" width="2" height="3"/></g>
+</g><g id="landmark" transform="matrix(0.12260 0 0 0.12260 84.450 150.800)">
+<path d="M918 74L926 92L930 120L915 128L904 120L906 92Z" fill="#d9a441"/>
+<path d="M918 130C900 150 880 175 830 225C760 262 650 320 523 360L540 378C700 360 840 352 918 348C1000 352 1140 360 1300 378L1318 360C1190 320 1080 262 1010 225C960 175 936 150 918 130Z" fill="#1f2d33"/>
+<path d="M523 360L540 378M1318 360L1300 378" stroke="#e8b75a" stroke-width="7"/>
+<path d="M505 455C600 420 720 392 918 382C1120 392 1240 420 1360 440L1340 462C1200 440 1080 430 918 430C760 430 640 440 525 462Z" fill="#1f2d33"/>
+<rect x="575" y="460" width="705" height="90" fill="#3b241e"/>
+<rect x="585" y="496" width="690" height="34" fill="#e0b25f" opacity=".75"/>
+<g fill="#a8322a"><rect x="588" y="470" width="14" height="80"/><rect x="650" y="470" width="14" height="80"/><rect x="740" y="470" width="14" height="80"/><rect x="830" y="470" width="14" height="80"/><rect x="1010" y="470" width="14" height="80"/><rect x="1100" y="470" width="14" height="80"/><rect x="1190" y="470" width="14" height="80"/><rect x="1262" y="470" width="14" height="80"/></g>
+<path d="M458 632C540 596 640 575 918 560C1200 575 1300 596 1412 620L1392 644C1280 628 1170 620 918 618C670 620 560 628 478 646Z" fill="#1f2d33"/>
+<path d="M458 632L478 646M1412 620L1392 644" stroke="#e8b75a" stroke-width="7"/>
+<rect x="540" y="646" width="730" height="90" fill="#4a2a20"/>
+<g fill="#a8322a"><rect x="562" y="652" width="16" height="84"/><rect x="650" y="652" width="16" height="84"/><rect x="760" y="652" width="16" height="84"/><rect x="880" y="652" width="16" height="84"/><rect x="1000" y="652" width="16" height="84"/><rect x="1120" y="652" width="16" height="84"/><rect x="1230" y="652" width="16" height="84"/><rect x="1252" y="652" width="16" height="84"/></g>
+<rect x="290" y="735" width="1305" height="30" fill="#ece6d4"/>
+<rect x="290" y="765" width="1305" height="195" fill="#8e8779"/>
+<g stroke="#6f6a5f" stroke-width="3" opacity=".7"><path d="M290 800H1595M290 840H1595M290 880H1595M290 920H1595"/></g>
+<path d="M455 960V860Q498 820 540 860V960Z" fill="#f2c46a"/>
+<path d="M1155 960V855Q1235 800 1315 855V960Z" fill="#2a2622"/>
+</g><g id="foreground">
+<rect x="46" y="214" width="3" height="60" fill="#2a2a2a"/>
+<rect x="40" y="206" width="14" height="14" fill="#f5c76a"/>
+<rect x="350" y="206" width="3" height="66" fill="#2a2a2a"/>
+<rect x="344" y="198" width="14" height="14" fill="#f5c76a"/>
+<path d="M0 268Q60 262 120 270T260 266T400 268V300H0Z" fill="#23402f"/>
+<g fill="#c8483a"><circle cx="30" cy="282" r="3"/><circle cx="62" cy="290" r="3"/><circle cx="150" cy="282" r="3"/><circle cx="210" cy="294" r="3"/><circle cx="296" cy="284" r="3"/><circle cx="350" cy="292" r="3"/></g>
+<g fill="#e8b84a"><circle cx="90" cy="284" r="2.5"/><circle cx="180" cy="290" r="2.5"/><circle cx="260" cy="282" r="2.5"/><circle cx="370" cy="284" r="2.5"/></g>
+</g></svg>

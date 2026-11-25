@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300"><defs><linearGradient id="ysky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#cfe3ea"/><stop offset="1" stop-color="#eee6d4"/></linearGradient></defs><g id="sky"><rect width="400" height="300" fill="url(#ysky)"/></g><g id="celestial"></g><g id="background">
+<path d="M0 205Q40 196 90 210T200 200T300 208T400 196V300H0Z" fill="#a9c2c4"/>
+<path d="M0 222Q60 212 130 224T270 218T400 224V300H0Z" fill="#8fb1a6"/>
+<rect x="0" y="150" width="400" height="34" fill="#f6f3ea" opacity=".55"/>
+</g><g id="landmark" transform="matrix(0.20000 0 0 0.20000 -32.000 102.000)">
+<polygon points="0,780 60,600 120,460 180,360 230,360 270,420 320,350 370,360 400,440 460,540 520,620 560,760 560,860 0,860" fill="#4f7d5a"/>
+<polygon points="585,600 600,520 630,470 660,455 700,480 740,560 760,860 600,860" fill="#5b8c66"/>
+<polygon points="770,470 830,300 880,180 905,168 960,230 1030,340 1075,440 1085,530 1060,600 1040,860 740,860" fill="#4f7d5a"/>
+<polygon points="1030,650 1060,520 1130,400 1200,300 1270,180 1300,95 1330,92 1380,160 1450,220 1510,280 1545,340 1570,420 1590,520 1570,860 1030,860" fill="#476f52"/>
+<g fill="#d8dfc8" opacity=".85"><path d="M870 330L858 430L872 520L888 470Z"/><path d="M1380 260L1372 360L1392 460L1406 380Z"/><path d="M300 470L330 560L360 640L378 600L346 500Z"/><path d="M790 520L800 600L818 640L830 560Z"/></g>
+</g><g id="foreground">
+<path d="M0 262Q100 258 200 264T400 262V300H0Z" fill="#6d9a97"/>
+<path d="M0 262Q100 258 200 264T400 262" fill="none" stroke="#d9ece8" stroke-width="2" opacity=".8"/>
+<g fill="#2f6a3b"><ellipse cx="350" cy="222" rx="26" ry="42"/><ellipse cx="382" cy="234" rx="22" ry="34"/><ellipse cx="318" cy="240" rx="18" ry="28"/></g>
+<g><path d="M100 286L132 278L166 282L150 290Z" fill="#8a6a3e"/><path d="M104 282L162 280" stroke="#d9c7a0" stroke-width="2"/><rect x="118" y="268" width="18" height="10" fill="#c96a2a"/></g>
+</g></svg>

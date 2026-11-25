@@ -338,6 +338,16 @@
     "mediumX": -18
   },
   {
+    "id": "chengdu",
+    "country": "CN",
+    "region": null,
+    "lat": 30.5728,
+    "lon": 104.0668,
+    "emblem": "bamboo-leaf",
+    "bundled": false,
+    "greeting": "你好!"
+  },
+  {
     "id": "chiangmai",
     "country": "TH",
     "region": null,
@@ -632,6 +642,16 @@
     "greeting": null,
     "mediumZoom": 1.1,
     "mediumX": -10
+  },
+  {
+    "id": "greatwall",
+    "country": "CN",
+    "region": null,
+    "lat": 40.4319,
+    "lon": 116.5704,
+    "emblem": "giant-panda",
+    "bundled": false,
+    "greeting": "你好!"
   },
   {
     "id": "halong",
@@ -1052,6 +1072,16 @@
     "emblem": "hibiscus",
     "bundled": false,
     "greeting": null
+  },
+  {
+    "id": "naha",
+    "country": "JP",
+    "region": null,
+    "lat": 26.2124,
+    "lon": 127.6809,
+    "emblem": "cherry-blossom",
+    "bundled": false,
+    "greeting": "こんにちは!"
   },
   {
     "id": "neworleans",
@@ -1786,6 +1816,26 @@
     "greeting": "Hello!",
     "mediumZoom": 1.0,
     "mediumX": 0
+  },
+  {
+    "id": "xian",
+    "country": "CN",
+    "region": null,
+    "lat": 34.3416,
+    "lon": 108.9398,
+    "emblem": "giant-panda",
+    "bundled": false,
+    "greeting": "你好!"
+  },
+  {
+    "id": "yangshuo",
+    "country": "CN",
+    "region": null,
+    "lat": 24.778,
+    "lon": 110.496,
+    "emblem": "giant-panda",
+    "bundled": false,
+    "greeting": "你好!"
   },
   {
     "id": "za-kruger",
