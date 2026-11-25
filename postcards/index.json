@@ -394,6 +394,26 @@
     "greeting": null
   },
   {
+    "id": "cologne",
+    "country": "DE",
+    "region": null,
+    "lat": 50.9375,
+    "lon": 6.9603,
+    "emblem": "cornflower",
+    "bundled": false,
+    "greeting": "Hallo!"
+  },
+  {
+    "id": "copenhagen",
+    "country": "DK",
+    "region": null,
+    "lat": 55.6761,
+    "lon": 12.5683,
+    "emblem": "mute-swan",
+    "bundled": false,
+    "greeting": "Hej!"
+  },
+  {
     "id": "cr-manuelantonio",
     "country": "CR",
     "region": null,
@@ -568,6 +588,16 @@
     "mediumX": -30
   },
   {
+    "id": "frankfurt",
+    "country": "DE",
+    "region": null,
+    "lat": 50.1109,
+    "lon": 8.6821,
+    "emblem": "cornflower",
+    "bundled": false,
+    "greeting": "Hallo!"
+  },
+  {
     "id": "gb-stonehenge",
     "country": "GB",
     "region": null,
@@ -614,6 +644,16 @@
     "greeting": "Xin chào!",
     "mediumZoom": 1.05,
     "mediumX": 0
+  },
+  {
+    "id": "hamburg",
+    "country": "DE",
+    "region": null,
+    "lat": 53.5511,
+    "lon": 9.9937,
+    "emblem": "cornflower",
+    "bundled": false,
+    "greeting": "Hallo!"
   },
   {
     "id": "hanoi",
@@ -980,6 +1020,16 @@
     "greeting": "नमस्ते!",
     "mediumZoom": 1.25,
     "mediumX": 0
+  },
+  {
+    "id": "munich",
+    "country": "DE",
+    "region": null,
+    "lat": 48.1351,
+    "lon": 11.582,
+    "emblem": "gentian",
+    "bundled": false,
+    "greeting": "Servus!"
   },
   {
     "id": "mx-chichenitza",
