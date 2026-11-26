@@ -1136,6 +1136,16 @@
     "mediumX": 2
   },
   {
+    "id": "nice",
+    "country": "FR",
+    "region": null,
+    "lat": 43.7102,
+    "lon": 7.262,
+    "emblem": "mimosa",
+    "bundled": false,
+    "greeting": "Bonjour !"
+  },
+  {
     "id": "nl-keukenhof",
     "country": "NL",
     "region": null,
@@ -1908,6 +1918,16 @@
     "emblem": "bison",
     "bundled": false,
     "greeting": null
+  },
+  {
+    "id": "valencia",
+    "country": "ES",
+    "region": null,
+    "lat": 39.4699,
+    "lon": -0.3763,
+    "emblem": "orange-blossom",
+    "bundled": false,
+    "greeting": "Hola!"
   },
   {
     "id": "vancouver",
