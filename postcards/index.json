@@ -1446,6 +1446,16 @@
     "greeting": "Halló!"
   },
   {
+    "id": "rhodes",
+    "country": "GR",
+    "region": null,
+    "lat": 36.4349,
+    "lon": 28.2176,
+    "emblem": "owl-of-athena",
+    "bundled": false,
+    "greeting": "Γεια σου!"
+  },
+  {
     "id": "sa-hegraalula",
     "country": "SA",
     "region": null,
