@@ -444,6 +444,16 @@
     "greeting": "Hej!"
   },
   {
+    "id": "corfu",
+    "country": "GR",
+    "region": null,
+    "lat": 39.6243,
+    "lon": 19.9217,
+    "emblem": "owl-of-athena",
+    "bundled": false,
+    "greeting": "Γεια σου!"
+  },
+  {
     "id": "cr-manuelantonio",
     "country": "CR",
     "region": null,
@@ -746,6 +756,16 @@
     "greeting": "Xin chào!",
     "mediumZoom": 1.1,
     "mediumX": 0
+  },
+  {
+    "id": "heraklion",
+    "country": "GR",
+    "region": null,
+    "lat": 35.3387,
+    "lon": 25.1442,
+    "emblem": "owl-of-athena",
+    "bundled": false,
+    "greeting": "Γεια σου!"
   },
   {
     "id": "hiroshima",
@@ -1164,6 +1184,16 @@
     "greeting": null
   },
   {
+    "id": "mykonos",
+    "country": "GR",
+    "region": null,
+    "lat": 37.4467,
+    "lon": 25.3289,
+    "emblem": "owl-of-athena",
+    "bundled": false,
+    "greeting": "Γεια σου!"
+  },
+  {
     "id": "naha",
     "country": "JP",
     "region": null,
@@ -1426,6 +1456,16 @@
     "emblem": "scallop-shell",
     "bundled": false,
     "greeting": "Ola!"
+  },
+  {
+    "id": "santorini",
+    "country": "GR",
+    "region": null,
+    "lat": 36.4618,
+    "lon": 25.3753,
+    "emblem": "owl-of-athena",
+    "bundled": false,
+    "greeting": "Γεια σου!"
   },
   {
     "id": "sapporo",
