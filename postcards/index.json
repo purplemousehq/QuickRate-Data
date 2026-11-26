@@ -700,6 +700,16 @@
     "mediumX": -2
   },
   {
+    "id": "hk-tiantanbuddhalantau",
+    "country": "HK",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "chinese-white-dolphin",
+    "bundled": false,
+    "greeting": null
+  },
+  {
     "id": "hochiminh",
     "country": "VN",
     "region": null,
@@ -1030,6 +1040,16 @@
     "mediumX": 62
   },
   {
+    "id": "mt-citadelofvictoriagozo",
+    "country": "MT",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "maltese-falcon",
+    "bundled": false,
+    "greeting": null
+  },
+  {
     "id": "mumbai",
     "country": "IN",
     "region": null,
@@ -1270,6 +1290,16 @@
     "greeting": "Hello!",
     "mediumZoom": 1.45,
     "mediumX": -100
+  },
+  {
+    "id": "sg-supertreegrove",
+    "country": "SG",
+    "region": null,
+    "lat": null,
+    "lon": null,
+    "emblem": "vanda-miss-joaquim-orchid",
+    "bundled": false,
+    "greeting": null
   },
   {
     "id": "shanghai",
@@ -1756,6 +1786,26 @@
     "lat": null,
     "lon": null,
     "emblem": "bluebonnet",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "us-wv-newrivergorgebridge",
+    "country": "US",
+    "region": "WV",
+    "lat": null,
+    "lon": null,
+    "emblem": "rhododendron",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "us-wy-grandteton",
+    "country": "US",
+    "region": "WY",
+    "lat": null,
+    "lon": null,
+    "emblem": "bison",
     "bundled": false,
     "greeting": null
   },
