@@ -572,6 +572,16 @@
     "mediumX": 0
   },
   {
+    "id": "dubrovnik",
+    "country": "HR",
+    "region": null,
+    "lat": 42.6507,
+    "lon": 18.0944,
+    "emblem": "dalmatian-dog",
+    "bundled": false,
+    "greeting": "Bok!"
+  },
+  {
     "id": "edinburgh",
     "country": "GB",
     "region": null,
@@ -1624,6 +1634,16 @@
     "emblem": "bulgarian-rose",
     "bundled": false,
     "greeting": "Здравей!"
+  },
+  {
+    "id": "split",
+    "country": "HR",
+    "region": null,
+    "lat": 43.5081,
+    "lon": 16.4402,
+    "emblem": "dalmatian-dog",
+    "bundled": false,
+    "greeting": "Bok!"
   },
   {
     "id": "stockholm",
