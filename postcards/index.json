@@ -158,6 +158,16 @@
     "greeting": null
   },
   {
+    "id": "brussels",
+    "country": "BE",
+    "region": null,
+    "lat": 50.8503,
+    "lon": 4.3517,
+    "emblem": "begonia",
+    "bundled": false,
+    "greeting": "Hello!"
+  },
+  {
     "id": "budapest",
     "country": "HU",
     "region": null,
@@ -530,6 +540,16 @@
     "greeting": "Dia duit!",
     "mediumZoom": 1.0,
     "mediumX": 0
+  },
+  {
+    "id": "edinburgh",
+    "country": "GB",
+    "region": null,
+    "lat": 55.9533,
+    "lon": -3.1883,
+    "emblem": "thistle",
+    "bundled": false,
+    "greeting": "Hello!"
   },
   {
     "id": "ee-saaremaa",
@@ -1160,6 +1180,16 @@
     "mediumX": 0
   },
   {
+    "id": "oslo",
+    "country": "NO",
+    "region": null,
+    "lat": 59.9139,
+    "lon": 10.7522,
+    "emblem": "moose",
+    "bundled": false,
+    "greeting": "Hei!"
+  },
+  {
     "id": "pe-vinicunca",
     "country": "PE",
     "region": null,
@@ -1234,6 +1264,16 @@
     "emblem": "arabian-oryx",
     "bundled": false,
     "greeting": null
+  },
+  {
+    "id": "reykjavik",
+    "country": "IS",
+    "region": null,
+    "lat": 64.1466,
+    "lon": -21.9426,
+    "emblem": "atlantic-puffin",
+    "bundled": false,
+    "greeting": "Halló!"
   },
   {
     "id": "sa-hegraalula",
@@ -1334,6 +1374,16 @@
     "greeting": "សួស្តី!",
     "mediumZoom": 1.25,
     "mediumX": 0
+  },
+  {
+    "id": "stockholm",
+    "country": "SE",
+    "region": null,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "emblem": "dala-horse",
+    "bundled": false,
+    "greeting": "Hej!"
   },
   {
     "id": "sydney",
