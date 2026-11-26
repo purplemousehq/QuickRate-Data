@@ -896,6 +896,16 @@
     "greeting": null
   },
   {
+    "id": "innsbruck",
+    "country": "AT",
+    "region": null,
+    "lat": 47.2692,
+    "lon": 11.4041,
+    "emblem": "edelweiss",
+    "bundled": false,
+    "greeting": "Servus!"
+  },
+  {
     "id": "is-gullfoss",
     "country": "IS",
     "region": null,
@@ -1002,6 +1012,16 @@
     "emblem": "korean-magpie",
     "bundled": false,
     "greeting": null
+  },
+  {
+    "id": "krakow",
+    "country": "PL",
+    "region": null,
+    "lat": 50.0647,
+    "lon": 19.945,
+    "emblem": "white-stork",
+    "bundled": false,
+    "greeting": "Cześć!"
   },
   {
     "id": "lasvegas",
@@ -1436,6 +1456,16 @@
     "greeting": null
   },
   {
+    "id": "salzburg",
+    "country": "AT",
+    "region": null,
+    "lat": 47.8095,
+    "lon": 13.055,
+    "emblem": "edelweiss",
+    "bundled": false,
+    "greeting": "Servus!"
+  },
+  {
     "id": "sanfrancisco",
     "country": "US",
     "region": "CA",
@@ -1574,6 +1604,16 @@
     "emblem": "italian-cypress",
     "bundled": false,
     "greeting": "Ciao!"
+  },
+  {
+    "id": "sofia",
+    "country": "BG",
+    "region": null,
+    "lat": 42.6977,
+    "lon": 23.3219,
+    "emblem": "bulgarian-rose",
+    "bundled": false,
+    "greeting": "Здравей!"
   },
   {
     "id": "stockholm",
@@ -2194,6 +2234,16 @@
     "emblem": "lotus",
     "bundled": false,
     "greeting": null
+  },
+  {
+    "id": "warsaw",
+    "country": "PL",
+    "region": null,
+    "lat": 52.2297,
+    "lon": 21.0122,
+    "emblem": "white-stork",
+    "bundled": false,
+    "greeting": "Cześć!"
   },
   {
     "id": "washingtondc",
