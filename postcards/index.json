@@ -114,6 +114,16 @@
     "mediumX": 0
   },
   {
+    "id": "bellagio",
+    "country": "IT",
+    "region": null,
+    "lat": 45.9856,
+    "lon": 9.2616,
+    "emblem": "italian-cypress",
+    "bundled": false,
+    "greeting": "Ciao!"
+  },
+  {
     "id": "berlin",
     "country": "DE",
     "region": null,
@@ -1588,6 +1598,16 @@
     "mediumX": -40
   },
   {
+    "id": "taormina",
+    "country": "IT",
+    "region": null,
+    "lat": 37.8516,
+    "lon": 15.2853,
+    "emblem": "prickly-pear",
+    "bundled": false,
+    "greeting": "Ciao!"
+  },
+  {
     "id": "tenerife",
     "country": "ES",
     "region": null,
@@ -2216,6 +2236,16 @@
     "emblem": "king-protea",
     "bundled": false,
     "greeting": null
+  },
+  {
+    "id": "zagreb",
+    "country": "HR",
+    "region": null,
+    "lat": 45.815,
+    "lon": 15.9819,
+    "emblem": "dalmatian-dog",
+    "bundled": false,
+    "greeting": "Bok!"
   },
   {
     "id": "zermatt",
