@@ -136,6 +136,16 @@
     "greeting": null
   },
   {
+    "id": "bodrum",
+    "country": "TR",
+    "region": null,
+    "lat": 37.0344,
+    "lon": 27.4305,
+    "emblem": "evil-eye-bead",
+    "bundled": false,
+    "greeting": "Merhaba!"
+  },
+  {
     "id": "boston",
     "country": "US",
     "region": "MA",
@@ -572,6 +582,16 @@
     "greeting": null
   },
   {
+    "id": "ephesus",
+    "country": "TR",
+    "region": null,
+    "lat": 37.9395,
+    "lon": 27.3417,
+    "emblem": "evil-eye-bead",
+    "bundled": false,
+    "greeting": "Merhaba!"
+  },
+  {
     "id": "es-puentenuevoronda",
     "country": "ES",
     "region": null,
@@ -650,6 +670,16 @@
     "greeting": "Selamat datang!",
     "mediumZoom": 1.15,
     "mediumX": 0
+  },
+  {
+    "id": "goreme",
+    "country": "TR",
+    "region": null,
+    "lat": 38.6431,
+    "lon": 34.829,
+    "emblem": "evil-eye-bead",
+    "bundled": false,
+    "greeting": "Merhaba!"
   },
   {
     "id": "gr-meteora",
@@ -1238,6 +1268,16 @@
     "emblem": "almond-blossom",
     "bundled": false,
     "greeting": "¡Hola!"
+  },
+  {
+    "id": "paphos",
+    "country": "CY",
+    "region": null,
+    "lat": 34.7754,
+    "lon": 32.4245,
+    "emblem": "cyprus-mouflon",
+    "bundled": false,
+    "greeting": "Γεια σου!"
   },
   {
     "id": "pe-vinicunca",
@@ -2038,6 +2078,16 @@
     "emblem": "orange-blossom",
     "bundled": false,
     "greeting": "Hola!"
+  },
+  {
+    "id": "valletta",
+    "country": "MT",
+    "region": null,
+    "lat": 35.8989,
+    "lon": 14.5146,
+    "emblem": "maltese-falcon",
+    "bundled": false,
+    "greeting": "Bonġu!"
   },
   {
     "id": "vancouver",
