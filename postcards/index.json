@@ -1232,6 +1232,16 @@
     "mediumX": -14
   },
   {
+    "id": "pisa",
+    "country": "IT",
+    "region": null,
+    "lat": 43.7228,
+    "lon": 10.4017,
+    "emblem": "italian-cypress",
+    "bundled": false,
+    "greeting": "Ciao!"
+  },
+  {
     "id": "pl-malborkcastle",
     "country": "PL",
     "region": null,
@@ -1240,6 +1250,16 @@
     "emblem": "white-stork",
     "bundled": false,
     "greeting": null
+  },
+  {
+    "id": "positano",
+    "country": "IT",
+    "region": null,
+    "lat": 40.628,
+    "lon": 14.485,
+    "emblem": "lemon",
+    "bundled": false,
+    "greeting": "Ciao!"
   },
   {
     "id": "prague",
@@ -1306,6 +1326,16 @@
     "greeting": "Hello!",
     "mediumZoom": 1.0,
     "mediumX": 0
+  },
+  {
+    "id": "santiagocompostela",
+    "country": "ES",
+    "region": null,
+    "lat": 42.8782,
+    "lon": -8.5448,
+    "emblem": "scallop-shell",
+    "bundled": false,
+    "greeting": "Ola!"
   },
   {
     "id": "sapporo",
@@ -1384,6 +1414,16 @@
     "greeting": "សួស្តី!",
     "mediumZoom": 1.25,
     "mediumX": 0
+  },
+  {
+    "id": "siena",
+    "country": "IT",
+    "region": null,
+    "lat": 43.3188,
+    "lon": 11.3308,
+    "emblem": "italian-cypress",
+    "bundled": false,
+    "greeting": "Ciao!"
   },
   {
     "id": "stockholm",
