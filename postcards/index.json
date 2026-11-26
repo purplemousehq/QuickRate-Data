@@ -664,6 +664,16 @@
     "mediumX": -10
   },
   {
+    "id": "granada",
+    "country": "ES",
+    "region": null,
+    "lat": 37.1773,
+    "lon": -3.5986,
+    "emblem": "pomegranate",
+    "bundled": false,
+    "greeting": "¡Hola!"
+  },
+  {
     "id": "greatwall",
     "country": "CN",
     "region": null,
@@ -774,6 +784,16 @@
     "emblem": "red-paprika",
     "bundled": false,
     "greeting": null
+  },
+  {
+    "id": "ibiza",
+    "country": "ES",
+    "region": null,
+    "lat": 38.9067,
+    "lon": 1.4206,
+    "emblem": "carnation",
+    "bundled": false,
+    "greeting": "¡Hola!"
   },
   {
     "id": "id-mountbromo",
@@ -1348,6 +1368,16 @@
     "mediumX": 0
   },
   {
+    "id": "sansebastian",
+    "country": "ES",
+    "region": null,
+    "lat": 43.3183,
+    "lon": -1.9812,
+    "emblem": "txapela",
+    "bundled": false,
+    "greeting": "Kaixo!"
+  },
+  {
     "id": "santiagocompostela",
     "country": "ES",
     "region": null,
@@ -1476,6 +1506,16 @@
     "greeting": "G'day!",
     "mediumZoom": 1.25,
     "mediumX": -40
+  },
+  {
+    "id": "tenerife",
+    "country": "ES",
+    "region": null,
+    "lat": 28.087,
+    "lon": -16.727,
+    "emblem": "atlantic-canary",
+    "bundled": false,
+    "greeting": "¡Hola!"
   },
   {
     "id": "th-watmahathatayutthaya",
