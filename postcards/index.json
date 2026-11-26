@@ -1210,6 +1210,16 @@
     "greeting": "Hei!"
   },
   {
+    "id": "palma",
+    "country": "ES",
+    "region": null,
+    "lat": 39.5696,
+    "lon": 2.6502,
+    "emblem": "almond-blossom",
+    "bundled": false,
+    "greeting": "¡Hola!"
+  },
+  {
     "id": "pe-vinicunca",
     "country": "PE",
     "region": null,
@@ -1380,6 +1390,16 @@
     "greeting": "Hello!",
     "mediumZoom": 1.45,
     "mediumX": -100
+  },
+  {
+    "id": "seville",
+    "country": "ES",
+    "region": null,
+    "lat": 37.3891,
+    "lon": -5.9845,
+    "emblem": "orange-blossom",
+    "bundled": false,
+    "greeting": "¡Hola!"
   },
   {
     "id": "sg-supertreegrove",
