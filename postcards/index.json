@@ -1124,6 +1124,16 @@
     "greeting": "こんにちは!"
   },
   {
+    "id": "naples",
+    "country": "IT",
+    "region": null,
+    "lat": 40.8518,
+    "lon": 14.2681,
+    "emblem": "coral-horn",
+    "bundled": false,
+    "greeting": "Ciao!"
+  },
+  {
     "id": "neworleans",
     "country": "US",
     "region": "LA",
