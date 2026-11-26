@@ -1790,6 +1790,56 @@
     "greeting": null
   },
   {
+    "id": "us-ut-delicatearch",
+    "country": "US",
+    "region": "UT",
+    "lat": null,
+    "lon": null,
+    "emblem": "sego-lily",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "us-va-shenandoah",
+    "country": "US",
+    "region": "VA",
+    "lat": null,
+    "lon": null,
+    "emblem": "dogwood",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "us-vt-coveredbridge",
+    "country": "US",
+    "region": "VT",
+    "lat": null,
+    "lon": null,
+    "emblem": "red-clover",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "us-wa-mountrainier",
+    "country": "US",
+    "region": "WA",
+    "lat": null,
+    "lon": null,
+    "emblem": "coast-rhododendron",
+    "bundled": false,
+    "greeting": null
+  },
+  {
+    "id": "us-wi-eagleblufflighthouse",
+    "country": "US",
+    "region": "WI",
+    "lat": null,
+    "lon": null,
+    "emblem": "badger",
+    "bundled": false,
+    "greeting": null
+  },
+  {
     "id": "us-wv-newrivergorgebridge",
     "country": "US",
     "region": "WV",
