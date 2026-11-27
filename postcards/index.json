@@ -744,6 +744,16 @@
     "greeting": "你好!"
   },
   {
+    "id": "hallstatt",
+    "country": "AT",
+    "region": null,
+    "lat": 47.5622,
+    "lon": 13.6493,
+    "emblem": "edelweiss",
+    "bundled": false,
+    "greeting": "Servus!"
+  },
+  {
     "id": "halong",
     "country": "VN",
     "region": null,
@@ -1088,6 +1098,16 @@
     "emblem": "rose",
     "bundled": false,
     "greeting": null
+  },
+  {
+    "id": "lucerne",
+    "country": "CH",
+    "region": null,
+    "lat": 47.0502,
+    "lon": 8.3093,
+    "emblem": "alpine-ibex",
+    "bundled": false,
+    "greeting": "Grüezi!"
   },
   {
     "id": "lv-turaidacastle",
@@ -2333,6 +2353,16 @@
     "region": null,
     "lat": 46.0207,
     "lon": 7.7491,
+    "emblem": "alpine-ibex",
+    "bundled": false,
+    "greeting": "Grüezi!"
+  },
+  {
+    "id": "zurich",
+    "country": "CH",
+    "region": null,
+    "lat": 47.3769,
+    "lon": 8.5417,
     "emblem": "alpine-ibex",
     "bundled": false,
     "greeting": "Grüezi!"
